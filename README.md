@@ -21,7 +21,7 @@ include the current version of this file in it's WAD/PK3 files for legal
 reasons*.
 
 
-## Creating Assets and configs
+## Creating Assets and Configs
 
 The following directories are named after the WAD/PK3 files they're
 intended to replace and consequently represent where you should add your
@@ -89,8 +89,9 @@ We're sorry for the legalese, but before we can accept your contribution,
 the following conditions need to be met:
 
 1. By submitting, you give us permission to license your contribution under
-   Creative Commons Attribution Share-Alike 3.0 (CC-BY-SA 3.0) and modify
-   or package it as we see fit within the context of this project.
+   [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA 4.0)][CC-BY-SA]
+   and modify or package it as we see fit within the context of this
+   project.
 2. By submitting, you assume liability for assuring your contribution is
    free to use commercially. We can't afford to take risks here.
 3. We may at any point remove or replace your contribution for any reason
@@ -102,3 +103,5 @@ the following conditions need to be met:
        public domain artwork), you must provide source, author and
        licensing terms. This also applies to edited contributions based on
        previous contributions by other authors.
+
+[CC-BY-SA]: <https://creativecommons.org/licenses/by-sa/4.0/>
