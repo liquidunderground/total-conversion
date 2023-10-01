@@ -1,7 +1,7 @@
 # SRB2 Total Conversion
 
-A Creative Commons-licensed, legally safe total conversion for Sonic Robo
-Blast 2 in the spirit of Freedoom and LibreQuake.
+A Creative Commons-licensed, non-copyright-infringing total conversion for
+Sonic Robo Blast 2 in the spirit of Freedoom and LibreQuake.
 
 # Getting Started
 
@@ -73,8 +73,8 @@ readable.
 
 # How to contribute
 
-To contribute, we suggest submitting it to the [Liquid Underground
-Discord](https://discord.gg/HVTzVfAWG6).  
+To contribute, we suggest submitting it to the
+[Liquid Underground Discord](https://discord.gg/HVTzVfAWG6).  
 Alternatively you can also submit your contribution as a Pull Request or
 through this project's issue tracker.
 
@@ -90,18 +90,36 @@ the following conditions need to be met:
 
 1. By submitting, you give us permission to license your contribution under
    [Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA 4.0)][CC-BY-SA]
-   and modify or package it as we see fit within the context of this
-   project.
+   and to modify or package it (e.g. cutting audio into loops, converting
+   files into compatible formats, etc.) as we deem suitable for this project.
 2. By submitting, you assume liability for assuring your contribution is
    free to use commercially. We can't afford to take risks here.
-3. We may at any point remove or replace your contribution for any reason
-   and without notice.
+3. We may reject or at any point remove or replace your contribution for
+   any reason and without notice.
 4. You **must** include the following information alongside your contribution:
     1. Title and intended use for your contribution
     2. Your contributor's name or an explicit request not to be credited.
-    3. For contributions based on legal third-party sources (such as CC-licensed or
-       public domain artwork), you must provide source, author and
-       licensing terms. This also applies to edited contributions based on
-       previous contributions by other authors.
+    3. For contributions based on legal third-party sources (such as
+       CC-licensed or public domain artwork), you must provide source,
+       author and licensing terms. This also applies to edited
+       contributions based on previous contributions by other authors.
+       Incorrect or missing information may result in your contribution
+       being removed from the project at any point without notice.
 
 [CC-BY-SA]: <https://creativecommons.org/licenses/by-sa/4.0/>
+
+## Technical requirements to contribute
+
+1. If you wish to publish project files for your contribution (e.g.
+   multi-layered images, incompatible tracker modules), place them
+   under the `docs/` directory to separate it from the finished assets.
+2. All finished graphics must be submitted in PNG format. We can convert them later.
+3. We recommend submitting digital audio in OGG format for compatibility
+   with different builds of Sonic Robo Blast 2. Depending on the file size,
+   we also accept tracker modules in MOD,XM,IT and S3M formats, although we
+   may convert them to OGG for technical compatibility down the line.
+   MIDI music needs to be published as MIDI files for compatibility.
+   If you need tools to help convert your audio, we recommend FFMPEG or Audacity.
+4. Text-based config files may retain their original file names (for
+   compatibility), but should when appropriate be noted as text files in
+   `CREDITS.txt` for easy editing.
