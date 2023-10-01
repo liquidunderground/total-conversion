@@ -3917,7 +3917,7 @@ srb2.pk3:/Sounds/SRB2/DSCHCHNG
 srb2.pk3:/Sounds/SRB2/DSCHUCHU
 srb2.pk3:/Sounds/SRB2/DSCORKH
 srb2.pk3:/Sounds/SRB2/DSCORKP
-srb2.pk3:/Sounds/SRB2/DSCRUMBL
+srb2.pk3:/Sounds/SRB2/DSCRUMBL	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSCYBDTH
 srb2.pk3:/Sounds/SRB2/DSDETON
 srb2.pk3:/Sounds/SRB2/DSDING
@@ -3963,7 +3963,7 @@ srb2.pk3:/Sounds/SRB2/DSIDEYA
 srb2.pk3:/Sounds/SRB2/DSITEMUP
 srb2.pk3:/Sounds/SRB2/DSJET
 srb2.pk3:/Sounds/SRB2/DSJSHARD
-srb2.pk3:/Sounds/SRB2/DSJUMP
+srb2.pk3:/Sounds/SRB2/DSJUMP NepDisk
 srb2.pk3:/Sounds/SRB2/DSKOOPFR
 srb2.pk3:/Sounds/SRB2/DSLASER
 srb2.pk3:/Sounds/SRB2/DSLAVBUB
@@ -3988,7 +3988,7 @@ srb2.pk3:/Sounds/SRB2/DSMARIO9
 srb2.pk3:/Sounds/SRB2/DSMARIOA
 srb2.pk3:/Sounds/SRB2/DSMENU1
 srb2.pk3:/Sounds/SRB2/DSMINDIG
-srb2.pk3:/Sounds/SRB2/DSMIXUP
+srb2.pk3:/Sounds/SRB2/DSMIXUP	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSMONTON
 srb2.pk3:/Sounds/SRB2/DSMSPOGO
 srb2.pk3:/Sounds/SRB2/DSMSWARP
@@ -4050,7 +4050,7 @@ srb2.pk3:/Sounds/SRB2/DSSTEAM2
 srb2.pk3:/Sounds/SRB2/DSSTRPST
 srb2.pk3:/Sounds/SRB2/DSSUPERT
 srb2.pk3:/Sounds/SRB2/DSTELEPT
-srb2.pk3:/Sounds/SRB2/DSTHOK
+srb2.pk3:/Sounds/SRB2/DSTHOK	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSTHWOMP
 srb2.pk3:/Sounds/SRB2/DSTIMEUP
 srb2.pk3:/Sounds/SRB2/DSTINK
