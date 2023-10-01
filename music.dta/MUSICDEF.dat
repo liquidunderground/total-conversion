@@ -1,0 +1,520 @@
+Lump _INTRO
+Title = Introduction
+Authors = RedXVI,_SSNTails
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 265.642
+BPM = 120
+
+Lump _TITLE
+Title = Title_Screen
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 23.174
+BPM = 150
+
+Lump TUTORL
+Title = Tutorial
+Authors = clairebun,_Arrow
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 200
+
+Lump _CHSEL
+Title = Character_Selection
+Authors = astral
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 96
+
+Lump DISCO
+Title = Disco
+Alttitle = Disco_Time
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 96
+
+Lump GFZ1
+Title = Greenflower_1
+Authors = clairebun,_Shane_Strife,_DrTapeworm,_DemonTomatoDave
+Soundtestpage = 1
+Soundtestcond = 1
+BPM = 132
+
+Lump GFZ2
+Title = Greenflower_2
+Authors = clairebun,_DemonTomatoDave
+Soundtestpage = 1
+Soundtestcond = 2
+BPM = 155
+
+Lump VSBOSS
+Title = Boss_Theme
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 3
+BPM = 120
+
+Lump SPEC1
+Title = Floral_Field
+Authors = clairebun,_Arrow
+Soundtestpage = 1
+Soundtestcond = 50
+BPM = 137
+
+Lump THZ1
+Title = Techno_Hill_1
+Authors = clairebun,_Shane_Strife,_Stuf
+Soundtestpage = 1
+Soundtestcond = 4
+BPM = 137
+
+Lump THZ2
+Title = Techno_Hill_2
+Authors = clairebun,_Shane_Strife,_Stuf
+Soundtestpage = 1
+Soundtestcond = 5
+BPM = 137
+
+Lump SPEC2
+Title = Toxic_Plateau
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 51
+BPM = 170
+
+Lump DSZ1
+Title = Deep_Sea_1
+Authors = clairebun,_Shane_Strife,_Arrow
+Soundtestpage = 1
+Soundtestcond = 7
+BPM = 130
+
+Lump DSZ2
+Title = Deep_Sea_2
+Authors = clairebun,_Shane_Strife,_Arrow
+Soundtestpage = 1
+Soundtestcond = 7
+BPM = 115
+
+Lump SPEC3
+Title = Flooded_Cove
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 52
+BPM = 125
+
+Lump CEZ1
+Title = Castle_Eggman_1
+Authors = clairebun,_DrTapeworm,_Arrow
+Soundtestpage = 1
+Soundtestcond = 10
+BPM = 156
+
+Lump CEZR
+Title = Bridge_collapse!
+Authors = clairebun,_Arrow
+Soundtestpage = 1
+Soundtestcond = 10
+BPM = 170
+
+Lump CEZ2
+Title = Castle_Eggman_2
+Authors = clairebun,_DrTapeworm,_Arrow
+Soundtestpage = 1
+Soundtestcond = 11
+BPM = 120
+
+Lump SPEC4
+Title = Cavern_Fortress
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 53
+BPM = 147
+
+Lump ACZ1
+Title = Arid_Canyon_1
+Authors = clairebun,_Shane_Strife,_Nev3r,_Spazzo
+Soundtestpage = 1
+Soundtestcond = 13
+BPM = 182
+
+Lump ACZ2
+Title = Arid_Canyon_2
+Authors = clairebun,_Shane_Strife,_DrTapeworm,_Nev3r
+Soundtestpage = 1
+Soundtestcond = 14
+BPM = 90
+
+Lump VSFANG
+Title = Train_Battle
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 15
+BPM = 145
+
+Lump SPEC5
+Title = Dusty_Wasteland
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 54
+BPM = 185
+
+Lump RVZ1
+Title = Red_Volcano_1
+Authors = DrTapeworm,_Arrow
+Soundtestpage = 1
+Soundtestcond = 16
+BPM = 112
+
+Lump SPEC6
+Title = Magma_Caves
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 55
+BPM = 120
+
+Lump ERZ1
+Title = Egg_Rock_1
+Authors = clairebun,_Shane_Strife,_Stuf
+Soundtestpage = 1
+Soundtestcond = 22
+BPM = 120
+
+Lump ERZ2
+Title = Egg_Rock_2
+Authors = clairebun,_Shane_Strife,_Big_Wave_Dave
+Soundtestpage = 1
+Soundtestcond = 23
+BPM = 152
+
+Lump SPEC7
+Title = Egg_Satellite
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 56
+BPM = 170
+
+Lump BCZ1
+Title = The_Speedway
+Authors = DrTapeworm
+Soundtestpage = 1
+Soundtestcond = 25
+BPM = 164
+
+Lump VSMETL
+Title = VS_Metal_Sonic
+Authors = clairebun,_DrTapeworm
+Soundtestpage = 1
+Soundtestcond = 26
+BPM = 184
+
+Lump BCZ2
+Title = Anticipation
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 26
+BPM = 102
+
+Lump VSBRAK
+Title = VS_Black_Eggman
+Authors = clairebun,_Shane_Strife,_Arrow
+Soundtestpage = 1
+Soundtestcond = 27
+BPM = 216
+
+Lump _ENDB
+Title = Ending
+Authors = DrTapeworm
+Soundtestpage = 1
+Soundtestcond = -3
+Stoppingtime = 15.328
+
+Lump _CREDS
+Title = Credits
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = -3
+BPM = 162
+
+Lump FHZ
+Title = Frozen_Hillside
+Authors = DrTapeworm
+Soundtestpage = 1
+Soundtestcond = 30
+BPM = 140
+
+Lump HAUNTD
+Title = Haunted_Heights
+Authors = DrTapeworm
+Soundtestpage = 1
+Soundtestcond = 40
+BPM = 100
+
+Lump AGZ
+Title = Aerial_Garden
+Authors = clairebun,_RedXVI
+Soundtestpage = 1
+Soundtestcond = 41
+BPM = 125
+
+Lump ATZ
+Title = Azure_Temple
+Authors = Shane_Strife,_Arrow
+Soundtestpage = 1
+Soundtestcond = 42
+BPM = 96
+
+Lump _1UP
+Title = One-Up
+Authors = clairebun,_SSNTails
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 4.992
+BPM = 144.071
+
+Lump _SHOES
+Title = Power_Sneakers
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 20.652
+BPM = 190
+
+Lump _INV
+Title = Invincible
+Authors = clairebun,_Arrow
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 22.599
+BPM = 160
+
+Lump _SUPER
+Title = Space_Dolphin_Mode
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = -12
+BPM = 172
+
+Lump _DROWN
+Title = Drowning
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 12.571
+BPM = 190
+
+Lump _GOVER
+Title = GAME_OVER
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 10.057
+BPM = 90
+
+Lump _CONTI
+Title = Continue?
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 11.731
+BPM = 120
+
+Lump _CLEAR
+Title = Act_clear
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 0
+Stoppingtime = 6.8
+BPM = 150
+
+Lump _RECAT
+Title = Record_Attack
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 120
+
+Lump _NITAT
+Title = NiGHTS_Mode
+Authors = clairebun,_Arrow
+Soundtestpage = 1
+Soundtestcond = -11
+BPM = 135
+
+Lump _NTIME
+Title = Dream_over...
+Alttitle = Time_Up_(JINGLE)
+Authors = Naofumi_Hataya_(NiGHTS_into_Dreams...)
+Soundtestpage = 1
+Soundtestcond = -11
+Stoppingtime = 11.709
+BPM = 90
+
+Lump CCZ
+Title = Christmas_Chime
+Alttitle = Take_The_Snow_Train
+Authors = Naofumi_Hataya_(NiGHTS_into_Dreams...)
+Soundtestpage = 1
+Soundtestcond = 70
+BPM = 127.5
+
+Lump DHZ
+Title = Dream_Hill
+Alttitle = The_Amazing_Water
+Authors = Fumie_Kumatani_(NiGHTS_into_Dreams...)
+Soundtestpage = 1
+Soundtestcond = 71
+BPM = 136
+
+Lump APZ1
+Title = Alpine_Paradise_1
+Alttitle = Paternal_Horn
+Authors = Tomoko_Sasaki_(NiGHTS_into_Dreams...)
+Soundtestpage = 1
+Soundtestcond = 72
+BPM = 140
+
+Lump APZ2
+Title = Alpine_Paradise_2
+Alttitle = Suburban_Museum
+Authors = Tomoko_Sasaki_(NiGHTS_into_Dreams...)
+Soundtestpage = 1
+Soundtestcond = 73
+BPM = 128
+
+Lump BHZ
+Title = Black_Hole
+Authors = clairebun,_RedXVI
+Soundtestpage = 1
+Soundtestcond = 57
+BPM = 90
+
+Lump SPEC8
+Title = Marathon_Run
+Authors = clairebun
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 84
+
+Lump _INTER
+Title = Intermission
+Authors = clairebun,_Masato_Nakamura_(Sonic_the_Hedgehog_2)
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 120
+
+Lump MP_SUN
+Title = Jade_Valley
+Authors = Arrow,_Yayoi_Wachi_(Sonic_Triple_Trouble)
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 120
+
+Lump MP_DES
+Title = Tranquil_Trek
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 92
+
+Lump MP_GHZ
+Title = Sapphire_Falls
+Alttitle = Green_Hill
+Authors = clairebun,_Masato_Nakamura_(Sonic_the_Hedgehog)
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 160
+
+Lump MP_ICE
+Title = Frost_Columns
+Alttitle = Icicle_Falls
+Authors = clairebun,_Arrow
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 130
+
+Lump RVZ2
+Title = Infernal_Cavern
+Authors = DrTapeworm,_clairebun,_Arrow
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 120
+
+Lump MP_DOM
+Title = Orbital_Hangar
+Alttitle = Doomship
+Authors = clairebun,_Shane_Strife,_SSNTails
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 120
+
+Lump MP_MED
+Title = Meadow_Match
+Authors = SSNTails,_Arrow
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 135
+
+Lump GFZALT
+Title = Lime_Forest
+Authors = DrTapeworm,_DemonTomatoDave
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 136
+
+Lump AGZALT
+Title = Lost_Palace
+Authors = clairebun,_RedXVI
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 100
+
+Lump MP_WTR
+Title = Silver_Cascade
+Authors = SSNTails,_Arrow
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 100
+
+Lump MP_RAI
+Title = Clockwork_Towers
+Authors = clairebun,_RedXVI
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 140
+
+Lump MP_AIR
+Title = Nimbus_Ruins
+Alttitle = Diamond_Blizzard
+Authors = clairebun,_Arrow
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 120
+
+Lump MARIO1
+Title = Pipe_Towers_1
+Alttitle = Overworld
+Authors = clairebun,_Koji_Kondo_(Super_Mario_Bros.)
+Soundtestpage = 1
+Soundtestcond = 31
+BPM = 100
+
+Lump MARIO2
+Title = Pipe_Towers_2
+Alttitle = Underground
+Authors = clairebun,_Koji_Kondo_(Super_Mario_Bros.)
+Soundtestpage = 1
+Soundtestcond = 31
+BPM = 200
+
+Lump _MINV
+Title = Starman
+Authors = clairebun,_Koji_Kondo_(Super_Mario_Bros.)
+Soundtestpage = 1
+Soundtestcond = 31
+Stoppingtime = 22.987
+BPM = 157
+
