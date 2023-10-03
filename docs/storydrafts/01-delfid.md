@@ -36,13 +36,13 @@ Floating through the planet's orbit after the explosion, Alex saw nothing but de
 
 [IMG: Our heroes' hike being interrupted by an ambiguous impact]
 
-Meanwhile on the surface of Senfina, Kleene, Elise and Babel were taking a hike in the mountains, when suddenly something crash landed near them, forcing them to take cover close by. From the ashes and smoke of the crater, a few figures emerge:
+Meanwhile on the surface of Weissblatt, Kleene, Elise and Babel were taking a hike in the mountains, when suddenly something crash landed near them, forcing them to take cover close by. From the ashes and smoke of the crater, a few figures emerge:
 
 [IMG: Dr. Asura holding an evil book, surrounded by demons and smoke]
 
 *Dr. Asura*: "Demons, find the Chakra Shards and bring them to the launch base! We don't have much time before the equinox!"
 
-*Alex (distress signal)*: "Delfid and the Enlightenment Crystal have been destroyed by a  man named Dr. Asura, who's seeking to abuse it's power! Whomever hears this, please find it's pieces before he does and stop him! I'm not sure if I'll survive but if I do, I will do everything in my power to help you! The fate of Senfina depends on you!"
+*Alex (distress signal)*: "Delfid and the Enlightenment Crystal have been destroyed by a  man named Dr. Asura, who's seeking to abuse it's power! Whomever hears this, please find it's pieces before he does and stop him! I'm not sure if I'll survive but if I do, I will do everything in my power to help you! The fate of Weissblatt depends on you!"
 
 [IMG: Dr. Asura glaring suspiciously]
 
@@ -52,9 +52,9 @@ Dr. Asura: "...and make sure no one will cause any problems..."
 
 ## Lore and ingame story beats (SPOILERS)
 
-Before the Delfid incident, Patsy was tricked by demons into losing his mind and Dr. Asura desperately signed a contract with the *king of demons* to became squad leader for the demons stationed on Senfina. His contract held the conditions that he seized the power of the enlightenment crystal to locate Patsy's lost soul and cast demonic power across Senfina.
+Before the Delfid incident, Patsy was tricked by demons into losing his mind and Dr. Asura desperately signed a contract with the *king of demons* to became squad leader for the demons stationed on Weissblatt. His contract held the conditions that he seized the power of the enlightenment crystal to locate Patsy's lost soul and cast demonic power across Weissblatt.
 
-After the intro, Alex crash lands on Senfina and proceeds to regain their powers to help locate the Chakra Shards. They eventually meet the main characters in a secret stage after which they are unlocked [like Amy].
+After the intro, Alex crash lands on Weissblatt and proceeds to regain their powers to help locate the Chakra Shards. They eventually meet the main characters in a secret stage after which they are unlocked [like Amy].
 
 Most enemies will be demon-posessed toys built by Patsy which are exorcised upon destruction, releasing purified souls back into the cycle of rebirth [like Flickies].
 
@@ -79,7 +79,7 @@ After *Mara* is defeated near the end of the game [BCZ Metal Sonic battle], it i
 : A mole librarian with a knack for soft science and history. Thrives in discovering hidden details and digging through mountains of books. Seeks to reconstruct Delfid's lost knowledge by reassembling the enlightenment crystal and rebuild it's society.
 
 **Alex Felitas**
-: A priest of the Delfid enlightenment. After their encounter with Dr. Asura, they crash landed on Senfina and are seeking to regain their magical powers to save the Chakra Shards from Dr. Asura and his demons.
+: A priest of the Delfid enlightenment. After their encounter with Dr. Asura, they crash landed on Weissblatt and are seeking to regain their magical powers to save the Chakra Shards from Dr. Asura and his demons.
 
 [*Appearance*: Non-binary magical girl of feline species]
 
@@ -88,12 +88,12 @@ After *Mara* is defeated near the end of the game [BCZ Metal Sonic battle], it i
 ---
 
 **Dr. Roy Asura**
-: Formerly Dr. Fishbart Toyfeller, he took on a secret identity as temporary squad leader of all demons on Senfina. Having signed a contract to the king of demons out of desperation, he's working to seize control of the Enlightenment Crystal to save the lost soul of his mad brother Patsy.
+: Formerly Dr. Fishbart Toyfeller, he took on a secret identity as temporary squad leader of all demons on Weissblatt. Having signed a contract to the king of demons out of desperation, he's working to seize control of the Enlightenment Crystal to save the lost soul of his mad brother Patsy.
 
 [*Appearance*: Glasses&Mustache goldfish in a detachable flying fish bowl propped on top of a tuxedo]
 
 **Patsy Toyfeller** [Fang replacement]
-: Asura's partner in crime. Originally an unsuccessful toymaker, Patsy started exhibiting more deranged and clown-inspired behavior as time went on, increasingly drowning Senfina in toys possessed by Dr. Asura's demons. Few have ever survived a direct encounter with him in this state and fewer have ever seen him without his unicycle.
+: Asura's partner in crime. Originally an unsuccessful toymaker, Patsy started exhibiting more deranged and clown-inspired behavior as time went on, increasingly drowning Weissblatt in toys possessed by Dr. Asura's demons. Few have ever survived a direct encounter with him in this state and fewer have ever seen him without his unicycle.
 
 [Moves: Unicycle bouncing and an extendable boxing glove]
 
@@ -105,4 +105,4 @@ After *Mara* is defeated near the end of the game [BCZ Metal Sonic battle], it i
 [*Moves*: **Elephant drive** which allows Mara to gain speed and glide through the air]
 
 **The king of demons** [Brak replacement]
-: What it says on the tin. Plotted to rid Patsy of his mind to trick Dr. Asura into signing a contract to him and attack the Enlightenment Crystal. Disguised himself as *Mara* during the operation to collect the Chakra shards for himself and secure demonic influence over Senfina. After his plot has been uncovered by the heroes, he faces them off in the underworld to save his plan to throw Senfina into a new dark age.
+: What it says on the tin. Plotted to rid Patsy of his mind to trick Dr. Asura into signing a contract to him and attack the Enlightenment Crystal. Disguised himself as *Mara* during the operation to collect the Chakra shards for himself and secure demonic influence over Weissblatt. After his plot has been uncovered by the heroes, he faces them off in the underworld to save his plan to throw Weissblatt into a new dark age.
