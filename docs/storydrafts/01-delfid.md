@@ -1,8 +1,9 @@
 # Liquid Total Conversion - Story
 
 **Draft**: 1 "Delfid"  
-**Version**: 2.2  
-**Written by**: Zibon "PixL" Badi, NotablyPrettyCrazy
+**Version**: 2.2.1  
+**Written by**: Zibon "PixL" Badi  
+**Co-written by**: NotablyPrettyCrazy
 
 ## Introductory Cutscene
 
