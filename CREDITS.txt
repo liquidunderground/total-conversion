@@ -7784,8 +7784,8 @@ srb2.pk3:/Sprites/Monitors/Invincibility/TVIVC0
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVD0
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVE0
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVF0
-srb2.pk3:/Sprites/Monitors/MSTVA0
-srb2.pk3:/Sprites/Monitors/MSTVB0
+srb2.pk3:/Sprites/Monitors/MSTVA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/MSTVB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYA0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYB0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYC0
@@ -7828,8 +7828,8 @@ srb2.pk3:/Sprites/Monitors/Score/TVTKC0
 srb2.pk3:/Sprites/Monitors/Score/TVTKD0
 srb2.pk3:/Sprites/Monitors/Score/TVTKE0
 srb2.pk3:/Sprites/Monitors/Score/TVTKF0
-srb2.pk3:/Sprites/Monitors/Super Ring/TVRIA0
-srb2.pk3:/Sprites/Monitors/Super Ring/TVRIB0
+srb2.pk3:/Sprites/Monitors/Super Ring/TVRIA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Super Ring/TVRIB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Super Ring/TVRIC0
 srb2.pk3:/Sprites/Monitors/Super Ring/TVRID0
 srb2.pk3:/Sprites/Monitors/Super Ring/TVRIE0
@@ -7870,13 +7870,13 @@ srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWC0
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWD0
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWE0
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWF0
-srb2.pk3:/Sprites/Monitors/XLTVA0
-srb2.pk3:/Sprites/Monitors/XLTVB0
-srb2.pk3:/Sprites/Monitors/XLTVC0
-srb2.pk3:/Sprites/Monitors/XLTVD0
-srb2.pk3:/Sprites/Monitors/XLTVE0
-srb2.pk3:/Sprites/Monitors/XLTVF0
-srb2.pk3:/Sprites/Monitors/XLTVG0
+srb2.pk3:/Sprites/Monitors/XLTVA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/XLTVB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/XLTVC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/XLTVD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/XLTVE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/XLTVF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/XLTVG0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/NiGHTs/Bumper/NBMPA1
 srb2.pk3:/Sprites/NiGHTs/Bumper/NBMPA2A8
 srb2.pk3:/Sprites/NiGHTs/Bumper/NBMPA3A7
