@@ -2163,11 +2163,11 @@ srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTNUM7
 srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTNUM8
 srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTNUM9
 srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTPERIO
-srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTRINGS
-srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTRRING
-srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTRTIME
-srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTSCORE
-srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTTIME
+srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTRINGS	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTRRING	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTRTIME	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTSCORE	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/HUD/Score-Time-Rings/STTTIME	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/HUD/TAGICO	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/HUD/TOKNICON
 srb2.pk3:/Graphics/HUD/Teams/BFLAGICO	"Zibon 'PixL' Badi"
@@ -2180,23 +2180,23 @@ srb2.pk3:/Graphics/Intermission/BLINTERS
 srb2.pk3:/Graphics/Intermission/INTERSCR
 srb2.pk3:/Graphics/Intermission/INTERSCW
 srb2.pk3:/Graphics/Intermission/SPECTILE
-srb2.pk3:/Graphics/Intermission/SRB2BACK
+srb2.pk3:/Graphics/Intermission/SRB2BACK	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Intermission/Unused/YB_CHIP
 srb2.pk3:/Graphics/Intermission/Unused/YB_ITEM
 srb2.pk3:/Graphics/Intermission/Unused/YB_MARE
 srb2.pk3:/Graphics/Intermission/Unused/YB_SPHER
 srb2.pk3:/Graphics/Intermission/Unused/YB_STAGE
 srb2.pk3:/Graphics/Intermission/Unused/YB_STAR
-srb2.pk3:/Graphics/Intermission/YB_CONTI
-srb2.pk3:/Graphics/Intermission/YB_GUARD
-srb2.pk3:/Graphics/Intermission/YB_LAP
-srb2.pk3:/Graphics/Intermission/YB_LINK
-srb2.pk3:/Graphics/Intermission/YB_NIGHT
-srb2.pk3:/Graphics/Intermission/YB_PERFE
-srb2.pk3:/Graphics/Intermission/YB_RING
-srb2.pk3:/Graphics/Intermission/YB_SCORE
-srb2.pk3:/Graphics/Intermission/YB_TIME
-srb2.pk3:/Graphics/Intermission/YB_TOTAL
+srb2.pk3:/Graphics/Intermission/YB_CONTI	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_GUARD	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_LAP	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_LINK	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_NIGHT	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_PERFE	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_RING	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_SCORE	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_TIME	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Intermission/YB_TOTAL	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/MISSING
 srb2.pk3:/Graphics/Menu/Add-ons/M_FBACK
 srb2.pk3:/Graphics/Menu/Add-ons/M_FCFG
@@ -9680,21 +9680,21 @@ srb2.pk3:/Sprites/Springs/STEMD0
 srb2.pk3:/Sprites/Springs/STEME0
 srb2.pk3:/Sprites/Springs/STEMF0
 srb2.pk3:/Sprites/Springs/STEMG0
-srb2.pk3:/Sprites/Springs/Vertical/SPRBA0
-srb2.pk3:/Sprites/Springs/Vertical/SPRBB0
-srb2.pk3:/Sprites/Springs/Vertical/SPRBC0
-srb2.pk3:/Sprites/Springs/Vertical/SPRBD0
-srb2.pk3:/Sprites/Springs/Vertical/SPRBE0
-srb2.pk3:/Sprites/Springs/Vertical/SPRRA0
-srb2.pk3:/Sprites/Springs/Vertical/SPRRB0
-srb2.pk3:/Sprites/Springs/Vertical/SPRRC0
-srb2.pk3:/Sprites/Springs/Vertical/SPRRD0
-srb2.pk3:/Sprites/Springs/Vertical/SPRRE0
-srb2.pk3:/Sprites/Springs/Vertical/SPRYA0
-srb2.pk3:/Sprites/Springs/Vertical/SPRYB0
-srb2.pk3:/Sprites/Springs/Vertical/SPRYC0
-srb2.pk3:/Sprites/Springs/Vertical/SPRYD0
-srb2.pk3:/Sprites/Springs/Vertical/SPRYE0
+srb2.pk3:/Sprites/Springs/Vertical/SPRBA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRBB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRBC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRBD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRBE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRRA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRRB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRRC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRRD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRRE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRYA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRYB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRYC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRYD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Springs/Vertical/SPRYE0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Starpost/STPTA0M0
 srb2.pk3:/Sprites/Starpost/STPTB0L0
 srb2.pk3:/Sprites/Starpost/STPTC0K0
