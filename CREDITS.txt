@@ -7778,8 +7778,8 @@ srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVC0
 srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVD0
 srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVE0
 srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVF0
-srb2.pk3:/Sprites/Monitors/Invincibility/TVIVA0
-srb2.pk3:/Sprites/Monitors/Invincibility/TVIVB0
+srb2.pk3:/Sprites/Monitors/Invincibility/TVIVA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Invincibility/TVIVB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVC0
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVD0
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVE0
@@ -7864,8 +7864,8 @@ srb2.pk3:/Sprites/Monitors/Tutorial/TVTUC0
 srb2.pk3:/Sprites/Monitors/Tutorial/TVTUD0
 srb2.pk3:/Sprites/Monitors/Tutorial/TVTUE0
 srb2.pk3:/Sprites/Monitors/Tutorial/TVTUF0
-srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWA0
-srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWB0
+srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWC0
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWD0
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWE0
