@@ -7730,8 +7730,8 @@ srb2.pk3:/Sprites/Minecart/MCRTIR.lmp
 srb2.pk3:/Sprites/Minecart/MCSPA0.lmp
 srb2.pk3:/Sprites/Minecart/NON2A0.lmp
 srb2.pk3:/Sprites/Minecart/SALDARAL.lmp
-srb2.pk3:/Sprites/Monitors/Armageddon/TVARA0
-srb2.pk3:/Sprites/Monitors/Armageddon/TVARB0
+srb2.pk3:/Sprites/Monitors/Armageddon/TVARA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Armageddon/TVARB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Armageddon/TVARC0
 srb2.pk3:/Sprites/Monitors/Armageddon/TVARD0
 srb2.pk3:/Sprites/Monitors/Armageddon/TVARE0
