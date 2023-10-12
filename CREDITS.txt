@@ -7792,8 +7792,8 @@ srb2.pk3:/Sprites/Monitors/Mystery/TVMYC0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYD0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYE0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYF0
-srb2.pk3:/Sprites/Monitors/One Up/TV1PA0
-srb2.pk3:/Sprites/Monitors/One Up/TV1PB0
+srb2.pk3:/Sprites/Monitors/One Up/TV1PA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/One Up/TV1PB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/One Up/TV1PC0
 srb2.pk3:/Sprites/Monitors/One Up/TV1PD0
 srb2.pk3:/Sprites/Monitors/One Up/TV1PE0
