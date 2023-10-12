@@ -7840,12 +7840,12 @@ srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSC0
 srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSD0
 srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSE0
 srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSF0
-srb2.pk3:/Sprites/Monitors/Team Ring/TBRIA0
-srb2.pk3:/Sprites/Monitors/Team Ring/TBRIB0
-srb2.pk3:/Sprites/Monitors/Team Ring/TBRIC0
-srb2.pk3:/Sprites/Monitors/Team Ring/TRRIA0
-srb2.pk3:/Sprites/Monitors/Team Ring/TRRIB0
-srb2.pk3:/Sprites/Monitors/Team Ring/TRRIC0
+srb2.pk3:/Sprites/Monitors/Team Ring/TBRIA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team Ring/TBRIB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team Ring/TBRIC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team Ring/TRRIA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team Ring/TRRIB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team Ring/TRRIC0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Teleport/TVMXA0
 srb2.pk3:/Sprites/Monitors/Teleport/TVMXB0
 srb2.pk3:/Sprites/Monitors/Teleport/TVMXC0
