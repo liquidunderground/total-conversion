@@ -5987,9 +5987,9 @@ srb2.pk3:/Sprites/Emeralds/CEMGE0.lmp
 srb2.pk3:/Sprites/Emeralds/CEMGF0.lmp
 srb2.pk3:/Sprites/Emeralds/CEMGG0.lmp
 srb2.pk3:/Sprites/Emeralds/CEMGH0.lmp
-srb2.pk3:/Sprites/Emeralds/SHRDA0
-srb2.pk3:/Sprites/Emeralds/SHRDB0
-srb2.pk3:/Sprites/Emeralds/SHRDC0
+srb2.pk3:/Sprites/Emeralds/SHRDA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emeralds/SHRDB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emeralds/SHRDC0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/End Sign/SIGNA0
 srb2.pk3:/Sprites/End Sign/SIGNB0
 srb2.pk3:/Sprites/End Sign/SIGNC0
