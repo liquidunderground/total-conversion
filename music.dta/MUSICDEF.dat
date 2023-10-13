@@ -149,7 +149,8 @@ Soundtestcond = 14
 BPM = 90
 
 Lump VSFANG
-Title = Train_Battle
+Title = VS_Patsy
+Alttitle = Train_Battle
 Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 15
@@ -205,11 +206,11 @@ Soundtestcond = 25
 BPM = 164
 
 Lump VSMETL
-Title = VS_Metal_Sonic
-Authors = clairebun,_DrTapeworm
+Title = VS_Mara
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 26
-BPM = 184
+BPM = 175
 
 Lump BCZ2
 Title = Anticipation
@@ -269,7 +270,7 @@ BPM = 96
 
 Lump _1UP
 Title = One-Up
-Authors = clairebun,_SSNTails
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 0
 Stoppingtime = 4.992
@@ -292,7 +293,8 @@ Stoppingtime = 22.599
 BPM = 160
 
 Lump _SUPER
-Title = Space_Dolphin_Mode
+Title = Space_Dolphins!!
+Alttitle = Space_Dolphin_Mode
 Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = -12
