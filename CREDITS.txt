@@ -7748,8 +7748,8 @@ srb2.pk3:/Sprites/Monitors/Bubble/TVBBC0
 srb2.pk3:/Sprites/Monitors/Bubble/TVBBD0
 srb2.pk3:/Sprites/Monitors/Bubble/TVBBE0
 srb2.pk3:/Sprites/Monitors/Bubble/TVBBF0
-srb2.pk3:/Sprites/Monitors/Eggman/TVEGA0
-srb2.pk3:/Sprites/Monitors/Eggman/TVEGB0
+srb2.pk3:/Sprites/Monitors/Eggman/TVEGA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Eggman/TVEGB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Eggman/TVEGC0
 srb2.pk3:/Sprites/Monitors/Eggman/TVEGD0
 srb2.pk3:/Sprites/Monitors/Eggman/TVEGE0
