@@ -3897,7 +3897,7 @@ srb2.pk3:/Sounds/SRB2/DSBGXPLD
 srb2.pk3:/Sounds/SRB2/DSBKPOOF
 srb2.pk3:/Sounds/SRB2/DSBNCE1
 srb2.pk3:/Sounds/SRB2/DSBNCE2
-srb2.pk3:/Sounds/SRB2/DSBOINGF
+srb2.pk3:/Sounds/SRB2/DSBOINGF	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSBOWL
 srb2.pk3:/Sounds/SRB2/DSBRAKRL
 srb2.pk3:/Sounds/SRB2/DSBRAKRX
@@ -3960,7 +3960,7 @@ srb2.pk3:/Sounds/SRB2/DSHOOP2
 srb2.pk3:/Sounds/SRB2/DSHOOP3
 srb2.pk3:/Sounds/SRB2/DSICEB
 srb2.pk3:/Sounds/SRB2/DSIDEYA
-srb2.pk3:/Sounds/SRB2/DSITEMUP
+srb2.pk3:/Sounds/SRB2/DSITEMUP	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSJET
 srb2.pk3:/Sounds/SRB2/DSJSHARD
 srb2.pk3:/Sounds/SRB2/DSJUMP NepDisk
@@ -3986,7 +3986,7 @@ srb2.pk3:/Sounds/SRB2/DSMARIO7
 srb2.pk3:/Sounds/SRB2/DSMARIO8
 srb2.pk3:/Sounds/SRB2/DSMARIO9
 srb2.pk3:/Sounds/SRB2/DSMARIOA
-srb2.pk3:/Sounds/SRB2/DSMENU1
+srb2.pk3:/Sounds/SRB2/DSMENU1	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSMINDIG
 srb2.pk3:/Sounds/SRB2/DSMIXUP	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSMONTON
@@ -4008,7 +4008,7 @@ srb2.pk3:/Sounds/SRB2/DSNXITEM
 srb2.pk3:/Sounds/SRB2/DSONEUP
 srb2.pk3:/Sounds/SRB2/DSPEWW
 srb2.pk3:/Sounds/SRB2/DSPOGO
-srb2.pk3:/Sounds/SRB2/DSPOP
+srb2.pk3:/Sounds/SRB2/DSPOP	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSPRLOOP
 srb2.pk3:/Sounds/SRB2/DSPSCREE
 srb2.pk3:/Sounds/SRB2/DSPSTART
@@ -4039,15 +4039,16 @@ srb2.pk3:/Sounds/SRB2/DSSPIN
 srb2.pk3:/Sounds/SRB2/DSSPKDTH
 srb2.pk3:/Sounds/SRB2/DSSPLASH
 srb2.pk3:/Sounds/SRB2/DSSPLISH
-srb2.pk3:/Sounds/SRB2/DSSPNDSH
-srb2.pk3:/Sounds/SRB2/DSSPRING
+srb2.pk3:/Sounds/SRB2/DSSPNDSH	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/SRB2/DSSPRING	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSSPRING2	"Zibon 'PixL' Badi" (nonstandard)
 srb2.pk3:/Sounds/SRB2/DSSPRONG
 srb2.pk3:/Sounds/SRB2/DSSPSMSH
 srb2.pk3:/Sounds/SRB2/DSSTATU1
 srb2.pk3:/Sounds/SRB2/DSSTATU2
 srb2.pk3:/Sounds/SRB2/DSSTEAM1
 srb2.pk3:/Sounds/SRB2/DSSTEAM2
-srb2.pk3:/Sounds/SRB2/DSSTRPST
+srb2.pk3:/Sounds/SRB2/DSSTRPST	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSSUPERT
 srb2.pk3:/Sounds/SRB2/DSTELEPT
 srb2.pk3:/Sounds/SRB2/DSTHOK	"Zibon 'PixL' Badi"
