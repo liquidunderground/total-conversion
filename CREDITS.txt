@@ -12440,7 +12440,7 @@ music.dta:/O_VSALT.ogg
 music.dta:/O_VSBOSS.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_VSBRAK.ogg
 music.dta:/O_VSFANG.ogg	"Zibon 'PixL' Badi"
-music.dta:/O_VSMETL.ogg
+music.dta:/O_VSMETL.ogg	"Zibon 'PixL' Badi"
 
 
 ### `player.dta`
