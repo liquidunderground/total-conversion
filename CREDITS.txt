@@ -8480,15 +8480,15 @@ srb2.pk3:/Sprites/Rings/Rail/RNGRW0
 srb2.pk3:/Sprites/Rings/Rail/RNGRX0
 srb2.pk3:/Sprites/Rings/Rail/RNGRY0
 srb2.pk3:/Sprites/Rings/Rail/RNGRZ0
-srb2.pk3:/Sprites/Rings/SPRKA0J0
-srb2.pk3:/Sprites/Rings/SPRKB0K0
-srb2.pk3:/Sprites/Rings/SPRKC0L0
-srb2.pk3:/Sprites/Rings/SPRKD0M0
-srb2.pk3:/Sprites/Rings/SPRKE0N0
-srb2.pk3:/Sprites/Rings/SPRKF0O0
-srb2.pk3:/Sprites/Rings/SPRKG0P0
-srb2.pk3:/Sprites/Rings/SPRKH0Q0
-srb2.pk3:/Sprites/Rings/SPRKI0R0
+srb2.pk3:/Sprites/Rings/SPRKA0J0	"Zibon 'PixL' Badi"	(offset 16x30)
+srb2.pk3:/Sprites/Rings/SPRKB0K0	"Zibon 'PixL' Badi"	(offset 16x30)
+srb2.pk3:/Sprites/Rings/SPRKC0L0	"Zibon 'PixL' Badi"	(offset 16x30)
+srb2.pk3:/Sprites/Rings/SPRKD0M0	"Zibon 'PixL' Badi"	(offset 16x30)
+srb2.pk3:/Sprites/Rings/SPRKE0N0	"Zibon 'PixL' Badi"	(offset 16x30)
+srb2.pk3:/Sprites/Rings/SPRKF0O0	"Zibon 'PixL' Badi"	(offset 16x30)
+srb2.pk3:/Sprites/Rings/SPRKG0P0	"Zibon 'PixL' Badi"	(offset 16x30)
+srb2.pk3:/Sprites/Rings/SPRKH0Q0	"Zibon 'PixL' Badi"	(offset 16x30)
+srb2.pk3:/Sprites/Rings/SPRKI0R0	"Zibon 'PixL' Badi"	(offset 16x30)
 srb2.pk3:/Sprites/Rings/SPRKS0
 srb2.pk3:/Sprites/Rings/Scatter/PIKSA0
 srb2.pk3:/Sprites/Rings/Scatter/PIKSB0
