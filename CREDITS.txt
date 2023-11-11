@@ -9696,19 +9696,29 @@ srb2.pk3:/Sprites/Springs/Vertical/SPRYB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Springs/Vertical/SPRYC0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Springs/Vertical/SPRYD0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Springs/Vertical/SPRYE0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Starpost/STPTA0M0
-srb2.pk3:/Sprites/Starpost/STPTB0L0
-srb2.pk3:/Sprites/Starpost/STPTC0K0
-srb2.pk3:/Sprites/Starpost/STPTD0J0
-srb2.pk3:/Sprites/Starpost/STPTE0I0
-srb2.pk3:/Sprites/Starpost/STPTF0H0
-srb2.pk3:/Sprites/Starpost/STPTG0
-srb2.pk3:/Sprites/Starpost/STPTN0Q0
-srb2.pk3:/Sprites/Starpost/STPTO0P0
-srb2.pk3:/Sprites/Starpost/STPTR0W0
-srb2.pk3:/Sprites/Starpost/STPTS0V0
-srb2.pk3:/Sprites/Starpost/STPTT0
-srb2.pk3:/Sprites/Starpost/STPTU0
+srb2.pk3/Sprites/Checkpoint/STPTA0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTB0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTC0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTD0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTE0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTF0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTG0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTH0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTI0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTJ0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTK0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTL0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTM0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTN0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTO0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTP0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTQ0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTR0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTS0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTT0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTU0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTV0.png	"Zibon 'PixL' Badi"
+srb2.pk3/Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/THOKA0
 srb2.pk3:/Sprites/Targets/GFLGA0
 srb2.pk3:/Sprites/Targets/GFLGB0
