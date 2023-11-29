@@ -107,3 +107,26 @@ After *Mara* is defeated near the end of the game [BCZ Metal Sonic battle], it i
 
 **The king of demons** [Brak replacement]
 : What it says on the tin. Plotted to rid Patsy of his mind to trick Dr. Asura into signing a contract to him and attack the Enlightenment Crystal. Disguised himself as *Mara* during the operation to collect the Chakra shards for himself and secure demonic influence over Weissblatt. After his plot has been uncovered by the heroes, he faces them off in the underworld to save his plan to throw Weissblatt into a new dark age.
+
+
+## Levels/Maps/Worlds/Zones
+
+### Main campaign
+
+- [Crystal Clockworld]
+- [Desert Pit Zone]
+- [Orbital Crystal Zone]
+- [The Underworld]
+
+### Bonus stages
+
+- [Frozen Record Zone]
+- [Hurricane Souq Zone] \(may be added to the main campaign if suitable\)
+
+[Frozen Record Zone]: <../zones/frz-frozen-record.md>
+[Hurricane Souq Zone]: <../zones/hsz-hurricane-souq.md>
+
+[Crystal Clockworld]: <../zones/ccw-crystal-clockworld.md>
+[Desert Pit Zone]: <../zones/dpz-desert-pit.md>
+[Orbital Crystal Zone]: <../zones/ocz-orbital-crystal.md>
+[The Underworld]: <../zones/uw-underworld.md>
