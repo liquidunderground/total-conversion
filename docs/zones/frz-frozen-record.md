@@ -21,6 +21,13 @@ to revise or to destroy it's recordings.
 
 ## Author's Notes
 
-You can think of FRZ as a hybrid ice/library/military map. A chilling
-atmosphere of military defense mixed with vast, almost labyrinthian
-libraries
+You can think of FRZ as a hybrid ice/library/military map. Somewhere
+between the Great Library of Alexandria and Shadow Moses Island. Stealth
+mechanics, turrets and such are a natural here.
+
+## Additional Ideas
+
+- Structure the facility like a tower/silo around a giant rosetta
+  stone-like structure (PixL)
+- Include a frosty cave with ice water sections, requiring elemental shields
+  to pass (Ghostenks)
