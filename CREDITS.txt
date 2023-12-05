@@ -5936,7 +5936,7 @@ srb2.pk3:/Sprites/Debris/WDDBA0E0.lmp
 srb2.pk3:/Sprites/Debris/WDDBB0D0.lmp
 srb2.pk3:/Sprites/Debris/WDDBC0G0.lmp
 srb2.pk3:/Sprites/Debris/WDDBH0F0.lmp
-srb2.pk3:/Sprites/Drop Shadow/DSHADOW
+srb2.pk3:/Sprites/Drop Shadow/DSHADOW	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMC0	"Zibon 'PixL' Badi"
