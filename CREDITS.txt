@@ -8086,7 +8086,7 @@ srb2.pk3:/Sprites/Particles/DUSTB0
 srb2.pk3:/Sprites/Particles/DUSTC0
 srb2.pk3:/Sprites/Particles/DUSTD0
 srb2.pk3:/Sprites/Particles/FPRTA0
-srb2.pk3:/Sprites/Particles/LHRTA0
+srb2.pk3:/Sprites/Particles/LHRTA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Particles/LSPLA0
 srb2.pk3:/Sprites/Particles/LSPLB0
 srb2.pk3:/Sprites/Particles/LSPLC0
