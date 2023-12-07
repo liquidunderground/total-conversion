@@ -8,7 +8,9 @@ Sonic Robo Blast 2 in the spirit of Freedoom and LibreQuake.
 `CREDITS.TXT` serves as our record for what needs to be done as
 well as who did what regarding the project.
 Missing contributors next to a file name means that this file is yet to be
-added to the game. Additional, such as this:
+added to the game.
+
+You can also check a rough estimate of our current coverage using `make coverage`.
 
 File names should follow this schema for consistency
 
