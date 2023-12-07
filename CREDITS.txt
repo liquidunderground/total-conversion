@@ -701,7 +701,7 @@ srb2.pk3:/Flats/FLOOR6_1
 srb2.pk3:/Flats/FOSSIL
 srb2.pk3:/Flats/FROST01
 srb2.pk3:/Flats/FROST02
-srb2.pk3:/Flats/F_SKY1
+srb2.pk3:/Flats/F_SKY1	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Fluids/BWATER01
 srb2.pk3:/Flats/Fluids/BWATER02
 srb2.pk3:/Flats/Fluids/BWATER03
