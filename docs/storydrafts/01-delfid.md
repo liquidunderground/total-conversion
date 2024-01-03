@@ -1,7 +1,7 @@
 # Liquid Total Conversion - Story
 
 **Draft**: 1 "Delfid"  
-**Version**: 2.2.1  
+**Version**: 2.3.0
 **Written by**: Zibon "PixL" Badi  
 **Co-written by**: NotablyPrettyCrazy
 
@@ -35,33 +35,63 @@ Floating through the planet's orbit after the explosion, Alex saw nothing but de
 
 ---
 
-[IMG: Our heroes' hike being interrupted by an ambiguous impact]
+[IMG: Our heroes flying through the sky, holding onto Kleene and his helicopter device]
 
-Meanwhile on the surface of Weissblatt, Kleene, Elise and Babel were taking a hike in the mountains, when suddenly something crash landed near them, forcing them to take cover close by. From the ashes and smoke of the crater, a few figures emerge:
+Kleene: "Thanks for letting me test my new perso-copter under heavy load."
 
-[IMG: Dr. Asura holding an evil book, surrounded by demons and smoke]
+Babel: "Oh I'm very pleased by this trip myself, Kleene! I've long been looking for an opportunity to explore the mountains."
+
+Elise: "Sure Kleene. You know I'd never-"
+
+\*BOOM!\*
+
+Elise: "WHAT THE- ... Did you hear that?"
+
+[IMG: Our heroes looking up at Delfid exploding in the sky]
+
+Kleene, Elise and Babel looked up at the sky, witnessing Delfid exploding.
+
+Babel: "This can't be ..."
+
+Before they could even recover from the shock of the sight, something came wheezing past them and crashed Kleene's perso-copter.
+
+[IMG: Our heroes crash landed among smoke and debris, Dr. Asura and his demons nearby]
 
 *Dr. Asura*: "Demons, find the Chakra Shards and bring them to the launch base! We don't have much time before the equinox!"
 
-*Alex (distress signal)*: "Delfid and the Enlightenment Crystal have been destroyed by a  man named Dr. Asura, who's seeking to abuse it's power! Whomever hears this, please find it's pieces before he does and stop him! I'm not sure if I'll survive but if I do, I will do everything in my power to help you! The fate of Weissblatt depends on you!"
+Babel: "Chakra Shards? OH SWEET DELFID! This can only mean-"
 
-[IMG: Dr. Asura glaring suspiciously]
+[IMG: Dr. Asura glaring suspiciously at our heroes]
 
 Dr. Asura: "..."
 
-Dr. Asura: "...and make sure no one will cause any problems..."
+Dr. Asura: "...and take care of anyone that could ruin our plans..."
+
+[IMG: Our heroes surrounded by demons with a portal opening behind them]
+
+As Kleene, Elise and Babel were being surrounded by Dr. Asura's demons, a magic portal opened behind them, emitting a voice ...
+
+*Alex (through portal)*: "Inhabitants of Weissblatt! Delfid and the Enlightenment Crystal have been destroyed by a man named Dr. Asura and he's seeking to abuse the power of the Chakra Shards! Whomever hears this, please find them before he does and stop him! I'm not sure if I'll survive this but I've opened these portals across the planet to help you find them! The fate of Weissblatt depends on you!"
+
+Kleene: "RUN!!"
+
+Knowing no other way to escape Dr. Asura and his demons, the trio fled into the newly opened portal.
+
+
 
 ## Lore and ingame story beats (SPOILERS)
 
 Before the Delfid incident, Patsy was tricked by demons into losing his mind and Dr. Asura desperately signed a contract with the *king of demons* to became squad leader for the demons stationed on Weissblatt. His contract held the conditions that he seized the power of the enlightenment crystal to locate Patsy's lost soul and cast demonic power across Weissblatt.
 
-After the intro, Alex crash lands on Weissblatt and proceeds to regain their powers to help locate the Chakra Shards. They eventually meet the main characters in a secret stage after which they are unlocked [like Amy].
+After the intro, Alex crash lands on Weissblatt and proceeds to regain their powers to help locate the Chakra Shards. They eventually meet the main characters in a [secret stage][Hurricane Souq Zone] after which they are unlocked.
 
 Most enemies will be demon-posessed toys built by Patsy which are exorcised upon destruction, releasing purified souls back into the cycle of rebirth [like Flickies].
 
-After the battle against Patsy on his giant desert toy train [ACZ Fang battle], *Mara* takes things into their own hands and steals the contract to Dr. Asura's and Patsy's souls.
+The game starts out in the [Crystal Clockworld] with all phase 1 maps accessible to access. Once the player has finished all boss fights against Dr. Asura, the boss fight against Patsy at the end of [Desert Pit] is unlocked, initiating phase 2.
 
-After *Mara* is defeated near the end of the game [BCZ Metal Sonic battle], it is revealed that the toy has been possessed by none other than *the king of demons* which pulls the heroes into the underworld for final boss fight against their true form.
+After the battle against Patsy on his giant desert toy train, *MARA* takes things into their own hands and steals the contract to Dr. Asura's and Patsy's souls. MARA uses the opportunity as a trap to lure the player into Dr. Asura's launch base to prepare for the Equinox. To stop MARA from using the player's Chakra Shards to fuse Weissblatt with the Underworld, the player faces them off in a boss fight. After beating MARA, Patsy is unlocked and if the player hasn't collected all seven Chakra Shards until this point, the game ends here.
+
+If the player managed to collect all seven Chakra Shards throughout the game, MARA then retreats into [The Underworld] during a much harder second race after which the player encounters the true final boss fight against MARA's true form: *Kotu - the king of the underworld*.
 
 ## Characters
 
@@ -88,25 +118,25 @@ After *Mara* is defeated near the end of the game [BCZ Metal Sonic battle], it i
 
 ---
 
-**Dr. Roy Asura**
-: Formerly Dr. Fishbart Toyfeller, he took on a secret identity as temporary squad leader of all demons on Weissblatt. Having signed a contract to the king of demons out of desperation, he's working to seize control of the Enlightenment Crystal to save the lost soul of his mad brother Patsy.
+**Dr. Roy Asura** [phase 1 boss]
+: Formerly Dr. Fishbart Toyfeller, he took on a secret identity as temporary squad leader of all demons on Weissblatt. Having signed a contract to the king of the underworld out of desperation, he's working to seize control of the Enlightenment Crystal to save the lost soul of his mad brother Patsy.
 
 [*Appearance*: Glasses&Mustache goldfish in a detachable flying fish bowl propped on top of a tuxedo]
 
-**Patsy Toyfeller** [Fang replacement]
+**Patsy Toyfeller** [phase 2 boss]
 : Asura's partner in crime. Originally an unsuccessful toymaker, Patsy started exhibiting more deranged and clown-inspired behavior as time went on, increasingly drowning Weissblatt in toys possessed by Dr. Asura's demons. Few have ever survived a direct encounter with him in this state and fewer have ever seen him without his unicycle.
 
 [Moves: Unicycle bouncing and an extendable boxing glove]
 
-**Mara** [Metal Sonic replacement]
+**MARA** ["fake" final boss]
 : A possessed wind-up toy which went rogue and stole the contract to Patsy's soul after he's been defeated. Can modulate the speed of it's key to accellerate and fly through the air at certain speeds.
 
 [*Appearance*: Antrhopomorphic elephant with the face of the buddhist demon Mara]
 
-[*Moves*: **Elephant drive** which allows Mara to gain speed and glide through the air]
+[*Moves*: **Elephant drive** which allows MARA to gain speed and glide through the air]
 
-**The king of demons** [Brak replacement]
-: What it says on the tin. Plotted to rid Patsy of his mind to trick Dr. Asura into signing a contract to him and attack the Enlightenment Crystal. Disguised himself as *Mara* during the operation to collect the Chakra shards for himself and secure demonic influence over Weissblatt. After his plot has been uncovered by the heroes, he faces them off in the underworld to save his plan to throw Weissblatt into a new dark age.
+**The king of the underworld (KOTU)** ["true" final boss]
+: What it says on the tin. Plotted to rid Patsy of his mind to trick Dr. Asura into signing a contract to him and attack the Enlightenment Crystal. Disguised himself as *MARA* during the operation to collect the Chakra shards for himself and secure demonic influence over Weissblatt. After his plot has been uncovered by the heroes, he faces them off in the underworld to save his plan to throw Weissblatt into a new dark age.
 
 
 ## Levels/Maps/Worlds/Zones
@@ -116,14 +146,18 @@ After *Mara* is defeated near the end of the game [BCZ Metal Sonic battle], it i
 - [Crystal Clockworld]
 - [Desert Pit Zone]
 - [Orbital Crystal Zone]
+- [Equinox Mountain Zone]
 - [The Underworld]
 
 ### Bonus stages
 
 - [Frozen Record Zone]
 - [Hurricane Souq Zone] \(may be added to the main campaign if suitable\)
+- [Marble Pagoda Zone]
 
+[Marble Pagoda Zone]: <../zones/mpz-marble-pagoda.md>
 [Frozen Record Zone]: <../zones/frz-frozen-record.md>
+[Equinox Mountain Zone]: <../zones/emz-equinox-mountain.md>
 [Hurricane Souq Zone]: <../zones/hsz-hurricane-souq.md>
 
 [Crystal Clockworld]: <../zones/ccw-crystal-clockworld.md>
