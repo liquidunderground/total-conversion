@@ -918,7 +918,7 @@ srb2.pk3:/Flats/Greenflower/GFZFLR10
 srb2.pk3:/Flats/Greenflower/GFZFLR11
 srb2.pk3:/Flats/Greenflower/GFZFLR12
 srb2.pk3:/Flats/Greenflower/GFZFLR13
-srb2.pk3:/Flats/Greenflower/GFZFLR14
+srb2.pk3:/Flats/Greenflower/GFZFLR14	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR15
 srb2.pk3:/Flats/Greenflower/GFZFLR16
 srb2.pk3:/Flats/Greenflower/GFZFLR17
@@ -10903,12 +10903,12 @@ srb2.pk3:/Textures/Greenflower/GFZTIL08.lmp
 srb2.pk3:/Textures/Greenflower/GFZTIL09.lmp
 srb2.pk3:/Textures/Greenflower/GFZTIL10.lmp
 srb2.pk3:/Textures/Greenflower/GFZTIL11.lmp
-srb2.pk3:/Textures/Greenflower/GFZTILA1.lmp
-srb2.pk3:/Textures/Greenflower/GFZTILA2.lmp
-srb2.pk3:/Textures/Greenflower/GFZTILB1.lmp
-srb2.pk3:/Textures/Greenflower/GFZTILB2.lmp
-srb2.pk3:/Textures/Greenflower/GFZTILC1.lmp
-srb2.pk3:/Textures/Greenflower/GFZTILC2.lmp
+srb2.pk3:/Textures/Greenflower/GFZTILA1.lmp	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Greenflower/GFZTILA2.lmp	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Greenflower/GFZTILB1.lmp	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Greenflower/GFZTILB2.lmp	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Greenflower/GFZTILC1.lmp	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Greenflower/GFZTILC2.lmp	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZTILD1.lmp
 srb2.pk3:/Textures/Greenflower/GFZTILD2.lmp
 srb2.pk3:/Textures/Greenflower/GFZTILE1.lmp
