@@ -12362,7 +12362,7 @@ srb2.pk3:/WATERMAP
 
 music.dta:/MUSICDEF.dat	Everyone	(partial)
 music.dta:/O__1UP.ogg	"Zibon 'PixL' Badi"
-music.dta:/O_ACZ1.ogg
+music.dta:/O_ACZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_ACZ2.ogg
 music.dta:/O_AGZALT.ogg
 music.dta:/O_AGZ.ogg
@@ -12370,8 +12370,9 @@ music.dta:/O_APZ1.ogg
 music.dta:/O_APZ2.ogg
 music.dta:/O_ATZ.ogg
 music.dta:/O_BCZ1.ogg
-music.dta:/O_BCZ2.ogg
+music.dta:/O_BCZ2.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_BHZ.ogg
+music.dta:/O_CCW.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_CCZ.ogg
 music.dta:/O_CEZ1.ogg
 music.dta:/O_CEZ2.ogg
@@ -12384,12 +12385,12 @@ music.dta:/O_DCZ.ogg
 music.dta:/O_DHZ.ogg
 music.dta:/O_DISCO.ogg	"Zibon 'PixL' Badi"
 music.dta:/O__DROWN.ogg	"Zibon 'PixL' Badi"
-music.dta:/O_DSZ1.ogg
+music.dta:/O_DSZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_DSZ2.ogg
 music.dta:/O__ENDB.ogg
 music.dta:/O__ENDG.ogg
-music.dta:/O_ERZ1.ogg
-music.dta:/O_ERZ2.ogg
+music.dta:/O_ERZ1.ogg	"Zibon 'PixL' Badi"
+music.dta:/O_ERZ2.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_FHZ.ogg
 music.dta:/O_GFZ1.ogg
 music.dta:/O_GFZ2.ogg
@@ -12449,7 +12450,7 @@ music.dta:/O_TUTORL.ogg
 music.dta:/O_VSAGZ.ogg
 music.dta:/O_VSALT.ogg
 music.dta:/O_VSBOSS.ogg	"Zibon 'PixL' Badi"
-music.dta:/O_VSBRAK.ogg
+music.dta:/O_VSBRAK.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_VSFANG.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_VSMETL.ogg	"Zibon 'PixL' Badi"
 
