@@ -144,9 +144,10 @@ If the player managed to collect all seven Chakra Shards throughout the game, MA
 ### Main campaign
 
 - [Crystal Clockworld]
+- [Stella Mountain Zone]
 - [Desert Pit Zone]
 - [Orbital Crystal Zone]
-- [Equinox Mountain Zone]
+- [Equinox Gate Zone]
 - [The Underworld]
 
 ### Bonus stages
@@ -155,9 +156,10 @@ If the player managed to collect all seven Chakra Shards throughout the game, MA
 - [Hurricane Souq Zone] \(may be added to the main campaign if suitable\)
 - [Marble Pagoda Zone]
 
+[Stella Mountain Zone]: <../zones/smz-stella-mountain.md>
 [Marble Pagoda Zone]: <../zones/mpz-marble-pagoda.md>
 [Frozen Record Zone]: <../zones/frz-frozen-record.md>
-[Equinox Mountain Zone]: <../zones/emz-equinox-mountain.md>
+[Equinox Gate Zone]: <../zones/egz-equinox-gate.md>
 [Hurricane Souq Zone]: <../zones/hsz-hurricane-souq.md>
 
 [Crystal Clockworld]: <../zones/ccw-crystal-clockworld.md>
