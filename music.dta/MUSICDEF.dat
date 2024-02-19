@@ -164,11 +164,11 @@ Soundtestcond = 54
 BPM = 185
 
 Lump RVZ1
-Title = Red_Volcano_1
-Authors = DrTapeworm,_Arrow
+Title = Equinox_Gate_1
+Authors =  Zibon_"PixL"_Badi
 Soundtestpage = 1
-Soundtestcond = 16
-BPM = 112
+Soundtestcond = 1
+BPM = 150
 
 Lump SPEC6
 Title = Magma_Caves

@@ -12428,7 +12428,7 @@ music.dta:/O_OINTRO.ogg
 music.dta:/O_OSPEC2.ogg
 music.dta:/O_OSPEC.ogg
 music.dta:/O__RECAT.ogg
-music.dta:/O_RVZ1.ogg
+music.dta:/O_RVZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_RVZ2.ogg
 music.dta:/O_RVZALT.ogg
 music.dta:/O__SHOES.ogg
