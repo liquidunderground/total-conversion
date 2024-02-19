@@ -12392,7 +12392,7 @@ music.dta:/O__ENDG.ogg
 music.dta:/O_ERZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_ERZ2.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_FHZ.ogg
-music.dta:/O_GFZ1.ogg
+music.dta:/O_GFZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_GFZ2.ogg
 music.dta:/O_GFZALT.ogg
 music.dta:/O__GOVER.ogg	"Zibon 'PixL' Badi"

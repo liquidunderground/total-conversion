@@ -37,11 +37,11 @@ Soundtestcond = 0
 BPM = 96
 
 Lump GFZ1
-Title = Greenflower_1
-Authors = clairebun,_Shane_Strife,_DrTapeworm,_DemonTomatoDave
+Title = Stella_Mountain_1
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 1
-BPM = 132
+BPM = 150
 
 Lump GFZ2
 Title = Greenflower_2
