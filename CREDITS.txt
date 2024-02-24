@@ -7731,148 +7731,148 @@ srb2.pk3:/Sprites/Minecart/MCRTIR.lmp
 srb2.pk3:/Sprites/Minecart/MCSPA0.lmp
 srb2.pk3:/Sprites/Minecart/NON2A0.lmp
 srb2.pk3:/Sprites/Minecart/SALDARAL.lmp
-srb2.pk3:/Sprites/Monitors/Armageddon/TVARA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Armageddon/TVARB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVARA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVARB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Armageddon/TVARC0
 srb2.pk3:/Sprites/Monitors/Armageddon/TVARD0
 srb2.pk3:/Sprites/Monitors/Armageddon/TVARE0
 srb2.pk3:/Sprites/Monitors/Armageddon/TVARF0
-srb2.pk3:/Sprites/Monitors/Attraction/TVATA0
-srb2.pk3:/Sprites/Monitors/Attraction/TVATB0
+srb2.pk3:/Sprites/Itemboxes/TVATA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVATB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Attraction/TVATC0
 srb2.pk3:/Sprites/Monitors/Attraction/TVATD0
 srb2.pk3:/Sprites/Monitors/Attraction/TVATE0
 srb2.pk3:/Sprites/Monitors/Attraction/TVATF0
-srb2.pk3:/Sprites/Monitors/Bubble/TVBBA0
-srb2.pk3:/Sprites/Monitors/Bubble/TVBBB0
+srb2.pk3:/Sprites/Itemboxes/TVBBA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVBBB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Bubble/TVBBC0
 srb2.pk3:/Sprites/Monitors/Bubble/TVBBD0
 srb2.pk3:/Sprites/Monitors/Bubble/TVBBE0
 srb2.pk3:/Sprites/Monitors/Bubble/TVBBF0
-srb2.pk3:/Sprites/Monitors/Eggman/TVEGA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Eggman/TVEGB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVEGA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVEGB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Eggman/TVEGC0
 srb2.pk3:/Sprites/Monitors/Eggman/TVEGD0
 srb2.pk3:/Sprites/Monitors/Eggman/TVEGE0
 srb2.pk3:/Sprites/Monitors/Eggman/TVEGF0
-srb2.pk3:/Sprites/Monitors/Elemental/TVELA0
-srb2.pk3:/Sprites/Monitors/Elemental/TVELB0
+srb2.pk3:/Sprites/Itemboxes/TVELA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVELB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Elemental/TVELC0
 srb2.pk3:/Sprites/Monitors/Elemental/TVELD0
 srb2.pk3:/Sprites/Monitors/Elemental/TVELE0
 srb2.pk3:/Sprites/Monitors/Elemental/TVELF0
-srb2.pk3:/Sprites/Monitors/Flame/TVFLA0
-srb2.pk3:/Sprites/Monitors/Flame/TVFLB0
+srb2.pk3:/Sprites/Itemboxes/TVFLA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVFLB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Flame/TVFLC0
 srb2.pk3:/Sprites/Monitors/Flame/TVFLD0
 srb2.pk3:/Sprites/Monitors/Flame/TVFLE0
 srb2.pk3:/Sprites/Monitors/Flame/TVFLF0
-srb2.pk3:/Sprites/Monitors/Force/TVFOA0
-srb2.pk3:/Sprites/Monitors/Force/TVFOB0
+srb2.pk3:/Sprites/Itemboxes/TVFOA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVFOB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Force/TVFOC0
 srb2.pk3:/Sprites/Monitors/Force/TVFOD0
 srb2.pk3:/Sprites/Monitors/Force/TVFOE0
 srb2.pk3:/Sprites/Monitors/Force/TVFOF0
-srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVA0
-srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVB0
+srb2.pk3:/Sprites/Itemboxes/TVGVA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVGVB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVC0
 srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVD0
 srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVE0
 srb2.pk3:/Sprites/Monitors/Gravity Boots/TVGVF0
-srb2.pk3:/Sprites/Monitors/Invincibility/TVIVA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Invincibility/TVIVB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVIVA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVIVB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVC0
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVD0
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVE0
 srb2.pk3:/Sprites/Monitors/Invincibility/TVIVF0
-srb2.pk3:/Sprites/Monitors/MSTVA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/MSTVB0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Mystery/TVMYA0
-srb2.pk3:/Sprites/Monitors/Mystery/TVMYB0
+srb2.pk3:/Sprites/Itemboxes/TVA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVMYA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVMYB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYC0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYD0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYE0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYF0
-srb2.pk3:/Sprites/Monitors/One Up/TV1PA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/One Up/TV1PB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TV1PA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TV1PB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/One Up/TV1PC0
 srb2.pk3:/Sprites/Monitors/One Up/TV1PD0
 srb2.pk3:/Sprites/Monitors/One Up/TV1PE0
 srb2.pk3:/Sprites/Monitors/One Up/TV1PF0
-srb2.pk3:/Sprites/Monitors/One Up/TV1UA0
-srb2.pk3:/Sprites/Monitors/One Up/TV1UB0
+srb2.pk3:/Sprites/Itemboxes/TV1UA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TV1UB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/One Up/TV1UC0
 srb2.pk3:/Sprites/Monitors/One Up/TV1UD0
 srb2.pk3:/Sprites/Monitors/One Up/TV1UE0
 srb2.pk3:/Sprites/Monitors/One Up/TV1UF0
-srb2.pk3:/Sprites/Monitors/Pity/TVPIA0
-srb2.pk3:/Sprites/Monitors/Pity/TVPIB0
+srb2.pk3:/Sprites/Itemboxes/TVPIA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVPIB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Pity/TVPIC0
 srb2.pk3:/Sprites/Monitors/Pity/TVPID0
 srb2.pk3:/Sprites/Monitors/Pity/TVPIE0
 srb2.pk3:/Sprites/Monitors/Pity/TVPIF0
-srb2.pk3:/Sprites/Monitors/Recycler/TVRCA0
-srb2.pk3:/Sprites/Monitors/Recycler/TVRCB0
+srb2.pk3:/Sprites/Itemboxes/TVRCA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVRCB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Recycler/TVRCC0
 srb2.pk3:/Sprites/Monitors/Recycler/TVRCD0
 srb2.pk3:/Sprites/Monitors/Recycler/TVRCE0
 srb2.pk3:/Sprites/Monitors/Recycler/TVRCF0
-srb2.pk3:/Sprites/Monitors/Score/TV1KA0
-srb2.pk3:/Sprites/Monitors/Score/TV1KB0
+srb2.pk3:/Sprites/Itemboxes/TV1KA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TV1KB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Score/TV1KC0
 srb2.pk3:/Sprites/Monitors/Score/TV1KD0
 srb2.pk3:/Sprites/Monitors/Score/TV1KE0
 srb2.pk3:/Sprites/Monitors/Score/TV1KF0
-srb2.pk3:/Sprites/Monitors/Score/TVTKA0
-srb2.pk3:/Sprites/Monitors/Score/TVTKB0
+srb2.pk3:/Sprites/Itemboxes/TVTKA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVTKB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Score/TVTKC0
 srb2.pk3:/Sprites/Monitors/Score/TVTKD0
 srb2.pk3:/Sprites/Monitors/Score/TVTKE0
 srb2.pk3:/Sprites/Monitors/Score/TVTKF0
-srb2.pk3:/Sprites/Monitors/Super Ring/TVRIA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Super Ring/TVRIB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVRIA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVRIB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Super Ring/TVRIC0
 srb2.pk3:/Sprites/Monitors/Super Ring/TVRID0
 srb2.pk3:/Sprites/Monitors/Super Ring/TVRIE0
 srb2.pk3:/Sprites/Monitors/Super Ring/TVRIF0
-srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSA0
-srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSB0
+srb2.pk3:/Sprites/Itemboxes/TVSSA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVSSB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSC0
 srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSD0
 srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSE0
 srb2.pk3:/Sprites/Monitors/Super Sneakers/TVSSF0
-srb2.pk3:/Sprites/Monitors/Team Ring/TBRIA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Team Ring/TBRIB0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Team Ring/TBRIC0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Team Ring/TRRIA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Team Ring/TRRIB0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Team Ring/TRRIC0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Teleport/TVMXA0
-srb2.pk3:/Sprites/Monitors/Teleport/TVMXB0
+srb2.pk3:/Sprites/Monitors/Team/TBRIA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team/TBRIB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team/TBRIC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team/TRRIA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team/TRRIB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Monitors/Team/TRRIC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Teleport/TVMXA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Teleport/TVMXB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Teleport/TVMXC0
 srb2.pk3:/Sprites/Monitors/Teleport/TVMXD0
 srb2.pk3:/Sprites/Monitors/Teleport/TVMXE0
 srb2.pk3:/Sprites/Monitors/Teleport/TVMXF0
-srb2.pk3:/Sprites/Monitors/Thunder/TVZPA0
-srb2.pk3:/Sprites/Monitors/Thunder/TVZPB0
+srb2.pk3:/Sprites/Itemboxes/Thunder/TVZPA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Thunder/TVZPB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Thunder/TVZPC0
 srb2.pk3:/Sprites/Monitors/Thunder/TVZPD0
 srb2.pk3:/Sprites/Monitors/Thunder/TVZPE0
 srb2.pk3:/Sprites/Monitors/Thunder/TVZPF0
-srb2.pk3:/Sprites/Monitors/Tutorial/TVTUA0
-srb2.pk3:/Sprites/Monitors/Tutorial/TVTUB0
+srb2.pk3:/Sprites/Itemboxes/Tutorial/TVTUA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Tutorial/TVTUB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Tutorial/TVTUC0
 srb2.pk3:/Sprites/Monitors/Tutorial/TVTUD0
 srb2.pk3:/Sprites/Monitors/Tutorial/TVTUE0
 srb2.pk3:/Sprites/Monitors/Tutorial/TVTUF0
-srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVWWA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/TVWWB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWC0
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWD0
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWE0
 srb2.pk3:/Sprites/Monitors/Whirlwind/TVWWF0
-srb2.pk3:/Sprites/Monitors/XLTVA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/XLTVB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/XLTVA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/XLTVB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/XLTVC0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/XLTVD0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/XLTVE0	"Zibon 'PixL' Badi"
