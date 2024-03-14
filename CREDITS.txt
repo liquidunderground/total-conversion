@@ -1141,10 +1141,10 @@ srb2.pk3:/Flats/MKB/MARROCK2
 srb2.pk3:/Flats/MKB/MARROCK3
 srb2.pk3:/Flats/MKB/MARROCK4
 srb2.pk3:/Flats/MKB/THWOMPFL
-srb2.pk3:/Flats/PAZFLR01
-srb2.pk3:/Flats/PAZFLR02
-srb2.pk3:/Flats/PAZFLR03
-srb2.pk3:/Flats/PAZFLR04
+srb2.pk3:/Flats/PAZFLR01	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/PAZFLR02	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/PAZFLR03	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/PAZFLR04	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/PAZFLR05
 srb2.pk3:/Flats/PIT
 srb2.pk3:/Flats/QUIK2
@@ -11446,10 +11446,10 @@ srb2.pk3:/Textures/Palette Textures/~252
 srb2.pk3:/Textures/Palette Textures/~253
 srb2.pk3:/Textures/Palette Textures/~254
 srb2.pk3:/Textures/Palette Textures/~255
-srb2.pk3:/Textures/RAINBOW1
-srb2.pk3:/Textures/RAINBOW2
-srb2.pk3:/Textures/RAINBOW3
-srb2.pk3:/Textures/RAINBOW4
+srb2.pk3:/Textures/RAINBOW1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/RAINBOW2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/RAINBOW3	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/RAINBOW4	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/RCZCRSW1
 srb2.pk3:/Textures/RCZCRSW2
 srb2.pk3:/Textures/RCZCRSW3
