@@ -488,10 +488,10 @@ srb2.pk3:/Flats/DIRT2F
 srb2.pk3:/Flats/DIRT3F
 srb2.pk3:/Flats/DIRT4F
 srb2.pk3:/Flats/DIRT5F
-srb2.pk3:/Flats/DISCO1
-srb2.pk3:/Flats/DISCO2
-srb2.pk3:/Flats/DISCO3
-srb2.pk3:/Flats/DISCO4
+srb2.pk3:/Flats/DISCO1	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/DISCO2	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/DISCO3	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/DISCO4	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/DISCOF1
 srb2.pk3:/Flats/DKLEAFLR
 srb2.pk3:/Flats/DMAPIPE
