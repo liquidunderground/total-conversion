@@ -2179,20 +2179,20 @@ srb2.pk3:/Graphics/Intermission/YB_SCORE	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Intermission/YB_TIME	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Intermission/YB_TOTAL	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/MISSING
-srb2.pk3:/Graphics/Menu/Add-ons/M_FBACK
-srb2.pk3:/Graphics/Menu/Add-ons/M_FCFG
-srb2.pk3:/Graphics/Menu/Add-ons/M_FFLDR
-srb2.pk3:/Graphics/Menu/Add-ons/M_FLOAD
-srb2.pk3:/Graphics/Menu/Add-ons/M_FLUA
-srb2.pk3:/Graphics/Menu/Add-ons/M_FNOPE
-srb2.pk3:/Graphics/Menu/Add-ons/M_FPK3
-srb2.pk3:/Graphics/Menu/Add-ons/M_FSAVE
-srb2.pk3:/Graphics/Menu/Add-ons/M_FSEL
-srb2.pk3:/Graphics/Menu/Add-ons/M_FSOC
-srb2.pk3:/Graphics/Menu/Add-ons/M_FSRCH
-srb2.pk3:/Graphics/Menu/Add-ons/M_FTXT
-srb2.pk3:/Graphics/Menu/Add-ons/M_FUNKN
-srb2.pk3:/Graphics/Menu/Add-ons/M_FWAD
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FBACK	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FCFG	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FFLDR	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FLOAD	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FLUA	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FNOPE	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FPK3	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FSAVE	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FSEL	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FSOC	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FSRCH	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FTXT	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FUNKN	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Add-Ons/M_FWAD	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Menu/BRDR_B
 srb2.pk3:/Graphics/Menu/BRDR_BL
 srb2.pk3:/Graphics/Menu/BRDR_BR
