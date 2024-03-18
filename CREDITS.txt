@@ -14331,138 +14331,138 @@ zones.pk3:/SOC/SOC_HEAD.txt
 zones.pk3:/SOC/SOC_EMBM.txt
 zones.pk3:/SOC/SOC_SECR.txt
 zones.pk3:/SOC/Tutorial.txt
-zones.pk3:/Level select pictures/MAP70P.lmp
-zones.pk3:/Level select pictures/MAPM5P.lmp
-zones.pk3:/Level select pictures/MAP09P.lmp
-zones.pk3:/Level select pictures/MAPF5P.lmp
-zones.pk3:/Level select pictures/MAP52P.lmp
-zones.pk3:/Level select pictures/MAP32P.lmp
-zones.pk3:/Level select pictures/MAPF1P.lmp
-zones.pk3:/Level select pictures/MAPF3P.lmp
-zones.pk3:/Level select pictures/MAP72P.lmp
-zones.pk3:/Level select pictures/MAP50P.lmp
-zones.pk3:/Level select pictures/MAP22P.lmp
-zones.pk3:/Level select pictures/MAPF8P.lmp
-zones.pk3:/Level select pictures/MAP30P.lmp
-zones.pk3:/Level select pictures/MAP71P.lmp
-zones.pk3:/Level select pictures/MAP55P.lmp
-zones.pk3:/Level select pictures/MAPF7P.lmp
+zones.pk3:/Level select pictures/MAP01P.lmp
+zones.pk3:/Level select pictures/MAP02P.lmp
+zones.pk3:/Level select pictures/MAP03P.lmp
 zones.pk3:/Level select pictures/MAP04P.lmp
-zones.pk3:/Level select pictures/MAP54P.lmp
+zones.pk3:/Level select pictures/MAP05P.lmp
+zones.pk3:/Level select pictures/MAP06P.lmp
+zones.pk3:/Level select pictures/MAP07P.lmp
+zones.pk3:/Level select pictures/MAP08P.lmp
+zones.pk3:/Level select pictures/MAP09P.lmp
+zones.pk3:/Level select pictures/MAP10P.lmp
+zones.pk3:/Level select pictures/MAP11P.lmp
+zones.pk3:/Level select pictures/MAP12P.lmp
+zones.pk3:/Level select pictures/MAP13P.lmp
+zones.pk3:/Level select pictures/MAP14P.lmp
+zones.pk3:/Level select pictures/MAP15P.lmp
+zones.pk3:/Level select pictures/MAP16P.lmp
+zones.pk3:/Level select pictures/MAP22P.lmp
+zones.pk3:/Level select pictures/MAP23P.lmp
 zones.pk3:/Level select pictures/MAP25P.lmp
 zones.pk3:/Level select pictures/MAP26P.lmp
-zones.pk3:/Level select pictures/MAP11P.lmp
-zones.pk3:/Level select pictures/MAP10P.lmp
-zones.pk3:/Level select pictures/MAP27W.lmp
-zones.pk3:/Level select pictures/MAP57P.lmp
-zones.pk3:/Level select pictures/MAP23P.lmp
-zones.pk3:/Level select pictures/MAP08P.lmp
-zones.pk3:/Level select pictures/MAPM4P.lmp
 zones.pk3:/Level select pictures/MAP27P.lmp
-zones.pk3:/Level select pictures/MAPM2P.lmp
-zones.pk3:/Level select pictures/MAPF6P.lmp
-zones.pk3:/Level select pictures/MAP13P.lmp
-zones.pk3:/Level select pictures/MAPF0P.lmp
-zones.pk3:/Level select pictures/MAP03P.lmp
-zones.pk3:/Level select pictures/MAP53P.lmp
-zones.pk3:/Level select pictures/MAPMAP.lmp
-zones.pk3:/Level select pictures/MAP14P.lmp
-zones.pk3:/Level select pictures/MAP40P.lmp
-zones.pk3:/Level select pictures/MAP42P.lmp
-zones.pk3:/Level select pictures/MAP56P.lmp
-zones.pk3:/Level select pictures/MAP16P.lmp
-zones.pk3:/Level select pictures/MAP51P.lmp
-zones.pk3:/Level select pictures/MAPM0P.lmp
-zones.pk3:/Level select pictures/MAPMBP.lmp
-zones.pk3:/Level select pictures/MAPF4P.lmp
-zones.pk3:/Level select pictures/MAP73P.lmp
-zones.pk3:/Level select pictures/MAP06P.lmp
-zones.pk3:/Level select pictures/MAP02P.lmp
+zones.pk3:/Level select pictures/MAP27W.lmp
+zones.pk3:/Level select pictures/MAP30P.lmp
 zones.pk3:/Level select pictures/MAP31P.lmp
-zones.pk3:/Level select pictures/MAP05P.lmp
-zones.pk3:/Level select pictures/MAPF2P.lmp
-zones.pk3:/Level select pictures/MAP12P.lmp
-zones.pk3:/Level select pictures/MAPZ0P.lmp
+zones.pk3:/Level select pictures/MAP32P.lmp
+zones.pk3:/Level select pictures/MAP33P.lmp
+zones.pk3:/Level select pictures/MAP40P.lmp
 zones.pk3:/Level select pictures/MAP41P.lmp
-zones.pk3:/Level select pictures/MAP07P.lmp
-zones.pk3:/Level select pictures/MAP15P.lmp
+zones.pk3:/Level select pictures/MAP42P.lmp
+zones.pk3:/Level select pictures/MAP50P.lmp
+zones.pk3:/Level select pictures/MAP51P.lmp
+zones.pk3:/Level select pictures/MAP52P.lmp
+zones.pk3:/Level select pictures/MAP53P.lmp
+zones.pk3:/Level select pictures/MAP54P.lmp
+zones.pk3:/Level select pictures/MAP55P.lmp
+zones.pk3:/Level select pictures/MAP56P.lmp
+zones.pk3:/Level select pictures/MAP57P.lmp
+zones.pk3:/Level select pictures/MAP70P.lmp
+zones.pk3:/Level select pictures/MAP71P.lmp
+zones.pk3:/Level select pictures/MAP72P.lmp
+zones.pk3:/Level select pictures/MAP73P.lmp
+zones.pk3:/Level select pictures/MAPF0P.lmp
+zones.pk3:/Level select pictures/MAPF1P.lmp
+zones.pk3:/Level select pictures/MAPF2P.lmp
+zones.pk3:/Level select pictures/MAPF3P.lmp
+zones.pk3:/Level select pictures/MAPF4P.lmp
+zones.pk3:/Level select pictures/MAPF5P.lmp
+zones.pk3:/Level select pictures/MAPF6P.lmp
+zones.pk3:/Level select pictures/MAPF7P.lmp
+zones.pk3:/Level select pictures/MAPF8P.lmp
+zones.pk3:/Level select pictures/MAPM0P.lmp
+zones.pk3:/Level select pictures/MAPM1P.lmp
+zones.pk3:/Level select pictures/MAPM2P.lmp
 zones.pk3:/Level select pictures/MAPM3P.lmp
-zones.pk3:/Level select pictures/MAP01P.lmp
+zones.pk3:/Level select pictures/MAPM4P.lmp
+zones.pk3:/Level select pictures/MAPM5P.lmp
 zones.pk3:/Level select pictures/MAPM6P.lmp
 zones.pk3:/Level select pictures/MAPM7P.lmp
 zones.pk3:/Level select pictures/MAPM8P.lmp
-zones.pk3:/Level select pictures/MAPM1P.lmp
 zones.pk3:/Level select pictures/MAPM9P.lmp
-zones.pk3:/Level select pictures/MAP33P.lmp
-zones.pk3:/Maps/MAP53.wad
+zones.pk3:/Level select pictures/MAPMAP.lmp
+zones.pk3:/Level select pictures/MAPMBP.lmp
+zones.pk3:/Level select pictures/MAPZ0P.lmp
+zones.pk3:/Maps/MAP01.wad
+zones.pk3:/Maps/MAP02.wad
 zones.pk3:/Maps/MAP03.wad
-zones.pk3:/Maps/MAP10.wad
-zones.pk3:/Maps/MAPF2.wad
-zones.pk3:/Maps/MAPMB.wad
-zones.pk3:/Maps/MAP57.wad
-zones.pk3:/Maps/MAP22.wad
-zones.pk3:/Maps/MAP73.wad
-zones.pk3:/Maps/MAPM3.wad
-zones.pk3:/Maps/MAP55.wad
-zones.pk3:/Maps/MAP52.wad
-zones.pk3:/Maps/MAP25.wad
-zones.pk3:/Maps/MAP71.wad
-zones.pk3:/Maps/MAP26.wad
-zones.pk3:/Maps/MAP41.wad
-zones.pk3:/Maps/MAP56.wad
-zones.pk3:/Maps/MAP25MS.LMP
+zones.pk3:/Maps/MAP04.wad
 zones.pk3:/Maps/MAP05.wad
+zones.pk3:/Maps/MAP06.wad
+zones.pk3:/Maps/MAP07.wad
+zones.pk3:/Maps/MAP08.wad
+zones.pk3:/Maps/MAP09.wad
+zones.pk3:/Maps/MAP10.wad
+zones.pk3:/Maps/MAP11.wad
+zones.pk3:/Maps/MAP12.wad
+zones.pk3:/Maps/MAP13.wad
+zones.pk3:/Maps/MAP14.wad
+zones.pk3:/Maps/MAP15.wad
+zones.pk3:/Maps/MAP16.wad
+zones.pk3:/Maps/MAP22.wad
+zones.pk3:/Maps/MAP23.wad
+zones.pk3:/Maps/MAP25.wad
+zones.pk3:/Maps/MAP25MS.LMP
+zones.pk3:/Maps/MAP26.wad
+zones.pk3:/Maps/MAP27.wad
+zones.pk3:/Maps/MAP30.wad
+zones.pk3:/Maps/MAP31.wad
+zones.pk3:/Maps/MAP32.wad
+zones.pk3:/Maps/MAP33.wad
+zones.pk3:/Maps/MAP40.wad
+zones.pk3:/Maps/MAP41.wad
+zones.pk3:/Maps/MAP42.wad
+zones.pk3:/Maps/MAP50.wad
+zones.pk3:/Maps/MAP51.wad
+zones.pk3:/Maps/MAP52.wad
+zones.pk3:/Maps/MAP53.wad
+zones.pk3:/Maps/MAP54.wad
+zones.pk3:/Maps/MAP55.wad
+zones.pk3:/Maps/MAP56.wad
+zones.pk3:/Maps/MAP57.wad
+zones.pk3:/Maps/MAP60.wad
+zones.pk3:/Maps/MAP61.wad
+zones.pk3:/Maps/MAP62.wad
+zones.pk3:/Maps/MAP63.wad
+zones.pk3:/Maps/MAP64.wad
+zones.pk3:/Maps/MAP65.wad
+zones.pk3:/Maps/MAP66.wad
+zones.pk3:/Maps/MAP70.wad
+zones.pk3:/Maps/MAP71.wad
+zones.pk3:/Maps/MAP72.wad
+zones.pk3:/Maps/MAP73.wad
+zones.pk3:/Maps/MAP99.wad
+zones.pk3:/Maps/MAPF0.wad
+zones.pk3:/Maps/MAPF1.wad
+zones.pk3:/Maps/MAPF2.wad
+zones.pk3:/Maps/MAPF3.wad
+zones.pk3:/Maps/MAPF4.wad
+zones.pk3:/Maps/MAPF5.wad
+zones.pk3:/Maps/MAPF6.wad
+zones.pk3:/Maps/MAPF7.wad
+zones.pk3:/Maps/MAPF8.wad
+zones.pk3:/Maps/MAPM0.wad
+zones.pk3:/Maps/MAPM1.wad
+zones.pk3:/Maps/MAPM2.wad
+zones.pk3:/Maps/MAPM3.wad
 zones.pk3:/Maps/MAPM4.wad
 zones.pk3:/Maps/MAPM5.wad
-zones.pk3:/Maps/MAP66.wad
-zones.pk3:/Maps/MAP27.wad
-zones.pk3:/Maps/MAP62.wad
-zones.pk3:/Maps/MAP60.wad
-zones.pk3:/Maps/MAPF5.wad
-zones.pk3:/Maps/MAP33.wad
-zones.pk3:/Maps/MAPM8.wad
-zones.pk3:/Maps/MAP61.wad
-zones.pk3:/Maps/MAP72.wad
-zones.pk3:/Maps/MAPF8.wad
-zones.pk3:/Maps/MAP04.wad
-zones.pk3:/Maps/MAP51.wad
-zones.pk3:/Maps/MAP40.wad
-zones.pk3:/Maps/MAPF3.wad
-zones.pk3:/Maps/MAP15.wad
-zones.pk3:/Maps/MAPM2.wad
-zones.pk3:/Maps/MAP70.wad
 zones.pk3:/Maps/MAPM6.wad
-zones.pk3:/Maps/MAP64.wad
-zones.pk3:/Maps/MAP13.wad
-zones.pk3:/Maps/MAP11.wad
-zones.pk3:/Maps/MAP31.wad
-zones.pk3:/Maps/MAPF0.wad
-zones.pk3:/Maps/MAPM0.wad
-zones.pk3:/Maps/MAP42.wad
-zones.pk3:/Maps/MAPF7.wad
-zones.pk3:/Maps/MAP09.wad
-zones.pk3:/Maps/MAPM9.wad
-zones.pk3:/Maps/MAP12.wad
 zones.pk3:/Maps/MAPM7.wad
-zones.pk3:/Maps/MAP07.wad
-zones.pk3:/Maps/MAPF4.wad
-zones.pk3:/Maps/MAP14.wad
-zones.pk3:/Maps/MAP16.wad
-zones.pk3:/Maps/MAP02.wad
-zones.pk3:/Maps/MAP65.wad
-zones.pk3:/Maps/MAP06.wad
-zones.pk3:/Maps/MAP50.wad
-zones.pk3:/Maps/MAPF1.wad
-zones.pk3:/Maps/MAP30.wad
-zones.pk3:/Maps/MAP08.wad
-zones.pk3:/Maps/MAP99.wad
-zones.pk3:/Maps/MAPZ0.wad
-zones.pk3:/Maps/MAP63.wad
+zones.pk3:/Maps/MAPM8.wad
+zones.pk3:/Maps/MAPM9.wad
 zones.pk3:/Maps/MAPMA.wad
-zones.pk3:/Maps/MAP23.wad
-zones.pk3:/Maps/MAP32.wad
-zones.pk3:/Maps/MAPM1.wad
-zones.pk3:/Maps/MAP01.wad
-zones.pk3:/Maps/MAPF6.wad
-zones.pk3:/Maps/MAP54.wad
+zones.pk3:/Maps/MAPMB.wad
+zones.pk3:/Maps/MAPZ0.wad
 
