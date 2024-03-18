@@ -4022,7 +4022,7 @@ srb2.pk3:/Sounds/SRB2/DSSPLASH
 srb2.pk3:/Sounds/SRB2/DSSPLISH
 srb2.pk3:/Sounds/SRB2/DSSPNDSH	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSSPRING	"Zibon 'PixL' Badi"
-srb2.pk3:/Sounds/DSSPRING2	"Zibon 'PixL' Badi" (nonstandard)
+srb2.pk3:/Sounds/DSSPRING2	"Zibon 'PixL' Badi"	(nonstandard)
 srb2.pk3:/Sounds/SRB2/DSSPRONG
 srb2.pk3:/Sounds/SRB2/DSSPSMSH
 srb2.pk3:/Sounds/SRB2/DSSTATU1

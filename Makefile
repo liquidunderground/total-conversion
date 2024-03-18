@@ -6,8 +6,7 @@ clean:
 	rm bin/*
 
 coverage:
-	@echo "=== ASSET COVERAGE IN % ==="
-	echo "4 k $(shell grep "	" CREDITS.txt | wc -l) $(shell grep ":" CREDITS.txt | wc -l) / 100 * p q" | dc
+	@./coverage.sh
 
 bin/srb2.pk3: srb2.pk3/*
 	pushd srb2.pk3 && \
