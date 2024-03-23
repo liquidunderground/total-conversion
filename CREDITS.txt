@@ -12404,11 +12404,11 @@ music.dta:/O_MP_SUN.ogg
 music.dta:/O_MP_WT2.ogg
 music.dta:/O_MP_WTR.ogg
 music.dta:/O__NITAT.ogg
-music.dta:/O__NTIME.ogg
+music.dta:/O__NTIME.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_OINTRO.ogg
 music.dta:/O_OSPEC2.ogg
 music.dta:/O_OSPEC.ogg
-music.dta:/O__RECAT.ogg
+music.dta:/O__RECAT.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_RVZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_RVZ2.ogg
 music.dta:/O_RVZALT.ogg

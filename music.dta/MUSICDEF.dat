@@ -348,13 +348,11 @@ Soundtestcond = -11
 BPM = 135
 
 Lump _NTIME
-Title = Dream_over...
-Alttitle = Time_Up_(JINGLE)
-Authors = Naofumi_Hataya_(NiGHTS_into_Dreams...)
+Title = Time_Over
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = -11
-Stoppingtime = 11.709
-BPM = 90
+BPM = 140
 
 Lump CCZ
 Title = Christmas_Chime
