@@ -107,11 +107,11 @@ Soundtestcond = 52
 BPM = 125
 
 Lump CEZ1
-Title = Castle_Eggman_1
-Authors = clairebun,_DrTapeworm,_Arrow
+Title = Frozen_Record_1
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 10
-BPM = 156
+BPM = 100
 
 Lump CEZR
 Title = Bridge_collapse!
@@ -121,11 +121,11 @@ Soundtestcond = 10
 BPM = 170
 
 Lump CEZ2
-Title = Castle_Eggman_2
-Authors = clairebun,_DrTapeworm,_Arrow
+Title = Frozen_Record_2
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 11
-BPM = 120
+BPM = 135
 
 Lump SPEC4
 Title = Cavern_Fortress
