@@ -5923,27 +5923,27 @@ srb2.pk3:/Sprites/Emblems/EMBMB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMC0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMD0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBME0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Emblems/EMBMF0
-srb2.pk3:/Sprites/Emblems/EMBMG0
-srb2.pk3:/Sprites/Emblems/EMBMH0
-srb2.pk3:/Sprites/Emblems/EMBMI0
-srb2.pk3:/Sprites/Emblems/EMBMJ0
-srb2.pk3:/Sprites/Emblems/EMBMK0
-srb2.pk3:/Sprites/Emblems/EMBML0
-srb2.pk3:/Sprites/Emblems/EMBMM0
+srb2.pk3:/Sprites/Emblems/EMBMF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMG0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMH0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMI0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMJ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMK0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBML0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMM0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMN0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Emblems/EMBMO0
+srb2.pk3:/Sprites/Emblems/EMBMO0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMP0
-srb2.pk3:/Sprites/Emblems/EMBMQ0
-srb2.pk3:/Sprites/Emblems/EMBMR0
-srb2.pk3:/Sprites/Emblems/EMBMS0
-srb2.pk3:/Sprites/Emblems/EMBMT0
-srb2.pk3:/Sprites/Emblems/EMBMU0
-srb2.pk3:/Sprites/Emblems/EMBMV0
-srb2.pk3:/Sprites/Emblems/EMBMW0
-srb2.pk3:/Sprites/Emblems/EMBMX0
-srb2.pk3:/Sprites/Emblems/EMBMY0
-srb2.pk3:/Sprites/Emblems/EMBMZ0
+srb2.pk3:/Sprites/Emblems/EMBMQ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMR0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMS0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMT0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMU0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMV0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMW0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMX0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMY0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Emblems/EMBMZ0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emerald Token/TOKEA0.lmp
 srb2.pk3:/Sprites/Emerald Token/TOKEB0.lmp
 srb2.pk3:/Sprites/Emerald Token/TOKEC0.lmp
