@@ -334,10 +334,11 @@ BPM = 150
 
 Lump _RECAT
 Title = Record_Attack
-Authors = clairebun
+Alttitle = Disco_2
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 0
-BPM = 120
+BPM = 150
 
 Lump _NITAT
 Title = NiGHTS_Mode
