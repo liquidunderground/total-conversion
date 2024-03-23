@@ -12355,8 +12355,8 @@ music.dta:/O_BCZ2.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_BHZ.ogg
 music.dta:/O_CCW.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_CCZ.ogg
-music.dta:/O_CEZ1.ogg
-music.dta:/O_CEZ2.ogg
+music.dta:/O_CEZ1.ogg	"Zibon 'PixL' Badi"
+music.dta:/O_CEZ2.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_CEZR.ogg
 music.dta:/O__CHSEL.ogg	astral
 music.dta:/O__CLEAR.ogg	"Zibon 'PixL' Badi"
@@ -12367,7 +12367,7 @@ music.dta:/O_DHZ.ogg
 music.dta:/O_DISCO.ogg	"Zibon 'PixL' Badi"
 music.dta:/O__DROWN.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_DSZ1.ogg	"Zibon 'PixL' Badi"
-music.dta:/O_DSZ2.ogg
+music.dta:/O_DSZ2.ogg	"Zibon 'PixL' Badi"
 music.dta:/O__ENDB.ogg
 music.dta:/O__ENDG.ogg
 music.dta:/O_ERZ1.ogg	"Zibon 'PixL' Badi"
