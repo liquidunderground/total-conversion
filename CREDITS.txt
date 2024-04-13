@@ -12380,7 +12380,7 @@ music.dta:/O__GOVER.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_HAUNTD.ogg
 music.dta:/O__INTER.ogg
 music.dta:/O__INTRO.ogg
-music.dta:/O__INV.ogg
+music.dta:/O__INV.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_MARIO1.ogg
 music.dta:/O_MARIO2.ogg
 music.dta:/O__MINV.ogg
