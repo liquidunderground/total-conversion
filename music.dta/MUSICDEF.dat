@@ -294,7 +294,8 @@ BPM = 190
 
 Lump _INV
 Title = Invincible
-Authors = clairebun,_Arrow
+Alttitle = Chakra_Power
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 0
 Stoppingtime = 22.599
