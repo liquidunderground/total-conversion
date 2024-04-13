@@ -36,6 +36,13 @@ Soundtestpage = 1
 Soundtestcond = 0
 BPM = 96
 
+Lump CCW
+Title = Crystal_Clockworld
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 0
+BPM = 120
+
 Lump GFZ1
 Title = Stella_Mountain_1
 Authors = Zibon_"PixL"_Badi
@@ -135,8 +142,8 @@ Soundtestcond = 53
 BPM = 147
 
 Lump ACZ1
-Title = Arid_Canyon_1
-Authors = clairebun,_Shane_Strife,_Nev3r,_Spazzo
+Title = Desert_Pit_1
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 13
 BPM = 182
@@ -178,15 +185,15 @@ Soundtestcond = 55
 BPM = 120
 
 Lump ERZ1
-Title = Egg_Rock_1
-Authors = clairebun,_Shane_Strife,_Stuf
+Title = Orbital_Crystal_1
+Authors =  Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 22
 BPM = 120
 
 Lump ERZ2
-Title = Egg_Rock_2
-Authors = clairebun,_Shane_Strife,_Big_Wave_Dave
+Title = Orbital_Crystal_2
+Authors =  Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 23
 BPM = 152
@@ -206,22 +213,23 @@ Soundtestcond = 25
 BPM = 164
 
 Lump VSMETL
-Title = VS_Mara
+Title = VS_MARA
 Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 26
 BPM = 175
 
 Lump BCZ2
-Title = Anticipation
-Authors = clairebun
+Title = Equinox_Gate_2
+Alttitle = MARA's_secret
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 26
 BPM = 102
 
 Lump VSBRAK
-Title = VS_Black_Eggman
-Authors = clairebun,_Shane_Strife,_Arrow
+Title = VS_KOTU
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 27
 BPM = 216
