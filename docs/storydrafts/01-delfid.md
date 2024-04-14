@@ -1,7 +1,7 @@
 # Liquid Total Conversion - Story
 
 **Draft**: 1 "Delfid"  
-**Version**: 2.3.0
+**Version**: 2.4.0
 **Written by**: Zibon "PixL" Badi  
 **Co-written by**: NotablyPrettyCrazy
 
@@ -37,11 +37,9 @@ Floating through the planet's orbit after the explosion, Alex saw nothing but de
 
 [IMG: Our heroes flying through the sky, holding onto Kleene and his helicopter device]
 
-Kleene: "Thanks for letting me test my new perso-copter under heavy load."
+Babel: Marvelous! We just proved that Vinci's legendary persocopter *could* indeed carry him over the mountains!
 
-Babel: "Oh I'm very pleased by this trip myself, Kleene! I've long been looking for an opportunity to explore the mountains."
-
-Elise: "Sure Kleene. You know I'd never-"
+Kleene: And all it took was some strings and a bit of wood, too. Don't mind the plastic on mine, though. Wood was just too heavy for two.
 
 \*BOOM!\*
 
@@ -52,7 +50,6 @@ Elise: "WHAT THE- ... Did you hear that?"
 Kleene, Elise and Babel looked up at the sky, witnessing Delfid exploding.
 
 Babel: "This can't be ..."
-
 Before they could even recover from the shock of the sight, something came wheezing past them and crashed Kleene's perso-copter.
 
 [IMG: Our heroes crash landed among smoke and debris, Dr. Asura and his demons nearby]
@@ -105,6 +102,13 @@ If the player managed to collect all seven Chakra Shards throughout the game, MA
 (I like this description as it basically telegraphs her as a high skill ceiling character)
 
 [*Appearance*: Very classical. A mixture between a ballet dancer and a knightess]
+
+**Elise Cantor** [Sonic replacement] : Originally Kleene's AI girlfriend,
+she's made an independent living as "ELI5E", an electro swing idol. Her
+athletic skills allow her to perform the *wave dash*.
+(I like this description as it basically telegraphs her as a high skill ceiling character)
+
+[Appearance: Basically a VOCALOID fusing jazzy and knight elements]
 
 **Babel Memto** [Knuckles replacement]
 : A mole librarian with a knack for soft science and history. Thrives in discovering hidden details and digging through mountains of books. Seeks to reconstruct Delfid's lost knowledge by reassembling the enlightenment crystal and rebuild it's society.
