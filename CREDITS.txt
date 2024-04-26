@@ -12342,6 +12342,8 @@ srb2.pk3:/WATERMAP
 
 
 music.dta:/MUSICDEF.dat	Everyone	(partial)
+music.dta:/D_RVZ1.ogg	"Zibon 'PixL' Badi"
+music.dta:/D_GFZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O__1UP.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_ACZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_ACZ2.ogg
