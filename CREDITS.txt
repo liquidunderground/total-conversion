@@ -7601,18 +7601,18 @@ srb2.pk3:/Sprites/Hazards/SPIKE0
 srb2.pk3:/Sprites/Hazards/SPIKF0
 srb2.pk3:/Sprites/Hazards/SPIKG0
 srb2.pk3:/Sprites/Hazards/SPIKH0
-srb2.pk3:/Sprites/Hazards/Spikes/USPKA0
-srb2.pk3:/Sprites/Hazards/Spikes/USPKB0
-srb2.pk3:/Sprites/Hazards/Spikes/USPKC0
-srb2.pk3:/Sprites/Hazards/Spikes/USPKD0
-srb2.pk3:/Sprites/Hazards/Spikes/USPKELER
-srb2.pk3:/Sprites/Hazards/Spikes/USPKFLFR
-srb2.pk3:/Sprites/Hazards/Spikes/WSPBA0
-srb2.pk3:/Sprites/Hazards/Spikes/WSPBB0
-srb2.pk3:/Sprites/Hazards/Spikes/WSPBC0
-srb2.pk3:/Sprites/Hazards/Spikes/WSPBD0
-srb2.pk3:/Sprites/Hazards/Spikes/WSPKALAR
-srb2.pk3:/Sprites/Hazards/Spikes/WSPKBLBR
+srb2.pk3:/Sprites/Hazards/Spikes/USPKA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/USPKB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/USPKC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/USPKD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/USPKELER	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/USPKFLFR	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/WSPBA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/WSPBB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/WSPBC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/WSPBD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/WSPKALAR	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Hazards/Spikes/WSPKBLBR	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Hazards/Spikes/WSPKCLCR
 srb2.pk3:/Sprites/Hazards/Spikes/WSPKDLDR
 srb2.pk3:/Sprites/Hazards/Spikes/WSPKELER
