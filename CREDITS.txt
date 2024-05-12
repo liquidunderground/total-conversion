@@ -7076,12 +7076,12 @@ srb2.pk3:/Sprites/Enemies/Unidus/UNIDB1B5
 srb2.pk3:/Sprites/Enemies/Unidus/UNIDB2B8
 srb2.pk3:/Sprites/Enemies/Unidus/UNIDB3B7
 srb2.pk3:/Sprites/Enemies/Unidus/UNIDB4B6
-srb2.pk3:/Sprites/Explosions/BOM1A0
-srb2.pk3:/Sprites/Explosions/BOM1B0
-srb2.pk3:/Sprites/Explosions/BOM1C0
-srb2.pk3:/Sprites/Explosions/BOM1D0
-srb2.pk3:/Sprites/Explosions/BOM1E0
-srb2.pk3:/Sprites/Explosions/BOM1F0
+srb2.pk3:/Sprites/Particles/BOM1A0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Particles/BOM1B0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Particles/BOM1C0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Particles/BOM1D0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Particles/BOM1E0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Particles/BOM1F0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Explosions/BOM2A0
 srb2.pk3:/Sprites/Explosions/BOM2B0
 srb2.pk3:/Sprites/Explosions/BOM2C0
