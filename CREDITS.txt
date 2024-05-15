@@ -9168,11 +9168,11 @@ srb2.pk3:/Sprites/Scenery/Trees/TRE1B0
 srb2.pk3:/Sprites/Scenery/Trees/TRE1C0
 srb2.pk3:/Sprites/Scenery/Trees/TRE2A0
 srb2.pk3:/Sprites/Scenery/Trees/TRE2B0
-srb2.pk3:/Sprites/Scenery/Trees/TRE3A0
-srb2.pk3:/Sprites/Scenery/Trees/TRE3B0
+srb2.pk3:/Sprites/Trees/TRE3A0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Trees/TRE3B0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Scenery/Trees/TRE4A0
-srb2.pk3:/Sprites/Scenery/Trees/TRE5A0
-srb2.pk3:/Sprites/Scenery/Trees/TRE5B0
+srb2.pk3:/Sprites/Trees/TRE5A0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Trees/TRE5B0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Scenery/Trees/TRE6A0
 srb2.pk3:/Sprites/Scenery/Tutorial/TUPFA0
 srb2.pk3:/Sprites/Scenery/Tutorial/TUPFB0
