@@ -12607,7 +12607,7 @@ player.dta:amy:SPNGA5.lmp
 player.dta:amy:SPNGA6.lmp
 player.dta:amy:SPNGA7.lmp
 player.dta:amy:SPNGA8.lmp
-player.dta:amy:STNDA1.lmp
+player.dta:alex:STNDA1.lmp	"Zibon 'PixL' Badi"
 player.dta:amy:STNDA2A8.lmp
 player.dta:amy:STNDA3A7.lmp
 player.dta:amy:STNDA4A6.lmp
@@ -12721,8 +12721,8 @@ player.dta:amy:WALKH2D8.lmp
 player.dta:amy:WALKH3D7.lmp
 player.dta:amy:WALKH4D6.lmp
 player.dta:amy:WALKH5.lmp
-player.dta:amy:XTRAA0.lmp
-player.dta:amy:XTRAB0.lmp
+player.dta:alex:XTRAA0.lmp	"Zibon 'PixL' Badi"
+player.dta:alex:XTRAB0.lmp	"Zibon 'PixL' Badi"
 player.dta:amy:XTRAC0.lmp
 player.dta:amy:XTRAD0.lmp
 player.dta:amy:XTRAE0.lmp
