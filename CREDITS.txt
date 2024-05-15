@@ -2088,9 +2088,9 @@ srb2.pk3:/Graphics/Fonts/TTL/TTL07	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/TTL/TTL08	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/TTL/TTL09	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/GAMEQUIT.lmp
-srb2.pk3:/Graphics/Game Over/SLIDGAME
-srb2.pk3:/Graphics/Game Over/SLIDOVER
-srb2.pk3:/Graphics/Game Over/SLIDTIME
+srb2.pk3:/Graphics/Game Over/SLIDGAME	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Game Over/SLIDOVER	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Game Over/SLIDTIME	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/HELPM01.lmp
 srb2.pk3:/Graphics/HELPM02.lmp
 srb2.pk3:/Graphics/HELPN01.lmp
