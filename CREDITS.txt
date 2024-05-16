@@ -9163,9 +9163,9 @@ srb2.pk3:/Sprites/Scenery/Techno Hill/THZTKLKR
 srb2.pk3:/Sprites/Scenery/Techno Hill/THZTLLLR
 srb2.pk3:/Sprites/Scenery/Techno Hill/THZTMLMR
 srb2.pk3:/Sprites/Scenery/Techno Hill/THZTNLNR
-srb2.pk3:/Sprites/Scenery/Trees/TRE1A0
-srb2.pk3:/Sprites/Scenery/Trees/TRE1B0
-srb2.pk3:/Sprites/Scenery/Trees/TRE1C0
+srb2.pk3:/Sprites/Trees/TRE1A0	"Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Trees/TRE1B0	"Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Trees/TRE1C0	"Gog 'Idk' Wagoo"
 srb2.pk3:/Sprites/Scenery/Trees/TRE2A0
 srb2.pk3:/Sprites/Scenery/Trees/TRE2B0
 srb2.pk3:/Sprites/Trees/TRE3A0	"Zibon 'PixL' Badi"
