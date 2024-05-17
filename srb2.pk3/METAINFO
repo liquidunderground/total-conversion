@@ -62,7 +62,7 @@ RRNG graphic 16 30
 BFLG graphic 14 69
 RFLG graphic 14 69
 # Bushes
-BUS1 graphic 37 70
+BUS3 graphic 37 70
 ### Trees
 TRE1 graphic 90 245
 TRE3 graphic 28 252
