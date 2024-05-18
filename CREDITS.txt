@@ -306,8 +306,8 @@ srb2.pk3:/Flats/BRICK2
 srb2.pk3:/Flats/BRICK3
 srb2.pk3:/Flats/BRICK4
 srb2.pk3:/Flats/BUSTFLR
-srb2.pk3:/Flats/CASINOF1
-srb2.pk3:/Flats/CASINOF2
+srb2.pk3:/Flats/Casino/CASINOF1	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Casino/CASINOF2	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/CASINOF3
 srb2.pk3:/Flats/CASINOF4
 srb2.pk3:/Flats/CEIL3_1
