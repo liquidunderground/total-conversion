@@ -1,6 +1,6 @@
 
 .PHONY: coverage
-all: srb2.pk3 music.dta player.dta zones.pk3
+all: bin/srb2.pk3 bin/music.dta bin/player.dta bin/zones.pk3
 
 clean:
 	rm bin/*
@@ -10,18 +10,41 @@ coverage:
 
 #bin/srb2.pk3: $(shell find ./srb2.pk3/ -name "*.png" | sed "s/.\/\(.*\)\.png/build\/\1\.lmp/g")
 #bin/srb2.pk3: build/srb2.pk3
-bin/srb2.pk3: build/srb2.pk3/Fades build/srb2.pk3/Flats build/srb2.pk3/Graphics build/srb2.pk3/Patches build/srb2.pk3/Sounds build/srb2.pk3/Sprites build/srb2.pk3/Textures
+bin/srb2.pk3: build/PLAYPAL build/srb2.pk3/Fades build/srb2.pk3/Flats build/srb2.pk3/Graphics build/srb2.pk3/Patches build/srb2.pk3/Sounds build/srb2.pk3/Sprites build/srb2.pk3/Textures | bin
 	pushd build/srb2.pk3 && \
-	zip -FSr ../bin/srb2.pk3 **.lmp && \
+	zip -FSr ../../bin/srb2.pk3 . && \
 	popd
-	zip -FSr bin/srb2.pk3 srb2.pk3/Fades/*.png
-	zip -FSr bin/srb2.pk3 srb2.pk3/Sounds/**.ogg
 
 # Compiled GFX
-build/srb2.pk3/Flats build/srb2.pk3/Graphics build/srb2.pk3/Patches build/srb2.pk3/Sprites build/srb2.pk3/Textures: srb2.pk3/Flats srb2.pk3/Graphics srb2.pk3/Patches srb2.pk3/Sprites srb2.pk3/Textures
-	pushd srb2.pk3 && \
-	dimgconv . -r --verbose --output ../build/srb2.pk3 --palette ../PLAYPAL.pal && \
+build/srb2.pk3/Flats: srb2.pk3/Flats
+	pushd srb2.pk3/Flats && \
+	dimgconv . -r -i METAINFO --verbose --output ../../build/srb2.pk3/Flats --palette ../PLAYPAL && \
 	popd
+
+build/srb2.pk3/Sprites: srb2.pk3/Sprites
+	pushd srb2.pk3/Sprites && \
+	dimgconv . -r -i METAINFO --verbose --output ../../build/srb2.pk3/Sprites --palette ../PLAYPAL && \
+	popd
+
+build/srb2.pk3/Textures: srb2.pk3/Textures
+	pushd srb2.pk3/Textures && \
+	dimgconv . -r -i METAINFO --verbose --output ../../build/srb2.pk3/Textures --palette ../PLAYPAL && \
+	popd
+
+build/srb2.pk3/Patches: srb2.pk3/Patches
+	pushd srb2.pk3/Patches && \
+	dimgconv . -r -i METAINFO --verbose --output ../../build/srb2.pk3/Patches --palette ../PLAYPAL && \
+	popd
+
+build/srb2.pk3/Graphics: srb2.pk3/Graphics
+	pushd srb2.pk3/Graphics && \
+	dimgconv . -r -i METAINFO --verbose --output ../../build/srb2.pk3/Graphics --palette ../PLAYPAL && \
+	popd
+
+# Palette inclusion
+build/PLAYPAL: srb2.pk3/PLAYPAL
+	mkdir -p build/srb2.pk3
+	cp -r srb2.pk3/PLAYPAL build/srb2.pk3/PLAYPAL
 
 # Raw sounds - The engine encourages it
 build/srb2.pk3/Sounds: srb2.pk3/Sounds srb2.pk3/Patches srb2.pk3/Sprites srb2.pk3/Textures
@@ -46,3 +69,6 @@ bin/zones.pk3:
 	pushd zones.pk3 && \
 	zip -FSr ../bin/zones.pk3 * && \
 	popd
+
+bin:
+	mkdir -p build/srb2.pk3/Sounds/

@@ -3,4 +3,4 @@
 # SYNTAX: * graphic/flat [x-offset] [y-offset]
 
 # Wall textures
-PLAYPAL palette
+Textures/ graphic

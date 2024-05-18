@@ -1,0 +1,7 @@
+# DoomTools-style METAINFO for graphics offsets
+#
+# SYNTAX: * graphic/flat [x-offset] [y-offset]
+
+# Flats; Screen fades engine-prorietary and
+# lack DoomTools support. They require SLADE.
+Flats/ flat

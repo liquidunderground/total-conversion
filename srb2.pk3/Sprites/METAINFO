@@ -1,0 +1,68 @@
+# DoomTools-style METAINFO for graphics offsets
+#
+# SYNTAX: * graphic/flat [x-offset] [y-offset]
+
+# Sprites
+
+### KOTU targetting
+TARG* graphic 32 64
+### Checkpoints
+STPT* graphic 16 117
+### Emblems
+EMBM graphic 16 28
+### Chakra Shards and hunting gems
+CEMG graphic 11 22
+SHRD graphic 8 38
+### Chakra Shards and hunting gems
+FWR1 graphic 16 46
+FWR2 graphic 16 126
+FWR3 graphic 7 30
+### Gems
+RING graphic 16 30
+SPRK graphic 16 30
+### Level end portal
+SIGNA0 graphic 40 48
+SIGNB0 graphic 22 48
+SIGN graphic 40 94
+### Item boxes
+TRRI graphic 19 42
+TRBI graphic 19 42
+MSTVB0 graphic 19 42
+XLTV graphic 21 46
+### Particle FX
+BOM1 graphic 32 60
+LSTR graphic 16 16
+LHRT graphic 16 16
+### Special stage Token
+TOKE graphic 18 36
+### Spikes/Thorns
+USPKA0 graphic 8 38
+USPKB0 graphic 8 38
+USPKC0 graphic 8 38
+USPKD0 graphic 8 38
+USPKELER graphic 0 14
+USPKFLFR graphic 0 14
+WSPKALAR graphic 21 14
+WSPKBLBR graphic 13 14
+WSPKCLCR graphic 9 14
+WSPKDLDR graphic 5 14
+WSPKELER graphic 11 14
+WSPKFLFR graphic 11 14
+WSPB graphic 8 16
+### FPS Sprites: Tag icon/Team gems/Flags
+Targets/TTAGA0.png graphic 16 32
+TRNG graphic 16 30
+RRNG graphic 16 30
+BFLG graphic 14 69
+RFLG graphic 14 69
+# Bushes
+BUS3 graphic 37 70
+### Trees
+TRE1 graphic 90 245
+TRE3 graphic 28 252
+TRE5 graphic 28 252
+TRE6 graphic 70 162
+### Misc.: Missing sprite/etc.
+UNKN graphic 16 36
+### Fallback
+* graphic

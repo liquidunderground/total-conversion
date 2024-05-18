@@ -1,0 +1,82 @@
+# DoomTools-style METAINFO for graphics offsets
+#
+# SYNTAX: * graphic/flat [x-offset] [y-offset]
+
+# HUD Graphics
+TTWING graphic 30 10
+### Titlecard
+LTACTBLU graphic 25 15
+LTACTRED graphic 20 24
+LTZIGZAG0 graphic -5 0
+### Game Over
+SLIDGAME graphic 85 15
+SLIDOVER graphic 100 15
+SLIDTIME graphic 85 15
+# Moon altars (Token slots)
+EMBOX graphic 16 20
+# LTFNT (Title font)
+LTFNT033 graphic 0 -4
+LTFNT034 graphic 0 -4
+LTFNT038 graphic 0 -4
+LTFNT039 graphic 0 -4
+LTFNT044 graphic 0 -4
+LTFNT045 graphic 0 -4
+LTFNT046 graphic 0 -4
+LTFNT048 graphic 0 -4
+LTFNT049 graphic 0 -4
+LTFNT050 graphic 0 -4
+LTFNT051 graphic 0 -4
+LTFNT052 graphic 0 -4
+LTFNT053 graphic 0 -4
+LTFNT054 graphic 0 -4
+LTFNT055 graphic 0 -4
+LTFNT056 graphic 0 -4
+LTFNT057 graphic 0 -4
+LTFNT063 graphic 0 -4
+LTFNT097 graphic 0 -4
+LTFNT098 graphic 0 -4
+LTFNT099 graphic 0 -4
+LTFNT100 graphic 0 -4
+LTFNT101 graphic 0 -4
+LTFNT102 graphic 0 -4
+LTFNT103 graphic 0 -4
+LTFNT104 graphic 0 -4
+LTFNT105 graphic 0 -4
+LTFNT106 graphic 0 -4
+LTFNT107 graphic 0 -4
+LTFNT108 graphic 0 -4
+LTFNT109 graphic 0 -4
+LTFNT110 graphic 0 -4
+LTFNT111 graphic 0 -4
+LTFNT112 graphic 0 -4
+LTFNT113 graphic 0 -4
+LTFNT114 graphic 0 -4
+LTFNT115 graphic 0 -4
+LTFNT116 graphic 0 -4
+LTFNT117 graphic 0 -4
+LTFNT118 graphic 0 -4
+LTFNT119 graphic 0 -4
+LTFNT120 graphic 0 -4
+LTFNT121 graphic 0 -4
+LTFNT122 graphic 0 -4
+### HUD
+TAGICO graphic 16 0
+YB_TOTAL graphic 43 0
+YB_TIME graphic 84 4
+YB_SCORE graphic 45 4
+YB_RING graphic 84 4
+YB_PERFE graphic 109 4
+YB_NIGHT graphic 100 4
+YB_LINK graphic 84 4
+YB_LAP graphic 77 4
+YB_GUARD graphic 92 4
+YB_CONTI graphic 80 4
+### Menu
+M_SLIDEL graphic -2 0
+
+### Fallback
+Graphics/ graphic
+
+# Flats; Screen fades engine-prorietary and
+# lack DoomTools support. They require SLADE.
+Flats/ flat

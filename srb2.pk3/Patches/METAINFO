@@ -2,5 +2,5 @@
 #
 # SYNTAX: * graphic/flat [x-offset] [y-offset]
 
-# Wall textures
-PLAYPAL palette
+# Patches
+Patches/ graphic
