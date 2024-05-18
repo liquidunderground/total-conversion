@@ -887,7 +887,7 @@ srb2.pk3:/Flats/Green Hill/GHZFLR0C
 srb2.pk3:/Flats/Green Hill/GHZROCKF
 srb2.pk3:/Flats/Green Hill/GRNLITE1
 srb2.pk3:/Flats/Grasslands/GFZFLR01	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/Greenflower/GFZFLR02
+srb2.pk3:/Flats/Greenflower/GFZFLR02	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR03
 srb2.pk3:/Flats/Greenflower/GFZFLR04
 srb2.pk3:/Flats/Greenflower/GFZFLR05
@@ -3314,6 +3314,26 @@ srb2.pk3:/Graphics/Tutorial/Unused/SPN5CUS
 srb2.pk3:/Graphics/Tutorial/Unused/SSNTAILS
 srb2.pk3:/Graphics/Tutorial/Unused/STJRBABY
 srb2.pk3:/PLAYPAL
+srb2.pk3:/Patches/Skybox/SKYMOON1	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYMOON2	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYMOON3	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYMOON4	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYMOON5	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYMOON6	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYOCZ1	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYOCZ2	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYOCZ3	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYOCZ4	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYOCZ	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYPLNT1	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYPLNT2	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYSMON1	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYSMON2	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYSMON3	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYSMON4	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYSMON5	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYSMON6	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Skybox/SKYSUN	"Zibon 'PixL' Badi"
 srb2.pk3:/Patches/Alpine Paradise/BSZASK2B
 srb2.pk3:/Patches/Alpine Paradise/BSZASKY1
 srb2.pk3:/Patches/Alpine Paradise/BSZASKY2
