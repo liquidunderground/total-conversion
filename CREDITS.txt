@@ -312,7 +312,7 @@ srb2.pk3:/Flats/CASINOF3
 srb2.pk3:/Flats/CASINOF4
 srb2.pk3:/Flats/CEIL3_1
 srb2.pk3:/Flats/CEMENT2
-srb2.pk3:/Flats/CHKGRASF
+srb2.pk3:/Flats/CHKGRASF	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/COLOR/BLUEFLR
 srb2.pk3:/Flats/COLOR/CYANFLR
 srb2.pk3:/Flats/COLOR/GOLDFLR
@@ -859,7 +859,7 @@ srb2.pk3:/Flats/Fluids/WATER7
 srb2.pk3:/Flats/GRASS1
 srb2.pk3:/Flats/GRASS2
 srb2.pk3:/Flats/GRASS3
-srb2.pk3:/Flats/GRASSY
+srb2.pk3:/Flats/Grasslands/GRASSY	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grand Eggship/DSHIPF1
 srb2.pk3:/Flats/Grand Eggship/DSHIPF2
 srb2.pk3:/Flats/Grand Eggship/DSHIPF3
@@ -886,7 +886,7 @@ srb2.pk3:/Flats/Green Hill/GHZFLR09
 srb2.pk3:/Flats/Green Hill/GHZFLR0C
 srb2.pk3:/Flats/Green Hill/GHZROCKF
 srb2.pk3:/Flats/Green Hill/GRNLITE1
-srb2.pk3:/Flats/Greenflower/GFZFLR01
+srb2.pk3:/Flats/Grasslands/GFZFLR01	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR02
 srb2.pk3:/Flats/Greenflower/GFZFLR03
 srb2.pk3:/Flats/Greenflower/GFZFLR04
@@ -895,24 +895,24 @@ srb2.pk3:/Flats/Greenflower/GFZFLR06
 srb2.pk3:/Flats/Greenflower/GFZFLR07
 srb2.pk3:/Flats/Greenflower/GFZFLR08
 srb2.pk3:/Flats/Greenflower/GFZFLR09
-srb2.pk3:/Flats/Greenflower/GFZFLR10
+srb2.pk3:/Flats/Grasslands/GFZFLR10	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR11
 srb2.pk3:/Flats/Greenflower/GFZFLR12
 srb2.pk3:/Flats/Greenflower/GFZFLR13
-srb2.pk3:/Flats/Greenflower/GFZFLR14	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/Greenflower/GFZFLR15
+srb2.pk3:/Flats/Grasslands/GFZFLR14	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Grasslands/GFZFLR15	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR16
 srb2.pk3:/Flats/Greenflower/GFZFLR17
 srb2.pk3:/Flats/Greenflower/GFZFLR18
 srb2.pk3:/Flats/Greenflower/GFZFLR19
-srb2.pk3:/Flats/Greenflower/GFZFLR20.raw
+srb2.pk3:/Flats/Greenflower/GFZFLR20
 srb2.pk3:/Flats/Greenflower/GFZFLR21
-srb2.pk3:/Flats/Greenflower/GFZFLR22
+srb2.pk3:/Flats/Grasslands/GFZFLR22	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFNCF
 srb2.pk3:/Flats/Greenflower/GFZFNCG
 srb2.pk3:/Flats/Greenflower/GFZROCKA
 srb2.pk3:/Flats/Greenflower/GFZWAVEF
-srb2.pk3:/Flats/Greenflower/Old/OLDGFZF1
+srb2.pk3:/Flats/Grasslands/OLDGFZF1	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/Old/OLDGFZF2
 srb2.pk3:/Flats/Greenflower/Old/OLDGFZF3
 srb2.pk3:/Flats/Greenflower/Old/OLDGFZF4
@@ -3701,9 +3701,9 @@ srb2.pk3:/Patches/Techno Hill/THCBSHN2
 srb2.pk3:/Patches/Techno Hill/THCBSHN3
 srb2.pk3:/Patches/Techno Hill/THCMON1
 srb2.pk3:/Patches/Techno Hill/THCMON2
-srb2.pk3:/Patches/Techno Hill/THCSC2A
-srb2.pk3:/Patches/Techno Hill/THCSC3A
-srb2.pk3:/Patches/Techno Hill/THCSC3B
+srb2.pk3:/Patches/Techno Hill/THCSC2A	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Techno Hill/THCSC3A	"Zibon 'PixL' Badi"
+srb2.pk3:/Patches/Techno Hill/THCSC3B	"Zibon 'PixL' Badi"
 srb2.pk3:/Patches/Techno Hill/THCSHN1
 srb2.pk3:/Patches/Techno Hill/THCSHN2
 srb2.pk3:/Patches/Techno Hill/THCSHN3
