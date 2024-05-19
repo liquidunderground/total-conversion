@@ -2997,7 +2997,7 @@ srb2.pk3:/Patches/GLDWL0BA
 srb2.pk3:/Patches/GLDWL0BB
 srb2.pk3:/Patches/Greenflower/CRACKS
 srb2.pk3:/Patches/Greenflower/CRACKS2
-srb2.pk3:/Patches/Greenflower/GFVINESS
+srb2.pk3:/Patches/Greenflower/GFVINESS	"Zibon 'PixL' Badi"	(based on another GFVINES by "Gog 'Idk' Wagoo")
 srb2.pk3:/Patches/Greenflower/GFZBRIK1
 srb2.pk3:/Patches/Greenflower/GFZBRIK2
 srb2.pk3:/Patches/Greenflower/GFZDOORP
@@ -10219,8 +10219,8 @@ srb2.pk3:/Textures/Green Hill/GHZWALL9
 srb2.pk3:/Textures/Green Hill/GHZWALLA
 srb2.pk3:/Textures/Green Hill/GHZWALLB
 srb2.pk3:/Textures/Green Hill/GHZWALLC
-srb2.pk3:/Textures/Greenflower/GFVINES
-srb2.pk3:/Textures/Greenflower/GFVINESO
+srb2.pk3:/Textures/Greenflower/GFVINES	"Gog 'Idk' Wagoo"
+srb2.pk3:/Textures/Greenflower/GFVINESO	"Gog 'Idk' Wagoo"
 srb2.pk3:/Textures/Greenflower/GFZBLOCK
 srb2.pk3:/Textures/Greenflower/GFZBLOKS
 srb2.pk3:/Textures/Greenflower/GFZBRID2
