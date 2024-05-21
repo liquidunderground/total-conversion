@@ -313,19 +313,19 @@ srb2.pk3:/Flats/CASINOF4
 srb2.pk3:/Flats/CEIL3_1
 srb2.pk3:/Flats/CEMENT2
 srb2.pk3:/Flats/CHKGRASF	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/COLOR/BLUEFLR
-srb2.pk3:/Flats/COLOR/CYANFLR
-srb2.pk3:/Flats/COLOR/GOLDFLR
-srb2.pk3:/Flats/COLOR/GREENFLR
-srb2.pk3:/Flats/COLOR/GREYFLR
-srb2.pk3:/Flats/COLOR/LIMEFLR
-srb2.pk3:/Flats/COLOR/NEOGFLR
-srb2.pk3:/Flats/COLOR/ORGFLR
-srb2.pk3:/Flats/COLOR/PURFLR
-srb2.pk3:/Flats/COLOR/REDFLR
-srb2.pk3:/Flats/COLOR/VIOFLR
-srb2.pk3:/Flats/COLOR/WHITEFLR
-srb2.pk3:/Flats/COLOR/YELFLR
+srb2.pk3:/Flats/Colors/BLUEFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/CYANFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/GOLDFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/GREENFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/GREYFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/LIMEFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/NEOGFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/ORGFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/PURFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/REDFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/VIOFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/WHITEFLR	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Colors/YELFLR	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Castle Eggman/BRIDGEA1
 srb2.pk3:/Flats/Castle Eggman/BRIDGEA2
 srb2.pk3:/Flats/Castle Eggman/BRIDGEA3
