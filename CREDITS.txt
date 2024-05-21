@@ -8369,9 +8369,9 @@ srb2.pk3:/Sprites/Scenery/Gargoyles/GARGB2B8
 srb2.pk3:/Sprites/Scenery/Gargoyles/GARGB3B7
 srb2.pk3:/Sprites/Scenery/Gargoyles/GARGB4B6
 srb2.pk3:/Sprites/Scenery/Gargoyles/GARGB5
-srb2.pk3:/Sprites/Scenery/Greenflower/BUS1A0
+srb2.pk3:/Sprites/Scenery/Greenflower/BUS1A0	"Gog 'Idk' Wagoo"
 srb2.pk3:/Sprites/Scenery/Greenflower/BUS1B0
-srb2.pk3:/Sprites/Scenery/Greenflower/BUS2A0
+srb2.pk3:/Sprites/Scenery/Greenflower/BUS2A0	"Gog 'Idk' Wagoo"
 srb2.pk3:/Sprites/Scenery/Greenflower/BUS2B0
 srb2.pk3:/Sprites/Scenery/Greenflower/BUS3A0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Scenery/Greenflower/BUS3B0
