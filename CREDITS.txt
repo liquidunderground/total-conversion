@@ -896,13 +896,13 @@ srb2.pk3:/Flats/Greenflower/GFZFLR07
 srb2.pk3:/Flats/Greenflower/GFZFLR08
 srb2.pk3:/Flats/Greenflower/GFZFLR09
 srb2.pk3:/Flats/Grasslands/GFZFLR10	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/Greenflower/GFZFLR11
-srb2.pk3:/Flats/Greenflower/GFZFLR12
+srb2.pk3:/Flats/Greenflower/GFZFLR11	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Greenflower/GFZFLR12	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
 srb2.pk3:/Flats/Greenflower/GFZFLR13
 srb2.pk3:/Flats/Grasslands/GFZFLR14	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/GFZFLR15	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/Greenflower/GFZFLR16
-srb2.pk3:/Flats/Greenflower/GFZFLR17
+srb2.pk3:/Flats/Greenflower/GFZFLR16	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
+srb2.pk3:/Flats/Greenflower/GFZFLR17	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
 srb2.pk3:/Flats/Greenflower/GFZFLR18
 srb2.pk3:/Flats/Greenflower/GFZFLR19
 srb2.pk3:/Flats/Greenflower/GFZFLR20
