@@ -916,10 +916,10 @@ srb2.pk3:/Flats/Grasslands/OLDGFZF1	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/Old/OLDGFZF2
 srb2.pk3:/Flats/Greenflower/Old/OLDGFZF3
 srb2.pk3:/Flats/Greenflower/Old/OLDGFZF4
-srb2.pk3:/Flats/Greenflower/Skybox/GFS_CLD1
-srb2.pk3:/Flats/Greenflower/Skybox/GFS_CLD2
-srb2.pk3:/Flats/Greenflower/Skybox/GFS_CLD3
-srb2.pk3:/Flats/Greenflower/Skybox/GFS_CLD4
+srb2.pk3:/Flats/Skies/GFS_CLD1	"Gog 'Idk' Wagoo"
+srb2.pk3:/Flats/Skies/GFS_CLD2	"Gog 'Idk' Wagoo"
+srb2.pk3:/Flats/Skies/GFS_CLD3	"Gog 'Idk' Wagoo"
+srb2.pk3:/Flats/Skies/GFS_CLD4	"Zibon 'PixL' Badi"	(based on "GFS_CLD2" by "Gog 'Idk' Wagoo")
 srb2.pk3:/Flats/Greenflower/Skybox/GFZSF
 srb2.pk3:/Flats/HNYLEAFF
 srb2.pk3:/Flats/HONEYF
