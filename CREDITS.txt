@@ -887,22 +887,22 @@ srb2.pk3:/Flats/Green Hill/GHZFLR0C
 srb2.pk3:/Flats/Green Hill/GHZROCKF
 srb2.pk3:/Flats/Green Hill/GRNLITE1
 srb2.pk3:/Flats/Grasslands/GFZFLR01	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/Greenflower/GFZFLR02	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Grasslands/GFZFLR02	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR03
 srb2.pk3:/Flats/Greenflower/GFZFLR04
 srb2.pk3:/Flats/Greenflower/GFZFLR05
 srb2.pk3:/Flats/Greenflower/GFZFLR06
 srb2.pk3:/Flats/Greenflower/GFZFLR07
 srb2.pk3:/Flats/Greenflower/GFZFLR08
-srb2.pk3:/Flats/Greenflower/GFZFLR09
+srb2.pk3:/Flats/Grasslands/GFZFLR09	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/GFZFLR10	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/Greenflower/GFZFLR11	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/Greenflower/GFZFLR12	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
-srb2.pk3:/Flats/Greenflower/GFZFLR13
+srb2.pk3:/Flats/Grasslands/GFZFLR11	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Grasslands/GFZFLR12	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
+srb2.pk3:/Flats/Grasslands/GFZFLR13	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/GFZFLR14	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/GFZFLR15	"Zibon 'PixL' Badi"
-srb2.pk3:/Flats/Greenflower/GFZFLR16	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
-srb2.pk3:/Flats/Greenflower/GFZFLR17	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
+srb2.pk3:/Flats/Grasslands/GFZFLR16	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
+srb2.pk3:/Flats/Grasslands/GFZFLR17	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
 srb2.pk3:/Flats/Greenflower/GFZFLR18
 srb2.pk3:/Flats/Greenflower/GFZFLR19
 srb2.pk3:/Flats/Greenflower/GFZFLR20
@@ -10219,10 +10219,10 @@ srb2.pk3:/Textures/Green Hill/GHZWALL9
 srb2.pk3:/Textures/Green Hill/GHZWALLA
 srb2.pk3:/Textures/Green Hill/GHZWALLB
 srb2.pk3:/Textures/Green Hill/GHZWALLC
-srb2.pk3:/Textures/Greenflower/GFVINES	"Gog 'Idk' Wagoo"
-srb2.pk3:/Textures/Greenflower/GFVINESO	"Gog 'Idk' Wagoo"
-srb2.pk3:/Textures/Greenflower/GFZBLOCK
-srb2.pk3:/Textures/Greenflower/GFZBLOKS
+srb2.pk3:/Textures/Grasslands/GFVINES	"Gog 'Idk' Wagoo"
+srb2.pk3:/Textures/Grasslands/GFVINESO	"Gog 'Idk' Wagoo"
+srb2.pk3:/Textures/Grasslands/GFZBLOCK	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZBLOKS	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZBRID2
 srb2.pk3:/Textures/Greenflower/GFZBRIDG
 srb2.pk3:/Textures/Greenflower/GFZFENC2
@@ -10231,7 +10231,7 @@ srb2.pk3:/Textures/Greenflower/GFZFNCB
 srb2.pk3:/Textures/Greenflower/GFZFNCC
 srb2.pk3:/Textures/Greenflower/GFZFNCCG
 srb2.pk3:/Textures/Greenflower/GFZFNCD
-srb2.pk3:/Textures/Greenflower/GFZGRASS
+srb2.pk3:/Textures/Greenflower/GFZGRASS	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZGRSW
 srb2.pk3:/Textures/Greenflower/GFZINSID
 srb2.pk3:/Textures/Greenflower/GFZPLTF
@@ -10249,23 +10249,24 @@ srb2.pk3:/Textures/Greenflower/GFZTIL08
 srb2.pk3:/Textures/Greenflower/GFZTIL09
 srb2.pk3:/Textures/Greenflower/GFZTIL10
 srb2.pk3:/Textures/Greenflower/GFZTIL11
-srb2.pk3:/Textures/Greenflower/GFZTILA1	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Greenflower/GFZTILA2	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Greenflower/GFZTILB1	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Greenflower/GFZTILB2	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Greenflower/GFZTILC1	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Greenflower/GFZTILC2	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Greenflower/GFZTILD1
-srb2.pk3:/Textures/Greenflower/GFZTILD2
-srb2.pk3:/Textures/Greenflower/GFZTILE1
-srb2.pk3:/Textures/Greenflower/GFZTILE2
-srb2.pk3:/Textures/Greenflower/GFZTILF1
-srb2.pk3:/Textures/Greenflower/GFZTILF2
-srb2.pk3:/Textures/Greenflower/GFZTILG1
-srb2.pk3:/Textures/Greenflower/GFZTILG2
+srb2.pk3:/Textures/Grasslands/GFZTILA1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILA2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILB1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILB2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILC1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILC2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILD1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILD2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILE1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILE2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILF1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILF2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILG1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZTILG2	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZWAVE
-srb2.pk3:/Textures/Greenflower/Old/OLDGFZG1
-srb2.pk3:/Textures/Greenflower/Old/OLDGFZG2
+srb2.pk3:/Textures/Greenflower/Old/OLDGFZG1	"Zibon 'PixL' Badi"	(virtual `TEXTURES.smz`)
+srb2.pk3:/Textures/Greenflower/Old/OLDGFZG2	"Zibon 'PixL' Badi"	(virtual `TEXTURES.smz`)
+srb2.pk3:/Textures/Grasslands/OLDGFZW1	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/Old/OLDGFZW2
 srb2.pk3:/Textures/Greenflower/Old/OLDROCK2
 srb2.pk3:/Textures/Greenflower/Old/OLDROCKW
