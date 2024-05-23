@@ -3115,6 +3115,7 @@ srb2.pk3:/Patches/Xmas/XMAS04P
 srb2.pk3:/Patches/Xmas/XMASCRAX
 srb2.pk3:/SOC/SOC_LETR
 srb2.pk3:/SOC/SOC_TITL
+srb2.pk3:/SOC/SOC_INTRO.soc	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/Chaotix/DSKC2A
 srb2.pk3:/Sounds/Chaotix/DSKC2B
 srb2.pk3:/Sounds/Chaotix/DSKC2C
