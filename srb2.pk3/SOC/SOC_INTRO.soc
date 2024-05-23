@@ -1,0 +1,165 @@
+Cutscene 1
+NumScenes 11
+Scene 1
+NumberOfPics = 1
+Pic1Name = INTRO1
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = For centuries, the city of ^8Delfid^0 stood as the
+beacon of diplomacy, technology and progress
+for ^Cplanet Weissblatt^0;\C8 floating high above
+it's kingdoms in the planet's orbit.
+      #
+Scene 2
+NumberOfPics = 1
+Pic1Name = INTRO1
+Pic1Duration = 1850
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = It's landmark, the ^2Enlightenment Crystal^0
+powers the entire city and is worshiped by the
+city'spopulation for fostering it's culture
+and imbuing it with unmatched ^8spiritual powers^0. 
+      #
+Scene 3
+NumberOfPics = 1
+Pic1Name = INTRO2
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = ^9Alex Felitas^0 - a young Delfid priest - was
+tasked with tending the crystal's magic one day
+right when they noticed someone approaching the
+crystal, holding a mysterious book...
+      #
+Scene 4
+NumberOfPics = 1
+Pic1Name = INTRO3
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = ^9Alex^0: "Hey, who are you?! Get away from the
+       sacred crystal!"
+^5???^0: "There you are... Hang in there..."
+
+He looked over at Alex in response:
+      # 
+Scene 5
+NumberOfPics = 1
+Pic1Name = INTRO6
+Pic1Duration = 1100
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = "My name is ^5Dr. Asura^0 and I'm afraid
+ I need to use that crystal."
+      #
+Scene 6
+NumberOfPics = 1
+Pic1Name = INTRO6
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = As the Enlightenment Crystal started to
+cloud with dark magic, and Alex rushed
+towards Dr. Asura, to take him away.
+      #
+Scene 7
+NumberOfPics = 1
+Pic1Name = INTRO6
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = ^5Dr. Asura^0: "I'm sorry, but there's no other way..."
+
+Dr. Asura pushed Alex away and stuck a
+black rose to the Enlightenment Crystal,
+destabilizing it's magic further...
+      #  
+Scene 8
+NumberOfPics = 1
+Pic1Name = INTRO3
+Pic1Duration = 1600
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = In a last ditch effort trying to protect the
+crystal, Alex tried to destroy the rose using
+their magic, but it was already too late.
+      #
+Scene 9
+NumberOfPics = 1
+Pic1Name = INTRO5
+Pic1Duration = 1500
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = Upon being hit with magic, the crystal exploded
+into seven ^2Chakra Shards^0, which flew towards
+the planet and spread across it's kingdoms.
+      #
+Scene 10
+NumberOfPics = 1
+Pic1Name = INTRO3
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = Floating through the planet's orbit after the
+explosion, Alex saw nothing but debris of
+what once was Delfid.
+      #  
+Scene 11
+NumberOfPics = 1
+Pic1Name = INTRO3
+Pic1Duration = 1600
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = Removed from the crystal's power and unsure
+of their fate, Alex used their last remaining
+magic to cast a distress signal
+across the planet...
+      #
+
+
