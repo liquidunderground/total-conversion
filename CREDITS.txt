@@ -9070,10 +9070,10 @@ srb2.pk3:/Sprites/THOKA0
 srb2.pk3:/Sprites/Targets/GFLGA0
 srb2.pk3:/Sprites/Targets/GFLGB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/GFLGC0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Targets/LCKNA0
-srb2.pk3:/Sprites/Targets/LCKNB0
-srb2.pk3:/Sprites/Targets/LCKNC0
-srb2.pk3:/Sprites/Targets/LCKND0
+srb2.pk3:/Sprites/Targets/LCKNA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Targets/LCKNB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Targets/LCKNC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Targets/LCKND0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/TTAGA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/UNKNA0
 srb2.pk3:/Sprites/UNKNB0
