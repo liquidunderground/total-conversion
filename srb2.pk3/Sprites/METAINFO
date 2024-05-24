@@ -53,6 +53,10 @@ WSPB graphic 8 16
 Targets/TTAGA0 graphic 16 32
 Targets/GFLGB0 graphic 24 48
 Targets/GFLGC0 graphic 24 48
+Targets/LCKNA0 graphic 16 32
+Targets/LCKNB0 graphic 16 32
+Targets/LCKNC0 graphic 16 32
+Targets/LCKND0 graphic 16 32
 TRNG graphic 16 30
 RRNG graphic 16 30
 BFLG graphic 14 69
