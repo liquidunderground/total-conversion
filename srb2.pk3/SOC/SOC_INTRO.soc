@@ -1,5 +1,5 @@
 Cutscene 1
-NumScenes 11
+NumScenes 20
 Scene 1
 NumberOfPics = 1
 Pic1Name = INTRO1
@@ -10,7 +10,7 @@ Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = For centuries, the city of ^8Delfid^0 stood as the
+SceneText = \A9For centuries, the city of ^8Delfid^0 stood as the
 beacon of diplomacy, technology and progress
 for ^Cplanet Weissblatt^0;\C8 floating high above
 it's kingdoms in the planet's orbit.
@@ -25,7 +25,7 @@ Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = It's landmark, the ^2Enlightenment Crystal^0
+SceneText = \A9It's landmark, the ^2Enlightenment Crystal^0
 powers the entire city and is worshiped by the
 city'spopulation for fostering it's culture
 and imbuing it with unmatched ^8spiritual powers^0. 
@@ -40,24 +40,34 @@ Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = ^9Alex Felitas^0 - a young Delfid priest - was
+SceneText = \A9^9Alex Felitas^0 - a young Delfid priest - was
 tasked with tending the crystal's magic one day
 right when they noticed someone approaching the
-crystal, holding a mysterious book...
+crystal, holding a mysterious book\AA...
       #
 Scene 4
-NumberOfPics = 1
+NumberOfPics = 3
 Pic1Name = INTRO3
-Pic1Duration = 1400
+Pic1Duration = 800
 Pic1Hires = 1
 Pic1XCoord = 0
 Pic1YCoord = 0
+Pic2Name = INTRO6
+Pic2Duration = 200
+Pic2Hires = 1
+Pic2XCoord = 100
+Pic2YCoord = 5
+Pic3Name = INTRO6
+Pic3Duration = 400
+Pic3Hires = 1
+Pic3XCoord = 110
+Pic3YCoord = 10
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = ^9Alex^0: "Hey, who are you?! Get away from the
-       sacred crystal!"
-^5???^0: "There you are... Hang in there..."
+SceneText = \A8^9Alex^0: "Hey, who are you?!\BF Get away from the
+       sacred crystal!"\BF
+^5???^0: "There you are\A9... \A7Hang in there\A9..."
 
 He looked over at Alex in response:
       # 
@@ -71,7 +81,7 @@ Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = "My name is ^5Dr. Asura^0 and I'm afraid
+SceneText = \A8"My name is ^5Dr. Asura^0 and I'm afraid
  I need to use that crystal."
       #
 Scene 6
@@ -84,8 +94,8 @@ Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = As the Enlightenment Crystal started to
-cloud with dark magic, and Alex rushed
+SceneText = \A9As the Enlightenment Crystal started to
+cloud with dark magic, Alex rushed
 towards Dr. Asura, to take him away.
       #
 Scene 7
@@ -98,23 +108,28 @@ Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = ^5Dr. Asura^0: "I'm sorry, but there's no other way..."
+SceneText = \A8^5Dr. Asura^0: "I'm sorry, but there's no other way\AA..."
 
-Dr. Asura pushed Alex away and stuck a
+\A8Dr. Asura pushed Alex away and stuck a
 black rose to the Enlightenment Crystal,
-destabilizing it's magic further...
+destabilizing it's magic further\AA...
       #  
 Scene 8
-NumberOfPics = 1
+NumberOfPics = 2
 Pic1Name = INTRO3
-Pic1Duration = 1600
+Pic1Duration = 600
 Pic1Hires = 1
 Pic1XCoord = 0
-Pic1YCoord = 0
+Pic1YCoord = 5
+Pic2Name = INTRO6
+Pic2Duration = 1000
+Pic2Hires = 1
+Pic2XCoord = 150
+Pic2YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = In a last ditch effort trying to protect the
+SceneText = \A9In a last ditch effort trying to protect the
 crystal, Alex tried to destroy the rose using
 their magic, but it was already too late.
       #
@@ -128,22 +143,24 @@ Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = Upon being hit with magic, the crystal exploded
+SceneText = \A9Upon being hit with magic, the crystal exploded
 into seven ^2Chakra Shards^0, which flew towards
 the planet and spread across it's kingdoms.
       #
 Scene 10
 NumberOfPics = 1
-Pic1Name = INTRO3
+Pic1Name = INTRO6
 Pic1Duration = 1400
 Pic1Hires = 1
 Pic1XCoord = 0
 Pic1YCoord = 0
-TextXPos = 0
-TextYPos = 150
+TextXPos = 120
+TextYPos = 50
 Music = _CREDS
-SceneText = Floating through the planet's orbit after the
-explosion, Alex saw nothing but debris of
+SceneText = \A9Floating through the
+planet's orbit after the
+explosion, Alex saw
+nothing but debris of
 what once was Delfid.
       #  
 Scene 11
@@ -156,10 +173,150 @@ Pic1YCoord = 0
 TextXPos = 0
 TextYPos = 150
 Music = _CREDS
-SceneText = Removed from the crystal's power and unsure
+SceneText = \A9Removed from the crystal's power and unsure
 of their fate, Alex used their last remaining
 magic to cast a distress signal
 across the planet...
       #
+Scene 12
+NumberOfPics = 1
+Pic1Name = Zooming
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = \A8^2Kleene^0: \A7"Thanks for letting me test my new
+      perso-copter under heavy load."
 
+\A8^2Babel^0: \A7"Oh I'm very pleased by this trip
+      myself, Kleene! I've long been looking
+	  for an opportunity to explore the mountains."
+      #
+Scene 13
+NumberOfPics = 1
+Pic1Name = INTRO7
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS	  
+SceneText = \A8Elise: \A7"Sure Kleene. You know I'd never-"\A9
+
+*BOOM!*
+
+\A8Elise: \A7"WHAT THE- \AA... Did you hear that?"
+      #
+Scene 14
+NumberOfPics = 1
+Pic1Name = INTRO6
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 150
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS
+SceneText = \A8Babel: \A9"This can't be \AA..."
+
+Before they could even recover from the shock
+of the sight, something came wheezing past
+them and crashed Kleene's perso-copter.
+      #
+Scene 15
+NumberOfPics = 1
+Pic1Name = CONFRONT
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS	  
+SceneText = \A8^7Dr. Asura^0: \A7"Demons, find the Chakra
+      Shards and bring them to the launch base!
+	  We don't have much time before the equinox!"
+      #
+Scene 16
+NumberOfPics = 1
+Pic1Name = CONFRONT
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS	    
+SceneText = \A9^2Babel^0: \A9"Chakra Shards? OH SWEET DELFID!
+      This can only mean-"\BF\A8
+
+^7Dr. Asura^0: \AA"..."\CF
+"\A8...and take care of anyone that could ruin our plans..."
+      #
+Scene 17
+NumberOfPics = 1
+Pic1Name = CONFRONT
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS	  
+SceneText = \A9As Kleene, Elise and Babel were being
+surrounded by Dr. Asura's demons, a magic
+portal opened behind them, emitting a voice ...
+      #
+Scene 18
+NumberOfPics = 1
+Pic1Name = CONFRONT
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS	  
+SceneText = \A8^9Alex^0: \A7"Inhabitants of Weissblatt!\BC
+Delfid and the Enlightenment Crystal have been
+destroyed by a man named Dr. Asura who's
+seeking to abuse the power of the Chakra Shards!"
+      #
+Scene 19
+NumberOfPics = 1
+Pic1Name = CONFRONT
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS	  
+SceneText = \A7^9Alex^0: "Whomever hears this\BC, please
+find them before he does and stop him!\Bc
+\A8I'm not sure if I'll survive this, but
+I've opened these portals across the
+planet to help you find them!\BF
+\A9The fate of Weissblatt depends on you!"
+      #
+Scene 20
+NumberOfPics = 1
+Pic1Name = CONFRONT
+Pic1Duration = 1400
+Pic1Hires = 1
+Pic1XCoord = 0
+Pic1YCoord = 0
+TextXPos = 0
+TextYPos = 150
+Music = _CREDS	  
+SceneText = \A9^8Kleene: \A7"RUN!!"
+
+\A9Knowing no other way to escape Dr. Asura
+and his demons, the trio fled
+into the newly opened portal\AA...
+      #
 
