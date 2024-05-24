@@ -2153,8 +2153,8 @@ srb2.pk3:/Graphics/HUD/TAGICO	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/HUD/TOKNICON
 srb2.pk3:/Graphics/HUD/Teams/BFLAGICO	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/HUD/Teams/BMATCICO	"Zibon 'PixL' Badi"
-srb2.pk3:/Graphics/HUD/Teams/NONICON
-srb2.pk3:/Graphics/HUD/Teams/NONICON2
+srb2.pk3:/Graphics/HUD/Teams/NONICON	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/HUD/Teams/NONICON2	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/HUD/Teams/RFLAGICO	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/HUD/Teams/RMATCICO	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Intermission/BLINTERS
@@ -9068,8 +9068,8 @@ srb2.pk3/Sprites/Checkpoint/STPTV0.png	"Zibon 'PixL' Badi"
 srb2.pk3/Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/THOKA0
 srb2.pk3:/Sprites/Targets/GFLGA0
-srb2.pk3:/Sprites/Targets/GFLGB0
-srb2.pk3:/Sprites/Targets/GFLGC0
+srb2.pk3:/Sprites/Targets/GFLGB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Targets/GFLGC0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/LCKNA0
 srb2.pk3:/Sprites/Targets/LCKNB0
 srb2.pk3:/Sprites/Targets/LCKNC0

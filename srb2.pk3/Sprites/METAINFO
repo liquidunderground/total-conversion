@@ -50,7 +50,9 @@ WSPKELER graphic 11 14
 WSPKFLFR graphic 11 14
 WSPB graphic 8 16
 ### FPS Sprites: Tag icon/Team gems/Flags
-Targets/TTAGA0.png graphic 16 32
+Targets/TTAGA0 graphic 16 32
+Targets/GFLGB0 graphic 24 48
+Targets/GFLGC0 graphic 24 48
 TRNG graphic 16 30
 RRNG graphic 16 30
 BFLG graphic 14 69
