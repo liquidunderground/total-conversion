@@ -1977,106 +1977,105 @@ srb2.pk3:/Graphics/Fonts/STCFN/STCFN123	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/STCFN/STCFN124	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/STCFN/STCFN125	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/STCFN/STCFN126	"Zibon 'PixL' Badi"
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN026
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN027
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN028
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN029
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN031
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN033
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN034
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN035
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN036
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN037
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN038
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN039
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN040
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN041
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN042
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN043
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN044
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN045
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN046
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN047
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN048
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN049
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN050
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN051
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN052
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN053
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN054
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN055
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN056
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN057
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN058
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN059
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN060
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN061
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN062
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN063
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN064
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN065
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN066
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN067
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN068
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN069
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN070
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN071
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN072
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN073
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN074
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN075
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN076
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN077
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN078
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN079
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN080
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN081
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN082
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN083
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN084
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN085
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN086
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN087
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN088
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN089
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN090
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN091
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN092
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN093
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN094
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN095
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN096
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN097
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN098
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN099
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN100
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN101
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN102
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN103
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN104
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN105
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN106
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN107
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN108
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN109
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN110
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN111
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN112
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN113
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN114
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN115
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN116
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN117
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN118
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN119
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN120
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN121
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN122
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN123
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN124
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN125
-srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN126
-srb2.pk3:/Graphics/Fonts/TTL/*	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN026	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN027	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN028	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN029	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN031	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN033	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN034	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN035	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN036	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN037	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN038	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN039	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN040	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN041	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN042	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN043	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN044	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN045	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN046	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN047	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN048	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN049	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN050	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN051	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN052	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN053	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN054	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN055	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN056	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN057	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN058	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN059	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN060	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN061	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN062	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN063	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN064	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN065	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN066	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN067	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN068	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN069	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN070	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN071	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN072	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN073	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN074	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN075	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN076	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN077	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN078	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN079	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN080	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN081	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN082	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN083	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN084	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN085	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN086	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN087	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN088	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN089	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN090	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN091	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN092	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN093	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN094	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN095	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN096	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN097	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN098	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN099	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN100	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN101	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN102	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN103	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN104	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN105	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN106	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN107	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN108	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN109	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN110	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN111	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN112	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN113	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN114	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN115	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN116	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN117	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN118	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN119	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN120	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN121	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN122	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN123	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN124	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN125	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/TNYFN/TNYFN126	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/TTL/TTL00	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/TTL/TTL01	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/TTL/TTL02	"Zibon 'PixL' Badi"
