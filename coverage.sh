@@ -13,8 +13,16 @@ CONTRIBUTORS_COUNT="$(echo "${CONTRIBUTORS}" | wc -l)"
 echo -e "=== ASSET COVERAGE REPORT ===\n"
 echo -e "Total Files: ${FILES_COUNT}\nCoverage: ${COVERAGE_COUNT} (${COVERAGE_FRAC} %)\nContributors: ${CONTRIBUTORS_COUNT}\n"
 
-echo -e "--- Coverage by Contributor ---\n"
 IFS=$'\n'
+echo -e "--- Contributors by name ---\n"
+for n in $CONTRIBUTORS; do
+	ABSOLUTE=$(echo "$FILES" | grep "${n}" | wc -l)
+	RELCOV=$(echo "3 k ${ABSOLUTE} ${COVERAGE_COUNT} / 100 * p q" | dc)
+	TOTCOV=$(echo "3 k ${ABSOLUTE} ${FILES_COUNT} / 100 * p q" | dc)
+	echo "${n}"
+done
+
+echo -e "\n--- Coverage by Contributor ---\n"
 for n in $CONTRIBUTORS; do
 	ABSOLUTE=$(echo "$FILES" | grep "${n}" | wc -l)
 	RELCOV=$(echo "3 k ${ABSOLUTE} ${COVERAGE_COUNT} / 100 * p q" | dc)
