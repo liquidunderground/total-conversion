@@ -14,13 +14,11 @@ echo -e "=== ASSET COVERAGE REPORT ===\n"
 echo -e "Total Files: ${FILES_COUNT}\nCoverage: ${COVERAGE_COUNT} (${COVERAGE_FRAC} %)\nContributors: ${CONTRIBUTORS_COUNT}\n"
 
 echo -e "--- Coverage by Contributor ---\n"
-echo "Contributor | Relative fraction | Total fraction"
-echo "------------|-------------------|---------------"
 IFS=$'\n'
 for n in $CONTRIBUTORS; do
 	ABSOLUTE=$(echo "$FILES" | grep "${n}" | wc -l)
 	RELCOV=$(echo "3 k ${ABSOLUTE} ${COVERAGE_COUNT} / 100 * p q" | dc)
 	TOTCOV=$(echo "3 k ${ABSOLUTE} ${FILES_COUNT} / 100 * p q" | dc)
-	echo "${n} | ${ABSOLUTE} | ${RELCOV} % | ${TOTCOV} %"
+	echo -e "${n}:\n  - Absolute file count: ${ABSOLUTE}\n  - Relative Coverage fraction: ${RELCOV} %\n  - Absolute coverage fraction: ${TOTCOV} %"
 done
 
