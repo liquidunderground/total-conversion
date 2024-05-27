@@ -10226,7 +10226,7 @@ srb2.pk3:/Textures/Grasslands/GFZBLOKS	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZBRID2
 srb2.pk3:/Textures/Greenflower/GFZBRIDG
 srb2.pk3:/Textures/Greenflower/GFZFENC2
-srb2.pk3:/Textures/Greenflower/GFZFENCW
+srb2.pk3:/Textures/Greenflower/GFZFENCW	"Gog 'Idk' Wagoo"	(+minor adjustments by "Zibon 'PixL' Badi")
 srb2.pk3:/Textures/Greenflower/GFZFNCB
 srb2.pk3:/Textures/Greenflower/GFZFNCC
 srb2.pk3:/Textures/Greenflower/GFZFNCCG
