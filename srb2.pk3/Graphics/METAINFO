@@ -71,6 +71,28 @@ YB_LINK graphic 84 4
 YB_LAP graphic 77 4
 YB_GUARD graphic 92 4
 YB_CONTI graphic 80 4
+### Chakra Shards
+CHAOS1 graphic 2 5
+CHAOS2 graphic 2 5
+CHAOS3 graphic 2 5
+CHAOS4 graphic 2 5
+CHAOS5 graphic 2 5
+CHAOS6 graphic 2 5
+CHAOS7 graphic 2 5
+CHAOS8 graphic 2 5
+### Continue Screeen
+CONTSTAR graphic 12 0
+CONTSPOT graphic 32 8
+CONTNUM0 graphic 8 0
+CONTNUM1 graphic 8 0
+CONTNUM2 graphic 8 0
+CONTNUM3 graphic 8 0
+CONTNUM4 graphic 8 0
+CONTNUM5 graphic 8 0
+CONTNUM6 graphic 8 0
+CONTNUM7 graphic 8 0
+CONTNUM8 graphic 8 0
+CONTNUM9 graphic 8 0
 ### Menu
 M_SLIDEL graphic -2 0
 

@@ -1555,19 +1555,19 @@ srb2.pk3:/Flats/ZIMTILE3
 srb2.pk3:/Flats/ZIMTILE4
 srb2.pk3:/Graphics/CHARICO
 srb2.pk3:/Graphics/CONSBACK
-srb2.pk3:/Graphics/Continue/CONTINS
-srb2.pk3:/Graphics/Continue/CONTNUM0
-srb2.pk3:/Graphics/Continue/CONTNUM1
-srb2.pk3:/Graphics/Continue/CONTNUM2
-srb2.pk3:/Graphics/Continue/CONTNUM3
-srb2.pk3:/Graphics/Continue/CONTNUM4
-srb2.pk3:/Graphics/Continue/CONTNUM5
-srb2.pk3:/Graphics/Continue/CONTNUM6
-srb2.pk3:/Graphics/Continue/CONTNUM7
-srb2.pk3:/Graphics/Continue/CONTNUM8
-srb2.pk3:/Graphics/Continue/CONTNUM9
-srb2.pk3:/Graphics/Continue/CONTSPOT
-srb2.pk3:/Graphics/Continue/CONTSTAR
+srb2.pk3:/Graphics/Continue/CONTINS	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM0	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM1	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM2	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM3	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM4	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM5	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM6	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM7	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM8	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTNUM9	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTSPOT	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Continue/CONTSTAR	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Credits/ACRED01
 srb2.pk3:/Graphics/Credits/ACRED02
 srb2.pk3:/Graphics/Credits/ACRED03
@@ -1619,14 +1619,14 @@ srb2.pk3:/Graphics/Emblems/GOTITX
 srb2.pk3:/Graphics/Emblems/GOTITY
 srb2.pk3:/Graphics/Emblems/GOTITZ
 srb2.pk3:/Graphics/Emblems/NEEDIT
-srb2.pk3:/Graphics/Emeralds/CHAOS1
-srb2.pk3:/Graphics/Emeralds/CHAOS2
-srb2.pk3:/Graphics/Emeralds/CHAOS3
-srb2.pk3:/Graphics/Emeralds/CHAOS4
-srb2.pk3:/Graphics/Emeralds/CHAOS5
-srb2.pk3:/Graphics/Emeralds/CHAOS6
-srb2.pk3:/Graphics/Emeralds/CHAOS7
-srb2.pk3:/Graphics/Emeralds/CHAOS8
+srb2.pk3:/Graphics/Emeralds/CHAOS1	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/CHAOS2	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/CHAOS3	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/CHAOS4	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/CHAOS5	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/CHAOS6	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/CHAOS7	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/CHAOS8	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Emeralds/EMBOX1
 srb2.pk3:/Graphics/Emeralds/EMBOX2
 srb2.pk3:/Graphics/Emeralds/EMBOX3
