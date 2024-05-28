@@ -1635,13 +1635,13 @@ srb2.pk3:/Graphics/Emeralds/EMBOX5
 srb2.pk3:/Graphics/Emeralds/EMBOX6
 srb2.pk3:/Graphics/Emeralds/EMBOX7
 srb2.pk3:/Graphics/Emeralds/EMBOX8
-srb2.pk3:/Graphics/Emeralds/TEMER1
-srb2.pk3:/Graphics/Emeralds/TEMER2
-srb2.pk3:/Graphics/Emeralds/TEMER3
-srb2.pk3:/Graphics/Emeralds/TEMER4
-srb2.pk3:/Graphics/Emeralds/TEMER5
-srb2.pk3:/Graphics/Emeralds/TEMER6
-srb2.pk3:/Graphics/Emeralds/TEMER7
+srb2.pk3:/Graphics/Emeralds/TEMER1"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/TEMER2"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/TEMER3"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/TEMER4"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/TEMER5"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/TEMER6"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emeralds/TEMER7"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Ending/Background/ENDBGSP0
 srb2.pk3:/Graphics/Ending/Background/ENDBGSP1
 srb2.pk3:/Graphics/Ending/Background/ENDBGSP2
