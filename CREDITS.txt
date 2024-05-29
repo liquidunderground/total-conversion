@@ -11718,7 +11718,7 @@ music.dta:/O_AGZ.ogg
 music.dta:/O_APZ1.ogg
 music.dta:/O_APZ2.ogg
 music.dta:/O_ATZ.ogg
-music.dta:/O_BCZ1.ogg
+music.dta:/O_BCZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_BCZ2.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_BHZ.ogg
 music.dta:/O_CCW.ogg	"Zibon 'PixL' Badi"
