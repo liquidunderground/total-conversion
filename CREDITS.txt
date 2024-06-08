@@ -10226,15 +10226,15 @@ srb2.pk3:/Textures/Grasslands/GFZBLOKS	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZBRID2
 srb2.pk3:/Textures/Greenflower/GFZBRIDG
 srb2.pk3:/Textures/Greenflower/GFZFENC2
-srb2.pk3:/Textures/Greenflower/GFZFENCW	"Gog 'Idk' Wagoo"	(+minor adjustments by "Zibon 'PixL' Badi")
+srb2.pk3:/Textures/Grasslands/GFZFENCW	"Gog 'Idk' Wagoo"	(+minor adjustments by "Zibon 'PixL' Badi")
 srb2.pk3:/Textures/Greenflower/GFZFNCB
 srb2.pk3:/Textures/Greenflower/GFZFNCC
 srb2.pk3:/Textures/Greenflower/GFZFNCCG
 srb2.pk3:/Textures/Greenflower/GFZFNCD
-srb2.pk3:/Textures/Greenflower/GFZGRASS	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZGRASS	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZGRSW
-srb2.pk3:/Textures/Greenflower/GFZINSID
-srb2.pk3:/Textures/Greenflower/GFZPLTF
+srb2.pk3:/Textures/Grasslands/GFZINSID	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Grasslands/GFZPLTF	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Fences/GFZRAIL	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Fences/GFZRAIL2	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZROOF
