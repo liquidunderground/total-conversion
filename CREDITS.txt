@@ -890,8 +890,8 @@ srb2.pk3:/Flats/Grasslands/GFZFLR01	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/GFZFLR02	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR03
 srb2.pk3:/Flats/Greenflower/GFZFLR04
-srb2.pk3:/Flats/Greenflower/GFZFLR05
-srb2.pk3:/Flats/Greenflower/GFZFLR06
+srb2.pk3:/Flats/Greenflower/GFZFLR05	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Greenflower/GFZFLR06	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR07
 srb2.pk3:/Flats/Greenflower/GFZFLR08
 srb2.pk3:/Flats/Grasslands/GFZFLR09	"Zibon 'PixL' Badi"
@@ -903,8 +903,8 @@ srb2.pk3:/Flats/Grasslands/GFZFLR14	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/GFZFLR15	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/GFZFLR16	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
 srb2.pk3:/Flats/Grasslands/GFZFLR17	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
-srb2.pk3:/Flats/Greenflower/GFZFLR18
-srb2.pk3:/Flats/Greenflower/GFZFLR19
+srb2.pk3:/Flats/Greenflower/GFZFLR18	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Greenflower/GFZFLR19	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFLR20
 srb2.pk3:/Flats/Greenflower/GFZFLR21
 srb2.pk3:/Flats/Grasslands/GFZFLR22	"Zibon 'PixL' Badi"
@@ -10224,7 +10224,7 @@ srb2.pk3:/Textures/Grasslands/GFVINESO	"Gog 'Idk' Wagoo"
 srb2.pk3:/Textures/Grasslands/GFZBLOCK	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Grasslands/GFZBLOKS	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZBRID2
-srb2.pk3:/Textures/Greenflower/GFZBRIDG
+srb2.pk3:/Textures/Greenflower/GFZBRIDG	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/GFZFENC2
 srb2.pk3:/Textures/Grasslands/GFZFENCW	"Gog 'Idk' Wagoo"	(+minor adjustments by "Zibon 'PixL' Badi")
 srb2.pk3:/Textures/Greenflower/GFZFNCB
