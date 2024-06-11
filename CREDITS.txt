@@ -43,14 +43,52 @@ them in one collective disclaimer for the project. Example:
 	Weissblatt - The Asura Incident © 2023-2024 Liquid Underground. Licensed under Creative Commons Attribution Share-Alike 4.0. No warranties.
 	<https://creativecommons.org/licenses/by-sa/4.0/>
 
-1. Planning and production credits
-----------------------------------
+1. Credits by category
+----------------------
 
-Story and characters by Zibon "PixL" Badi and NotablyPrettyCrazy
+### Planning and project lead ###
+
+Written and directed by Zibon "PixL" Badi
+
+Co-written and Co-directed by NotablyPrettyCrazy
+
+Characters by Zibon "PixL" Badi
 
 
-2. Asset credits
-----------------
+### Art ###
+
+Textures by:
+- Zibon "PixL" Badi
+- Gog "Idk" Wagoo
+
+### Sound ###
+
+Music by:
+- Zibon "PixL" Badi
+- "astral"
+
+Sound Effects by:
+
+- Zibon "PixL" Badi
+- "NepDisk"
+
+
+### Special Thanks ###
+
+Creative input:
+- "PeneBoi"
+- "reverbal"
+
+Mapping advice:
+- "AirFox"
+- "aqua"
+- "Fen"
+
+Goodest boy: "TemporaryAl"
+
+
+2. Credits by asset
+-------------------
 
 Below you can see a tab-separated table of every asset and it's
 contributor(s).  A "*" at the end signifies a catchall for every file,
