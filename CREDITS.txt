@@ -9664,10 +9664,10 @@ srb2.pk3:/Textures/Cliff/CLIFFWGS
 srb2.pk3:/Textures/Cliff/CLIFFWH
 srb2.pk3:/Textures/Cliff/CLIFFWHS
 srb2.pk3:/Textures/D2LAVA
-srb2.pk3:/Textures/DANCE1
-srb2.pk3:/Textures/DANCE2
-srb2.pk3:/Textures/DANCE3
-srb2.pk3:/Textures/DANCE4
+srb2.pk3:/Textures/Misc/DANCE1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Misc/DANCE2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Misc/DANCE3	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Misc/DANCE4	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/DEM1W5
 srb2.pk3:/Textures/DEZBLOCK
 srb2.pk3:/Textures/DEZBLOK1
