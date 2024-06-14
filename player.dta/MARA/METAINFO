@@ -1,0 +1,32 @@
+# DoomTools-style METAINFO for graphics offsets
+#
+# SYNTAX: * graphic/flat [x-offset] [y-offset]
+
+# MARA sprites
+TAL0A3A7 graphic 0 37
+TAL0B3B7 graphic 0 37
+TAL0C3C7 graphic 0 37
+TAL0D3D7 graphic 0 37
+TAL0E3E7 graphic 0 37
+TAL0F3F7 graphic 0 37
+TAL0A1Y 13 37
+TAL0B1F1 graphic 13 37
+TAL0C1E1 graphic 13 37
+TAL0D1 graphic 13 37
+TAL0A5Y 13 37
+TAL0B5F5 graphic 13 37
+TAL0C5E5 graphic 13 37
+TAL0D5 graphic 13 37
+TAL0F8Y2 graphic 0 37
+TAL0A4A6 graphic 0 37
+TAL0B4F6 graphic 0 37
+TAL0C4E6 graphic 0 37
+TAL0D4D6 graphic 0 37
+TAL0E4C6 graphic 0 37
+TAL0F4B6 graphic 0 37
+TAL0A8A2 graphic 20 37
+TAL0B8F2 graphic 20 37
+TAL0C8E2 graphic 20 37
+TAL0D8D2 graphic 20 37
+TAL0E8C2 graphic 20 37
+TAL0F8B2 graphic 20 37

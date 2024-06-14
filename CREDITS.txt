@@ -12787,6 +12787,33 @@ player.dta:knuckles:XTRAC0
 player.dta:knuckles:XTRAD0
 player.dta:knuckles:XTRAE0
 player.dta:knuckles:XTRAF0
+player.dta:mara:TAL0A3A7	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0B3B7	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0C3C7	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0D3D7	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0E3E7	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0F3F7	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0A1Y	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0B1F1	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0C1E1	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0D1	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0A5Y	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0B5F5	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0C5E5	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0D5	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0F8Y2	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0A4A6	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0B4F6	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0C4E6	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0D4D6	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0E4C6	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0F4B6	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0A8A2	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0B8F2	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0C8E2	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0D8D2	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0E8C2	"Zibon 'PixL' Badi"
+player.dta:mara:TAL0F8B2	"Zibon 'PixL' Badi"
 player.dta:metalsonic:CNT1A0
 player.dta:metalsonic:CNT1B0
 player.dta:metalsonic:CNT1C0
