@@ -5394,22 +5394,26 @@ srb2.pk3:/Sprites/Emblems/EMBMW0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMX0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMY0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMZ0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Emerald Token/TOKEA0
-srb2.pk3:/Sprites/Emerald Token/TOKEB0
-srb2.pk3:/Sprites/Emerald Token/TOKEC0
-srb2.pk3:/Sprites/Emerald Token/TOKED0
-srb2.pk3:/Sprites/Emerald Token/TOKEE0
-srb2.pk3:/Sprites/Emerald Token/TOKEF0
-srb2.pk3:/Sprites/Emerald Token/TOKEG0O0
-srb2.pk3:/Sprites/Emerald Token/TOKEH0N0
-srb2.pk3:/Sprites/Emerald Token/TOKEI0M0
-srb2.pk3:/Sprites/Emerald Token/TOKEJ0L0
-srb2.pk3:/Sprites/Emerald Token/TOKEK0
-srb2.pk3:/Sprites/Emerald Token/TOKEP0
-srb2.pk3:/Sprites/Emerald Token/TOKEQ0
-srb2.pk3:/Sprites/Emerald Token/TOKER0
-srb2.pk3:/Sprites/Emerald Token/TOKES0
-srb2.pk3:/Sprites/Emerald Token/TOKET0
+srb2.pk3:/Sprites/Chakra Flowers/TOKEA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKED0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEG0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEH0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEI0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEJ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEK0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEL0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEM0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEN0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEO0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEP0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKEQ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKER0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKES0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Chakra Flowers/TOKET0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emeralds/*	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emeralds/CEMGA0
 srb2.pk3:/Sprites/Emeralds/CEMGB0
