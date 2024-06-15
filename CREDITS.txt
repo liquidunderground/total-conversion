@@ -9159,8 +9159,8 @@ srb2.pk3:/Sprites/Targets/LCKNB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/LCKNC0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/LCKND0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/TTAGA0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/UNKNA0
-srb2.pk3:/Sprites/UNKNB0
+srb2.pk3:/Sprites/UNKNA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/UNKNB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Weather/RAINA0
 srb2.pk3:/Sprites/Weather/SNO1A0
 srb2.pk3:/Sprites/Weather/SNO1B0
