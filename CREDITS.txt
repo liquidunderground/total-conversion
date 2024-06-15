@@ -921,9 +921,9 @@ srb2.pk3:/Flats/Fluids/WATER4
 srb2.pk3:/Flats/Fluids/WATER5
 srb2.pk3:/Flats/Fluids/WATER6
 srb2.pk3:/Flats/Fluids/WATER7
-srb2.pk3:/Flats/GRASS1
-srb2.pk3:/Flats/GRASS2
-srb2.pk3:/Flats/GRASS3
+srb2.pk3:/Flats/Grasslands/GRASS1	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Grasslands/GRASS2	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Grasslands/GRASS3	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/GRASSY	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grand Eggship/DSHIPF1
 srb2.pk3:/Flats/Grand Eggship/DSHIPF2
@@ -948,7 +948,7 @@ srb2.pk3:/Flats/Green Hill/GHZFLR02
 srb2.pk3:/Flats/Green Hill/GHZFLR07
 srb2.pk3:/Flats/Green Hill/GHZFLR08
 srb2.pk3:/Flats/Green Hill/GHZFLR09
-srb2.pk3:/Flats/Green Hill/GHZFLR0C
+srb2.pk3:/Flats/Grasslands/GHZFLR0C	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Green Hill/GHZROCKF
 srb2.pk3:/Flats/Green Hill/GRNLITE1
 srb2.pk3:/Flats/Grasslands/GFZFLR01	"Zibon 'PixL' Badi"
@@ -976,7 +976,7 @@ srb2.pk3:/Flats/Grasslands/GFZFLR22	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/GFZFNCF
 srb2.pk3:/Flats/Greenflower/GFZFNCG
 srb2.pk3:/Flats/Greenflower/GFZROCKA
-srb2.pk3:/Flats/Greenflower/GFZWAVEF
+srb2.pk3:/Flats/Grasslands/GFZWAVEF	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Grasslands/OLDGFZF1	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Greenflower/Old/OLDGFZF2
 srb2.pk3:/Flats/Greenflower/Old/OLDGFZF3
@@ -10303,7 +10303,7 @@ srb2.pk3:/Textures/Green Hill/GHZWALL8
 srb2.pk3:/Textures/Green Hill/GHZWALL9
 srb2.pk3:/Textures/Green Hill/GHZWALLA
 srb2.pk3:/Textures/Green Hill/GHZWALLB
-srb2.pk3:/Textures/Green Hill/GHZWALLC
+srb2.pk3:/Textures/Grasslands/GHZWALLC	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Grasslands/GFVINES	"Gog 'Idk' Wagoo"
 srb2.pk3:/Textures/Grasslands/GFVINESO	"Gog 'Idk' Wagoo"
 srb2.pk3:/Textures/Grasslands/GFZBLOCK	"Zibon 'PixL' Badi"
@@ -10348,7 +10348,7 @@ srb2.pk3:/Textures/Grasslands/GFZTILF1	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Grasslands/GFZTILF2	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Grasslands/GFZTILG1	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Grasslands/GFZTILG2	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Greenflower/GFZWAVE
+srb2.pk3:/Textures/Grasslands/GFZWAVE	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Greenflower/Old/OLDGFZG1	"Zibon 'PixL' Badi"	(virtual `TEXTURES.smz`)
 srb2.pk3:/Textures/Greenflower/Old/OLDGFZG2	"Zibon 'PixL' Badi"	(virtual `TEXTURES.smz`)
 srb2.pk3:/Textures/Grasslands/OLDGFZW1	"Zibon 'PixL' Badi"
