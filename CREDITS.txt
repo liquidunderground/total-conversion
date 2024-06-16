@@ -3277,10 +3277,10 @@ srb2.pk3:/Sounds/SRB2/DSALTDI1
 srb2.pk3:/Sounds/SRB2/DSALTDI2
 srb2.pk3:/Sounds/SRB2/DSALTDI3
 srb2.pk3:/Sounds/SRB2/DSALTDI4
-srb2.pk3:/Sounds/SRB2/DSALTOW1
-srb2.pk3:/Sounds/SRB2/DSALTOW2
-srb2.pk3:/Sounds/SRB2/DSALTOW3
-srb2.pk3:/Sounds/SRB2/DSALTOW4
+srb2.pk3:/Sounds/SRB2/DSALTOW1	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/SRB2/DSALTOW2	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/SRB2/DSALTOW3	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/SRB2/DSALTOW4	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSAMBIN2
 srb2.pk3:/Sounds/SRB2/DSAMBINT
 srb2.pk3:/Sounds/SRB2/DSAMBMAC
