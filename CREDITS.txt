@@ -1743,37 +1743,50 @@ srb2.pk3:/Graphics/Ending/Sparkle/ENDSPKL0
 srb2.pk3:/Graphics/Ending/Sparkle/ENDSPKL1
 srb2.pk3:/Graphics/Ending/Sparkle/ENDSPKL2
 srb2.pk3:/Graphics/FNSHICO
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT033
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT046
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT050
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT051
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT065
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT066
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT067
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT068
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT069
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT070
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT071
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT072
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT073
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT074
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT075
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT076
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT077
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT078
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT079
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT080
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT081
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT082
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT083
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT084
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT085
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT086
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT087
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT088
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT089
-srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT090
-srb2.pk3:/Graphics/Fonts/LTFNT/*	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT033	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT034	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT038	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT039	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT044	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT045	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT046	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT048	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT049	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT050	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT051	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT052	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT053	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT054	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT055	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT056	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT057	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT063	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT065	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT066	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT067	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT068	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT069	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT070	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT071	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT072	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT073	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT074	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT075	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT076	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT077	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT078	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT079	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT080	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT081	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT082	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT083	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT084	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT085	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT086	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT087	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT088	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT089	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Fonts/CRFNT/CRFNT090	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/LTFNT/LTFNT033	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/LTFNT/LTFNT034	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Fonts/LTFNT/LTFNT038	"Zibon 'PixL' Badi"
