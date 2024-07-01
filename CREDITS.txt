@@ -3482,7 +3482,7 @@ srb2.pk3:/Sounds/SRB2/DSSPDPAD
 srb2.pk3:/Sounds/SRB2/DSSPIN	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSSPKDTH
 srb2.pk3:/Sounds/SRB2/DSSPLASH
-srb2.pk3:/Sounds/SRB2/DSSPLISH
+srb2.pk3:/Sounds/DSSPLISH	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSSPNDSH	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSSPRING	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/DSSPRING2	"Zibon 'PixL' Badi"	(nonstandard)
