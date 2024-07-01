@@ -3477,7 +3477,7 @@ srb2.pk3:/Sounds/SRB2/DSSHIELD
 srb2.pk3:/Sounds/SRB2/DSSHLDLS
 srb2.pk3:/Sounds/SRB2/DSSHRPGO
 srb2.pk3:/Sounds/SRB2/DSSHRPSP
-srb2.pk3:/Sounds/SRB2/DSSKID
+srb2.pk3:/Sounds/DSSKID	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSSPDPAD
 srb2.pk3:/Sounds/SRB2/DSSPIN	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSSPKDTH
