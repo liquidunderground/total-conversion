@@ -3791,7 +3791,7 @@ srb2.pk3:/Sounds/Sonic3K/DSS3KB4
 srb2.pk3:/Sounds/Sonic3K/DSS3KB5
 srb2.pk3:/Sounds/Sonic3K/DSS3KB6
 srb2.pk3:/Sounds/Sonic3K/DSS3KB7
-srb2.pk3:/Sounds/Sonic3K/DSS3KB8
+srb2.pk3:/Sounds/retro/DSS3KB8	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/Sonic3K/DSS3KB9
 srb2.pk3:/Sounds/Sonic3K/DSS3KBA
 srb2.pk3:/Sounds/Sonic3K/DSS3KBB
