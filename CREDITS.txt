@@ -5910,70 +5910,14 @@ srb2.pk3:/Sprites/Enemies/Crushstacean/CRABD3D7
 srb2.pk3:/Sprites/Enemies/Crushstacean/CRABD4D6
 srb2.pk3:/Sprites/Enemies/Crushstacean/CRABD5
 srb2.pk3:/Sprites/Enemies/Crushstacean/CRABE0
-srb2.pk3:/Sprites/Enemies/Deton/DETNA1
-srb2.pk3:/Sprites/Enemies/Deton/DETNA2
-srb2.pk3:/Sprites/Enemies/Deton/DETNA3
-srb2.pk3:/Sprites/Enemies/Deton/DETNA4
-srb2.pk3:/Sprites/Enemies/Deton/DETNA5
-srb2.pk3:/Sprites/Enemies/Deton/DETNA6
-srb2.pk3:/Sprites/Enemies/Deton/DETNA7
-srb2.pk3:/Sprites/Enemies/Deton/DETNA8
-srb2.pk3:/Sprites/Enemies/Deton/DETNB1
-srb2.pk3:/Sprites/Enemies/Deton/DETNB2
-srb2.pk3:/Sprites/Enemies/Deton/DETNB3
-srb2.pk3:/Sprites/Enemies/Deton/DETNB4
-srb2.pk3:/Sprites/Enemies/Deton/DETNB5
-srb2.pk3:/Sprites/Enemies/Deton/DETNB6
-srb2.pk3:/Sprites/Enemies/Deton/DETNB7
-srb2.pk3:/Sprites/Enemies/Deton/DETNB8
-srb2.pk3:/Sprites/Enemies/Deton/DETNC1
-srb2.pk3:/Sprites/Enemies/Deton/DETNC2
-srb2.pk3:/Sprites/Enemies/Deton/DETNC3
-srb2.pk3:/Sprites/Enemies/Deton/DETNC4
-srb2.pk3:/Sprites/Enemies/Deton/DETNC5
-srb2.pk3:/Sprites/Enemies/Deton/DETNC6
-srb2.pk3:/Sprites/Enemies/Deton/DETNC7
-srb2.pk3:/Sprites/Enemies/Deton/DETNC8
-srb2.pk3:/Sprites/Enemies/Deton/DETND1
-srb2.pk3:/Sprites/Enemies/Deton/DETND2
-srb2.pk3:/Sprites/Enemies/Deton/DETND3
-srb2.pk3:/Sprites/Enemies/Deton/DETND4
-srb2.pk3:/Sprites/Enemies/Deton/DETND5
-srb2.pk3:/Sprites/Enemies/Deton/DETND6
-srb2.pk3:/Sprites/Enemies/Deton/DETND7
-srb2.pk3:/Sprites/Enemies/Deton/DETND8
-srb2.pk3:/Sprites/Enemies/Deton/DETNE1
-srb2.pk3:/Sprites/Enemies/Deton/DETNE2
-srb2.pk3:/Sprites/Enemies/Deton/DETNE3
-srb2.pk3:/Sprites/Enemies/Deton/DETNE4
-srb2.pk3:/Sprites/Enemies/Deton/DETNE5
-srb2.pk3:/Sprites/Enemies/Deton/DETNE6
-srb2.pk3:/Sprites/Enemies/Deton/DETNE7
-srb2.pk3:/Sprites/Enemies/Deton/DETNE8
-srb2.pk3:/Sprites/Enemies/Deton/DETNF1
-srb2.pk3:/Sprites/Enemies/Deton/DETNF2
-srb2.pk3:/Sprites/Enemies/Deton/DETNF3
-srb2.pk3:/Sprites/Enemies/Deton/DETNF4
-srb2.pk3:/Sprites/Enemies/Deton/DETNF5
-srb2.pk3:/Sprites/Enemies/Deton/DETNF6
-srb2.pk3:/Sprites/Enemies/Deton/DETNF7
-srb2.pk3:/Sprites/Enemies/Deton/DETNF8
-srb2.pk3:/Sprites/Enemies/Deton/DETNG1
-srb2.pk3:/Sprites/Enemies/Deton/DETNG2
-srb2.pk3:/Sprites/Enemies/Deton/DETNG3
-srb2.pk3:/Sprites/Enemies/Deton/DETNG4
-srb2.pk3:/Sprites/Enemies/Deton/DETNG5
-srb2.pk3:/Sprites/Enemies/Deton/DETNG6
-srb2.pk3:/Sprites/Enemies/Deton/DETNG7
-srb2.pk3:/Sprites/Enemies/Deton/DETNG8
-srb2.pk3:/Sprites/Enemies/Deton/DETNH1
-srb2.pk3:/Sprites/Enemies/Deton/DETNH2
-srb2.pk3:/Sprites/Enemies/Deton/DETNH3
-srb2.pk3:/Sprites/Enemies/Deton/DETNH4
-srb2.pk3:/Sprites/Enemies/Deton/DETNH5
-srb2.pk3:/Sprites/Enemies/Deton/DETNH6
-srb2.pk3:/Sprites/Enemies/Deton/DETNH7
-srb2.pk3:/Sprites/Enemies/Deton/DETNH8
+srb2.pk3:/Sprites/Enemies/CrazyStar/DETNA0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Enemies/CrazyStar/DETNB0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Enemies/CrazyStar/DETNC0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Enemies/CrazyStar/DETND0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Enemies/CrazyStar/DETNE0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Enemies/CrazyStar/DETNF0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Enemies/CrazyStar/DETNG0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+srb2.pk3:/Sprites/Enemies/CrazyStar/DETNH0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 srb2.pk3:/Sprites/Enemies/Dragonbomber/DRABA1
 srb2.pk3:/Sprites/Enemies/Dragonbomber/DRABA2A8
 srb2.pk3:/Sprites/Enemies/Dragonbomber/DRABA3A7
