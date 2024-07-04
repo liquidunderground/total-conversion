@@ -3363,7 +3363,7 @@ srb2.pk3:/Sounds/SRB2/DSCORKH
 srb2.pk3:/Sounds/SRB2/DSCORKP
 srb2.pk3:/Sounds/DSCRUMBL	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSCYBDTH
-srb2.pk3:/Sounds/SRB2/DSDETON
+srb2.pk3:/Sounds/DSDETON "Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSDING
 srb2.pk3:/Sounds/SRB2/DSDMPAIN
 srb2.pk3:/Sounds/SRB2/DSDOORA1
@@ -3726,7 +3726,7 @@ srb2.pk3:/Sounds/Sonic3K/DSS3K82
 srb2.pk3:/Sounds/Sonic3K/DSS3K83
 srb2.pk3:/Sounds/Sonic3K/DSS3K84
 srb2.pk3:/Sounds/Sonic3K/DSS3K85
-srb2.pk3:/Sounds/Sonic3K/DSS3K86
+srb2.pk3:/Sounds/retro/DSS3K86 "Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/Sonic3K/DSS3K87
 srb2.pk3:/Sounds/Sonic3K/DSS3K88
 srb2.pk3:/Sounds/Sonic3K/DSS3K89
