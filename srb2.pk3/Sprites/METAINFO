@@ -11,7 +11,7 @@ STPT* graphic 16 117
 ### Emblems
 EMBM graphic 16 28
 ### Chakra Shards and hunting gems
-CEMG graphic 11 22
+CEMG graphic 11 25
 SHRD graphic 8 38
 ### Chakra Shards and hunting gems
 FWR1 graphic 16 46
@@ -51,6 +51,7 @@ WSPKFLFR graphic 11 14
 WSPB graphic 8 16
 ### FPS Sprites: Tag icon/Team gems/Flags
 Targets/TTAGA0 graphic 16 32
+Targets/GFLGA0 graphic 36 13
 Targets/GFLGB0 graphic 24 48
 Targets/GFLGC0 graphic 24 48
 Targets/LCKNA0 graphic 16 32
