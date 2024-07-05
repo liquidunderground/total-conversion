@@ -86,6 +86,10 @@ Mapping advice:
 
 Goodest boy: "TemporaryAl"
 
+External resources:
+
+- Gamufreaku (Freesound)
+
 
 2. Credits by asset
 -------------------
@@ -3726,7 +3730,7 @@ srb2.pk3:/Sounds/Sonic3K/DSS3K82
 srb2.pk3:/Sounds/Sonic3K/DSS3K83
 srb2.pk3:/Sounds/Sonic3K/DSS3K84
 srb2.pk3:/Sounds/Sonic3K/DSS3K85
-srb2.pk3:/Sounds/retro/DSS3K86 "Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/retro/DSS3K86 "Zibon 'PixL' Badi"	(based on Man Screaming.wav by Gamufreaku -- https://freesound.org/s/655277/ -- License: Attribution 4.0)
 srb2.pk3:/Sounds/Sonic3K/DSS3K87
 srb2.pk3:/Sounds/Sonic3K/DSS3K88
 srb2.pk3:/Sounds/Sonic3K/DSS3K89
