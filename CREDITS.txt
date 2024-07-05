@@ -9116,7 +9116,7 @@ srb2.pk3/Sprites/Checkpoint/STPTU0.png	"Zibon 'PixL' Badi"
 srb2.pk3/Sprites/Checkpoint/STPTV0.png	"Zibon 'PixL' Badi"
 srb2.pk3/Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/THOKA0
-srb2.pk3:/Sprites/Targets/GFLGA0
+srb2.pk3:/Sprites/Targets/GFLGA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/GFLGB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/GFLGC0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Targets/LCKNA0	"Zibon 'PixL' Badi"
