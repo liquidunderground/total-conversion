@@ -3318,7 +3318,7 @@ srb2.pk3:/Sounds/SRB2/DSBECHRG
 srb2.pk3:/Sounds/SRB2/DSBECRSH
 srb2.pk3:/Sounds/SRB2/DSBEDEEN
 srb2.pk3:/Sounds/SRB2/DSBEDIE1
-srb2.pk3:/Sounds/SRB2/DSBEDIE2
+srb2.pk3:/Sounds/SRB2/DSBEDIE2	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSBEELEC
 srb2.pk3:/Sounds/SRB2/DSBEEYOW
 srb2.pk3:/Sounds/SRB2/DSBEFALL
