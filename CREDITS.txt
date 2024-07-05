@@ -184,40 +184,38 @@ srb2.pk3:/Fades/FADE8820.png	"Zibon 'PixL' Badi"
 srb2.pk3:/Fades/FADE8821.png	"Zibon 'PixL' Badi"
 srb2.pk3:/Fades/FADE8822.png	"Zibon 'PixL' Badi"
 srb2.pk3:/Fades/FADE8823.png	"Zibon 'PixL' Badi"
-srb2.pk3:/Fades/FADE9900.raw
-srb2.pk3:/Fades/FADE9901.raw
-srb2.pk3:/Fades/FADE9902.raw
-srb2.pk3:/Fades/FADE9903.raw
-srb2.pk3:/Fades/FADE9904.raw
-srb2.pk3:/Fades/FADE9905.raw
-srb2.pk3:/Fades/FADE9906.raw
-srb2.pk3:/Fades/FADE9907.raw
-srb2.pk3:/Fades/FADE9908.raw
-srb2.pk3:/Fades/FADE9909.raw
-srb2.pk3:/Fades/FADE9910.raw
-srb2.pk3:/Fades/FADE9911.raw
-srb2.pk3:/Fades/FADE9912.raw
-srb2.pk3:/Fades/FADE9913.raw
-srb2.pk3:/Fades/FADE9914.raw
-srb2.pk3:/Fades/FADE9915.raw
-srb2.pk3:/Fades/FADE9916.raw
-srb2.pk3:/Fades/FADE9917.raw
-srb2.pk3:/Fades/FADE9918.raw
-srb2.pk3:/Fades/FADE9919.raw
-srb2.pk3:/Fades/FADE9920.raw
-srb2.pk3:/Fades/FADE9921.raw
-srb2.pk3:/Fades/FADE9922.raw
-srb2.pk3:/Fades/FADE9923.raw
-srb2.pk3:/Fades/FADE9924.raw
-srb2.pk3:/Fades/FADE9925.raw
-srb2.pk3:/Fades/FADE9926.raw
-srb2.pk3:/Fades/FADE9927.raw
-srb2.pk3:/Fades/FADE9928.raw
-srb2.pk3:/Fades/FADE9929.raw
-srb2.pk3:/Fades/FADE9930.raw
-srb2.pk3:/Fades/FADE9931.raw
-srb2.pk3:/Fades/FADE9932.raw
-srb2.pk3:/Fades/FADE9933.raw
+srb2.pk3:/Fades/FADE9900.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9901.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9902.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9903.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9904.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9905.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9906.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9907.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9908.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9909.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9910.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9911.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9912.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9913.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9914.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9915.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9916.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9917.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9918.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9919.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9920.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9921.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9922.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9923.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9924.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9925.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9926.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9927.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9928.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9929.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9930.raw	"Zibon 'PixL' Badi"
+srb2.pk3:/Fades/FADE9931.raw	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/2Fort/2FORTF1
 srb2.pk3:/Flats/2Fort/2FORTF2
 srb2.pk3:/Flats/2Fort/2FORTF3
