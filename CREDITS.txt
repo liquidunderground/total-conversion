@@ -3288,14 +3288,14 @@ srb2.pk3:/Sounds/SRB2/DSADDERR
 srb2.pk3:/Sounds/SRB2/DSADDFIL
 srb2.pk3:/Sounds/SRB2/DSALARM
 srb2.pk3:/Sounds/SRB2/DSALART
-srb2.pk3:/Sounds/SRB2/DSALTDI1
-srb2.pk3:/Sounds/SRB2/DSALTDI2
-srb2.pk3:/Sounds/SRB2/DSALTDI3
+srb2.pk3:/Sounds/DSALTDI1	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSALTDI2	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSALTDI3	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSALTDI4
-srb2.pk3:/Sounds/SRB2/DSALTOW1	"Zibon 'PixL' Badi"
-srb2.pk3:/Sounds/SRB2/DSALTOW2	"Zibon 'PixL' Badi"
-srb2.pk3:/Sounds/SRB2/DSALTOW3	"Zibon 'PixL' Badi"
-srb2.pk3:/Sounds/SRB2/DSALTOW4	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSALTOW1	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSALTOW2	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSALTOW3	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSALTOW4	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSAMBIN2
 srb2.pk3:/Sounds/SRB2/DSAMBINT
 srb2.pk3:/Sounds/SRB2/DSAMBMAC
@@ -3318,7 +3318,7 @@ srb2.pk3:/Sounds/SRB2/DSBECHRG
 srb2.pk3:/Sounds/SRB2/DSBECRSH
 srb2.pk3:/Sounds/SRB2/DSBEDEEN
 srb2.pk3:/Sounds/SRB2/DSBEDIE1
-srb2.pk3:/Sounds/SRB2/DSBEDIE2	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSBEDIE2	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSBEELEC
 srb2.pk3:/Sounds/SRB2/DSBEEYOW
 srb2.pk3:/Sounds/SRB2/DSBEFALL
@@ -3343,7 +3343,7 @@ srb2.pk3:/Sounds/SRB2/DSBGXPLD
 srb2.pk3:/Sounds/SRB2/DSBKPOOF
 srb2.pk3:/Sounds/SRB2/DSBNCE1
 srb2.pk3:/Sounds/SRB2/DSBNCE2
-srb2.pk3:/Sounds/SRB2/DSBOINGF	"Zibon 'PixL' Badi"
+srb2.pk3:/Sounds/DSBOINGF	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/SRB2/DSBOWL
 srb2.pk3:/Sounds/SRB2/DSBRAKRL
 srb2.pk3:/Sounds/SRB2/DSBRAKRX
