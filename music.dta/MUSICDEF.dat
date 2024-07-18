@@ -149,11 +149,11 @@ Soundtestcond = 13
 BPM = 182
 
 Lump ACZ2
-Title = Arid_Canyon_2
-Authors = clairebun,_Shane_Strife,_DrTapeworm,_Nev3r
+Title = Desert_Pit_2
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 14
-BPM = 90
+BPM = 100
 
 Lump VSFANG
 Title = VS_Patsy
