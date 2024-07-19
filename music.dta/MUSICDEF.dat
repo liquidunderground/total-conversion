@@ -205,13 +205,6 @@ Soundtestpage = 1
 Soundtestcond = 56
 BPM = 170
 
-Lump BCZ1
-Title = The_Speedway
-Authors = DrTapeworm
-Soundtestpage = 1
-Soundtestcond = 25
-BPM = 164
-
 Lump VSMETL
 Title = VS_MARA
 Authors = Zibon_"PixL"_Badi
@@ -226,6 +219,13 @@ Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 26
 BPM = 102
+
+Lump BCZ1
+Title = The_Underworld_99
+Authors = Zibon_"PixL"_Badi
+Soundtestpage = 1
+Soundtestcond = 25
+BPM = 175
 
 Lump VSBRAK
 Title = VS_KOTU
