@@ -4431,13 +4431,13 @@ srb2.pk3:/Sprites/Bosses/Brak Eggman/RCKTA5
 srb2.pk3:/Sprites/Bosses/Brak Eggman/RCKTB0
 srb2.pk3:/Sprites/Bosses/Brak Eggman/RCKTC0
 srb2.pk3:/Sprites/Bosses/Brak Eggman/RCKTD0
-srb2.pk3:/Sprites/Bosses/Brak Eggman/TARGA0
-srb2.pk3:/Sprites/Bosses/Brak Eggman/TARGB0
-srb2.pk3:/Sprites/Bosses/Brak Eggman/TARGC0
-srb2.pk3:/Sprites/Bosses/Brak Eggman/TARGD0
-srb2.pk3:/Sprites/Bosses/Brak Eggman/TARGE0
-srb2.pk3:/Sprites/Bosses/Brak Eggman/TARGF0
-srb2.pk3:/Sprites/Bosses/Brak Eggman/TARGG0
+srb2.pk3:/Sprites/Bosses/KOTU/TARGA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Bosses/KOTU/TARGB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Bosses/KOTU/TARGC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Bosses/KOTU/TARGD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Bosses/KOTU/TARGE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Bosses/KOTU/TARGF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Bosses/KOTU/TARGG0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Bosses/Egg Colosseum/EFIRA0
 srb2.pk3:/Sprites/Bosses/Egg Colosseum/EFIRB0
 srb2.pk3:/Sprites/Bosses/Egg Colosseum/EGGPA1
