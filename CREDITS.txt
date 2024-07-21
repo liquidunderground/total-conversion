@@ -11365,20 +11365,20 @@ srb2.pk3:/Textures/Techno Hill/STKBOXT1
 srb2.pk3:/Textures/Techno Hill/STKBOXT2
 srb2.pk3:/Textures/Techno Hill/STKBOXT3
 srb2.pk3:/Textures/Techno Hill/STKBOXT4
-srb2.pk3:/Textures/Techno Hill/TH2_NS1
-srb2.pk3:/Textures/Techno Hill/TH2_NS2
-srb2.pk3:/Textures/Techno Hill/TH2_NS3
-srb2.pk3:/Textures/Techno Hill/TH2_NS4
-srb2.pk3:/Textures/Techno Hill/TH2_NS5
-srb2.pk3:/Textures/Techno Hill/TH2_NS6
-srb2.pk3:/Textures/Techno Hill/TH2_NS7
-srb2.pk3:/Textures/Techno Hill/TH2_NS8
-srb2.pk3:/Textures/Techno Hill/TH2_NS9
-srb2.pk3:/Textures/Techno Hill/TH2_NSA
-srb2.pk3:/Textures/Techno Hill/TH2_NSB
-srb2.pk3:/Textures/Techno Hill/TH2_NSC
-srb2.pk3:/Textures/Techno Hill/TH2_NSS1
-srb2.pk3:/Textures/Techno Hill/TH2_NSS2
+srb2.pk3:/Textures/Cityscape/TH2_NS1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NS2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NS3	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NS4	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NS5	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NS6	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NS7	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Signs/TH2_NS8	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Signs/TH2_NS9	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NSA	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NSB	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cityscape/TH2_NSC	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Signs/TH2_NSS1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Signs/TH2_NSS2	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Techno Hill/TH2_SB1
 srb2.pk3:/Textures/Techno Hill/TH2_SB2
 srb2.pk3:/Textures/Techno Hill/TH2_SB3
