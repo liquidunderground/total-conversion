@@ -72,6 +72,7 @@ TRE3 graphic 28 252
 TRE5 graphic 28 252
 TRE6 graphic 70 162
 ### Misc.: Missing sprite/etc.
+PUMI* graphic 40 72 # 8-Ball
 UNKN graphic 16 36
 ### Fallback
 * graphic
