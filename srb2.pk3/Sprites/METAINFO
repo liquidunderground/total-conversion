@@ -17,6 +17,10 @@ SHRD graphic 8 38
 FWR1 graphic 16 46
 FWR2 graphic 16 126
 FWR3 graphic 7 30
+### Springs
+SPRR graphic 22 102
+SPRY graphic 22 102
+SPRB graphic 22 102
 ### Gems
 RING graphic 16 30
 SPRK graphic 16 30
