@@ -13049,28 +13049,21 @@ player.dta:sonic:RIDEA5
 player.dta:sonic:RIDEA6
 player.dta:sonic:RIDEA7
 player.dta:sonic:RIDEA8
-player.dta:sonic:ROLLA1
-player.dta:sonic:ROLLA2A8
-player.dta:sonic:ROLLA3A7
-player.dta:sonic:ROLLA4A6
-player.dta:sonic:ROLLA5
-player.dta:sonic:ROLLB1
-player.dta:sonic:ROLLB2B8
-player.dta:sonic:ROLLB3B7
-player.dta:sonic:ROLLB4B6
-player.dta:sonic:ROLLB5
-player.dta:sonic:ROLLC0
-player.dta:sonic:ROLLD1
-player.dta:sonic:ROLLD2D8
-player.dta:sonic:ROLLD3D7
-player.dta:sonic:ROLLD4D6
-player.dta:sonic:ROLLD5
-player.dta:sonic:ROLLE1
-player.dta:sonic:ROLLE2E8
-player.dta:sonic:ROLLE3E7
-player.dta:sonic:ROLLE4E6
-player.dta:sonic:ROLLE5
-player.dta:sonic:ROLLF0
+player.dta:elise:ROLLA1	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLA2A8	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLA3A7	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLA4A6	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLA5	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLB1	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLB2B8	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLB3B7	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLB4B6	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLB5	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLC1	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLC2C8	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLC3C7	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLC4C6	"Zibon 'PixL' Badi"
+player.dta:elise:ROLLC5	"Zibon 'PixL' Badi"
 player.dta:sonic:RUN_A1.
 player.dta:sonic:RUN_A1
 player.dta:sonic:RUN_A2A8
@@ -13100,26 +13093,21 @@ player.dta:sonic:RUN_D2B8
 player.dta:sonic:RUN_D3B7
 player.dta:sonic:RUN_D4B6
 player.dta:sonic:SIGNA0
-player.dta:sonic:SPINA1
-player.dta:sonic:SPINA2A8
-player.dta:sonic:SPINA3A7
-player.dta:sonic:SPINA4A6
-player.dta:sonic:SPINA5
-player.dta:sonic:SPINB1
-player.dta:sonic:SPINB2B8
-player.dta:sonic:SPINB3B7
-player.dta:sonic:SPINB4B6
-player.dta:sonic:SPINB5
-player.dta:sonic:SPINC1
-player.dta:sonic:SPINC2C8
-player.dta:sonic:SPINC3C7
-player.dta:sonic:SPINC4C6
-player.dta:sonic:SPINC5
-player.dta:sonic:SPIND1
-player.dta:sonic:SPIND2D8
-player.dta:sonic:SPIND3D7
-player.dta:sonic:SPIND4D6
-player.dta:sonic:SPIND5
+player.dta:elise:SPINA1	"Zibon 'PixL' Badi"
+player.dta:elise:SPINA2A8	"Zibon 'PixL' Badi"
+player.dta:elise:SPINA3A7	"Zibon 'PixL' Badi"
+player.dta:elise:SPINA4A6	"Zibon 'PixL' Badi"
+player.dta:elise:SPINA5	"Zibon 'PixL' Badi"
+player.dta:elise:SPINB1	"Zibon 'PixL' Badi"
+player.dta:elise:SPINB2B8	"Zibon 'PixL' Badi"
+player.dta:elise:SPINB3B7	"Zibon 'PixL' Badi"
+player.dta:elise:SPINB4B6	"Zibon 'PixL' Badi"
+player.dta:elise:SPINB5	"Zibon 'PixL' Badi"
+player.dta:elise:SPINC1	"Zibon 'PixL' Badi"
+player.dta:elise:SPINC2C8	"Zibon 'PixL' Badi"
+player.dta:elise:SPINC3C7	"Zibon 'PixL' Badi"
+player.dta:elise:SPINC4C6	"Zibon 'PixL' Badi"
+player.dta:elise:SPINC5	"Zibon 'PixL' Badi"
 player.dta:sonic:SPNGA1.
 player.dta:sonic:SPNGA1
 player.dta:sonic:SPNGA2A8.
