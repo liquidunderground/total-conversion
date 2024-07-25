@@ -3291,7 +3291,7 @@ srb2.pk3:/Sounds/SRB2/DSALART
 srb2.pk3:/Sounds/DSALTDI1	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/DSALTDI2	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/DSALTDI3	"Zibon 'PixL' Badi"
-srb2.pk3:/Sounds/SRB2/DSALTDI4
+srb2.pk3:/Sounds/DSALTDI4	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/DSALTOW1	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/DSALTOW2	"Zibon 'PixL' Badi"
 srb2.pk3:/Sounds/DSALTOW3	"Zibon 'PixL' Badi"
