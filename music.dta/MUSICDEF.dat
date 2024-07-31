@@ -505,12 +505,12 @@ Soundtestcond = 0
 BPM = 120
 
 Lump MARIO1
-Title = Pipe_Towers_1
-Alttitle = Overworld
-Authors = clairebun,_Koji_Kondo_(Super_Mario_Bros.)
+Title = Marble_Pagoda_1
+Alttitle = Outside_Marble_Pagoda
+Authors = Zibon_"PixL"_Badi
 Soundtestpage = 1
 Soundtestcond = 31
-BPM = 100
+BPM = 145
 
 Lump MARIO2
 Title = Pipe_Towers_2
