@@ -7604,22 +7604,22 @@ srb2.pk3:/Sprites/Rings/Automatic/TAUTG2G8
 srb2.pk3:/Sprites/Rings/Automatic/TAUTG3G7
 srb2.pk3:/Sprites/Rings/Automatic/TAUTG4G6
 srb2.pk3:/Sprites/Rings/Automatic/TAUTG5
-srb2.pk3:/Sprites/Rings/Bomb/PIKEA0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEB0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEC0
-srb2.pk3:/Sprites/Rings/Bomb/PIKED0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEE0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEF0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEG0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEH0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEI0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEJ0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEK0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEL0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEM0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEN0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEO0
-srb2.pk3:/Sprites/Rings/Bomb/PIKEP0
+srb2.pk3:/Sprites/Rings/Explosion/PIKEA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKED0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEG0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEH0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEI0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEJ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEK0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEL0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEM0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEN0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEO0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Explosion/PIKEP0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/Bomb/RNGE00
 srb2.pk3:/Sprites/Rings/Bomb/RNGE10
 srb2.pk3:/Sprites/Rings/Bomb/RNGE20
