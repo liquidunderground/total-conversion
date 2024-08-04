@@ -7775,6 +7775,22 @@ srb2.pk3:/Sprites/Rings/Grenade/TGREO0
 srb2.pk3:/Sprites/Rings/Grenade/TGREP0
 srb2.pk3:/Sprites/Rings/Grenade/TGREQ0
 srb2.pk3:/Sprites/Rings/Grenade/TGRER0
+srb2.pk3:/Sprites/Rings/Infinite/PIKIA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKID0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIG0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIH0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKII0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIJ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIK0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIL0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIM0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIN0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIO0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Infinite/PIKIP0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/Infinity/RNGI00
 srb2.pk3:/Sprites/Rings/Infinity/RNGI10
 srb2.pk3:/Sprites/Rings/Infinity/RNGI20
