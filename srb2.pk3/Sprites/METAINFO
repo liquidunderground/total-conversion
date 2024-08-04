@@ -21,9 +21,22 @@ FWR3 graphic 7 30
 SPRR graphic 22 102
 SPRY graphic 22 102
 SPRB graphic 22 102
-### Gems
+### Gems & Spells
 RING graphic 16 30
 SPRK graphic 16 30
+PIKA* graphic 24 44
+PIKB* graphic 24 44
+PIKE* graphic 24 44
+PIKG* graphic 24 44
+PIKI* graphic 24 44
+PIKR* graphic 24 44
+PIKS* graphic 24 44
+TAUT* graphic 16 28
+TBNC* graphic 16 28
+TGRE* graphic 16 28
+TINF* graphic 16 28
+TSCR* graphic 16 28
+TXPL* graphic 16 28
 ### Level end portal
 SIGNA0 graphic 40 48
 SIGNB0 graphic 22 48

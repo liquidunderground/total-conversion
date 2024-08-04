@@ -7884,22 +7884,22 @@ srb2.pk3:/Sprites/Rings/SPRKG0P0	"Zibon 'PixL' Badi"	(offset 16x30)
 srb2.pk3:/Sprites/Rings/SPRKH0Q0	"Zibon 'PixL' Badi"	(offset 16x30)
 srb2.pk3:/Sprites/Rings/SPRKI0R0	"Zibon 'PixL' Badi"	(offset 16x30)
 srb2.pk3:/Sprites/Rings/SPRKS0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSA0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSB0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSC0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSD0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSE0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSF0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSG0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSH0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSI0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSJ0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSK0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSL0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSM0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSN0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSO0
-srb2.pk3:/Sprites/Rings/Scatter/PIKSP0
+srb2.pk3:/Sprites/Rings/Scatter/PIKSA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSG0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSH0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSI0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSJ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSK0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSL0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSM0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSN0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSO0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/PIKSP0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/Scatter/RNGS00
 srb2.pk3:/Sprites/Rings/Scatter/RNGS10
 srb2.pk3:/Sprites/Rings/Scatter/RNGS20
@@ -7935,10 +7935,14 @@ srb2.pk3:/Sprites/Rings/Scatter/RNGSW0
 srb2.pk3:/Sprites/Rings/Scatter/RNGSX0
 srb2.pk3:/Sprites/Rings/Scatter/RNGSY0
 srb2.pk3:/Sprites/Rings/Scatter/RNGSZ0
-srb2.pk3:/Sprites/Rings/Scatter/TSCRA1A5
-srb2.pk3:/Sprites/Rings/Scatter/TSCRA2A8
-srb2.pk3:/Sprites/Rings/Scatter/TSCRA3A7
-srb2.pk3:/Sprites/Rings/Scatter/TSCRA4A6
+srb2.pk3:/Sprites/Rings/Scatter/TSCRA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/TSCRB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/TSCRC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/TSCRD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/TSCRE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/TSCRF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/TSCRG0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Scatter/TSCRH0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/Team/RRNGA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/Team/RRNGB0H0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/Team/RRNGC0G0	"Zibon 'PixL' Badi"
