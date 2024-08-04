@@ -7706,22 +7706,22 @@ srb2.pk3:/Sprites/Rings/Bounce/RNGBW0
 srb2.pk3:/Sprites/Rings/Bounce/RNGBX0
 srb2.pk3:/Sprites/Rings/Bounce/RNGBY0
 srb2.pk3:/Sprites/Rings/Bounce/RNGBZ0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGA0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGB0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGC0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGD0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGE0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGF0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGG0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGH0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGI0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGJ0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGK0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGL0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGM0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGN0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGO0
-srb2.pk3:/Sprites/Rings/Grenade/PIKGP0
+srb2.pk3:/Sprites/Rings/Grenade/PIKGA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGG0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGH0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGI0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGJ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGK0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGL0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGM0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGN0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGO0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Grenade/PIKGP0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/Grenade/RNGG00
 srb2.pk3:/Sprites/Rings/Grenade/RNGG10
 srb2.pk3:/Sprites/Rings/Grenade/RNGG20
