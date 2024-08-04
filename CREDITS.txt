@@ -7839,22 +7839,22 @@ srb2.pk3:/Sprites/Rings/RINGJ0P0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/RINGK0O0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/RINGL0N0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/RINGM0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Rings/Rail/PIKRA0
-srb2.pk3:/Sprites/Rings/Rail/PIKRB0
-srb2.pk3:/Sprites/Rings/Rail/PIKRC0
-srb2.pk3:/Sprites/Rings/Rail/PIKRD0
-srb2.pk3:/Sprites/Rings/Rail/PIKRE0
-srb2.pk3:/Sprites/Rings/Rail/PIKRF0
-srb2.pk3:/Sprites/Rings/Rail/PIKRG0
-srb2.pk3:/Sprites/Rings/Rail/PIKRH0
-srb2.pk3:/Sprites/Rings/Rail/PIKRI0
-srb2.pk3:/Sprites/Rings/Rail/PIKRJ0
-srb2.pk3:/Sprites/Rings/Rail/PIKRK0
-srb2.pk3:/Sprites/Rings/Rail/PIKRL0
-srb2.pk3:/Sprites/Rings/Rail/PIKRM0
-srb2.pk3:/Sprites/Rings/Rail/PIKRN0
-srb2.pk3:/Sprites/Rings/Rail/PIKRO0
-srb2.pk3:/Sprites/Rings/Rail/PIKRP0
+srb2.pk3:/Sprites/Rings/Rail/PIKRA0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRB0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRF0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRG0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRH0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRI0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRJ0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRK0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRL0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRM0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRN0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRO0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Rings/Rail/PIKRP0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Rings/Rail/RNGR00
 srb2.pk3:/Sprites/Rings/Rail/RNGR10
 srb2.pk3:/Sprites/Rings/Rail/RNGR20
