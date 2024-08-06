@@ -46,6 +46,10 @@ TRRI graphic 19 42
 TRBI graphic 19 42
 MSTVB0 graphic 19 42
 XLTV graphic 21 46
+### Item box signs
+TV1U* graphic 12 20
+TV1P* graphic 12 20
+XLTV graphic 21 46
 ### Particle FX
 BOM1 graphic 32 60
 LSTR graphic 16 16

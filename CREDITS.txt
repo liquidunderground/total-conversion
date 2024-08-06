@@ -7189,16 +7189,16 @@ srb2.pk3:/Sprites/Monitors/Mystery/TVMYE0
 srb2.pk3:/Sprites/Monitors/Mystery/TVMYF0
 srb2.pk3:/Sprites/Itemboxes/TV1PA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Itemboxes/TV1PB0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/One Up/TV1PC0
-srb2.pk3:/Sprites/Monitors/One Up/TV1PD0
-srb2.pk3:/Sprites/Monitors/One Up/TV1PE0
-srb2.pk3:/Sprites/Monitors/One Up/TV1PF0
+srb2.pk3:/Sprites/Itemboxes/Signs/TV1PC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Signs/TV1PD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Signs/TV1PE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Signs/TV1PF0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Itemboxes/TV1UA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Itemboxes/TV1UB0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Monitors/One Up/TV1UC0
-srb2.pk3:/Sprites/Monitors/One Up/TV1UD0
-srb2.pk3:/Sprites/Monitors/One Up/TV1UE0
-srb2.pk3:/Sprites/Monitors/One Up/TV1UF0
+srb2.pk3:/Sprites/Itemboxes/Signs/TV1UC0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Signs/TV1UD0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Signs/TV1UE0	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Itemboxes/Signs/TV1UF0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Itemboxes/TVPIA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Itemboxes/TVPIB0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Monitors/Pity/TVPIC0
