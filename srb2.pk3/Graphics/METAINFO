@@ -214,6 +214,25 @@ NTFNT126 graphic -2 -8
 #
 ### Menu
 M_SLIDEL graphic -2 0
+#### Menu Headers
+M_ADDONS graphic 0 3
+M_ATTACK graphic 0 3
+M_CONTRO graphic 0 3
+M_DATA graphic 0 3
+M_MULTI graphic 0 3
+M_NIGHTS graphic 0 3
+M_OPTTTL graphic 0 3
+M_PANDRA graphic 0 3
+M_PICKG graphic 0 3
+M_PICKP graphic 0 3
+M_RATHON graphic 0 3
+M_SCREEN graphic 0 3
+M_SECRET graphic 0 3
+M_SERVER graphic 0 3
+M_SOUND graphic 0 3
+M_SPLAYR graphic 0 3
+M_STATS graphic 0 3
+M_VIDEO graphic 0 3
 
 ### Fallback
 Graphics/ graphic
