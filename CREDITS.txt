@@ -2305,24 +2305,24 @@ srb2.pk3:/Graphics/Menu/BRDR_TR
 srb2.pk3:/Graphics/Menu/Character Select	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Menu/Character Select/CHARBG
 srb2.pk3:/Graphics/Menu/Character Select/CHARFG
-srb2.pk3:/Graphics/Menu/Headers/M_ADDONS
-srb2.pk3:/Graphics/Menu/Headers/M_ATTACK
-srb2.pk3:/Graphics/Menu/Headers/M_CONTRO
-srb2.pk3:/Graphics/Menu/Headers/M_DATA
-srb2.pk3:/Graphics/Menu/Headers/M_MULTI
-srb2.pk3:/Graphics/Menu/Headers/M_NIGHTS
-srb2.pk3:/Graphics/Menu/Headers/M_OPTTTL
-srb2.pk3:/Graphics/Menu/Headers/M_PANDRA
-srb2.pk3:/Graphics/Menu/Headers/M_PICKG
-srb2.pk3:/Graphics/Menu/Headers/M_PICKP
-srb2.pk3:/Graphics/Menu/Headers/M_RATHON
-srb2.pk3:/Graphics/Menu/Headers/M_SCREEN
-srb2.pk3:/Graphics/Menu/Headers/M_SECRET
-srb2.pk3:/Graphics/Menu/Headers/M_SERVER
-srb2.pk3:/Graphics/Menu/Headers/M_SOUND
-srb2.pk3:/Graphics/Menu/Headers/M_SPLAYR
-srb2.pk3:/Graphics/Menu/Headers/M_STATS
-srb2.pk3:/Graphics/Menu/Headers/M_VIDEO
+srb2.pk3:/Graphics/Menu/Headers/M_ADDONS	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_ATTACK	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_CONTRO	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_DATA	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_MULTI	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_NIGHTS	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_OPTTTL	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_PANDRA	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_PICKG	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_PICKP	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_RATHON	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_SCREEN	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_SECRET	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_SERVER	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_SOUND	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_SPLAYR	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_STATS	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Menu/Headers/M_VIDEO	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Menu/Level Select/BLANKLVL
 srb2.pk3:/Graphics/Menu/Level Select/BLANKLVW
 srb2.pk3:/Graphics/Menu/Level Select/LSSTATIC
