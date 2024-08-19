@@ -1659,33 +1659,33 @@ srb2.pk3:/Graphics/Credits/CREDIT10
 srb2.pk3:/Graphics/Credits/CREDIT11
 srb2.pk3:/Graphics/Credits/CREDIT12
 srb2.pk3:/Graphics/Credits/CREDIT13
-srb2.pk3:/Graphics/Emblems/GOTITA
-srb2.pk3:/Graphics/Emblems/GOTITB
-srb2.pk3:/Graphics/Emblems/GOTITC
-srb2.pk3:/Graphics/Emblems/GOTITD
-srb2.pk3:/Graphics/Emblems/GOTITE
-srb2.pk3:/Graphics/Emblems/GOTITF
-srb2.pk3:/Graphics/Emblems/GOTITG
-srb2.pk3:/Graphics/Emblems/GOTITH
-srb2.pk3:/Graphics/Emblems/GOTITI
-srb2.pk3:/Graphics/Emblems/GOTITJ
-srb2.pk3:/Graphics/Emblems/GOTITK
-srb2.pk3:/Graphics/Emblems/GOTITL
-srb2.pk3:/Graphics/Emblems/GOTITM
-srb2.pk3:/Graphics/Emblems/GOTITN
-srb2.pk3:/Graphics/Emblems/GOTITO
-srb2.pk3:/Graphics/Emblems/GOTITP
-srb2.pk3:/Graphics/Emblems/GOTITQ
-srb2.pk3:/Graphics/Emblems/GOTITR
-srb2.pk3:/Graphics/Emblems/GOTITS
-srb2.pk3:/Graphics/Emblems/GOTITT
-srb2.pk3:/Graphics/Emblems/GOTITU
-srb2.pk3:/Graphics/Emblems/GOTITV
-srb2.pk3:/Graphics/Emblems/GOTITW
-srb2.pk3:/Graphics/Emblems/GOTITX
-srb2.pk3:/Graphics/Emblems/GOTITY
-srb2.pk3:/Graphics/Emblems/GOTITZ
-srb2.pk3:/Graphics/Emblems/NEEDIT
+srb2.pk3:/Graphics/Emblems/GOTITA	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITB	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITC	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITD	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITE	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITF	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITG	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITH	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITI	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITJ	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITK	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITL	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITM	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITN	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITO	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITP	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITQ	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITR	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITS	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITT	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITU	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITV	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITW	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITX	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITY	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/GOTITZ	"Zibon 'PixL' Badi"
+srb2.pk3:/Graphics/Emblems/NEEDIT	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Emeralds/CHAOS1	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Emeralds/CHAOS2	"Zibon 'PixL' Badi"
 srb2.pk3:/Graphics/Emeralds/CHAOS3	"Zibon 'PixL' Badi"
@@ -5398,7 +5398,7 @@ srb2.pk3:/Sprites/Emblems/EMBML0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMM0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMN0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMO0	"Zibon 'PixL' Badi"
-srb2.pk3:/Sprites/Emblems/EMBMP0
+srb2.pk3:/Sprites/Emblems/EMBMP0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMQ0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMR0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Emblems/EMBMS0	"Zibon 'PixL' Badi"
