@@ -497,40 +497,40 @@ srb2.pk3:/Flats/Cave/CAVEF8
 srb2.pk3:/Flats/Cave/CAVEF9
 srb2.pk3:/Flats/Cave/CAVEFA
 srb2.pk3:/Flats/Cave/CAVEFB
-srb2.pk3:/Flats/Cliff/CLIFF1
-srb2.pk3:/Flats/Cliff/CLIFF1S
-srb2.pk3:/Flats/Cliff/CLIFF2
-srb2.pk3:/Flats/Cliff/CLIFF2S
-srb2.pk3:/Flats/Cliff/CLIFF3
-srb2.pk3:/Flats/Cliff/CLIFF3S
-srb2.pk3:/Flats/Cliff/CLIFF4
-srb2.pk3:/Flats/Cliff/CLIFF4S
-srb2.pk3:/Flats/Cliff/CLIFF5
-srb2.pk3:/Flats/Cliff/CLIFF5S
-srb2.pk3:/Flats/Cliff/CLIFF6
-srb2.pk3:/Flats/Cliff/CLIFF6S
-srb2.pk3:/Flats/Cliff/CLIFF7
-srb2.pk3:/Flats/Cliff/CLIFF7S
-srb2.pk3:/Flats/Cliff/CLIFF8
-srb2.pk3:/Flats/Cliff/CLIFF8S
-srb2.pk3:/Flats/Cliff/CLIFF9
-srb2.pk3:/Flats/Cliff/CLIFF9S
-srb2.pk3:/Flats/Cliff/CLIFFA
-srb2.pk3:/Flats/Cliff/CLIFFAS
-srb2.pk3:/Flats/Cliff/CLIFFB
-srb2.pk3:/Flats/Cliff/CLIFFBS
-srb2.pk3:/Flats/Cliff/CLIFFC
-srb2.pk3:/Flats/Cliff/CLIFFCS
-srb2.pk3:/Flats/Cliff/CLIFFD
-srb2.pk3:/Flats/Cliff/CLIFFDS
-srb2.pk3:/Flats/Cliff/CLIFFE
-srb2.pk3:/Flats/Cliff/CLIFFES
-srb2.pk3:/Flats/Cliff/CLIFFF
-srb2.pk3:/Flats/Cliff/CLIFFFS
-srb2.pk3:/Flats/Cliff/CLIFFG
-srb2.pk3:/Flats/Cliff/CLIFFGS
-srb2.pk3:/Flats/Cliff/CLIFFH
-srb2.pk3:/Flats/Cliff/CLIFFHS
+srb2.pk3:/Flats/Cliffs/CLIFF1	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF1S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF2	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF2S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF3	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF3S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF4	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF4S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF5	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF5S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF6	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF6S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF7	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF7S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF8	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF8S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF9	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFF9S	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFA	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFAS	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFB	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFBS	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFC	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFCS	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFD	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFDS	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFE	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFES	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFF	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFFS	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFG	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFGS	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFH	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Cliffs/CLIFFHS	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/DEM1_1
 srb2.pk3:/Flats/DEM1_2
 srb2.pk3:/Flats/DEM1_3
@@ -9631,40 +9631,40 @@ srb2.pk3:/Textures/Cave/CAVEWL8
 srb2.pk3:/Textures/Cave/CAVEWL9
 srb2.pk3:/Textures/Cave/CAVEWLA
 srb2.pk3:/Textures/Cave/CAVEWLB
-srb2.pk3:/Textures/Cliff/CLIFFW1
-srb2.pk3:/Textures/Cliff/CLIFFW1S
-srb2.pk3:/Textures/Cliff/CLIFFW2
-srb2.pk3:/Textures/Cliff/CLIFFW2S
-srb2.pk3:/Textures/Cliff/CLIFFW3
-srb2.pk3:/Textures/Cliff/CLIFFW3S
-srb2.pk3:/Textures/Cliff/CLIFFW4
-srb2.pk3:/Textures/Cliff/CLIFFW4S
-srb2.pk3:/Textures/Cliff/CLIFFW5
-srb2.pk3:/Textures/Cliff/CLIFFW5S
-srb2.pk3:/Textures/Cliff/CLIFFW6
-srb2.pk3:/Textures/Cliff/CLIFFW6S
-srb2.pk3:/Textures/Cliff/CLIFFW7
-srb2.pk3:/Textures/Cliff/CLIFFW7S
-srb2.pk3:/Textures/Cliff/CLIFFW8
-srb2.pk3:/Textures/Cliff/CLIFFW8S
-srb2.pk3:/Textures/Cliff/CLIFFW9
-srb2.pk3:/Textures/Cliff/CLIFFW9S
-srb2.pk3:/Textures/Cliff/CLIFFWA
-srb2.pk3:/Textures/Cliff/CLIFFWAS
-srb2.pk3:/Textures/Cliff/CLIFFWB
-srb2.pk3:/Textures/Cliff/CLIFFWBS
-srb2.pk3:/Textures/Cliff/CLIFFWC
-srb2.pk3:/Textures/Cliff/CLIFFWCS
-srb2.pk3:/Textures/Cliff/CLIFFWD
-srb2.pk3:/Textures/Cliff/CLIFFWDS
-srb2.pk3:/Textures/Cliff/CLIFFWE
-srb2.pk3:/Textures/Cliff/CLIFFWES
-srb2.pk3:/Textures/Cliff/CLIFFWF
-srb2.pk3:/Textures/Cliff/CLIFFWFS
-srb2.pk3:/Textures/Cliff/CLIFFWG
-srb2.pk3:/Textures/Cliff/CLIFFWGS
-srb2.pk3:/Textures/Cliff/CLIFFWH
-srb2.pk3:/Textures/Cliff/CLIFFWHS
+srb2.pk3:/Textures/Cliffs/CLIFFW1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW1S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW2S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW3	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW3S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW4	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW4S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW5	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW5S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW6	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW6S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW7	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW7S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW8	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW8S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW9	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFW9S	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWA	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWAS	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWB	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWBS	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWC	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWCS	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWD	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWDS	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWE	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWES	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWF	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWFS	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWG	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWGS	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWH	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Cliffs/CLIFFWHS	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/D2LAVA
 srb2.pk3:/Textures/Misc/DANCE1	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Misc/DANCE2	"Zibon 'PixL' Badi"
