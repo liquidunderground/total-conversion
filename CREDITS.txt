@@ -98,6 +98,10 @@ Below you can see a tab-separated table of every asset and it's
 contributor(s).  A "*" at the end signifies a catchall for every file,
 similar to UNIX globbing.
 
+### `models`
+
+models/OBJE/RING.md3	"Zibon 'PixL' Badi"
+models/OBJE/RING.png	"Zibon 'PixL' Badi"
 
 ### `srb2.pk3`
 
