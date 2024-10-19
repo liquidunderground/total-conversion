@@ -100,6 +100,8 @@ similar to UNIX globbing.
 
 ### `models`
 
+models/OBJE/PUMI.md3	"Zibon 'PixL' Badi"
+models/OBJE/PUMI.png	"Zibon 'PixL' Badi"
 models/OBJE/RING.md3	"Zibon 'PixL' Badi"
 models/OBJE/RING.png	"Zibon 'PixL' Badi"
 
