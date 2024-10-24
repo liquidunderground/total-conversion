@@ -9,8 +9,12 @@ coverage:
 	@./coverage.sh
 
 #bin/srb2.pk3: $(shell find ./srb2.pk3/ -name "*.png" | sed "s/.\/\(.*\)\.png/build\/\1\.lmp/g")
-#bin/srb2.pk3: build/srb2.pk3
-bin/srb2.pk3: build/PLAYPAL build/srb2.pk3/Fades build/srb2.pk3/Flats build/srb2.pk3/Graphics build/srb2.pk3/Patches build/srb2.pk3/Sounds build/srb2.pk3/Sprites build/srb2.pk3/Textures | bin
+bin/srb2.pk3: build/srb2.pk3
+	pushd bin/srb2.pk3 && \
+	zip -FSr srb2.pk3 ../../build && \
+	popd
+
+build/srb2.pk3: build/PLAYPAL build/srb2.pk3/Fades build/srb2.pk3/Flats build/srb2.pk3/Graphics build/srb2.pk3/Patches build/srb2.pk3/Sounds build/srb2.pk3/Sprites build/srb2.pk3/Textures | bin
 	pushd build/srb2.pk3 && \
 	zip -FSr ../../bin/srb2.pk3 . && \
 	popd
