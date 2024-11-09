@@ -14,7 +14,7 @@ gender: male-coded
 affiliation:
   - "[[The Underworld]]"
   - "[[Rebels (Zweitausend)]]"
-birthdate: ca. 1000 WBY
+birthdate: ca. 1000 WBC
 ---
 *Stayn* is a demon that first emerged from the ruins of [[Firehawk Valley]]. He is calculated and cynical, frequently manipulating others into doing his dirty work.
 
