@@ -1,3 +1,10 @@
+# Build files
 bin/
 **/local/
 build/
+
+# Obsidian-related stuff
+.obsidian/
+
+# KDE stuff
+.directory
