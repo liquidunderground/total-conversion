@@ -1,3 +1,7 @@
+---
+tags:
+  - Delfid
+---
 *Delfid* was a crystalline city in the orbit of [[Planet Weissblatt]] and home of the [[Enlightenment Crystal]]. It's destruction in 1999 WBC marks beginning and focal point of [[The Asura Incident]].
 
 # History
