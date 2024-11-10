@@ -1187,8 +1187,12 @@ srb2.pk3:/Flats/Lake/LAKEPIF1
 srb2.pk3:/Flats/Lake/LAKEPIF2
 srb2.pk3:/Flats/Misc/TFG064	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Misc/TFG128	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Misc/TFG256	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Misc/TFG512	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Misc/TFO064	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/Misc/TFO128	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Misc/TFO256	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Misc/TFO512	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/MEKPIPF1
 srb2.pk3:/Flats/MEKPIPF2
 srb2.pk3:/Flats/MEKPIPF3
@@ -9682,8 +9686,12 @@ srb2.pk3:/Textures/Misc/DANCE3	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Misc/DANCE4	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Misc/TWG064	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Misc/TWG128	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Misc/TWG256	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Misc/TWG512	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Misc/TWO064	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Misc/TWO128	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Misc/TWO256	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Misc/TWO512	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/DEM1W5
 srb2.pk3:/Textures/DEZBLOCK
 srb2.pk3:/Textures/DEZBLOK1
