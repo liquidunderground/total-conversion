@@ -9,7 +9,7 @@ In general, Weissblatt accepts three kinds of audio files:
 3. *Tracker Modules*, a catch-all term for an assortment of tracker-specific hybrid formats. Like digital audio, we generally only accept the most common tracker formats *MOD/S3M/XM/IT*.
 # Composition Software
 
-In Principle you can use whatever software or workflow suits your fancy to make music for Weissblatt as long as a nice-sounding OGG](https://en.wikipedia.org/wiki/Vorbis), MOD/S3M/XM/IT or MIDI file pops out at the end.
+In Principle you can use whatever software or workflow suits your fancy to make music for Weissblatt as long as a nice-sounding [OGG](https://en.wikipedia.org/wiki/Vorbis), MOD/S3M/XM/IT or MIDI file pops out at the end.
 
 ## Digital Audio Music
 
