@@ -83,22 +83,13 @@ The most common MIDI synth (aside from Windows' built-in GS Wavetable synth), is
 
 ## Trackers
 
-*Tracker Module* formats such as *MOD/XM/S3M/IT* are natively supported by Weissblatt's engine and can be considered a hybrid between digital audio formats (like OGG) and MIDI. When loaded into Weissblatt's engine, instrument samples contained within the module are played back in real-time, resulting in music at 1/10th the file size of a full digital audio render without the need for a dedicated MIDI synthesizer.
+*Tracker Module* formats such as *MOD/XM/S3M/IT* are natively supported by Weissblatt's engine and can be considered a hybrid between digital audio formats (like OGG) and MIDI. When loaded into Weissblatt's engine, instrument samples contained within the module are played back in real-time according to pre-programmed patterns, resulting in music at 1/10th the file size of a full digital audio render without the need for a dedicated MIDI synthesizer.
 
-Weissblatt's tracker module support is based on [libopenmpt](https://lib.openmpt.org/libopenmpt/) which means that [OpenMPT](https://openmpt.org/) will sound closest to how the modules are interpreted in-engine. This is (ironically) due to bugs and extensions that make libopenmpt sound different from each module format's original tracker program (like [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker)).
+Weissblatt's tracker module support is based on [libopenmpt](https://lib.openmpt.org/libopenmpt/) on which the tracker [OpenMPT](https://openmpt.org/) is based. Since Weissblatt is essentially running a small OpenMPT in the background of it's engine, this means OpenMPT will sound closest to how the modules are interpreted in-engine. This is (ironically) due to bugs and extensions that make libopenmpt sound different from each module format's original tracker program (like [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker)).
 
 At this point you may ask: What in the name of the underworld is a tracker? Well, [Ahoy](https://www.youtube.com/watch?v=roBkg-iPrbw) can probably explain it better than me, but in short it's a type of audio software based on writing sequences of sound commands into a spreadsheet-like interface to effectively "program" music in an assembly language-like manner. It may sound complicated, but it yields a lot of control without requirng you to have a degree in music.
 
-My personal weapon of choice is [Furnace Tracker](https://github.com/tildearrow/furnace), which emulates an assortment of different retro sound chips, such as the [SID by MOS Technologies](https://en.wikipedia.org/wiki/MOS_Technology_6581), the [Yamaha YM2612](https://en.wikipedia.org/wiki/Yamaha_YM2612) or the [MOS Paula](https://en.wikipedia.org/wiki/Amiga_Original_Chip_Set#Paula). This gives mea very fine-grained control over the sound and texture of the synthesizers, although I can't write my songs in MOD/S3M/XM/IT formats that way.
-
-More traditional trackers like [OpenMPT](https://openmpt.org/) or [Schism Tracker](https://schismtracker.org/) typically rely on pre-recorded samples and support at least one of the classic *Tracker Module* formats MOD/S3M/XM/IT, which are supported natively by Weissblatt's engine. 
-
-Well why are the classic tracker module formats so important to me, then? Think of these Tracker Modules as a hybrid between Digital Audio and MIDI files: Instead of saving the whole song as one giant audio stream, the song's instrument samples are saved into the modules alongside the composition. This means that a song's tracker module entirely can frequently be 10x smaller than it's full Digital Audio render.
-
-
- is a more traditional tracker for Windows, but it also works well under [WINE] if you prefer Linux like me.
-
-software which allows you to program samples into patterns and sequences (usually samples)
+Trackers themselves are not just for making modules though: For example, my personal weapon of choice for creating digital audio music is [Furnace Tracker](https://github.com/tildearrow/furnace), which emulates an assortment of different retro sound chips, such as the [SID by MOS Technologies](https://en.wikipedia.org/wiki/MOS_Technology_6581), the [Yamaha YM2612](https://en.wikipedia.org/wiki/Yamaha_YM2612) or the [MOS Paula](https://en.wikipedia.org/wiki/Amiga_Original_Chip_Set#Paula) (all three of which make up a typical Weissblatt soundtrack, btw). Although unable to support tracker module exports, the ability to easily program and fine-tune old-school chip synthesizers like these allows me to create Weissblatt's unique fantasy-chipstune style of soundtrack.
 
 ### Chip trackers
 
