@@ -13398,30 +13398,21 @@ player.dta:tails:RIDEA2A8
 player.dta:tails:RIDEA3A7
 player.dta:tails:RIDEA4A6
 player.dta:tails:RIDEA5
-player.dta:tails:ROLLA1
-player.dta:tails:ROLLA2
-player.dta:tails:ROLLA3
-player.dta:tails:ROLLA4
-player.dta:tails:ROLLA5
-player.dta:tails:ROLLA6
-player.dta:tails:ROLLA7
-player.dta:tails:ROLLA8
-player.dta:tails:ROLLB1
-player.dta:tails:ROLLB2
-player.dta:tails:ROLLB3
-player.dta:tails:ROLLB4
-player.dta:tails:ROLLB5
-player.dta:tails:ROLLB6
-player.dta:tails:ROLLB7
-player.dta:tails:ROLLB8
-player.dta:tails:ROLLC1
-player.dta:tails:ROLLC2
-player.dta:tails:ROLLC3
-player.dta:tails:ROLLC4
-player.dta:tails:ROLLC5
-player.dta:tails:ROLLC6
-player.dta:tails:ROLLC7
-player.dta:tails:ROLLC8
+player.dta:kleene:ROLLA1	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLA2A8	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLA3A7	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLA4A6	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLA5	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLB1	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLB2B8	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLB3B7	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLB4B6	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLB5	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLC1	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLC2C8	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLC3C7	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLC4C6	"Zibon 'PixL' Badi"
+player.dta:kleene:ROLLC5	"Zibon 'PixL' Badi"
 player.dta:tails:RUN_A1
 player.dta:tails:RUN_A2A8
 player.dta:tails:RUN_A3A7
@@ -13433,21 +13424,21 @@ player.dta:tails:RUN_B3B7
 player.dta:tails:RUN_B4B6
 player.dta:tails:RUN_B5
 player.dta:tails:SIGNA0
-player.dta:tails:SPINA1
-player.dta:tails:SPINA2A8
-player.dta:tails:SPINA3A7
-player.dta:tails:SPINA4A6
-player.dta:tails:SPINA5
-player.dta:tails:SPINB1
-player.dta:tails:SPINB2B8
-player.dta:tails:SPINB3B7
-player.dta:tails:SPINB4B6
-player.dta:tails:SPINB5
-player.dta:tails:SPINC1
-player.dta:tails:SPINC2C8
-player.dta:tails:SPINC3C7
-player.dta:tails:SPINC4C6
-player.dta:tails:SPINC5
+player.dta:kleene:SPINA1	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINA2A8	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINA3A7	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINA4A6	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINA5	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINB1	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINB2B8	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINB3B7	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINB4B6	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINB5	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINC1	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINC2C8	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINC3C7	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINC4C6	"Zibon 'PixL' Badi"
+player.dta:kleene:SPINC5	"Zibon 'PixL' Badi"
 player.dta:tails:SPNGA1
 player.dta:tails:SPNGA2A8
 player.dta:tails:SPNGA3A7
