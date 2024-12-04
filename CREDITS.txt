@@ -13789,7 +13789,7 @@ player.dta:tails:WALKH3D7
 player.dta:tails:WALKH4D6
 player.dta:tails:WALKH5
 player.dta:tails:XTRAA0
-player.dta:tails:XTRAB0
+player.dta:kleene:XTRAB0	"Zibon 'PixL' Badi"
 player.dta:tails:XTRAC0
 player.dta:tails:XTRAD0
 player.dta:tails:XTRAE0
