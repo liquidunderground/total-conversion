@@ -11889,7 +11889,7 @@ music.dta:/O_SPEC8.ogg
 music.dta:/O__STJR.ogg	"Zibon 'PixL' Badi"
 music.dta:/O__SUPER.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_THZ1.ogg
-music.dta:/O_THZ2.ogg
+music.dta:/O_THZ2.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_THZALT.ogg
 music.dta:/O__TITLE.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_TUTORL.ogg
