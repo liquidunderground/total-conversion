@@ -6146,7 +6146,7 @@ srb2.pk3:/Sprites/Enemies/Jettysyns/JETGD2D8
 srb2.pk3:/Sprites/Enemies/Jettysyns/JETGD3D7
 srb2.pk3:/Sprites/Enemies/Jettysyns/JETGD4D6
 srb2.pk3:/Sprites/Enemies/Jettysyns/JETGD5
-srb2.pk3:/Sprites/Enemies/MINEA0
+srb2.pk3:/Sprites/Enemies/Bath Bomber/MINEA0	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Enemies/MINEB0
 srb2.pk3:/Sprites/Enemies/MINEC0
 srb2.pk3:/Sprites/Enemies/MINED0
@@ -6342,11 +6342,11 @@ srb2.pk3:/Sprites/Enemies/Robo Hood/Arrow/AROWG3G7
 srb2.pk3:/Sprites/Enemies/Robo Hood/Arrow/AROWG4G6
 srb2.pk3:/Sprites/Enemies/Robo Hood/Arrow/AROWG5
 srb2.pk3:/Sprites/Enemies/Robo Hood/Arrow/AROWH0
-srb2.pk3:/Sprites/Enemies/SKIMA1
-srb2.pk3:/Sprites/Enemies/SKIMA2A8
-srb2.pk3:/Sprites/Enemies/SKIMA3A7
-srb2.pk3:/Sprites/Enemies/SKIMA4A6
-srb2.pk3:/Sprites/Enemies/SKIMA5
+srb2.pk3:/Sprites/Enemies/Bath Bomber/SKIMA1	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Enemies/Bath Bomber/SKIMA2A8	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Enemies/Bath Bomber/SKIMA3A7	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Enemies/Bath Bomber/SKIMA4A6	"Zibon 'PixL' Badi"
+srb2.pk3:/Sprites/Enemies/Bath Bomber/SKIMA5	"Zibon 'PixL' Badi"
 srb2.pk3:/Sprites/Enemies/SNLRA1
 srb2.pk3:/Sprites/Enemies/SNLRA2A8
 srb2.pk3:/Sprites/Enemies/SNLRA3A7
