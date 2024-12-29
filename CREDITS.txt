@@ -1251,7 +1251,7 @@ srb2.pk3:/Flats/RCZFLR5
 srb2.pk3:/Flats/RCZFLR6
 srb2.pk3:/Flats/RCZFLR7
 srb2.pk3:/Flats/RCZFLR8
-srb2.pk3:/Flats/RECORD
+srb2.pk3:/Flats/Disco/RECORD	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/ROCKBOIL
 srb2.pk3:/Flats/ROCKBOIM
 srb2.pk3:/Flats/ROCKF1
