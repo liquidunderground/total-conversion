@@ -11392,10 +11392,10 @@ srb2.pk3:/Textures/Computers/INFOWAL1	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Computers/INFOWAL2	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Techno Hill/PIPE2
 srb2.pk3:/Textures/Techno Hill/PIPE3
-srb2.pk3:/Textures/Techno Hill/REDEGG1
-srb2.pk3:/Textures/Techno Hill/REDEGG2
-srb2.pk3:/Textures/Techno Hill/REDEGG3
-srb2.pk3:/Textures/Techno Hill/REDEGG4
+srb2.pk3:/Textures/Computers/REDEGG1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Computers/REDEGG2	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Computers/REDEGG3	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Computers/REDEGG4	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Computers/SPECWLL1	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Techno Hill/STEEL2W
 srb2.pk3:/Textures/Techno Hill/STEEL3W
