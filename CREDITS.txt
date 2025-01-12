@@ -10,7 +10,7 @@ CREDITS AND LICENSING
              / /  
             /_/   [discord.gg/HVTzVfAWG6]
 
-© 2023-2024 Liquid Underground
+© 2023-2025 Liquid Underground
 All assets within this project are licensed under
 Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA 4.0)
 
@@ -22,7 +22,7 @@ attribution you may use the following disclaimer, adapted to whose assets
 you may be using.
 
 	Based on <ASSET TYPE> by <CONTRIBUTORS> for "Weissblatt - The Asura Incident"
-	Weissblatt - The Asura Incident © 2023-2024 Liquid Underground. Licensed under Creative Commons Attribution Share-Alike 4.0. No warranties.
+	Weissblatt - The Asura Incident © 2023-2025 Liquid Underground. Licensed under Creative Commons Attribution Share-Alike 4.0. No warranties.
 	<https://creativecommons.org/licenses/by-sa/4.0/>
 
 Names for our contributors follow one of the following patterns. If a
@@ -40,7 +40,7 @@ as "assets". If you use assets from multiple contributors, you may list
 them in one collective disclaimer for the project. Example:
 
 	Based on assets by Alice, Bob and Charlie for "Weissblatt - The Asura Incident"
-	Weissblatt - The Asura Incident © 2023-2024 Liquid Underground. Licensed under Creative Commons Attribution Share-Alike 4.0. No warranties.
+	Weissblatt - The Asura Incident © 2023-2025 Liquid Underground. Licensed under Creative Commons Attribution Share-Alike 4.0. No warranties.
 	<https://creativecommons.org/licenses/by-sa/4.0/>
 
 1. Credits by category
