@@ -11805,9 +11805,10 @@ srb2.pk3:/WATERMAP
 
 
 music.dta:/MUSICDEF.dat	Everyone	(partial)
-music.dta:/D_BCZ1.ogg	"Zibon 'PixL' Badi"
-music.dta:/D_RVZ2.ogg	"Zibon 'PixL' Badi"
-music.dta:/D_GFZ1.ogg	"Zibon 'PixL' Badi"
+music.dta:/D_BCZ1.mid	"Zibon 'PixL' Badi"
+music.dta:/D_RVZ2.mid	"Zibon 'PixL' Badi"
+music.dta:/D_GFZ1.mid	"Zibon 'PixL' Badi"
+music.dta:/D_MARIO1.mid	"Zibon 'PixL' Badi"
 music.dta:/O__1UP.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_ACZ1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_ACZ2.ogg	"Zibon 'PixL' Badi"
@@ -11847,7 +11848,7 @@ music.dta:/O_HAUNTD.ogg
 music.dta:/O__INTER.ogg
 music.dta:/O__INTRO.ogg
 music.dta:/O__INV.ogg	"Zibon 'PixL' Badi"
-music.dta:/O_MARIO1.ogg
+music.dta:/O_MARIO1.ogg	"Zibon 'PixL' Badi"
 music.dta:/O_MARIO2.ogg
 music.dta:/O__MINV.ogg
 music.dta:/O_MP_0RI.ogg
