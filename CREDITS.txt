@@ -11351,7 +11351,7 @@ srb2.pk3:/Textures/Industrial/STLSUPP1	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLSUPP2	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLSUPP3	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLSUPP4	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Industrial/STLSUPP5
+srb2.pk3:/Textures/Industrial/STLSUPP5	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLSUPPA
 srb2.pk3:/Textures/Industrial/STLSUPPB
 srb2.pk3:/Textures/Industrial/STLSUPPC
