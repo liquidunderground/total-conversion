@@ -11321,8 +11321,8 @@ srb2.pk3:/Textures/Industrial/STLBLUE3	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLBLUE4	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLBLUE5	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLBLUE6	"Zibon 'PixL' Badi"
-srb2.pk3:/Textures/Industrial/STLCORNL
-srb2.pk3:/Textures/Industrial/STLCORNR
+srb2.pk3:/Textures/Industrial/STLCORNL	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Industrial/STLCORNR	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLLITE1
 srb2.pk3:/Textures/Industrial/STLLITE2
 srb2.pk3:/Textures/Industrial/STLLITE3
