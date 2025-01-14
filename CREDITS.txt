@@ -11313,8 +11313,8 @@ srb2.pk3:/Textures/Special Stages/YSPECW1S
 srb2.pk3:/Textures/Special Stages/YSPECW2
 srb2.pk3:/Textures/Special Stages/YSPECW3
 srb2.pk3:/Textures/Special Stages/YSPECW4
-srb2.pk3:/Textures/Industrial/STLBLOK1
-srb2.pk3:/Textures/Industrial/STLBLOK2
+srb2.pk3:/Textures/Industrial/STLBLOK1	"Zibon 'PixL' Badi"
+srb2.pk3:/Textures/Industrial/STLBLOK2	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLBLUE1	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLBLUE2	"Zibon 'PixL' Badi"
 srb2.pk3:/Textures/Industrial/STLBLUE3	"Zibon 'PixL' Badi"
