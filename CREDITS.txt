@@ -1436,10 +1436,10 @@ srb2.pk3:/Flats/Special Stages/THPIPEFD
 srb2.pk3:/Flats/Special Stages/YSPECF
 srb2.pk3:/Flats/Special Stages/YSPECF2
 srb2.pk3:/Flats/Special Stages/YSPECF3
-srb2.pk3:/Flats/Starlight/STLBLKF1
-srb2.pk3:/Flats/Starlight/STLBLKF2
-srb2.pk3:/Flats/Starlight/STLFLR01
-srb2.pk3:/Flats/Starlight/STLFLR02
+srb2.pk3:/Flats/Industrial/STLBLKF1	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Industrial/STLBLKF2	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Industrial/STLFLR01	"Zibon 'PixL' Badi"
+srb2.pk3:/Flats/Industrial/STLFLR02	"Zibon 'PixL' Badi"
 srb2.pk3:/Flats/TRAPFLR
 srb2.pk3:/Flats/Techno Hill/ALTBOXF1
 srb2.pk3:/Flats/Techno Hill/ALTBOXF2
