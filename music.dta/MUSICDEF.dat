@@ -250,13 +250,6 @@ Soundtestpage = 1
 Soundtestcond = 0
 BPM = 92
 
-Lump MP_GHZ
-Title = Sapphire_Falls
-Alttitle = Green_Hill
-Authors = clairebun,_Masato_Nakamura_(Sonic_the_Hedgehog)
-Soundtestpage = 1
-Soundtestcond = 0
-BPM = 160
 Lump MARIO1
 Title = Marble_Pagoda_1
 Alttitle = Outside_Marble_Pagoda
