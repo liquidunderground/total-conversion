@@ -12156,9 +12156,9 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAA0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAB0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAC0
-/Characters/Alex/XTRAD0
-/Characters/Alex/XTRAE0
-/Characters/Alex/XTRAF0
+/Characters/Alex/XTRAD0	"Zibon 'PixL' Badi"
+/Characters/Alex/XTRAE0	"Zibon 'PixL' Badi"
+/Characters/Alex/XTRAF0	"Zibon 'PixL' Badi"
 /Characters/Patsy/BNCEA1
 /Characters/Patsy/BNCEA2
 /Characters/Patsy/BNCEA3
