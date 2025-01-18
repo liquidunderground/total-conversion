@@ -10636,262 +10636,262 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/OWOODW
 /Textures/PISTON
 /Textures/PISTON2
-/Textures/Palette Textures/~000
-/Textures/Palette Textures/~001
-/Textures/Palette Textures/~002
-/Textures/Palette Textures/~003
-/Textures/Palette Textures/~004
-/Textures/Palette Textures/~005
-/Textures/Palette Textures/~006
-/Textures/Palette Textures/~007
-/Textures/Palette Textures/~008
-/Textures/Palette Textures/~009
-/Textures/Palette Textures/~010
-/Textures/Palette Textures/~011
-/Textures/Palette Textures/~012
-/Textures/Palette Textures/~013
-/Textures/Palette Textures/~014
-/Textures/Palette Textures/~015
-/Textures/Palette Textures/~016
-/Textures/Palette Textures/~017
-/Textures/Palette Textures/~018
-/Textures/Palette Textures/~019
-/Textures/Palette Textures/~020
-/Textures/Palette Textures/~021
-/Textures/Palette Textures/~022
-/Textures/Palette Textures/~023
-/Textures/Palette Textures/~024
-/Textures/Palette Textures/~025
-/Textures/Palette Textures/~026
-/Textures/Palette Textures/~027
-/Textures/Palette Textures/~028
-/Textures/Palette Textures/~029
-/Textures/Palette Textures/~030
-/Textures/Palette Textures/~031
-/Textures/Palette Textures/~032
-/Textures/Palette Textures/~033
-/Textures/Palette Textures/~034
-/Textures/Palette Textures/~035
-/Textures/Palette Textures/~036
-/Textures/Palette Textures/~037
-/Textures/Palette Textures/~038
-/Textures/Palette Textures/~039
-/Textures/Palette Textures/~040
-/Textures/Palette Textures/~041
-/Textures/Palette Textures/~042
-/Textures/Palette Textures/~043
-/Textures/Palette Textures/~044
-/Textures/Palette Textures/~045
-/Textures/Palette Textures/~046
-/Textures/Palette Textures/~047
-/Textures/Palette Textures/~048
-/Textures/Palette Textures/~049
-/Textures/Palette Textures/~050
-/Textures/Palette Textures/~051
-/Textures/Palette Textures/~052
-/Textures/Palette Textures/~053
-/Textures/Palette Textures/~054
-/Textures/Palette Textures/~055
-/Textures/Palette Textures/~056
-/Textures/Palette Textures/~057
-/Textures/Palette Textures/~058
-/Textures/Palette Textures/~059
-/Textures/Palette Textures/~060
-/Textures/Palette Textures/~061
-/Textures/Palette Textures/~062
-/Textures/Palette Textures/~063
-/Textures/Palette Textures/~064
-/Textures/Palette Textures/~065
-/Textures/Palette Textures/~066
-/Textures/Palette Textures/~067
-/Textures/Palette Textures/~068
-/Textures/Palette Textures/~069
-/Textures/Palette Textures/~070
-/Textures/Palette Textures/~071
-/Textures/Palette Textures/~072
-/Textures/Palette Textures/~073
-/Textures/Palette Textures/~074
-/Textures/Palette Textures/~075
-/Textures/Palette Textures/~076
-/Textures/Palette Textures/~077
-/Textures/Palette Textures/~078
-/Textures/Palette Textures/~079
-/Textures/Palette Textures/~080
-/Textures/Palette Textures/~081
-/Textures/Palette Textures/~082
-/Textures/Palette Textures/~083
-/Textures/Palette Textures/~084
-/Textures/Palette Textures/~085
-/Textures/Palette Textures/~086
-/Textures/Palette Textures/~087
-/Textures/Palette Textures/~088
-/Textures/Palette Textures/~089
-/Textures/Palette Textures/~090
-/Textures/Palette Textures/~091
-/Textures/Palette Textures/~092
-/Textures/Palette Textures/~093
-/Textures/Palette Textures/~094
-/Textures/Palette Textures/~095
-/Textures/Palette Textures/~096
-/Textures/Palette Textures/~097
-/Textures/Palette Textures/~098
-/Textures/Palette Textures/~099
-/Textures/Palette Textures/~100
-/Textures/Palette Textures/~101
-/Textures/Palette Textures/~102
-/Textures/Palette Textures/~103
-/Textures/Palette Textures/~104
-/Textures/Palette Textures/~105
-/Textures/Palette Textures/~106
-/Textures/Palette Textures/~107
-/Textures/Palette Textures/~108
-/Textures/Palette Textures/~109
-/Textures/Palette Textures/~110
-/Textures/Palette Textures/~111
-/Textures/Palette Textures/~112
-/Textures/Palette Textures/~113
-/Textures/Palette Textures/~114
-/Textures/Palette Textures/~115
-/Textures/Palette Textures/~116
-/Textures/Palette Textures/~117
-/Textures/Palette Textures/~118
-/Textures/Palette Textures/~119
-/Textures/Palette Textures/~120
-/Textures/Palette Textures/~121
-/Textures/Palette Textures/~122
-/Textures/Palette Textures/~123
-/Textures/Palette Textures/~124
-/Textures/Palette Textures/~125
-/Textures/Palette Textures/~126
-/Textures/Palette Textures/~127
-/Textures/Palette Textures/~128
-/Textures/Palette Textures/~129
-/Textures/Palette Textures/~130
-/Textures/Palette Textures/~131
-/Textures/Palette Textures/~132
-/Textures/Palette Textures/~133
-/Textures/Palette Textures/~134
-/Textures/Palette Textures/~135
-/Textures/Palette Textures/~136
-/Textures/Palette Textures/~137
-/Textures/Palette Textures/~138
-/Textures/Palette Textures/~139
-/Textures/Palette Textures/~140
-/Textures/Palette Textures/~141
-/Textures/Palette Textures/~142
-/Textures/Palette Textures/~143
-/Textures/Palette Textures/~144
-/Textures/Palette Textures/~145
-/Textures/Palette Textures/~146
-/Textures/Palette Textures/~147
-/Textures/Palette Textures/~148
-/Textures/Palette Textures/~149
-/Textures/Palette Textures/~150
-/Textures/Palette Textures/~151
-/Textures/Palette Textures/~152
-/Textures/Palette Textures/~153
-/Textures/Palette Textures/~154
-/Textures/Palette Textures/~155
-/Textures/Palette Textures/~156
-/Textures/Palette Textures/~157
-/Textures/Palette Textures/~158
-/Textures/Palette Textures/~159
-/Textures/Palette Textures/~160
-/Textures/Palette Textures/~161
-/Textures/Palette Textures/~162
-/Textures/Palette Textures/~163
-/Textures/Palette Textures/~164
-/Textures/Palette Textures/~165
-/Textures/Palette Textures/~166
-/Textures/Palette Textures/~167
-/Textures/Palette Textures/~168
-/Textures/Palette Textures/~169
-/Textures/Palette Textures/~170
-/Textures/Palette Textures/~171
-/Textures/Palette Textures/~172
-/Textures/Palette Textures/~173
-/Textures/Palette Textures/~174
-/Textures/Palette Textures/~175
-/Textures/Palette Textures/~176
-/Textures/Palette Textures/~177
-/Textures/Palette Textures/~178
-/Textures/Palette Textures/~179
-/Textures/Palette Textures/~180
-/Textures/Palette Textures/~181
-/Textures/Palette Textures/~182
-/Textures/Palette Textures/~183
-/Textures/Palette Textures/~184
-/Textures/Palette Textures/~185
-/Textures/Palette Textures/~186
-/Textures/Palette Textures/~187
-/Textures/Palette Textures/~188
-/Textures/Palette Textures/~189
-/Textures/Palette Textures/~190
-/Textures/Palette Textures/~191
-/Textures/Palette Textures/~192
-/Textures/Palette Textures/~193
-/Textures/Palette Textures/~194
-/Textures/Palette Textures/~195
-/Textures/Palette Textures/~196
-/Textures/Palette Textures/~197
-/Textures/Palette Textures/~198
-/Textures/Palette Textures/~199
-/Textures/Palette Textures/~200
-/Textures/Palette Textures/~201
-/Textures/Palette Textures/~202
-/Textures/Palette Textures/~203
-/Textures/Palette Textures/~204
-/Textures/Palette Textures/~205
-/Textures/Palette Textures/~206
-/Textures/Palette Textures/~207
-/Textures/Palette Textures/~208
-/Textures/Palette Textures/~209
-/Textures/Palette Textures/~210
-/Textures/Palette Textures/~211
-/Textures/Palette Textures/~212
-/Textures/Palette Textures/~213
-/Textures/Palette Textures/~214
-/Textures/Palette Textures/~215
-/Textures/Palette Textures/~216
-/Textures/Palette Textures/~217
-/Textures/Palette Textures/~218
-/Textures/Palette Textures/~219
-/Textures/Palette Textures/~220
-/Textures/Palette Textures/~221
-/Textures/Palette Textures/~222
-/Textures/Palette Textures/~223
-/Textures/Palette Textures/~224
-/Textures/Palette Textures/~225
-/Textures/Palette Textures/~226
-/Textures/Palette Textures/~227
-/Textures/Palette Textures/~228
-/Textures/Palette Textures/~229
-/Textures/Palette Textures/~230
-/Textures/Palette Textures/~231
-/Textures/Palette Textures/~232
-/Textures/Palette Textures/~233
-/Textures/Palette Textures/~234
-/Textures/Palette Textures/~235
-/Textures/Palette Textures/~236
-/Textures/Palette Textures/~237
-/Textures/Palette Textures/~238
-/Textures/Palette Textures/~239
-/Textures/Palette Textures/~240
-/Textures/Palette Textures/~241
-/Textures/Palette Textures/~242
-/Textures/Palette Textures/~243
-/Textures/Palette Textures/~244
-/Textures/Palette Textures/~245
-/Textures/Palette Textures/~246
-/Textures/Palette Textures/~247
-/Textures/Palette Textures/~248
-/Textures/Palette Textures/~249
-/Textures/Palette Textures/~250
-/Textures/Palette Textures/~251
-/Textures/Palette Textures/~252
-/Textures/Palette Textures/~253
-/Textures/Palette Textures/~254
-/Textures/Palette Textures/~255
+/Textures/Misc/Colors/~000	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~001	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~002	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~003	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~004	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~005	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~006	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~007	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~008	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~009	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~010	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~011	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~012	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~013	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~014	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~015	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~016	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~017	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~018	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~019	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~020	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~021	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~022	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~023	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~024	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~025	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~026	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~027	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~028	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~029	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~030	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~031	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~032	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~033	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~034	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~035	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~036	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~037	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~038	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~039	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~040	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~041	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~042	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~043	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~044	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~045	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~046	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~047	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~048	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~049	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~050	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~051	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~052	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~053	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~054	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~055	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~056	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~057	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~058	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~059	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~060	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~061	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~062	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~063	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~064	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~065	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~066	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~067	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~068	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~069	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~070	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~071	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~072	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~073	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~074	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~075	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~076	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~077	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~078	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~079	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~080	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~081	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~082	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~083	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~084	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~085	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~086	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~087	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~088	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~089	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~090	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~091	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~092	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~093	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~094	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~095	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~096	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~097	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~098	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~099	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~100	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~101	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~102	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~103	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~104	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~105	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~106	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~107	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~108	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~109	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~110	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~111	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~112	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~113	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~114	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~115	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~116	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~117	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~118	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~119	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~120	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~121	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~122	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~123	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~124	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~125	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~126	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~127	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~128	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~129	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~130	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~131	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~132	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~133	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~134	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~135	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~136	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~137	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~138	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~139	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~140	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~141	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~142	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~143	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~144	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~145	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~146	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~147	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~148	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~149	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~150	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~151	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~152	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~153	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~154	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~155	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~156	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~157	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~158	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~159	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~160	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~161	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~162	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~163	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~164	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~165	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~166	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~167	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~168	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~169	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~170	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~171	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~172	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~173	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~174	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~175	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~176	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~177	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~178	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~179	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~180	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~181	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~182	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~183	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~184	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~185	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~186	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~187	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~188	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~189	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~190	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~191	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~192	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~193	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~194	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~195	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~196	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~197	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~198	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~199	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~200	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~201	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~202	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~203	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~204	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~205	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~206	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~207	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~208	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~209	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~210	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~211	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~212	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~213	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~214	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~215	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~216	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~217	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~218	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~219	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~220	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~221	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~222	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~223	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~224	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~225	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~226	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~227	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~228	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~229	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~230	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~231	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~232	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~233	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~234	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~235	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~236	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~237	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~238	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~239	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~240	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~241	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~242	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~243	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~244	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~245	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~246	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~247	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~248	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~249	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~250	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~251	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~252	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~253	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~254	"Zibon 'PixL' Badi"
+/Textures/Misc/Colors/~255	"Zibon 'PixL' Badi"
 /Textures/RAINBOW1	"Zibon 'PixL' Badi"
 /Textures/RAINBOW2	"Zibon 'PixL' Badi"
 /Textures/RAINBOW3	"Zibon 'PixL' Badi"
