@@ -1,6 +1,6 @@
 #!/bin/sh
 
-FILES="$(grep -E "^[0-9A-Za-z.]+:" CREDITS.txt)"
+FILES="$(grep -E "^/" CREDITS.txt)"
 FILES_COUNT="$(echo "${FILES}" | wc -l)"
 
 COVERAGE="$(echo "${FILES}" | grep -E "	")"
