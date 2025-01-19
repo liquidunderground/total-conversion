@@ -83,6 +83,7 @@ Mapping advice:
 - "AirFox"
 - "aqua"
 - "Fen"
+- "PeneBoi"
 
 Goodest boy: "TemporaryAl"
 
@@ -98,6 +99,10 @@ Below you can see a tab-separated table of every asset and it's
 contributor(s).  A "*" at the end signifies a catchall for every file,
 similar to UNIX globbing.
 
+The directory `/TEXTURES` does not exist and denotes virtual textures
+created through a ´TEXTUREDEF` file. If already covered, the explicit
+filename will be given in place of the directory.
+
 ### Asset list
 
 Models/OBJE/PUMI.md3	"Zibon 'PixL' Badi"
@@ -105,121 +110,554 @@ Models/OBJE/PUMI.png	"Zibon 'PixL' Badi"
 Models/OBJE/RING.md3	"Zibon 'PixL' Badi"
 Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 
-/ANIMDEFS.erz
-/ANIMDEFS.fluids
-/ANIMDEFS.gfz
-/ANIMDEFS.misc
-/ANIMDEFS.rvz
-/ANIMDEFS.tutorial
+/ANIMDEFS
 /COLORMAP
 /DEMO_001
 /DEMO_002
 /DEMO_003
 /DEMO_004
-/Fades/FADE0000.png	"Zibon 'PixL' Badi"
-/Fades/FADE0001.png	"Zibon 'PixL' Badi"
-/Fades/FADE0002.png	"Zibon 'PixL' Badi"
-/Fades/FADE0003.png	"Zibon 'PixL' Badi"
-/Fades/FADE0004.png	"Zibon 'PixL' Badi"
-/Fades/FADE0005.png	"Zibon 'PixL' Badi"
-/Fades/FADE0006.png	"Zibon 'PixL' Badi"
-/Fades/FADE0007.png	"Zibon 'PixL' Badi"
-/Fades/FADE0008.png	"Zibon 'PixL' Badi"
-/Fades/FADE0009.png	"Zibon 'PixL' Badi"
-/Fades/FADE0010.png	"Zibon 'PixL' Badi"
-/Fades/FADE0011.png	"Zibon 'PixL' Badi"
-/Fades/FADE0012.png	"Zibon 'PixL' Badi"
-/Fades/FADE0013.png	"Zibon 'PixL' Badi"
-/Fades/FADE0014.png	"Zibon 'PixL' Badi"
-/Fades/FADE0015.png	"Zibon 'PixL' Badi"
-/Fades/FADE0016.png	"Zibon 'PixL' Badi"
-/Fades/FADE0017.png	"Zibon 'PixL' Badi"
-/Fades/FADE0018.png	"Zibon 'PixL' Badi"
-/Fades/FADE0019.png	"Zibon 'PixL' Badi"
-/Fades/FADE0020.png	"Zibon 'PixL' Badi"
-/Fades/FADE0021.png	"Zibon 'PixL' Badi"
-/Fades/FADE0022.png	"Zibon 'PixL' Badi"
-/Fades/FADE0023.png	"Zibon 'PixL' Badi"
-/Fades/FADE0024.png	"Zibon 'PixL' Badi"
-/Fades/FADE0025.png	"Zibon 'PixL' Badi"
-/Fades/FADE0026.png	"Zibon 'PixL' Badi"
-/Fades/FADE0027.png	"Zibon 'PixL' Badi"
-/Fades/FADE6900.png	"Zibon 'PixL' Badi"
-/Fades/FADE6901.png	"Zibon 'PixL' Badi"
-/Fades/FADE6902.png	"Zibon 'PixL' Badi"
-/Fades/FADE6903.png	"Zibon 'PixL' Badi"
-/Fades/FADE6904.png	"Zibon 'PixL' Badi"
-/Fades/FADE6905.png	"Zibon 'PixL' Badi"
-/Fades/FADE6906.png	"Zibon 'PixL' Badi"
-/Fades/FADE6907.png	"Zibon 'PixL' Badi"
-/Fades/FADE6908.png	"Zibon 'PixL' Badi"
-/Fades/FADE6909.png	"Zibon 'PixL' Badi"
-/Fades/FADE6910.png	"Zibon 'PixL' Badi"
-/Fades/FADE6911.png	"Zibon 'PixL' Badi"
-/Fades/FADE6912.png	"Zibon 'PixL' Badi"
-/Fades/FADE6913.png	"Zibon 'PixL' Badi"
-/Fades/FADE6914.png	"Zibon 'PixL' Badi"
-/Fades/FADE6915.png	"Zibon 'PixL' Badi"
-/Fades/FADE6916.png	"Zibon 'PixL' Badi"
-/Fades/FADE6917.png	"Zibon 'PixL' Badi"
-/Fades/FADE6918.png	"Zibon 'PixL' Badi"
-/Fades/FADE6919.png	"Zibon 'PixL' Badi"
-/Fades/FADE8800.png	"Zibon 'PixL' Badi"
-/Fades/FADE8801.png	"Zibon 'PixL' Badi"
-/Fades/FADE8802.png	"Zibon 'PixL' Badi"
-/Fades/FADE8803.png	"Zibon 'PixL' Badi"
-/Fades/FADE8804.png	"Zibon 'PixL' Badi"
-/Fades/FADE8805.png	"Zibon 'PixL' Badi"
-/Fades/FADE8806.png	"Zibon 'PixL' Badi"
-/Fades/FADE8807.png	"Zibon 'PixL' Badi"
-/Fades/FADE8808.png	"Zibon 'PixL' Badi"
-/Fades/FADE8809.png	"Zibon 'PixL' Badi"
-/Fades/FADE8810.png	"Zibon 'PixL' Badi"
-/Fades/FADE8811.png	"Zibon 'PixL' Badi"
-/Fades/FADE8812.png	"Zibon 'PixL' Badi"
-/Fades/FADE8813.png	"Zibon 'PixL' Badi"
-/Fades/FADE8814.png	"Zibon 'PixL' Badi"
-/Fades/FADE8815.png	"Zibon 'PixL' Badi"
-/Fades/FADE8816.png	"Zibon 'PixL' Badi"
-/Fades/FADE8817.png	"Zibon 'PixL' Badi"
-/Fades/FADE8818.png	"Zibon 'PixL' Badi"
-/Fades/FADE8819.png	"Zibon 'PixL' Badi"
-/Fades/FADE8820.png	"Zibon 'PixL' Badi"
-/Fades/FADE8821.png	"Zibon 'PixL' Badi"
-/Fades/FADE8822.png	"Zibon 'PixL' Badi"
-/Fades/FADE8823.png	"Zibon 'PixL' Badi"
-/Fades/FADE9900.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9901.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9902.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9903.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9904.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9905.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9906.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9907.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9908.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9909.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9910.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9911.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9912.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9913.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9914.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9915.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9916.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9917.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9918.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9919.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9920.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9921.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9922.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9923.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9924.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9925.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9926.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9927.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9928.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9929.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9930.raw	"Zibon 'PixL' Badi"
-/Fades/FADE9931.raw	"Zibon 'PixL' Badi"
+/TEXTURES
+/TEXTURES.smz/OLDGFZG1	"Zibon 'PixL' Badi"
+/TEXTURES.smz/OLDGFZG2	"Zibon 'PixL' Badi"
+/TEXTURES/-
+/TEXTURES/ACFENC1
+/TEXTURES/ACFENC2
+/TEXTURES/ACMINE1
+/TEXTURES/ACMINE2
+/TEXTURES/ACMINE3
+/TEXTURES/ACMINE4
+/TEXTURES/ACMINE5
+/TEXTURES/ACMINE6
+/TEXTURES/ACMINE7
+/TEXTURES/ACMINE8
+/TEXTURES/ACMINE9
+/TEXTURES/ACMINES1
+/TEXTURES/ACMINES2
+/TEXTURES/ACMINES3
+/TEXTURES/ACMINES4
+/TEXTURES/ACMINES5
+/TEXTURES/ACMINES6
+/TEXTURES/ACMTRKW1
+/TEXTURES/ACTUNNEL
+/TEXTURES/ACWALL1
+/TEXTURES/ACWOOD1
+/TEXTURES/ACWOOD1F
+/TEXTURES/ACWOOD2
+/TEXTURES/ACWOOD2F
+/TEXTURES/ACWOOD3
+/TEXTURES/ACWOOD4
+/TEXTURES/ACWOODB2
+/TEXTURES/ACWOODBR
+/TEXTURES/ACWOODBX
+/TEXTURES/ACWOODS1
+/TEXTURES/ACWOODS2
+/TEXTURES/ACZRAILW
+/TEXTURES/APWALL16
+/TEXTURES/BARLSIDE
+/TEXTURES/BARREL2
+/TEXTURES/BLUWALL
+/TEXTURES/CARPTS01
+/TEXTURES/CARPTS02
+/TEXTURES/CARPTS03
+/TEXTURES/CARPTS04
+/TEXTURES/CARPTS05
+/TEXTURES/CARPTS06
+/TEXTURES/CARPTS07
+/TEXTURES/CARPTS08
+/TEXTURES/CARPTS09
+/TEXTURES/CARPTS10
+/TEXTURES/CARPTS11
+/TEXTURES/CARPTS12
+/TEXTURES/CARPTS13
+/TEXTURES/CARPTS14
+/TEXTURES/CASINOW0
+/TEXTURES/CASINOW4
+/TEXTURES/CASINOW5
+/TEXTURES/CASTLE6
+/TEXTURES/CASTLE7
+/TEXTURES/CASTLE8
+/TEXTURES/CASTLEJ
+/TEXTURES/CASTLEK
+/TEXTURES/CASTLEV
+/TEXTURES/CEBRICK1
+/TEXTURES/CEBRICK2
+/TEXTURES/CEBRICK3
+/TEXTURES/CEBRICK4
+/TEXTURES/CEBRICK5
+/TEXTURES/CEBRICK6
+/TEXTURES/CEBRICK7
+/TEXTURES/CEBRICK8
+/TEXTURES/CEBRICK9
+/TEXTURES/CEBRICKC
+/TEXTURES/CEBRICKD
+/TEXTURES/CEBRICKE
+/TEXTURES/CEBRICKF
+/TEXTURES/CEBRICKV
+/TEXTURES/CEBRICKW
+/TEXTURES/CEBRMBS
+/TEXTURES/CEBRMBS1
+/TEXTURES/CEBRMBS2
+/TEXTURES/CEBRMBS3
+/TEXTURES/CEBRMBU
+/TEXTURES/CEBRMBU1
+/TEXTURES/CEBRMBU2
+/TEXTURES/CEBRMBU3
+/TEXTURES/CEBURST1
+/TEXTURES/CEBURST2
+/TEXTURES/CEBURST3
+/TEXTURES/CEBUSTB1
+/TEXTURES/CEBUSTC1
+/TEXTURES/CEBUSTD1
+/TEXTURES/CEBUSTK1
+/TEXTURES/CEDIRTW1
+/TEXTURES/CEDIRTW2
+/TEXTURES/CEDIRTW3
+/TEXTURES/CEFLAG01
+/TEXTURES/CEFLAG02
+/TEXTURES/CEFLAG03
+/TEXTURES/CEFLAG04
+/TEXTURES/CEFLAG05
+/TEXTURES/CEFLAG06
+/TEXTURES/CEFLAG07
+/TEXTURES/CEFLAG08
+/TEXTURES/CEFLAG09
+/TEXTURES/CEFLAG10
+/TEXTURES/CEFLAG11
+/TEXTURES/CEFLAG12
+/TEXTURES/CEFLAGA
+/TEXTURES/CEFLAGB
+/TEXTURES/CEFLAGC
+/TEXTURES/CEFLAGD
+/TEXTURES/CEFLAGE
+/TEXTURES/CEFLAGF
+/TEXTURES/CEGRASSB
+/TEXTURES/CEMUR000
+/TEXTURES/CEMUR001
+/TEXTURES/CEMUR002
+/TEXTURES/CEPDST1
+/TEXTURES/CEPILRT1
+/TEXTURES/CEPLAT1
+/TEXTURES/CEPLAT2
+/TEXTURES/CEPLR1
+/TEXTURES/CEPLRBIG
+/TEXTURES/CERAIL01
+/TEXTURES/CERAILT1
+/TEXTURES/CESBCA00
+/TEXTURES/CESBCA01
+/TEXTURES/CESBCA02
+/TEXTURES/CESBCA03
+/TEXTURES/CESBCA04
+/TEXTURES/CESBCA05
+/TEXTURES/CESBFO00
+/TEXTURES/CESBFO01
+/TEXTURES/CESTEP1
+/TEXTURES/CESTEP2
+/TEXTURES/CESTEP3
+/TEXTURES/CESUPOW1
+/TEXTURES/CESUPOW2
+/TEXTURES/CESWCA00
+/TEXTURES/CESWCA01
+/TEXTURES/CESWCA02
+/TEXTURES/CESWCA03
+/TEXTURES/CESWCA05
+/TEXTURES/CESWCA05
+/TEXTURES/CESWCA06
+/TEXTURES/CESWCA07
+/TEXTURES/CESWCA08
+/TEXTURES/CESWCA09
+/TEXTURES/CESWCA2F
+/TEXTURES/CESWFO00
+/TEXTURES/CESWFO01
+/TEXTURES/CETBAR01
+/TEXTURES/CETBAR02
+/TEXTURES/CETBAR03
+/TEXTURES/CETILB1
+/TEXTURES/CETILB1B
+/TEXTURES/CETILB2
+/TEXTURES/CETILB2B
+/TEXTURES/CETILB3
+/TEXTURES/CETILB4
+/TEXTURES/CETILB4B
+/TEXTURES/CETILC1
+/TEXTURES/CETILC2
+/TEXTURES/CETILC4
+/TEXTURES/CETILC4B
+/TEXTURES/CETILD1
+/TEXTURES/CETILD1B
+/TEXTURES/CETILD2
+/TEXTURES/CETILD2B
+/TEXTURES/CETILD3
+/TEXTURES/CETILD4
+/TEXTURES/CETILD4B
+/TEXTURES/CETILE1
+/TEXTURES/CETILE1B
+/TEXTURES/CETILE2
+/TEXTURES/CETILE2B
+/TEXTURES/CETILE3
+/TEXTURES/CETILE4
+/TEXTURES/CETILE4B
+/TEXTURES/CETREEB2
+/TEXTURES/CETREEBG
+/TEXTURES/CETRIM1
+/TEXTURES/CEVBAR1
+/TEXTURES/CEVBAR2
+/TEXTURES/CEWALL09
+/TEXTURES/CEWALL1
+/TEXTURES/CEWALL2
+/TEXTURES/CEWALT1
+/TEXTURES/CEWALT2
+/TEXTURES/CEWFENC1
+/TEXTURES/CEWFENC2
+/TEXTURES/CEWG1
+/TEXTURES/CEWG2
+/TEXTURES/CEZBIGA1
+/TEXTURES/CEZBIGTA
+/TEXTURES/CEZBIGTB
+/TEXTURES/CEZDOOR
+/TEXTURES/CEZGRSBU
+/TEXTURES/CLPWALL1
+/TEXTURES/CLPWALL2
+/TEXTURES/CTFFLG01
+/TEXTURES/CTFFLG02
+/TEXTURES/CTFFLG03
+/TEXTURES/CTFFLG04
+/TEXTURES/CTFFLG05
+/TEXTURES/CTFFLG06
+/TEXTURES/CTFFLG07
+/TEXTURES/CTFFLG08
+/TEXTURES/CTFFLG09
+/TEXTURES/CTFFLGA
+/TEXTURES/CTFFLGB
+/TEXTURES/CTFFLGC
+/TEXTURES/CYANWALL
+/TEXTURES/DGTREEB2
+/TEXTURES/DGTREEBG
+/TEXTURES/DPWALL2
+/TEXTURES/DPWALL4
+/TEXTURES/DSMWAL1
+/TEXTURES/DSNOCLM2
+/TEXTURES/DSSTEP_2
+/TEXTURES/DSTILEN1
+/TEXTURES/EGGOLDT1
+/TEXTURES/EGGOLDT2
+/TEXTURES/EGGTRAP1
+/TEXTURES/EGGTRAP2
+/TEXTURES/ERZWAL16
+/TEXTURES/GFSM1R
+/TEXTURES/GFSM2R
+/TEXTURES/GFSM3R
+/TEXTURES/GFSM4R
+/TEXTURES/GFZBORD1
+/TEXTURES/GFZBRICK
+/TEXTURES/GFZCHEK1
+/TEXTURES/GFZCHEK2
+/TEXTURES/GFZCHEKB
+/TEXTURES/GFZCRACK
+/TEXTURES/GFZCRACK
+/TEXTURES/GFZCRAK1
+/TEXTURES/GFZCRAK2
+/TEXTURES/GFZDOOR
+/TEXTURES/GFZFALL1
+/TEXTURES/GFZFALL2
+/TEXTURES/GFZFALL3
+/TEXTURES/GFZFALL4
+/TEXTURES/GFZGRASU
+/TEXTURES/GFZRAIL3
+/TEXTURES/GFZRAIL4
+/TEXTURES/GFZRALU1
+/TEXTURES/GFZRALU2
+/TEXTURES/GFZRALU3
+/TEXTURES/GFZRALU4
+/TEXTURES/GFZROCK
+/TEXTURES/GFZROCK2
+/TEXTURES/GFZROCK3
+/TEXTURES/GFZROCKB
+/TEXTURES/GFZROCKC
+/TEXTURES/GFZVCRCK
+/TEXTURES/GFZVINE1
+/TEXTURES/GFZVINE2
+/TEXTURES/GFZVINE3
+/TEXTURES/GFZVINES
+/TEXTURES/GFZWALL
+/TEXTURES/GFZWALL2
+/TEXTURES/GFZWALLB
+/TEXTURES/GFZWINDW
+/TEXTURES/GHZCHEK1
+/TEXTURES/GHZCHEK2
+/TEXTURES/GHZCHEKB
+/TEXTURES/GHZROCK
+/TEXTURES/GHZWALL
+/TEXTURES/GHZWALLB
+/TEXTURES/GLASS4R
+/TEXTURES/GOLDWALL
+/TEXTURES/GRNWALL
+/TEXTURES/GRYWALL
+/TEXTURES/HHZBLKBG
+/TEXTURES/HHZCRACK
+/TEXTURES/HPBG1
+/TEXTURES/HPBG2
+/TEXTURES/HPPILLAR
+/TEXTURES/HPWALL
+/TEXTURES/LIFT
+/TEXTURES/LIFT2
+/TEXTURES/LIFTN1B
+/TEXTURES/LIFTN1F
+/TEXTURES/LIFTN2B
+/TEXTURES/LIFTN2F
+/TEXTURES/LIMEWALL
+/TEXTURES/LPLLR1
+/TEXTURES/LPLLR2
+/TEXTURES/MARIOCE1
+/TEXTURES/MARIOF1
+/TEXTURES/MARIOF10
+/TEXTURES/MARIOF15
+/TEXTURES/MARIOF16
+/TEXTURES/MARIOF2
+/TEXTURES/MARIOF3
+/TEXTURES/MARIOF4
+/TEXTURES/MARIOF6
+/TEXTURES/MARIOF7
+/TEXTURES/MARIOF8
+/TEXTURES/MARIOF9
+/TEXTURES/MAROWRG1
+/TEXTURES/MAROWRG2
+/TEXTURES/MAROWRG3
+/TEXTURES/MAROWRG4
+/TEXTURES/MAROWRG5
+/TEXTURES/MAROWRG6
+/TEXTURES/MAROWRG7
+/TEXTURES/MARROCK1
+/TEXTURES/MARROCK2
+/TEXTURES/MARROCK3
+/TEXTURES/MARROCK4
+/TEXTURES/MHROCK
+/TEXTURES/MHWALL1
+/TEXTURES/MM1
+/TEXTURES/NCEZW3
+/TEXTURES/NEOGWALL
+/TEXTURES/OLDGFZW1
+/TEXTURES/OLDGFZW3
+/TEXTURES/ORANGE
+/TEXTURES/PINETNKM
+/TEXTURES/PLACEH1
+/TEXTURES/PLACEH15
+/TEXTURES/PLACEH7
+/TEXTURES/PRZTIL20
+/TEXTURES/PRZTIL21
+/TEXTURES/PRZTIL24
+/TEXTURES/PRZTIL25
+/TEXTURES/PTZGFE
+/TEXTURES/PTZGFE1
+/TEXTURES/PTZGFE2
+/TEXTURES/PTZGFE3
+/TEXTURES/PURWALL
+/TEXTURES/REDWALL
+/TEXTURES/SCBWAL10
+/TEXTURES/SCBWALL9
+/TEXTURES/SFZWALL2
+/TEXTURES/SKY1
+/TEXTURES/SKY10
+/TEXTURES/SKY1029
+/TEXTURES/SKY11
+/TEXTURES/SKY13
+/TEXTURES/SKY14
+/TEXTURES/SKY15
+/TEXTURES/SKY16
+/TEXTURES/SKY21
+/TEXTURES/SKY22
+/TEXTURES/SKY23
+/TEXTURES/SKY4
+/TEXTURES/SKY76
+/TEXTURES/SKY8
+/TEXTURES/SPECWLL2
+/TEXTURES/SPECWLL3
+/TEXTURES/SPECWLL4
+/TEXTURES/SPIKEUF
+/TEXTURES/SPIKEUF1
+/TEXTURES/SPIKEUF2
+/TEXTURES/SRB1WIP2
+/TEXTURES/STEMSHR
+/TEXTURES/STEMSHR1
+/TEXTURES/STEMSHR2
+/TEXTURES/STLEDGL1
+/TEXTURES/STLEDGL2
+/TEXTURES/STLEDGL3
+/TEXTURES/STLEDGL4
+/TEXTURES/STLEDGL5
+/TEXTURES/STLEDGL6
+/TEXTURES/STLEDGR1
+/TEXTURES/STLEDGR2
+/TEXTURES/STLEDGR3
+/TEXTURES/STLEDGR4
+/TEXTURES/STLEDGR5
+/TEXTURES/STLEDGR6
+/TEXTURES/STLWALL1
+/TEXTURES/STLWALL2
+/TEXTURES/STLWALL3
+/TEXTURES/STLWALL4
+/TEXTURES/STLWALL5
+/TEXTURES/STLWALL6
+/TEXTURES/THBCMP1
+/TEXTURES/THBCMP2A
+/TEXTURES/THBCMP2B
+/TEXTURES/THCMPA0
+/TEXTURES/THCMPA3A
+/TEXTURES/THCMPA3B
+/TEXTURES/THCMPB0
+/TEXTURES/THCMPB2A
+/TEXTURES/THCMPB2B
+/TEXTURES/THPIPET1
+/TEXTURES/THPIPET2
+/TEXTURES/THPIPET3
+/TEXTURES/THPIPET4
+/TEXTURES/THPIPMT1
+/TEXTURES/THPIPMT2
+/TEXTURES/THPIPMT3
+/TEXTURES/THPIPMT4
+/TEXTURES/THPIPST1
+/TEXTURES/THPIPST2
+/TEXTURES/THPIPST3
+/TEXTURES/THPIPST4
+/TEXTURES/THROCK
+/TEXTURES/THROCK2
+/TEXTURES/THROCK3
+/TEXTURES/THROCK4
+/TEXTURES/THROCKM1
+/TEXTURES/THROCKM2
+/TEXTURES/THROCKM3
+/TEXTURES/THZCONVA
+/TEXTURES/THZCONVB
+/TEXTURES/THZCONVC
+/TEXTURES/THZGRASU
+/TEXTURES/THZWAL10
+/TEXTURES/V1TREE2
+/TEXTURES/V1TREES
+/TEXTURES/VCRACK1
+/TEXTURES/VCRACK2
+/TEXTURES/VIOWALL
+/TEXTURES/VZN01
+/TEXTURES/VZN02
+/TEXTURES/VZN03
+/TEXTURES/VZN04
+/TEXTURES/VZN05
+/TEXTURES/VZN06
+/TEXTURES/WHITEWAL
+/TEXTURES/WOODCRK2
+/TEXTURES/XMAS01
+/TEXTURES/XMAS01A
+/TEXTURES/XMAS02
+/TEXTURES/XMAS03
+/TEXTURES/XMAS04
+/TEXTURES/XMASWALL
+/TEXTURES/XMSCRACK
+/TEXTURES/XMSCRACX
+/TEXTURES/XMSROCKB
+/TEXTURES/YELWALL
+/TEXTURES/~PIT
+/Fades/FADE0000	"Zibon 'PixL' Badi"
+/Fades/FADE0001	"Zibon 'PixL' Badi"
+/Fades/FADE0002	"Zibon 'PixL' Badi"
+/Fades/FADE0003	"Zibon 'PixL' Badi"
+/Fades/FADE0004	"Zibon 'PixL' Badi"
+/Fades/FADE0005	"Zibon 'PixL' Badi"
+/Fades/FADE0006	"Zibon 'PixL' Badi"
+/Fades/FADE0007	"Zibon 'PixL' Badi"
+/Fades/FADE0008	"Zibon 'PixL' Badi"
+/Fades/FADE0009	"Zibon 'PixL' Badi"
+/Fades/FADE0010	"Zibon 'PixL' Badi"
+/Fades/FADE0011	"Zibon 'PixL' Badi"
+/Fades/FADE0012	"Zibon 'PixL' Badi"
+/Fades/FADE0013	"Zibon 'PixL' Badi"
+/Fades/FADE0014	"Zibon 'PixL' Badi"
+/Fades/FADE0015	"Zibon 'PixL' Badi"
+/Fades/FADE0016	"Zibon 'PixL' Badi"
+/Fades/FADE0017	"Zibon 'PixL' Badi"
+/Fades/FADE0018	"Zibon 'PixL' Badi"
+/Fades/FADE0019	"Zibon 'PixL' Badi"
+/Fades/FADE0020	"Zibon 'PixL' Badi"
+/Fades/FADE0021	"Zibon 'PixL' Badi"
+/Fades/FADE0022	"Zibon 'PixL' Badi"
+/Fades/FADE0023	"Zibon 'PixL' Badi"
+/Fades/FADE0024	"Zibon 'PixL' Badi"
+/Fades/FADE0025	"Zibon 'PixL' Badi"
+/Fades/FADE0026	"Zibon 'PixL' Badi"
+/Fades/FADE0027	"Zibon 'PixL' Badi"
+/Fades/FADE6900	"Zibon 'PixL' Badi"
+/Fades/FADE6901	"Zibon 'PixL' Badi"
+/Fades/FADE6902	"Zibon 'PixL' Badi"
+/Fades/FADE6903	"Zibon 'PixL' Badi"
+/Fades/FADE6904	"Zibon 'PixL' Badi"
+/Fades/FADE6905	"Zibon 'PixL' Badi"
+/Fades/FADE6906	"Zibon 'PixL' Badi"
+/Fades/FADE6907	"Zibon 'PixL' Badi"
+/Fades/FADE6908	"Zibon 'PixL' Badi"
+/Fades/FADE6909	"Zibon 'PixL' Badi"
+/Fades/FADE6910	"Zibon 'PixL' Badi"
+/Fades/FADE6911	"Zibon 'PixL' Badi"
+/Fades/FADE6912	"Zibon 'PixL' Badi"
+/Fades/FADE6913	"Zibon 'PixL' Badi"
+/Fades/FADE6914	"Zibon 'PixL' Badi"
+/Fades/FADE6915	"Zibon 'PixL' Badi"
+/Fades/FADE6916	"Zibon 'PixL' Badi"
+/Fades/FADE6917	"Zibon 'PixL' Badi"
+/Fades/FADE6918	"Zibon 'PixL' Badi"
+/Fades/FADE6919	"Zibon 'PixL' Badi"
+/Fades/FADE8800	"Zibon 'PixL' Badi"
+/Fades/FADE8801	"Zibon 'PixL' Badi"
+/Fades/FADE8802	"Zibon 'PixL' Badi"
+/Fades/FADE8803	"Zibon 'PixL' Badi"
+/Fades/FADE8804	"Zibon 'PixL' Badi"
+/Fades/FADE8805	"Zibon 'PixL' Badi"
+/Fades/FADE8806	"Zibon 'PixL' Badi"
+/Fades/FADE8807	"Zibon 'PixL' Badi"
+/Fades/FADE8808	"Zibon 'PixL' Badi"
+/Fades/FADE8809	"Zibon 'PixL' Badi"
+/Fades/FADE8810	"Zibon 'PixL' Badi"
+/Fades/FADE8811	"Zibon 'PixL' Badi"
+/Fades/FADE8812	"Zibon 'PixL' Badi"
+/Fades/FADE8813	"Zibon 'PixL' Badi"
+/Fades/FADE8814	"Zibon 'PixL' Badi"
+/Fades/FADE8815	"Zibon 'PixL' Badi"
+/Fades/FADE8816	"Zibon 'PixL' Badi"
+/Fades/FADE8817	"Zibon 'PixL' Badi"
+/Fades/FADE8818	"Zibon 'PixL' Badi"
+/Fades/FADE8819	"Zibon 'PixL' Badi"
+/Fades/FADE8820	"Zibon 'PixL' Badi"
+/Fades/FADE8821	"Zibon 'PixL' Badi"
+/Fades/FADE8822	"Zibon 'PixL' Badi"
+/Fades/FADE8823	"Zibon 'PixL' Badi"
+/Fades/FADE9900	"Zibon 'PixL' Badi"
+/Fades/FADE9901	"Zibon 'PixL' Badi"
+/Fades/FADE9902	"Zibon 'PixL' Badi"
+/Fades/FADE9903	"Zibon 'PixL' Badi"
+/Fades/FADE9904	"Zibon 'PixL' Badi"
+/Fades/FADE9905	"Zibon 'PixL' Badi"
+/Fades/FADE9906	"Zibon 'PixL' Badi"
+/Fades/FADE9907	"Zibon 'PixL' Badi"
+/Fades/FADE9908	"Zibon 'PixL' Badi"
+/Fades/FADE9909	"Zibon 'PixL' Badi"
+/Fades/FADE9910	"Zibon 'PixL' Badi"
+/Fades/FADE9911	"Zibon 'PixL' Badi"
+/Fades/FADE9912	"Zibon 'PixL' Badi"
+/Fades/FADE9913	"Zibon 'PixL' Badi"
+/Fades/FADE9914	"Zibon 'PixL' Badi"
+/Fades/FADE9915	"Zibon 'PixL' Badi"
+/Fades/FADE9916	"Zibon 'PixL' Badi"
+/Fades/FADE9917	"Zibon 'PixL' Badi"
+/Fades/FADE9918	"Zibon 'PixL' Badi"
+/Fades/FADE9919	"Zibon 'PixL' Badi"
+/Fades/FADE9920	"Zibon 'PixL' Badi"
+/Fades/FADE9921	"Zibon 'PixL' Badi"
+/Fades/FADE9922	"Zibon 'PixL' Badi"
+/Fades/FADE9923	"Zibon 'PixL' Badi"
+/Fades/FADE9924	"Zibon 'PixL' Badi"
+/Fades/FADE9925	"Zibon 'PixL' Badi"
+/Fades/FADE9926	"Zibon 'PixL' Badi"
+/Fades/FADE9927	"Zibon 'PixL' Badi"
+/Fades/FADE9928	"Zibon 'PixL' Badi"
+/Fades/FADE9929	"Zibon 'PixL' Badi"
+/Fades/FADE9930	"Zibon 'PixL' Badi"
+/Fades/FADE9931	"Zibon 'PixL' Badi"
 /Flats/2Fort/2FORTF1
 /Flats/2Fort/2FORTF2
 /Flats/2Fort/2FORTF3
@@ -241,74 +679,74 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Acid Plant/APFLOR5
 /Flats/Acid Plant/APFLOR6
 /Flats/Acid Plant/APFLOR7
-/Flats/Alpine Paradise/BSZFLOOR.raw
-/Flats/Alpine Paradise/BSZFLR01.raw
-/Flats/Alpine Paradise/BSZFLR02.raw
-/Flats/Alpine Paradise/BSZFLR03.raw
-/Flats/Alpine Paradise/BSZFLR04.raw
-/Flats/Alpine Paradise/BSZGRASF.raw
-/Flats/Alpine Paradise/FLBWY_02.raw
-/Flats/Alpine Paradise/FLBWY_R2.raw
-/Flats/Alpine Paradise/FLOBY_02.raw
-/Flats/Alpine Paradise/FLOWB_01.raw
-/Flats/Alpine Paradise/FLOWB_02.raw
-/Flats/Alpine Paradise/FLOWB_03.raw
-/Flats/Alpine Paradise/FLOWB_04.raw
-/Flats/Alpine Paradise/FLOWC_04.raw
-/Flats/Alpine Paradise/FLOWG_01.raw
-/Flats/Alpine Paradise/FLOWO_01.raw
-/Flats/Alpine Paradise/FLOWO_02.raw
-/Flats/Alpine Paradise/FLOWO_03.raw
-/Flats/Alpine Paradise/FLOWO_04.raw
-/Flats/Alpine Paradise/FLOWP_01.raw
-/Flats/Alpine Paradise/FLOWP_02.raw
-/Flats/Alpine Paradise/FLOWP_03.raw
-/Flats/Alpine Paradise/FLOWP_04.raw
-/Flats/Alpine Paradise/FLOWR_01.raw
-/Flats/Alpine Paradise/FLOWR_02.raw
-/Flats/Alpine Paradise/FLOWR_03.raw
-/Flats/Alpine Paradise/FLOWR_04.raw
-/Flats/Alpine Paradise/FLOWW_01.raw
-/Flats/Alpine Paradise/FLOWW_02.raw
-/Flats/Alpine Paradise/FLOWW_03.raw
-/Flats/Alpine Paradise/FLOWW_04.raw
-/Flats/Alpine Paradise/FLOWW_09.raw
-/Flats/Alpine Paradise/FLOWY_01.raw
-/Flats/Alpine Paradise/FLOWY_02.raw
-/Flats/Alpine Paradise/FLOWY_03.raw
-/Flats/Alpine Paradise/FLOWY_04.raw
-/Flats/Alpine Paradise/FWALL_04.raw
-/Flats/Alpine Paradise/FWALL_05.raw
-/Flats/Alpine Paradise/FWBOW_04.raw
-/Flats/Alpine Paradise/FWBOY_04.raw
-/Flats/Alpine Paradise/FWBPW_04.raw
-/Flats/Alpine Paradise/FWBPY_04.raw
-/Flats/Alpine Paradise/FWBP_04.raw
-/Flats/Alpine Paradise/FWBWY_02.raw
-/Flats/Alpine Paradise/FWBWY_04.raw
-/Flats/Alpine Paradise/FWBY_04.raw
-/Flats/Alpine Paradise/FWB_04.raw
-/Flats/Alpine Paradise/FWC_04.raw
-/Flats/Alpine Paradise/FWOPY_04.raw
-/Flats/Alpine Paradise/FWOP_04.raw
-/Flats/Alpine Paradise/FWORY_04.raw
-/Flats/Alpine Paradise/FWOWY_04.raw
-/Flats/Alpine Paradise/FWO_04.raw
-/Flats/Alpine Paradise/FWPW_04.raw
-/Flats/Alpine Paradise/FWP_04.raw
-/Flats/Alpine Paradise/FWR_04.raw
-/Flats/Alpine Paradise/FWWY_04.raw
-/Flats/Alpine Paradise/FWW_04.raw
-/Flats/Alpine Paradise/FWY_04.raw
+/Flats/Alpine Paradise/BSZFLOOR
+/Flats/Alpine Paradise/BSZFLR01
+/Flats/Alpine Paradise/BSZFLR02
+/Flats/Alpine Paradise/BSZFLR03
+/Flats/Alpine Paradise/BSZFLR04
+/Flats/Alpine Paradise/BSZGRASF
+/Flats/Alpine Paradise/FLBWY_02
+/Flats/Alpine Paradise/FLBWY_R2
+/Flats/Alpine Paradise/FLOBY_02
+/Flats/Alpine Paradise/FLOWB_01
+/Flats/Alpine Paradise/FLOWB_02
+/Flats/Alpine Paradise/FLOWB_03
+/Flats/Alpine Paradise/FLOWB_04
+/Flats/Alpine Paradise/FLOWC_04
+/Flats/Alpine Paradise/FLOWG_01
+/Flats/Alpine Paradise/FLOWO_01
+/Flats/Alpine Paradise/FLOWO_02
+/Flats/Alpine Paradise/FLOWO_03
+/Flats/Alpine Paradise/FLOWO_04
+/Flats/Alpine Paradise/FLOWP_01
+/Flats/Alpine Paradise/FLOWP_02
+/Flats/Alpine Paradise/FLOWP_03
+/Flats/Alpine Paradise/FLOWP_04
+/Flats/Alpine Paradise/FLOWR_01
+/Flats/Alpine Paradise/FLOWR_02
+/Flats/Alpine Paradise/FLOWR_03
+/Flats/Alpine Paradise/FLOWR_04
+/Flats/Alpine Paradise/FLOWW_01
+/Flats/Alpine Paradise/FLOWW_02
+/Flats/Alpine Paradise/FLOWW_03
+/Flats/Alpine Paradise/FLOWW_04
+/Flats/Alpine Paradise/FLOWW_09
+/Flats/Alpine Paradise/FLOWY_01
+/Flats/Alpine Paradise/FLOWY_02
+/Flats/Alpine Paradise/FLOWY_03
+/Flats/Alpine Paradise/FLOWY_04
+/Flats/Alpine Paradise/FWALL_04
+/Flats/Alpine Paradise/FWALL_05
+/Flats/Alpine Paradise/FWBOW_04
+/Flats/Alpine Paradise/FWBOY_04
+/Flats/Alpine Paradise/FWBPW_04
+/Flats/Alpine Paradise/FWBPY_04
+/Flats/Alpine Paradise/FWBP_04
+/Flats/Alpine Paradise/FWBWY_02
+/Flats/Alpine Paradise/FWBWY_04
+/Flats/Alpine Paradise/FWBY_04
+/Flats/Alpine Paradise/FWB_04
+/Flats/Alpine Paradise/FWC_04
+/Flats/Alpine Paradise/FWOPY_04
+/Flats/Alpine Paradise/FWOP_04
+/Flats/Alpine Paradise/FWORY_04
+/Flats/Alpine Paradise/FWOWY_04
+/Flats/Alpine Paradise/FWO_04
+/Flats/Alpine Paradise/FWPW_04
+/Flats/Alpine Paradise/FWP_04
+/Flats/Alpine Paradise/FWR_04
+/Flats/Alpine Paradise/FWWY_04
+/Flats/Alpine Paradise/FWW_04
+/Flats/Alpine Paradise/FWY_04
 /Flats/Arid Canyon/AC2_8_2_
 /Flats/Arid Canyon/ACDEBRI2
 /Flats/Arid Canyon/ACDEBRIS
-/Flats/Arid Canyon/ACMTRKF1.raw
+/Flats/Arid Canyon/ACMTRKF1
 /Flats/Arid Canyon/ACROAD1
-/Flats/Arid Canyon/ACROPF1.raw
-/Flats/Arid Canyon/ACROPF2.raw
-/Flats/Arid Canyon/ACROPF3.raw
-/Flats/Arid Canyon/ACROPF4.raw
+/Flats/Arid Canyon/ACROPF1
+/Flats/Arid Canyon/ACROPF2
+/Flats/Arid Canyon/ACROPF3
+/Flats/Arid Canyon/ACROPF4
 /Flats/Arid Canyon/ACSBCAN1
 /Flats/Arid Canyon/ACSBCAN3
 /Flats/Arid Canyon/ACSBDSRC
@@ -377,26 +815,13 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/BRICK3
 /Flats/BRICK4
 /Flats/BUSTFLR
-/Flats/Casino/CASINOF1	"Zibon 'PixL' Badi"
-/Flats/Casino/CASINOF2	"Zibon 'PixL' Badi"
 /Flats/CASINOF3
 /Flats/CASINOF4
 /Flats/CEIL3_1
 /Flats/CEMENT2
 /Flats/CHKGRASF	"Zibon 'PixL' Badi"
-/Flats/Colors/BLUEFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/CYANFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/GOLDFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/GREENFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/GREYFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/LIMEFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/NEOGFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/ORGFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/PURFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/REDFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/VIOFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/WHITEFLR	"Zibon 'PixL' Badi"
-/Flats/Colors/YELFLR	"Zibon 'PixL' Badi"
+/Flats/Casino/CASINOF1	"Zibon 'PixL' Badi"
+/Flats/Casino/CASINOF2	"Zibon 'PixL' Badi"
 /Flats/Castle Eggman/BRIDGEA1
 /Flats/Castle Eggman/BRIDGEA2
 /Flats/Castle Eggman/BRIDGEA3
@@ -422,27 +847,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Castle Eggman/CECRPTRW
 /Flats/Castle Eggman/CESBCA00
 /Flats/Castle Eggman/CESBFO01
-/Flats/Castle Eggman/CESTP1E.raw
-/Flats/Castle Eggman/CESTP1N.raw
-/Flats/Castle Eggman/CESTP1S.raw
-/Flats/Castle Eggman/CESTP1W.raw
-/Flats/Castle Eggman/CETILB1
-/Flats/Castle Eggman/CETILB1B
-/Flats/Castle Eggman/CETILB2
-/Flats/Castle Eggman/CETILB2B
-/Flats/Castle Eggman/CETILB3
-/Flats/Castle Eggman/CETILC1
-/Flats/Castle Eggman/CETILC2
-/Flats/Castle Eggman/CETILD1
-/Flats/Castle Eggman/CETILD1B
-/Flats/Castle Eggman/CETILD2
-/Flats/Castle Eggman/CETILD2B
-/Flats/Castle Eggman/CETILD3
-/Flats/Castle Eggman/CETILE1
-/Flats/Castle Eggman/CETILE1B
-/Flats/Castle Eggman/CETILE2
-/Flats/Castle Eggman/CETILE2B
-/Flats/Castle Eggman/CETILE3
+/Flats/Castle Eggman/CESTP1E
+/Flats/Castle Eggman/CESTP1N
+/Flats/Castle Eggman/CESTP1S
+/Flats/Castle Eggman/CESTP1W
 /Flats/Castle Eggman/CETILL1
 /Flats/Castle Eggman/CETILL1B
 /Flats/Castle Eggman/CETILL2
@@ -535,6 +943,19 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Cliffs/CLIFFGS	"Zibon 'PixL' Badi"
 /Flats/Cliffs/CLIFFH	"Zibon 'PixL' Badi"
 /Flats/Cliffs/CLIFFHS	"Zibon 'PixL' Badi"
+/Flats/Colors/BLUEFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/CYANFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/GOLDFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/GREENFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/GREYFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/LIMEFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/NEOGFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/ORGFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/PURFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/REDFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/VIOFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/WHITEFLR	"Zibon 'PixL' Badi"
+/Flats/Colors/YELFLR	"Zibon 'PixL' Badi"
 /Flats/DEM1_1
 /Flats/DEM1_2
 /Flats/DEM1_3
@@ -652,6 +1073,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Deep Sea/DSZRCKF1
 /Flats/Deep Sea/DSZRCKF2
 /Flats/Deep Sea/DSZRCKF3
+/Flats/Disco/RECORD	"Zibon 'PixL' Badi"
 /Flats/EC_VINES
 /Flats/EC_VINET
 /Flats/ERZRDCAU
@@ -927,10 +1349,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Fluids/WATER5
 /Flats/Fluids/WATER6
 /Flats/Fluids/WATER7
-/Flats/Grasslands/GRASS1	"Zibon 'PixL' Badi"
-/Flats/Grasslands/GRASS2	"Zibon 'PixL' Badi"
-/Flats/Grasslands/GRASS3	"Zibon 'PixL' Badi"
-/Flats/Grasslands/GRASSY	"Zibon 'PixL' Badi"
 /Flats/Grand Eggship/DSHIPF1
 /Flats/Grand Eggship/DSHIPF2
 /Flats/Grand Eggship/DSHIPF3
@@ -945,26 +1363,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Grand Eggship/DSHIPFC
 /Flats/Grand Eggship/DSHIPFD
 /Flats/Grand Eggship/DSHIPFE
-/Flats/Green Hill/GATE2
-/Flats/Green Hill/GHZBRDG1
-/Flats/Green Hill/GHZBRDG2
-/Flats/Green Hill/GHZBRDG3
-/Flats/Green Hill/GHZBRDG4
-/Flats/Green Hill/GHZFLR02
-/Flats/Green Hill/GHZFLR07
-/Flats/Green Hill/GHZFLR08
-/Flats/Green Hill/GHZFLR09
-/Flats/Grasslands/GHZFLR0C	"Zibon 'PixL' Badi"
-/Flats/Green Hill/GHZROCKF
-/Flats/Green Hill/GRNLITE1
 /Flats/Grasslands/GFZFLR01	"Zibon 'PixL' Badi"
 /Flats/Grasslands/GFZFLR02	"Zibon 'PixL' Badi"
-/Flats/Greenflower/GFZFLR03
-/Flats/Greenflower/GFZFLR04
-/Flats/Greenflower/GFZFLR05	"Zibon 'PixL' Badi"
-/Flats/Greenflower/GFZFLR06	"Zibon 'PixL' Badi"
-/Flats/Greenflower/GFZFLR07
-/Flats/Greenflower/GFZFLR08
 /Flats/Grasslands/GFZFLR09	"Zibon 'PixL' Badi"
 /Flats/Grasslands/GFZFLR10	"Zibon 'PixL' Badi"
 /Flats/Grasslands/GFZFLR11	"Zibon 'PixL' Badi"
@@ -974,23 +1374,41 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Grasslands/GFZFLR15	"Zibon 'PixL' Badi"
 /Flats/Grasslands/GFZFLR16	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
 /Flats/Grasslands/GFZFLR17	"Zibon 'PixL' Badi"	(based on "GFVINES" by "Gog 'Idk' Wagoo")
+/Flats/Grasslands/GFZFLR22	"Zibon 'PixL' Badi"
+/Flats/Grasslands/GFZWAVEF	"Zibon 'PixL' Badi"
+/Flats/Grasslands/GHZFLR0C	"Zibon 'PixL' Badi"
+/Flats/Grasslands/GRASS1	"Zibon 'PixL' Badi"
+/Flats/Grasslands/GRASS2	"Zibon 'PixL' Badi"
+/Flats/Grasslands/GRASS3	"Zibon 'PixL' Badi"
+/Flats/Grasslands/GRASSY	"Zibon 'PixL' Badi"
+/Flats/Grasslands/OLDGFZF1	"Zibon 'PixL' Badi"
+/Flats/Green Hill/GATE2
+/Flats/Green Hill/GHZBRDG1
+/Flats/Green Hill/GHZBRDG2
+/Flats/Green Hill/GHZBRDG3
+/Flats/Green Hill/GHZBRDG4
+/Flats/Green Hill/GHZFLR02
+/Flats/Green Hill/GHZFLR07
+/Flats/Green Hill/GHZFLR08
+/Flats/Green Hill/GHZFLR09
+/Flats/Green Hill/GHZROCKF
+/Flats/Green Hill/GRNLITE1
+/Flats/Greenflower/GFZFLR03
+/Flats/Greenflower/GFZFLR04
+/Flats/Greenflower/GFZFLR05	"Zibon 'PixL' Badi"
+/Flats/Greenflower/GFZFLR06	"Zibon 'PixL' Badi"
+/Flats/Greenflower/GFZFLR07
+/Flats/Greenflower/GFZFLR08
 /Flats/Greenflower/GFZFLR18	"Zibon 'PixL' Badi"
 /Flats/Greenflower/GFZFLR19	"Zibon 'PixL' Badi"
 /Flats/Greenflower/GFZFLR20
 /Flats/Greenflower/GFZFLR21
-/Flats/Grasslands/GFZFLR22	"Zibon 'PixL' Badi"
 /Flats/Greenflower/GFZFNCF
 /Flats/Greenflower/GFZFNCG
 /Flats/Greenflower/GFZROCKA
-/Flats/Grasslands/GFZWAVEF	"Zibon 'PixL' Badi"
-/Flats/Grasslands/OLDGFZF1	"Zibon 'PixL' Badi"
 /Flats/Greenflower/Old/OLDGFZF2
 /Flats/Greenflower/Old/OLDGFZF3
 /Flats/Greenflower/Old/OLDGFZF4
-/Flats/Skies/GFS_CLD1	"Gog 'Idk' Wagoo"
-/Flats/Skies/GFS_CLD2	"Gog 'Idk' Wagoo"
-/Flats/Skies/GFS_CLD3	"Gog 'Idk' Wagoo"
-/Flats/Skies/GFS_CLD4	"Zibon 'PixL' Badi"	(based on "GFS_CLD2" by "Gog 'Idk' Wagoo")
 /Flats/Greenflower/Skybox/GFZSF
 /Flats/HNYLEAFF
 /Flats/HONEYF
@@ -1069,6 +1487,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Ice & Snow/ICEFLR9
 /Flats/Ice & Snow/ICEFLR9S
 /Flats/Ice & Snow/ICEFLRA
+/Flats/Industrial/STLBLKF1	"Zibon 'PixL' Badi"
+/Flats/Industrial/STLBLKF2	"Zibon 'PixL' Badi"
+/Flats/Industrial/STLFLR01	"Zibon 'PixL' Badi"
+/Flats/Industrial/STLFLR02	"Zibon 'PixL' Badi"
 /Flats/Jungle/JNGF13S
 /Flats/Jungle/JNGF14S
 /Flats/Jungle/JNGF15S
@@ -1183,18 +1605,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Lake/LAKEFLRF
 /Flats/Lake/LAKEPIF1
 /Flats/Lake/LAKEPIF2
-/Flats/Misc/TFB064	"Zibon 'PixL' Badi"
-/Flats/Misc/TFB128	"Zibon 'PixL' Badi"
-/Flats/Misc/TFB256	"Zibon 'PixL' Badi"
-/Flats/Misc/TFB512	"Zibon 'PixL' Badi"
-/Flats/Misc/TFG064	"Zibon 'PixL' Badi"
-/Flats/Misc/TFG128	"Zibon 'PixL' Badi"
-/Flats/Misc/TFG256	"Zibon 'PixL' Badi"
-/Flats/Misc/TFG512	"Zibon 'PixL' Badi"
-/Flats/Misc/TFO064	"Zibon 'PixL' Badi"
-/Flats/Misc/TFO128	"Zibon 'PixL' Badi"
-/Flats/Misc/TFO256	"Zibon 'PixL' Badi"
-/Flats/Misc/TFO512	"Zibon 'PixL' Badi"
 /Flats/MEKPIPF1
 /Flats/MEKPIPF2
 /Flats/MEKPIPF3
@@ -1224,6 +1634,18 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/MKB/MARROCK3
 /Flats/MKB/MARROCK4
 /Flats/MKB/THWOMPFL
+/Flats/Misc/TFB064	"Zibon 'PixL' Badi"
+/Flats/Misc/TFB128	"Zibon 'PixL' Badi"
+/Flats/Misc/TFB256	"Zibon 'PixL' Badi"
+/Flats/Misc/TFB512	"Zibon 'PixL' Badi"
+/Flats/Misc/TFG064	"Zibon 'PixL' Badi"
+/Flats/Misc/TFG128	"Zibon 'PixL' Badi"
+/Flats/Misc/TFG256	"Zibon 'PixL' Badi"
+/Flats/Misc/TFG512	"Zibon 'PixL' Badi"
+/Flats/Misc/TFO064	"Zibon 'PixL' Badi"
+/Flats/Misc/TFO128	"Zibon 'PixL' Badi"
+/Flats/Misc/TFO256	"Zibon 'PixL' Badi"
+/Flats/Misc/TFO512	"Zibon 'PixL' Badi"
 /Flats/PAZFLR01	"Zibon 'PixL' Badi"
 /Flats/PAZFLR02	"Zibon 'PixL' Badi"
 /Flats/PAZFLR03	"Zibon 'PixL' Badi"
@@ -1249,7 +1671,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/RCZFLR6
 /Flats/RCZFLR7
 /Flats/RCZFLR8
-/Flats/Disco/RECORD	"Zibon 'PixL' Badi"
 /Flats/ROCKBOIL
 /Flats/ROCKBOIM
 /Flats/ROCKF1
@@ -1292,7 +1713,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Red Volcano/MMFLRF
 /Flats/Red Volcano/RVDARKF1
 /Flats/Red Volcano/RVDARKF2
-/Flats/Red Volcano/RVPUMICF.raw
+/Flats/Red Volcano/RVPUMICF
 /Flats/Red Volcano/RVRCKTTO
 /Flats/Red Volcano/RVZ1SBTM
 /Flats/Red Volcano/RVZ1S_BF
@@ -1344,24 +1765,28 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/SRB1/SRB1FV1
 /Flats/SRB1/SRB1FV2
 /Flats/SRB1/SRB1FV3
-/Flats/SRB2&K/Hidden Palace/HPFLOOR%20.raw
-/Flats/SRB2&K/Launch Base/LBZFLOR7.raw
-/Flats/SRB2&K/Launch Base/LBZFLOR8.raw
-/Flats/SRB2&K/Launch Base/LBZFLOR9.raw
-/Flats/SRB2&K/Launch Base/LBZFLORA.raw
-/Flats/SRB2&K/Launch Base/LBZFLORB.raw
-/Flats/SRB2&K/Launch Base/LBZFLORC.raw
-/Flats/SRB2&K/Launch Base/LBZFLR07.raw
-/Flats/SRB2&K/Launch Base/LBZFLR08.raw
-/Flats/SRB2&K/Launch Base/LBZFLR09.raw
-/Flats/SRB2&K/Mushroom Hill/MHFL1.raw
-/Flats/SRB2&K/Mushroom Hill/MHFL2A.raw
-/Flats/SRB2&K/Mushroom Hill/MHFL2B.raw
-/Flats/SRB2&K/Mushroom Hill/MHFL3.raw
-/Flats/SRB2&K/Mushroom Hill/MHFL4.raw
+/Flats/SRB2&K/Hidden Palace/HPFLOOR%20
+/Flats/SRB2&K/Launch Base/LBZFLOR7
+/Flats/SRB2&K/Launch Base/LBZFLOR8
+/Flats/SRB2&K/Launch Base/LBZFLOR9
+/Flats/SRB2&K/Launch Base/LBZFLORA
+/Flats/SRB2&K/Launch Base/LBZFLORB
+/Flats/SRB2&K/Launch Base/LBZFLORC
+/Flats/SRB2&K/Launch Base/LBZFLR07
+/Flats/SRB2&K/Launch Base/LBZFLR08
+/Flats/SRB2&K/Launch Base/LBZFLR09
+/Flats/SRB2&K/Mushroom Hill/MHFL1
+/Flats/SRB2&K/Mushroom Hill/MHFL2A
+/Flats/SRB2&K/Mushroom Hill/MHFL2B
+/Flats/SRB2&K/Mushroom Hill/MHFL3
+/Flats/SRB2&K/Mushroom Hill/MHFL4
 /Flats/STONE01
 /Flats/STONEF1
 /Flats/STONEF2
+/Flats/Skies/GFS_CLD1	"Gog 'Idk' Wagoo"
+/Flats/Skies/GFS_CLD2	"Gog 'Idk' Wagoo"
+/Flats/Skies/GFS_CLD3	"Gog 'Idk' Wagoo"
+/Flats/Skies/GFS_CLD4	"Zibon 'PixL' Badi"	(based on "GFS_CLD2" by "Gog 'Idk' Wagoo")
 /Flats/Special Stages/ASPECF
 /Flats/Special Stages/ASPECF2
 /Flats/Special Stages/ASPECF3
@@ -1434,10 +1859,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Special Stages/YSPECF
 /Flats/Special Stages/YSPECF2
 /Flats/Special Stages/YSPECF3
-/Flats/Industrial/STLBLKF1	"Zibon 'PixL' Badi"
-/Flats/Industrial/STLBLKF2	"Zibon 'PixL' Badi"
-/Flats/Industrial/STLFLR01	"Zibon 'PixL' Badi"
-/Flats/Industrial/STLFLR02	"Zibon 'PixL' Badi"
 /Flats/TRAPFLR
 /Flats/Techno Hill/ALTBOXF1
 /Flats/Techno Hill/ALTBOXF2
@@ -1531,26 +1952,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZBOXF2
 /Flats/Techno Hill/THZBOXF3
 /Flats/Techno Hill/THZBOXF4
-/Flats/Toy/THZELA1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELA2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELB1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELB2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELC1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELC2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELD1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELD2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELE1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELE2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELF1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELF2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELG1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELG2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELH1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELH2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELI1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELI2	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELJ1	"Zibon 'PixL' Badi"
-/Flats/Toy/THZELJ2	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZFLR01
 /Flats/Techno Hill/THZFLR02
 /Flats/Techno Hill/THZFLR03
@@ -1597,6 +1998,26 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZLITS
 /Flats/Techno Hill/THZREDP1
 /Flats/Techno Hill/THZREDP2
+/Flats/Toy/THZELA1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELA2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELB1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELB2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELC1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELC2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELD1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELD2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELE1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELE2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELF1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELF2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELG1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELG2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELH1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELH2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELI1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELI2	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELJ1	"Zibon 'PixL' Badi"
+/Flats/Toy/THZELJ2	"Zibon 'PixL' Badi"
 /Flats/VENT1F
 /Flats/VFZFLR01
 /Flats/WOODFLR
@@ -2202,7 +2623,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Fonts/TTL/TTL07	"Zibon 'PixL' Badi"
 /Graphics/Fonts/TTL/TTL08	"Zibon 'PixL' Badi"
 /Graphics/Fonts/TTL/TTL09	"Zibon 'PixL' Badi"
-/Graphics/Titlescreen/GAMEQUIT	"Zibon 'PixL' Badi"
 /Graphics/Game Over/SLIDGAME	"Zibon 'PixL' Badi"
 /Graphics/Game Over/SLIDOVER	"Zibon 'PixL' Badi"
 /Graphics/Game Over/SLIDTIME	"Zibon 'PixL' Badi"
@@ -2230,7 +2650,11 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/HUD/Hunt/HOMITM6
 /Graphics/HUD/NOPINGICON
 /Graphics/HUD/Power-ups/GOTBFLAG
+/Graphics/HUD/Power-ups/GOTFFLOW
 /Graphics/HUD/Power-ups/GOTRFLAG
+/Graphics/HUD/Power-ups/NHLPICON
+/Graphics/HUD/Power-ups/NLFZICON
+/Graphics/HUD/Power-ups/NSPRICON
 /Graphics/HUD/Power-ups/TVARICON
 /Graphics/HUD/Power-ups/TVATICON
 /Graphics/HUD/Power-ups/TVBBICON
@@ -2272,6 +2696,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/HUD/Teams/NONICON2	"Zibon 'PixL' Badi"
 /Graphics/HUD/Teams/RFLAGICO	"Zibon 'PixL' Badi"
 /Graphics/HUD/Teams/RMATCICO	"Zibon 'PixL' Badi"
+/Graphics/HUD/Titlecard/LTACTBLU	"Zibon 'PixL' Badi"
+/Graphics/HUD/Titlecard/LTACTRED	"Zibon 'PixL' Badi"
+/Graphics/HUD/Titlecard/LTZIGRED	"Zibon 'PixL' Badi"
+/Graphics/HUD/Titlecard/LTZIGZAG	"Zibon 'PixL' Badi"
+/Graphics/HUD/Titlecard/LTZZTEXT	"Zibon 'PixL' Badi"
+/Graphics/HUD/Titlecard/LTZZWARN	"Zibon 'PixL' Badi"
 /Graphics/Intermission/BLINTERS
 /Graphics/Intermission/INTERSCR
 /Graphics/Intermission/INTERSCW
@@ -2329,6 +2759,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_NIGHTS	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_OPTTTL	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_PANDRA	"Zibon 'PixL' Badi"
+/Graphics/Menu/Headers/M_PAUSE
 /Graphics/Menu/Headers/M_PICKG	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_PICKP	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_RATHON	"Zibon 'PixL' Badi"
@@ -2346,6 +2777,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Menu/Level Select/SLCT1LVW
 /Graphics/Menu/Level Select/SLCT2LVL
 /Graphics/Menu/Level Select/SLCT2LVW
+/Graphics/Menu/M_BRDRL
+/Graphics/Menu/M_BRDRLS
+/Graphics/Menu/M_BRDRR
+/Graphics/Menu/M_BRDRRS
 /Graphics/Menu/M_CURSOR
 /Graphics/Menu/M_LSCNTR
 /Graphics/Menu/M_LSLEFT
@@ -2633,12 +3068,23 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Story/TAILSSAD
 /Graphics/Story/WATCHING
 /Graphics/Story/ZOOMING
-/Graphics/HUD/Titlecard/LTACTBLU	"Zibon 'PixL' Badi"
-/Graphics/HUD/Titlecard/LTACTRED	"Zibon 'PixL' Badi"
-/Graphics/HUD/Titlecard/LTZIGRED	"Zibon 'PixL' Badi"
-/Graphics/HUD/Titlecard/LTZIGZAG	"Zibon 'PixL' Badi"
-/Graphics/HUD/Titlecard/LTZZTEXT	"Zibon 'PixL' Badi"
-/Graphics/HUD/Titlecard/LTZZWARN	"Zibon 'PixL' Badi"
+/Graphics/Titlescreen/GAMEQUIT	"Zibon 'PixL' Badi"
+/Graphics/Titlescreen/Old/TITLESKY
+/Graphics/Titlescreen/Old/TTBANNER
+/Graphics/Titlescreen/Old/TTSONIC
+/Graphics/Titlescreen/Old/TTSPOP1
+/Graphics/Titlescreen/Old/TTSPOP2
+/Graphics/Titlescreen/Old/TTSPOP3
+/Graphics/Titlescreen/Old/TTSPOP4
+/Graphics/Titlescreen/Old/TTSPOP5
+/Graphics/Titlescreen/Old/TTSPOP6
+/Graphics/Titlescreen/Old/TTSPOP7
+/Graphics/Titlescreen/Old/TTSPREP1
+/Graphics/Titlescreen/Old/TTSPREP2
+/Graphics/Titlescreen/Old/TTSWAVE1
+/Graphics/Titlescreen/Old/TTSWAVE2
+/Graphics/Titlescreen/Old/TTSWIP1
+/Graphics/Titlescreen/Old/TTWING
 /Graphics/Titlescreen/WBTITL01	"Zibon 'PixL' Badi"
 /Graphics/Titlescreen/WBTITL02	"Zibon 'PixL' Badi"
 /Graphics/Titlescreen/WBTITL03	"Zibon 'PixL' Badi"
@@ -2680,22 +3126,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Titlescreen/WBTITL39	"Zibon 'PixL' Badi"
 /Graphics/Titlescreen/WBTITL40	"Zibon 'PixL' Badi"
 /Graphics/Titlescreen/WBTITL41	"Zibon 'PixL' Badi"
-/Graphics/Titlescreen/Old/TITLESKY
-/Graphics/Titlescreen/Old/TTBANNER
-/Graphics/Titlescreen/Old/TTSONIC
-/Graphics/Titlescreen/Old/TTSPOP1
-/Graphics/Titlescreen/Old/TTSPOP2
-/Graphics/Titlescreen/Old/TTSPOP3
-/Graphics/Titlescreen/Old/TTSPOP4
-/Graphics/Titlescreen/Old/TTSPOP5
-/Graphics/Titlescreen/Old/TTSPOP6
-/Graphics/Titlescreen/Old/TTSPOP7
-/Graphics/Titlescreen/Old/TTSPREP1
-/Graphics/Titlescreen/Old/TTSPREP2
-/Graphics/Titlescreen/Old/TTSWAVE1
-/Graphics/Titlescreen/Old/TTSWAVE2
-/Graphics/Titlescreen/Old/TTSWIP1
-/Graphics/Titlescreen/Old/TTWING
 /Graphics/Tutorial/AMYRCONC
 /Graphics/Tutorial/AMYRJOYS
 /Graphics/Tutorial/AMYRTALK
@@ -2773,27 +3203,104 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Tutorial/Unused/SPN5CUS
 /Graphics/Tutorial/Unused/SSNTAILS
 /Graphics/Tutorial/Unused/STJRBABY
+/Music/D_BCZ1.mid	"Zibon 'PixL' Badi"
+/Music/D_GFZ1.mid	"Zibon 'PixL' Badi"
+/Music/D_MARIO1.mid	"Zibon 'PixL' Badi"
+/Music/D_RVZ2.mid	"Zibon 'PixL' Badi"
+/Music/MUSICDEF.dat	Everyone	(partial)
+/Music/O_ACZ1.ogg	"Zibon 'PixL' Badi"
+/Music/O_ACZ2.ogg	"Zibon 'PixL' Badi"
+/Music/O_AGZ.ogg
+/Music/O_AGZALT.ogg
+/Music/O_APZ1.ogg
+/Music/O_APZ2.ogg
+/Music/O_ATZ.ogg
+/Music/O_BCZ1.ogg	"Zibon 'PixL' Badi"
+/Music/O_BCZ2.ogg	"Zibon 'PixL' Badi"
+/Music/O_BHZ.ogg
+/Music/O_CCW.ogg	"Zibon 'PixL' Badi"
+/Music/O_CCZ.ogg
+/Music/O_CEZ1.ogg	"Zibon 'PixL' Badi"
+/Music/O_CEZ2.ogg	"Zibon 'PixL' Badi"
+/Music/O_CEZR.ogg
+/Music/O_DCZ.ogg
+/Music/O_DHZ.ogg
+/Music/O_DISCO.ogg	"Zibon 'PixL' Badi"
+/Music/O_DSZ1.ogg	"Zibon 'PixL' Badi"
+/Music/O_DSZ2.ogg	"Zibon 'PixL' Badi"
+/Music/O_ERZ1.ogg	"Zibon 'PixL' Badi"
+/Music/O_ERZ2.ogg	"Zibon 'PixL' Badi"
+/Music/O_FHZ.ogg
+/Music/O_GFZ1.ogg	"Zibon 'PixL' Badi"
+/Music/O_GFZ2.ogg	"Zibon 'PixL' Badi"
+/Music/O_GFZALT.ogg
+/Music/O_HAUNTD.ogg
+/Music/O_MARIO1.ogg	"Zibon 'PixL' Badi"
+/Music/O_MARIO2.ogg
+/Music/O_MP_0RI.ogg
+/Music/O_MP_AIR.ogg
+/Music/O_MP_COA.ogg
+/Music/O_MP_DES.ogg	"Zibon 'PixL' Badi"
+/Music/O_MP_DOM.ogg
+/Music/O_MP_FIR.ogg
+/Music/O_MP_FOR.ogg
+/Music/O_MP_FR2.ogg
+/Music/O_MP_GHZ.ogg
+/Music/O_MP_GL2.ogg
+/Music/O_MP_GLZ.ogg
+/Music/O_MP_ICE.ogg
+/Music/O_MP_MED.ogg
+/Music/O_MP_MIN.ogg
+/Music/O_MP_MRZ.ogg
+/Music/O_MP_RAI.ogg
+/Music/O_MP_SUN.ogg
+/Music/O_MP_WT2.ogg
+/Music/O_MP_WTR.ogg
+/Music/O_OINTRO.ogg
+/Music/O_OSPEC.ogg
+/Music/O_OSPEC2.ogg
+/Music/O_RVZ1.ogg	"Zibon 'PixL' Badi"
+/Music/O_RVZ2.ogg	"Zibon 'PixL' Badi"
+/Music/O_RVZALT.ogg
+/Music/O_SPEC1.ogg
+/Music/O_SPEC2.ogg
+/Music/O_SPEC3.ogg
+/Music/O_SPEC4.ogg
+/Music/O_SPEC5.ogg
+/Music/O_SPEC6.ogg
+/Music/O_SPEC7.ogg
+/Music/O_SPEC8.ogg
+/Music/O_THZ1.ogg
+/Music/O_THZ2.ogg	"Zibon 'PixL' Badi"
+/Music/O_THZALT.ogg
+/Music/O_TUTORL.ogg
+/Music/O_VSAGZ.ogg
+/Music/O_VSALT.ogg
+/Music/O_VSBOSS.ogg	"Zibon 'PixL' Badi"
+/Music/O_VSBRAK.ogg	"Zibon 'PixL' Badi"
+/Music/O_VSFANG.ogg	"Zibon 'PixL' Badi"
+/Music/O_VSMETL.ogg	"Zibon 'PixL' Badi"
+/Music/O__1UP.ogg	"Zibon 'PixL' Badi"
+/Music/O__CHSEL.ogg	astral
+/Music/O__CLEAR.ogg	"Zibon 'PixL' Badi"
+/Music/O__CONTI.ogg	"Zibon 'PixL' Badi"
+/Music/O__CREDS.ogg
+/Music/O__DROWN.ogg	"Zibon 'PixL' Badi"
+/Music/O__ENDB.ogg
+/Music/O__ENDG.ogg
+/Music/O__GOVER.ogg	"Zibon 'PixL' Badi"
+/Music/O__INTER.ogg
+/Music/O__INTRO.ogg
+/Music/O__INV.ogg	"Zibon 'PixL' Badi"
+/Music/O__MINV.ogg
+/Music/O__NITAT.ogg
+/Music/O__NTIME.ogg	"Zibon 'PixL' Badi"
+/Music/O__RECAT.ogg	"Zibon 'PixL' Badi"
+/Music/O__SHOES.ogg
+/Music/O__STJR.ogg	"Zibon 'PixL' Badi"
+/Music/O__SUPER.ogg	"Zibon 'PixL' Badi"
+/Music/O__TITLE.ogg	"Zibon 'PixL' Badi"
 /PLAYPAL	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYMOON1	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYMOON2	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYMOON3	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYMOON4	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYMOON5	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYMOON6	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYOCZ1	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYOCZ2	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYOCZ3	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYOCZ4	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYOCZ	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYPLNT1	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYPLNT2	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYSMON1	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYSMON2	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYSMON3	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYSMON4	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYSMON5	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYSMON6	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYSUN	"Zibon 'PixL' Badi"
 /Patches/Alpine Paradise/BSZASK2B
 /Patches/Alpine Paradise/BSZASKY1
 /Patches/Alpine Paradise/BSZASKY2
@@ -3130,6 +3637,17 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Patches/LPLR3
 /Patches/MRBPLR5A
 /Patches/MRBPLR5B
+/Patches/Pipe Towers/MARFLO1
+/Patches/Pipe Towers/MARFLO2
+/Patches/Pipe Towers/MARGRG1
+/Patches/Pipe Towers/MARGRG3
+/Patches/Pipe Towers/MARIOCBR
+/Patches/Pipe Towers/PTUGPM
+/Patches/Pipe Towers/PTUGPM1
+/Patches/Pipe Towers/PTUGPM4
+/Patches/Pipe Towers/PTUGPM5
+/Patches/Pipe Towers/PTUSPM
+/Patches/Pipe Towers/PTUSPM1
 /Patches/Red Volcano/MM8
 /Patches/SCBWAL9A
 /Patches/SCBWAL9C
@@ -3167,6 +3685,26 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Patches/SRB2&K/Mushroom Hill/MHTILE2H
 /Patches/SRB2&K/Mushroom Hill/MHTILE2I
 /Patches/SRBWIP2
+/Patches/Skybox/SKYMOON1	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYMOON2	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYMOON3	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYMOON4	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYMOON5	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYMOON6	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYOCZ	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYOCZ1	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYOCZ2	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYOCZ3	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYOCZ4	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYPLNT1	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYPLNT2	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYSMON1	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYSMON2	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYSMON3	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYSMON4	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYSMON5	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYSMON6	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYSUN	"Zibon 'PixL' Badi"
 /Patches/SpecialStages/NITESWA1
 /Patches/SpecialStages/NITESWA2
 /Patches/SpecialStages/NITESWA3
@@ -3228,9 +3766,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Patches/Xmas/XMAS03P
 /Patches/Xmas/XMAS04P
 /Patches/Xmas/XMASCRAX
+/SOC/SOC_INTRO.soc	"Zibon 'PixL' Badi"
 /SOC/SOC_LETR
 /SOC/SOC_TITL
-/SOC/SOC_INTRO.soc	"Zibon 'PixL' Badi"
 /Sounds/Chaotix/DSKC2A
 /Sounds/Chaotix/DSKC2B
 /Sounds/Chaotix/DSKC2C
@@ -3299,11 +3837,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/Chaotix/DSKC6C
 /Sounds/Chaotix/DSKC6D
 /Sounds/Chaotix/DSKC6E
-/Sounds/DSJUMP	NepDisk
-/Sounds/SRB2/DSADDERR
-/Sounds/SRB2/DSADDFIL
 /Sounds/DSALARM	"Zibon 'PixL' Badi"
-/Sounds/SRB2/DSALART
 /Sounds/DSALTDI1	"Zibon 'PixL' Badi"
 /Sounds/DSALTDI2	"Zibon 'PixL' Badi"
 /Sounds/DSALTDI3	"Zibon 'PixL' Badi"
@@ -3312,6 +3846,25 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/DSALTOW2	"Zibon 'PixL' Badi"
 /Sounds/DSALTOW3	"Zibon 'PixL' Badi"
 /Sounds/DSALTOW4	"Zibon 'PixL' Badi"
+/Sounds/DSBEDIE2	"Zibon 'PixL' Badi"
+/Sounds/DSBOINGF	"Zibon 'PixL' Badi"
+/Sounds/DSCGOT	"Zibon 'PixL' Badi"
+/Sounds/DSCRUMBL	"Zibon 'PixL' Badi"
+/Sounds/DSDETON "Zibon 'PixL' Badi"
+/Sounds/DSDWNIND	"Zibon 'PixL' Badi"
+/Sounds/DSJUMP	NepDisk
+/Sounds/DSMENU1	"Zibon 'PixL' Badi"
+/Sounds/DSMIXUP	"Zibon 'PixL' Badi"
+/Sounds/DSMONTON	"Zibon 'PixL' Badi"
+/Sounds/DSONEUP	"Zibon 'PixL' Badi"
+/Sounds/DSPOP	"Zibon 'PixL' Badi"
+/Sounds/DSRAIL1	"Zibon 'PixL' Badi"
+/Sounds/DSSKID	"Zibon 'PixL' Badi"
+/Sounds/DSSPLISH	"Zibon 'PixL' Badi"
+/Sounds/DSSPRING2	"Zibon 'PixL' Badi"	(nonstandard)
+/Sounds/SRB2/DSADDERR
+/Sounds/SRB2/DSADDFIL
+/Sounds/SRB2/DSALART
 /Sounds/SRB2/DSAMBIN2
 /Sounds/SRB2/DSAMBINT
 /Sounds/SRB2/DSAMBMAC
@@ -3334,7 +3887,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSBECRSH
 /Sounds/SRB2/DSBEDEEN
 /Sounds/SRB2/DSBEDIE1
-/Sounds/DSBEDIE2	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSBEELEC
 /Sounds/SRB2/DSBEEYOW
 /Sounds/SRB2/DSBEFALL
@@ -3359,7 +3911,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSBKPOOF
 /Sounds/SRB2/DSBNCE1
 /Sounds/SRB2/DSBNCE2
-/Sounds/DSBOINGF	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSBOWL
 /Sounds/SRB2/DSBRAKRL
 /Sounds/SRB2/DSBRAKRX
@@ -3374,14 +3925,11 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSBUZZ3
 /Sounds/SRB2/DSBUZZ4
 /Sounds/SRB2/DSCANNON
-/Sounds/DSCGOT	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSCHCHNG
 /Sounds/SRB2/DSCHUCHU
 /Sounds/SRB2/DSCORKH
 /Sounds/SRB2/DSCORKP
-/Sounds/DSCRUMBL	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSCYBDTH
-/Sounds/DSDETON "Zibon 'PixL' Badi"
 /Sounds/SRB2/DSDING
 /Sounds/SRB2/DSDMPAIN
 /Sounds/SRB2/DSDOORA1
@@ -3393,7 +3941,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSDRILL1
 /Sounds/SRB2/DSDRILL2
 /Sounds/SRB2/DSDROWN
-/Sounds/DSDWNIND	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSELEMSG
 /Sounds/SRB2/DSELEVA1
 /Sounds/SRB2/DSELEVA2
@@ -3417,6 +3964,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSGRIND
 /Sounds/SRB2/DSGSPRAY
 /Sounds/SRB2/DSHIDDEN
+/Sounds/SRB2/DSHLDGUN
 /Sounds/SRB2/DSHOOP1
 /Sounds/SRB2/DSHOOP2
 /Sounds/SRB2/DSHOOP3
@@ -3448,10 +3996,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSMARIO8
 /Sounds/SRB2/DSMARIO9
 /Sounds/SRB2/DSMARIOA
-/Sounds/DSMENU1	"Zibon 'PixL' Badi"
+/Sounds/SRB2/DSMARIOB
+/Sounds/SRB2/DSMARIOC
 /Sounds/SRB2/DSMINDIG
-/Sounds/DSMIXUP	"Zibon 'PixL' Badi"
-/Sounds/DSMONTON	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSMSPOGO
 /Sounds/SRB2/DSMSWARP
 /Sounds/SRB2/DSMSWING
@@ -3467,10 +4014,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSNXBUMP
 /Sounds/SRB2/DSNXDONE
 /Sounds/SRB2/DSNXITEM
-/Sounds/DSONEUP	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSPEWW
 /Sounds/SRB2/DSPOGO
-/Sounds/DSPOP	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSPRLOOP
 /Sounds/SRB2/DSPSCREE
 /Sounds/SRB2/DSPSTART
@@ -3480,7 +4025,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSPUMPKN
 /Sounds/SRB2/DSPUTPUT
 /Sounds/SRB2/DSRADIO
-/Sounds/DSRAIL1	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSRAIL2
 /Sounds/SRB2/DSRAININ
 /Sounds/SRB2/DSRLAUNC
@@ -3495,15 +4039,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSSHLDLS
 /Sounds/SRB2/DSSHRPGO
 /Sounds/SRB2/DSSHRPSP
-/Sounds/DSSKID	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSSPDPAD
 /Sounds/SRB2/DSSPIN	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSSPKDTH
 /Sounds/SRB2/DSSPLASH
-/Sounds/DSSPLISH	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSSPNDSH	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSSPRING	"Zibon 'PixL' Badi"
-/Sounds/DSSPRING2	"Zibon 'PixL' Badi"	(nonstandard)
 /Sounds/SRB2/DSSPRONG
 /Sounds/SRB2/DSSPSMSH
 /Sounds/SRB2/DSSTATU1
@@ -3744,7 +4285,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/Sonic3K/DSS3K83
 /Sounds/Sonic3K/DSS3K84
 /Sounds/Sonic3K/DSS3K85
-/Sounds/retro/DSS3K86 "Zibon 'PixL' Badi"	(based on Man Screaming.wav by Gamufreaku -- https://freesound.org/s/655277/ -- License: Attribution 4.0)
 /Sounds/Sonic3K/DSS3K87
 /Sounds/Sonic3K/DSS3K88
 /Sounds/Sonic3K/DSS3K89
@@ -3767,7 +4307,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/Sonic3K/DSS3K9A
 /Sounds/Sonic3K/DSS3K9B
 /Sounds/Sonic3K/DSS3K9C
-/Sounds/retro/DSS3K9D "Zibon 'PixL' Badi"
 /Sounds/Sonic3K/DSS3K9E
 /Sounds/Sonic3K/DSS3K9F
 /Sounds/Sonic3K/DSS3KA0
@@ -3809,7 +4348,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/Sonic3K/DSS3KB5
 /Sounds/Sonic3K/DSS3KB6
 /Sounds/Sonic3K/DSS3KB7
-/Sounds/retro/DSS3KB8	"Zibon 'PixL' Badi"
 /Sounds/Sonic3K/DSS3KB9
 /Sounds/Sonic3K/DSS3KBA
 /Sounds/Sonic3K/DSS3KBB
@@ -3967,6 +4505,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SonicCD/DSCDPCM7
 /Sounds/SonicCD/DSCDPCM8
 /Sounds/SonicCD/DSCDPCM9
+/Sounds/retro/DSS3K86 "Zibon 'PixL' Badi"	(based on Man Screaming.wav by Gamufreaku -- https://freesound.org/s/655277/ -- License: Attribution 4.0)
+/Sounds/retro/DSS3K9D "Zibon 'PixL' Badi"
+/Sounds/retro/DSS3KB8	"Zibon 'PixL' Badi"
 /Sprites/BFLGA0
 /Sprites/BFLGA0	"Zibon 'PixL' Badi"
 /Sprites/Bosses/Brak Eggman/BGOOA1A5
@@ -4447,13 +4988,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Bosses/Brak Eggman/RCKTB0
 /Sprites/Bosses/Brak Eggman/RCKTC0
 /Sprites/Bosses/Brak Eggman/RCKTD0
-/Sprites/Bosses/KOTU/TARGA0	"Zibon 'PixL' Badi"
-/Sprites/Bosses/KOTU/TARGB0	"Zibon 'PixL' Badi"
-/Sprites/Bosses/KOTU/TARGC0	"Zibon 'PixL' Badi"
-/Sprites/Bosses/KOTU/TARGD0	"Zibon 'PixL' Badi"
-/Sprites/Bosses/KOTU/TARGE0	"Zibon 'PixL' Badi"
-/Sprites/Bosses/KOTU/TARGF0	"Zibon 'PixL' Badi"
-/Sprites/Bosses/KOTU/TARGG0	"Zibon 'PixL' Badi"
 /Sprites/Bosses/Egg Colosseum/EFIRA0
 /Sprites/Bosses/Egg Colosseum/EFIRB0
 /Sprites/Bosses/Egg Colosseum/EGGPA1
@@ -5027,6 +5561,13 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Bosses/Fang/WHATB0
 /Sprites/Bosses/Fang/WHATC0
 /Sprites/Bosses/Fang/WHATD0
+/Sprites/Bosses/KOTU/TARGA0	"Zibon 'PixL' Badi"
+/Sprites/Bosses/KOTU/TARGB0	"Zibon 'PixL' Badi"
+/Sprites/Bosses/KOTU/TARGC0	"Zibon 'PixL' Badi"
+/Sprites/Bosses/KOTU/TARGD0	"Zibon 'PixL' Badi"
+/Sprites/Bosses/KOTU/TARGE0	"Zibon 'PixL' Badi"
+/Sprites/Bosses/KOTU/TARGF0	"Zibon 'PixL' Badi"
+/Sprites/Bosses/KOTU/TARGG0	"Zibon 'PixL' Badi"
 /Sprites/Bosses/Metal Sonic/ENRGA0
 /Sprites/Bosses/Metal Sonic/METLA1
 /Sprites/Bosses/Metal Sonic/METLA2A8
@@ -5227,6 +5768,17 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Bosses/Sea Egg/TORPA3A7
 /Sprites/Bosses/Sea Egg/TORPA4A6
 /Sprites/Bosses/Sea Egg/TORPA5
+/Sprites/Bosses/Ugly Knux/OLDKA1
+/Sprites/Bosses/Ugly Knux/OLDKA2A8
+/Sprites/Bosses/Ugly Knux/OLDKA3A7
+/Sprites/Bosses/Ugly Knux/OLDKA4A6
+/Sprites/Bosses/Ugly Knux/OLDKA5
+/Sprites/Bosses/Ugly Knux/OLDKB1
+/Sprites/Bosses/Ugly Knux/OLDKB2B8
+/Sprites/Bosses/Ugly Knux/OLDKB3B7
+/Sprites/Bosses/Ugly Knux/OLDKB4B6
+/Sprites/Bosses/Ugly Knux/OLDKB5
+/Sprites/Bosses/Ugly Knux/OLDKC0
 /Sprites/Bubbles/BBLSA0
 /Sprites/Bubbles/BBLSB0
 /Sprites/Bubbles/BBLSC0
@@ -5249,6 +5801,26 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Bubbles/DRWNJ0
 /Sprites/Bubbles/DRWNK0
 /Sprites/Bubbles/DRWNL0
+/Sprites/Chakra Flowers/TOKEA0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEB0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEC0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKED0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEE0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEF0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEG0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEH0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEI0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEJ0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEK0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEL0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEM0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEN0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEO0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEP0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKEQ0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKER0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKES0	"Zibon 'PixL' Badi"
+/Sprites/Chakra Flowers/TOKET0	"Zibon 'PixL' Badi"
 /Sprites/Debris/BRIBA0Q0
 /Sprites/Debris/BRIBB0R0
 /Sprites/Debris/BRIBC0S0
@@ -5425,26 +5997,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Emblems/EMBMX0	"Zibon 'PixL' Badi"
 /Sprites/Emblems/EMBMY0	"Zibon 'PixL' Badi"
 /Sprites/Emblems/EMBMZ0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEA0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEB0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEC0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKED0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEE0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEF0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEG0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEH0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEI0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEJ0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEK0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEL0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEM0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEN0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEO0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEP0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKEQ0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKER0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKES0	"Zibon 'PixL' Badi"
-/Sprites/Chakra Flowers/TOKET0	"Zibon 'PixL' Badi"
 /Sprites/Emeralds/*	"Zibon 'PixL' Badi"
 /Sprites/Emeralds/CEMGA0
 /Sprites/Emeralds/CEMGB0
@@ -5559,6 +6111,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Banpyura/CSPRE6
 /Sprites/Enemies/Banpyura/CSPRE7
 /Sprites/Enemies/Banpyura/CSPRE8
+/Sprites/Enemies/Bath Bomber/MINEA0	"Zibon 'PixL' Badi"
+/Sprites/Enemies/Bath Bomber/SKIMA1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/Bath Bomber/SKIMA2A8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/Bath Bomber/SKIMA3A7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/Bath Bomber/SKIMA4A6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/Bath Bomber/SKIMA5	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Big Mine/BMNBA0
 /Sprites/Enemies/Big Mine/BMNBB0
 /Sprites/Enemies/Big Mine/BMNBC0
@@ -5919,6 +6477,14 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Crawla/SPOSF3F7
 /Sprites/Enemies/Crawla/SPOSF4F6
 /Sprites/Enemies/Crawla/SPOSF5
+/Sprites/Enemies/CrazyStar/DETNA0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/CrazyStar/DETNB0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/CrazyStar/DETNC0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/CrazyStar/DETND0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/CrazyStar/DETNE0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/CrazyStar/DETNF0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/CrazyStar/DETNG0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/CrazyStar/DETNH0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 /Sprites/Enemies/Crushstacean/CRABA0
 /Sprites/Enemies/Crushstacean/CRABB0
 /Sprites/Enemies/Crushstacean/CRABC0
@@ -5928,14 +6494,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Crushstacean/CRABD4D6
 /Sprites/Enemies/Crushstacean/CRABD5
 /Sprites/Enemies/Crushstacean/CRABE0
-/Sprites/Enemies/CrazyStar/DETNA0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
-/Sprites/Enemies/CrazyStar/DETNB0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
-/Sprites/Enemies/CrazyStar/DETNC0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
-/Sprites/Enemies/CrazyStar/DETND0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
-/Sprites/Enemies/CrazyStar/DETNE0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
-/Sprites/Enemies/CrazyStar/DETNF0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
-/Sprites/Enemies/CrazyStar/DETNG0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
-/Sprites/Enemies/CrazyStar/DETNH0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 /Sprites/Enemies/Dragonbomber/DRABA1
 /Sprites/Enemies/Dragonbomber/DRABA2A8
 /Sprites/Enemies/Dragonbomber/DRABA3A7
@@ -6144,7 +6702,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Jettysyns/JETGD3D7
 /Sprites/Enemies/Jettysyns/JETGD4D6
 /Sprites/Enemies/Jettysyns/JETGD5
-/Sprites/Enemies/Bath Bomber/MINEA0	"Zibon 'PixL' Badi"
 /Sprites/Enemies/MINEB0
 /Sprites/Enemies/MINEC0
 /Sprites/Enemies/MINED0
@@ -6340,11 +6897,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Robo Hood/Arrow/AROWG4G6
 /Sprites/Enemies/Robo Hood/Arrow/AROWG5
 /Sprites/Enemies/Robo Hood/Arrow/AROWH0
-/Sprites/Enemies/Bath Bomber/SKIMA1	"Zibon 'PixL' Badi"
-/Sprites/Enemies/Bath Bomber/SKIMA2A8	"Zibon 'PixL' Badi"
-/Sprites/Enemies/Bath Bomber/SKIMA3A7	"Zibon 'PixL' Badi"
-/Sprites/Enemies/Bath Bomber/SKIMA4A6	"Zibon 'PixL' Badi"
-/Sprites/Enemies/Bath Bomber/SKIMA5	"Zibon 'PixL' Badi"
 /Sprites/Enemies/SNLRA1
 /Sprites/Enemies/SNLRA2A8
 /Sprites/Enemies/SNLRA3A7
@@ -6505,12 +7057,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Unidus/UNIDB2B8
 /Sprites/Enemies/Unidus/UNIDB3B7
 /Sprites/Enemies/Unidus/UNIDB4B6
-/Sprites/Particles/BOM1A0	"Zibon 'PixL' Badi"
-/Sprites/Particles/BOM1B0	"Zibon 'PixL' Badi"
-/Sprites/Particles/BOM1C0	"Zibon 'PixL' Badi"
-/Sprites/Particles/BOM1D0	"Zibon 'PixL' Badi"
-/Sprites/Particles/BOM1E0	"Zibon 'PixL' Badi"
-/Sprites/Particles/BOM1F0	"Zibon 'PixL' Badi"
 /Sprites/Explosions/BOM2A0
 /Sprites/Explosions/BOM2B0
 /Sprites/Explosions/BOM2C0
@@ -6734,10 +7280,26 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Flickies/Halloween/FS01D3D7
 /Sprites/Flickies/Halloween/FS01D4D6
 /Sprites/Flickies/Halloween/FS01D5
-/Sprites/Flickies/Halloween/FS02A0
-/Sprites/Flickies/Halloween/FS02B0
-/Sprites/Flickies/Halloween/FS02C0
-/Sprites/Flickies/Halloween/FS02D0
+/Sprites/Flickies/Halloween/FS02A1
+/Sprites/Flickies/Halloween/FS02A2A8
+/Sprites/Flickies/Halloween/FS02A3A7
+/Sprites/Flickies/Halloween/FS02A4A6
+/Sprites/Flickies/Halloween/FS02A5
+/Sprites/Flickies/Halloween/FS02B1
+/Sprites/Flickies/Halloween/FS02B2B8
+/Sprites/Flickies/Halloween/FS02B3B7
+/Sprites/Flickies/Halloween/FS02B4B6
+/Sprites/Flickies/Halloween/FS02B5
+/Sprites/Flickies/Halloween/FS02C1
+/Sprites/Flickies/Halloween/FS02C2C8
+/Sprites/Flickies/Halloween/FS02C3C7
+/Sprites/Flickies/Halloween/FS02C4C6
+/Sprites/Flickies/Halloween/FS02C5
+/Sprites/Flickies/Halloween/FS02D1
+/Sprites/Flickies/Halloween/FS02D2D8
+/Sprites/Flickies/Halloween/FS02D3D7
+/Sprites/Flickies/Halloween/FS02D4D6
+/Sprites/Flickies/Halloween/FS02D5
 /Sprites/Flickies/Penguin/FL07A1
 /Sprites/Flickies/Penguin/FL07A2A8
 /Sprites/Flickies/Penguin/FL07A3A7
@@ -6910,6 +7472,126 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Flight Indicator/FLIIC0
 /Sprites/Flight Indicator/FLIID0
 /Sprites/Flight Indicator/FLIIE0
+/Sprites/Gems/RINGA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGB0X0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGC0W0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGD0V0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGE0U0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGF0T0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGG0S0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGH0R0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGI0Q0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGJ0P0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGK0O0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGL0N0	"Zibon 'PixL' Badi"
+/Sprites/Gems/RINGM0	"Zibon 'PixL' Badi"
+/Sprites/Gems/SPRKA0J0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/SPRKB0K0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/SPRKC0L0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/SPRKD0M0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/SPRKE0N0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/SPRKF0O0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/SPRKG0P0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/SPRKH0Q0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/SPRKI0R0	"Zibon 'PixL' Badi"	(offset 16x30)
+/Sprites/Gems/Spells/Bounce/PIKBA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBB0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBC0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBD0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBE0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBF0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBG0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBH0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBI0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBJ0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBK0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBL0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBM0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBN0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBO0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Bounce/PIKBP0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEB0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEC0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKED0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEE0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEF0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEG0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEH0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEI0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEJ0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEK0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEL0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEM0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEN0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEO0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Explosion/PIKEP0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGB0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGC0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGD0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGE0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGF0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGG0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGH0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGI0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGJ0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGK0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGL0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGM0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGN0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGO0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/PIKGP0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIB0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIC0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKID0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIE0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIF0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIG0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIH0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKII0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIJ0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIK0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIL0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIM0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIN0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIO0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Infinite/PIKIP0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRB0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRC0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRD0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRE0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRF0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRG0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRH0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRI0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRJ0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRK0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRL0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRM0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRN0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRO0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Rail/PIKRP0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/RRNGA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/RRNGB0H0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/RRNGC0G0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/RRNGD0F0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/RRNGE0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGB0X0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGC0W0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGD0V0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGE0U0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGF0T0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGG0S0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGH0R0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGI0Q0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGJ0P0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGK0O0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGL0N0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Team Gem/TRNGM0	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Dust Devil/TAZDAL
 /Sprites/Hazards/Dust Devil/TAZDAR
 /Sprites/Hazards/Dust Devil/TAZDBL
@@ -7030,12 +7712,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Hazards/SPIKF0
 /Sprites/Hazards/SPIKG0
 /Sprites/Hazards/SPIKH0
-/Sprites/Spikes/USPKA0	"Zibon 'PixL' Badi"
-/Sprites/Spikes/USPKB0	"Zibon 'PixL' Badi"
-/Sprites/Spikes/USPKC0	"Zibon 'PixL' Badi"
-/Sprites/Spikes/USPKD0	"Zibon 'PixL' Badi"
-/Sprites/Spikes/USPKELER	"Zibon 'PixL' Badi"
-/Sprites/Spikes/USPKFLFR	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Spikes/WSPBA0	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Spikes/WSPBB0	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Spikes/WSPBC0	"Zibon 'PixL' Badi"
@@ -7076,14 +7752,67 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Hazards/TNT/EFUSA0
 /Sprites/Hazards/TNT/REMTA0
 /Sprites/Hazards/TNT/REMTB0
+/Sprites/Itemboxes/Signs/TV1PC0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Signs/TV1PD0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Signs/TV1PE0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Signs/TV1PF0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Signs/TV1UC0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Signs/TV1UD0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Signs/TV1UE0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Signs/TV1UF0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TV1KA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TV1KB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TV1PA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TV1PB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TV1UA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TV1UB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVARA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVARB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVATA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVATB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVBBA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVBBB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVEGA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVEGB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVELA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVELB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVFLA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVFLB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVFOA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVFOB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVGVA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVGVB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVIVA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVIVB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVMYA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVMYB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVPIA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVPIB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVRCA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVRCB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVRIA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVRIB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVSSA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVSSB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVTKA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVTKB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVWWA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/TVWWB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Teleport/TVMXA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Teleport/TVMXB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Thunder/TVZPA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Thunder/TVZPB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Tutorial/TVTUA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/Tutorial/TVTUB0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/XLTVA0	"Zibon 'PixL' Badi"
+/Sprites/Itemboxes/XLTVB0	"Zibon 'PixL' Badi"
 /Sprites/LETRAL
 /Sprites/LETRAR
 /Sprites/MKB/BFLMA0
 /Sprites/MKB/BFLMB0
 /Sprites/MKB/BFLMC0
-/Sprites/MKB/BGOMA0
-/Sprites/MKB/BGOMB0
-/Sprites/MKB/BGOMC0
 /Sprites/MKB/COINA0
 /Sprites/MKB/COINB0
 /Sprites/MKB/COINC0
@@ -7091,15 +7820,157 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/MKB/CPRKB0
 /Sprites/MKB/CPRKC0
 /Sprites/MKB/CPRKD0
+/Sprites/MKB/Coins/COIND0
+/Sprites/MKB/Coins/COINE0
+/Sprites/MKB/Coins/COINF0
+/Sprites/MKB/Coins/COING0
+/Sprites/MKB/Coins/COINH0
+/Sprites/MKB/Coins/COINI0
+/Sprites/MKB/Coins/COINJ0
+/Sprites/MKB/Coins/COINK0
+/Sprites/MKB/Coins/COINL0
+/Sprites/MKB/Coins/COINM0
+/Sprites/MKB/Coins/COINN0
+/Sprites/MKB/Coins/COINO0
+/Sprites/MKB/Coins/COINP0
+/Sprites/MKB/Coins/CPRKE0
+/Sprites/MKB/Coins/CPRKF0
+/Sprites/MKB/Coins/CPRKG0
+/Sprites/MKB/Coins/CPRKH0
+/Sprites/MKB/Coins/CPRKI0
+/Sprites/MKB/Coins/CPRKJ0
+/Sprites/MKB/Coins/CPRKK0
+/Sprites/MKB/Coins/CPRKL0
+/Sprites/MKB/Coins/CPRKM0
+/Sprites/MKB/Debris/MBRBA0
+/Sprites/MKB/Debris/MBRBB0
+/Sprites/MKB/Debris/MBRBC0
+/Sprites/MKB/Debris/MBRBD0
+/Sprites/MKB/Debris/MBRBE0
+/Sprites/MKB/Debris/MBRBF0
+/Sprites/MKB/Debris/MBRBG0
+/Sprites/MKB/Debris/MBRBH0
+/Sprites/MKB/Debris/MBRBI0
+/Sprites/MKB/Debris/MBRBJ0
+/Sprites/MKB/Debris/MBRCA0
+/Sprites/MKB/Debris/MBRCB0
+/Sprites/MKB/Debris/MBRCC0
+/Sprites/MKB/Debris/MBRCD0
+/Sprites/MKB/Debris/MBRCE0
+/Sprites/MKB/Debris/MBRCF0
+/Sprites/MKB/Debris/MBRCG0
+/Sprites/MKB/Debris/MBRCH0
+/Sprites/MKB/Debris/MBRCI0
+/Sprites/MKB/Debris/MBRCJ0
+/Sprites/MKB/Debris/MBRIA0
+/Sprites/MKB/Debris/MBRIB0
+/Sprites/MKB/Debris/MBRIC0
+/Sprites/MKB/Debris/MBRID0
+/Sprites/MKB/Debris/MBRIE0
+/Sprites/MKB/Debris/MBRIF0
+/Sprites/MKB/Debris/MBRIG0
+/Sprites/MKB/Debris/MBRIH0
+/Sprites/MKB/Debris/MBRII0
+/Sprites/MKB/Debris/MBRIJ0
+/Sprites/MKB/Debris/MBRSA0
+/Sprites/MKB/Debris/MBRSB0
+/Sprites/MKB/Debris/MBRSC0
+/Sprites/MKB/Debris/MBRSD0
+/Sprites/MKB/Debris/MBRSE0
+/Sprites/MKB/Debris/MBRSF0
+/Sprites/MKB/Debris/MBRSG0
+/Sprites/MKB/Debris/MBRSH0
+/Sprites/MKB/Debris/MBRSI0
+/Sprites/MKB/Debris/MBRSJ0
+/Sprites/MKB/Debris/MTRIA0
+/Sprites/MKB/Debris/MTRIB0
+/Sprites/MKB/Debris/MTRIC0
+/Sprites/MKB/Debris/MTRID0
+/Sprites/MKB/Enemies/FLMED1
+/Sprites/MKB/Enemies/FLMED2D8
+/Sprites/MKB/Enemies/FLMED3D7
+/Sprites/MKB/Enemies/FLMED4D6
+/Sprites/MKB/Enemies/FLMED5
+/Sprites/MKB/Enemies/FLMEE1
+/Sprites/MKB/Enemies/FLMEE2E8
+/Sprites/MKB/Enemies/FLMEE3E7
+/Sprites/MKB/Enemies/FLMEE4E6
+/Sprites/MKB/Enemies/FLMEE5
+/Sprites/MKB/Enemies/FLMEF1
+/Sprites/MKB/Enemies/FLMEF2F8
+/Sprites/MKB/Enemies/FLMEF3F7
+/Sprites/MKB/Enemies/FLMEF4F6
+/Sprites/MKB/Enemies/FLMEF5
+/Sprites/MKB/Enemies/Goombas/GOOMA1
+/Sprites/MKB/Enemies/Goombas/GOOMA2A8
+/Sprites/MKB/Enemies/Goombas/GOOMA3A7
+/Sprites/MKB/Enemies/Goombas/GOOMA4A6
+/Sprites/MKB/Enemies/Goombas/GOOMA5
+/Sprites/MKB/Enemies/Goombas/GOOMB1
+/Sprites/MKB/Enemies/Goombas/GOOMB2B8
+/Sprites/MKB/Enemies/Goombas/GOOMB3B7
+/Sprites/MKB/Enemies/Goombas/GOOMB4B6
+/Sprites/MKB/Enemies/Goombas/GOOMB5
+/Sprites/MKB/Enemies/Goombas/GOOMC1
+/Sprites/MKB/Enemies/Goombas/GOOMC2C8
+/Sprites/MKB/Enemies/Goombas/GOOMC3C7
+/Sprites/MKB/Enemies/Goombas/GOOMC4C6
+/Sprites/MKB/Enemies/Goombas/GOOMC5
+/Sprites/MKB/Enemies/Goombas/GOOMD1
+/Sprites/MKB/Enemies/Goombas/GOOMD2D8
+/Sprites/MKB/Enemies/Goombas/GOOMD3D7
+/Sprites/MKB/Enemies/Goombas/GOOMD4D6
+/Sprites/MKB/Enemies/Goombas/GOOMD5
+/Sprites/MKB/Enemies/Goombas/GOOME0
+/Sprites/MKB/Enemies/Goombas/GOOMF0
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMA1
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMA2A8
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMA3A7
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMA4A6
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMA5
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMB1
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMB2B8
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMB3B7
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMB4B6
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMB5
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMC1
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMC2C8
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMC3C7
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMC4C6
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMC5
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMD1
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMD2D8
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMD3D7
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMD4D6
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMD5
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOME0
+/Sprites/MKB/Enemies/Goombas/Underground Variant/BGOMF0
+/Sprites/MKB/Enemies/Koopas/MKOPA1
+/Sprites/MKB/Enemies/Koopas/MKOPA2A8
+/Sprites/MKB/Enemies/Koopas/MKOPA3A7
+/Sprites/MKB/Enemies/Koopas/MKOPA4A6
+/Sprites/MKB/Enemies/Koopas/MKOPA5
+/Sprites/MKB/Enemies/Koopas/MKOPB1
+/Sprites/MKB/Enemies/Koopas/MKOPB2B8
+/Sprites/MKB/Enemies/Koopas/MKOPB3B7
+/Sprites/MKB/Enemies/Koopas/MKOPB4B6
+/Sprites/MKB/Enemies/Koopas/MKOPB5
+/Sprites/MKB/Enemies/Koopas/MKOPC1
+/Sprites/MKB/Enemies/Koopas/MKOPC2C8
+/Sprites/MKB/Enemies/Koopas/MKOPC3C7
+/Sprites/MKB/Enemies/Koopas/MKOPC4C6
+/Sprites/MKB/Enemies/Koopas/MKOPC5
+/Sprites/MKB/Enemies/Koopas/MKOPD1
+/Sprites/MKB/Enemies/Koopas/MKOPD2D8
+/Sprites/MKB/Enemies/Koopas/MKOPD3D7
+/Sprites/MKB/Enemies/Koopas/MKOPD4D6
+/Sprites/MKB/Enemies/Koopas/MKOPD5
 /Sprites/MKB/FBLLA0
 /Sprites/MKB/FBLLB0
 /Sprites/MKB/FFWRA0
 /Sprites/MKB/FFWRB0
 /Sprites/MKB/FFWRC0
 /Sprites/MKB/FFWRD0
-/Sprites/MKB/GOOMA0
-/Sprites/MKB/GOOMB0
-/Sprites/MKB/GOOMC0
 /Sprites/MKB/HAMMA0
 /Sprites/MKB/HAMMB0
 /Sprites/MKB/HAMMC0
@@ -7120,11 +7991,253 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/MKB/PUMAG0
 /Sprites/MKB/PUMAH0
 /Sprites/MKB/PUMAI0
+/Sprites/MKB/Particles/BEEMA0
+/Sprites/MKB/Particles/PFUFA0
+/Sprites/MKB/Particles/PFUFB0
+/Sprites/MKB/Particles/PFUFC0
+/Sprites/MKB/Particles/PFUFD0
+/Sprites/MKB/Particles/PFUYA0
+/Sprites/MKB/Particles/PFUYB0
+/Sprites/MKB/Particles/PFUYC0
+/Sprites/MKB/Particles/PFUYD0
+/Sprites/MKB/Particles/UPPBA0
+/Sprites/MKB/Particles/UPPBB0
+/Sprites/MKB/Particles/UPPBC0
+/Sprites/MKB/Particles/UPPBD0
+/Sprites/MKB/Particles/UPPBE0
+/Sprites/MKB/Particles/UPPBF0
+/Sprites/MKB/Particles/UPPBG0
+/Sprites/MKB/Particles/UPPBH0
+/Sprites/MKB/Particles/UPPBI0
+/Sprites/MKB/Particles/UPPBJ0
+/Sprites/MKB/Particles/UPPBK0
+/Sprites/MKB/Particles/UPPBL0
+/Sprites/MKB/Particles/UPPBM0
+/Sprites/MKB/Particles/UPPBN0
+/Sprites/MKB/Particles/UPPBO0
+/Sprites/MKB/Particles/UPPBP0
+/Sprites/MKB/Particles/UPPBQ0
+/Sprites/MKB/Particles/UPPBR0
+/Sprites/MKB/Particles/UPPBS0
+/Sprites/MKB/Particles/UPPBT0
+/Sprites/MKB/Pickup Items/GSHPA0
+/Sprites/MKB/Pickup Items/IFWRA0
+/Sprites/MKB/Pickup Items/MEGHA0
+/Sprites/MKB/Pickup Items/MS1PA0
+/Sprites/MKB/Pickup Items/MSARA0
+/Sprites/MKB/Pickup Items/MSATA0
+/Sprites/MKB/Pickup Items/MSELA0
+/Sprites/MKB/Pickup Items/MSFLA0
+/Sprites/MKB/Pickup Items/MSFOA0
+/Sprites/MKB/Pickup Items/MSIVA0
+/Sprites/MKB/Pickup Items/MSIVAB
+/Sprites/MKB/Pickup Items/MSSPA0
+/Sprites/MKB/Pickup Items/MSTSA0
+/Sprites/MKB/Pickup Items/MSWAA0
+/Sprites/MKB/Pickup Items/MSWWA0
+/Sprites/MKB/Pickup Items/RSAMA0
+/Sprites/MKB/Pickup Items/RSPIA0
 /Sprites/MKB/SHLLA1
 /Sprites/MKB/SHLLA2A8
 /Sprites/MKB/SHLLA3A7
 /Sprites/MKB/SHLLA4A6
 /Sprites/MKB/SHLLA5
+/Sprites/MKB/Scenery/CHANB0
+/Sprites/MKB/Scenery/MARSA0
+/Sprites/MKB/Scenery/MAUHAL
+/Sprites/MKB/Scenery/MAUHAR
+/Sprites/MKB/Scenery/MBSAA0
+/Sprites/MKB/Scenery/MBSBA0
+/Sprites/MKB/Scenery/MBSCA0
+/Sprites/MKB/Scenery/MFBEA0
+/Sprites/MKB/Scenery/MFBEB0
+/Sprites/MKB/Scenery/MFBEC0
+/Sprites/MKB/Scenery/MFBED0
+/Sprites/MKB/Scenery/MFREA0
+/Sprites/MKB/Scenery/MFREB0
+/Sprites/MKB/Scenery/MFREC0
+/Sprites/MKB/Scenery/MFRED0
+/Sprites/MKB/Scenery/MFWDA0
+/Sprites/MKB/Scenery/MFWDB0
+/Sprites/MKB/Scenery/MFWDC0
+/Sprites/MKB/Scenery/MFWDD0
+/Sprites/MKB/Scenery/MFYEA0
+/Sprites/MKB/Scenery/MFYEB0
+/Sprites/MKB/Scenery/MFYEC0
+/Sprites/MKB/Scenery/MFYED0
+/Sprites/MKB/Scenery/MRFLA0
+/Sprites/MKB/Scenery/MRFLB0
+/Sprites/MKB/Scenery/MRFLC0
+/Sprites/MKB/Scenery/MRFLD0
+/Sprites/MKB/Scenery/MRFLE0
+/Sprites/MKB/Scenery/MUS3A0
+/Sprites/MKB/Scenery/TOADB0
+/Sprites/MKB/Scenery/TOADC0
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBA1
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBA2A8
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBA3A7
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBA4A6
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBA5
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBB1
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBB2B8
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBB3B7
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBB4B6
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBB5
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBC1
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBC2C8
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBC3C7
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBC4C6
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBC5
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBD1
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBD2D8
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBD3D7
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBD4D6
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBD5
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBE1
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBE2E8
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBE3E7
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBE4E6
+/Sprites/MKB/Springs/Dialognal/Blue/MDIBE5
+/Sprites/MKB/Springs/Dialognal/Red/MDIRA1
+/Sprites/MKB/Springs/Dialognal/Red/MDIRA2A8
+/Sprites/MKB/Springs/Dialognal/Red/MDIRA3A7
+/Sprites/MKB/Springs/Dialognal/Red/MDIRA4A6
+/Sprites/MKB/Springs/Dialognal/Red/MDIRA5
+/Sprites/MKB/Springs/Dialognal/Red/MDIRB1
+/Sprites/MKB/Springs/Dialognal/Red/MDIRB2B8
+/Sprites/MKB/Springs/Dialognal/Red/MDIRB3B7
+/Sprites/MKB/Springs/Dialognal/Red/MDIRB4B6
+/Sprites/MKB/Springs/Dialognal/Red/MDIRB5
+/Sprites/MKB/Springs/Dialognal/Red/MDIRC1
+/Sprites/MKB/Springs/Dialognal/Red/MDIRC2C8
+/Sprites/MKB/Springs/Dialognal/Red/MDIRC3C7
+/Sprites/MKB/Springs/Dialognal/Red/MDIRC4C6
+/Sprites/MKB/Springs/Dialognal/Red/MDIRC5
+/Sprites/MKB/Springs/Dialognal/Red/MDIRD1
+/Sprites/MKB/Springs/Dialognal/Red/MDIRD2D8
+/Sprites/MKB/Springs/Dialognal/Red/MDIRD3D7
+/Sprites/MKB/Springs/Dialognal/Red/MDIRD4D6
+/Sprites/MKB/Springs/Dialognal/Red/MDIRD5
+/Sprites/MKB/Springs/Dialognal/Red/MDIRE1
+/Sprites/MKB/Springs/Dialognal/Red/MDIRE2E8
+/Sprites/MKB/Springs/Dialognal/Red/MDIRE3E7
+/Sprites/MKB/Springs/Dialognal/Red/MDIRE4E6
+/Sprites/MKB/Springs/Dialognal/Red/MDIRE5
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYA1
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYA2A8
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYA3A7
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYA4A6
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYA5
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYB1
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYB2B8
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYB3B7
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYB4B6
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYB5
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYC1
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYC2C8
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYC3C7
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYC4C6
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYC5
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYD1
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYD2D8
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYD3D7
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYD4D6
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYD5
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYE1
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYE2E8
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYE3E7
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYE4E6
+/Sprites/MKB/Springs/Dialognal/Yellow/MDIYE5
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBA1
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBA2A8
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBA3A7
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBA4A6
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBA5
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBB1
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBB2B8
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBB3B7
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBB4B6
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBB5
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBC1
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBC2C8
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBC3C7
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBC4C6
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBC5
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBD1
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBD2D8
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBD3D7
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBD4D6
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBD5
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBE1
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBE2E8
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBE3E7
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBE4E6
+/Sprites/MKB/Springs/Horizontal/Blue/MSWBE5
+/Sprites/MKB/Springs/Horizontal/Red/MSWRA1
+/Sprites/MKB/Springs/Horizontal/Red/MSWRA2A8
+/Sprites/MKB/Springs/Horizontal/Red/MSWRA3A7
+/Sprites/MKB/Springs/Horizontal/Red/MSWRA4A6
+/Sprites/MKB/Springs/Horizontal/Red/MSWRA5
+/Sprites/MKB/Springs/Horizontal/Red/MSWRB1
+/Sprites/MKB/Springs/Horizontal/Red/MSWRB2B8
+/Sprites/MKB/Springs/Horizontal/Red/MSWRB3B7
+/Sprites/MKB/Springs/Horizontal/Red/MSWRB4B6
+/Sprites/MKB/Springs/Horizontal/Red/MSWRB5
+/Sprites/MKB/Springs/Horizontal/Red/MSWRC1
+/Sprites/MKB/Springs/Horizontal/Red/MSWRC2C8
+/Sprites/MKB/Springs/Horizontal/Red/MSWRC3C7
+/Sprites/MKB/Springs/Horizontal/Red/MSWRC4C6
+/Sprites/MKB/Springs/Horizontal/Red/MSWRC5
+/Sprites/MKB/Springs/Horizontal/Red/MSWRD1
+/Sprites/MKB/Springs/Horizontal/Red/MSWRD2D8
+/Sprites/MKB/Springs/Horizontal/Red/MSWRD3D7
+/Sprites/MKB/Springs/Horizontal/Red/MSWRD4D6
+/Sprites/MKB/Springs/Horizontal/Red/MSWRD5
+/Sprites/MKB/Springs/Horizontal/Red/MSWRE1
+/Sprites/MKB/Springs/Horizontal/Red/MSWRE2E8
+/Sprites/MKB/Springs/Horizontal/Red/MSWRE3E7
+/Sprites/MKB/Springs/Horizontal/Red/MSWRE4E6
+/Sprites/MKB/Springs/Horizontal/Red/MSWRE5
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYA1
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYA2A8
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYA3A7
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYA4A6
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYA5
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYB1
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYB2B8
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYB3B7
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYB4B6
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYB5
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYC1
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYC2C8
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYC3C7
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYC4C6
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYC5
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYD1
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYD2D8
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYD3D7
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYD4D6
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYD5
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYE1
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYE2E8
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYE3E7
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYE4E6
+/Sprites/MKB/Springs/Horizontal/Yellow/MSWYE5
+/Sprites/MKB/Springs/Vertical/MPRBA0
+/Sprites/MKB/Springs/Vertical/MPRBB0
+/Sprites/MKB/Springs/Vertical/MPRBC0
+/Sprites/MKB/Springs/Vertical/MPRBD0
+/Sprites/MKB/Springs/Vertical/MPRBE0
+/Sprites/MKB/Springs/Vertical/MPRRA0
+/Sprites/MKB/Springs/Vertical/MPRRB0
+/Sprites/MKB/Springs/Vertical/MPRRC0
+/Sprites/MKB/Springs/Vertical/MPRRD0
+/Sprites/MKB/Springs/Vertical/MPRRE0
+/Sprites/MKB/Springs/Vertical/MPRYA0
+/Sprites/MKB/Springs/Vertical/MPRYB0
+/Sprites/MKB/Springs/Vertical/MPRYC0
+/Sprites/MKB/Springs/Vertical/MPRYD0
+/Sprites/MKB/Springs/Vertical/MPRYE0
 /Sprites/MKB/TOADA0
 /Sprites/Minecart/MCRTAL
 /Sprites/Minecart/MCRTAR
@@ -7141,112 +8254,66 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Minecart/MCSPA0
 /Sprites/Minecart/NON2A0
 /Sprites/Minecart/SALDARAL
-/Sprites/Itemboxes/TVARA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVARB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Armageddon/TVARC0
 /Sprites/Monitors/Armageddon/TVARD0
 /Sprites/Monitors/Armageddon/TVARE0
 /Sprites/Monitors/Armageddon/TVARF0
-/Sprites/Itemboxes/TVATA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVATB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Attraction/TVATC0
 /Sprites/Monitors/Attraction/TVATD0
 /Sprites/Monitors/Attraction/TVATE0
 /Sprites/Monitors/Attraction/TVATF0
-/Sprites/Itemboxes/TVBBA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVBBB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Bubble/TVBBC0
 /Sprites/Monitors/Bubble/TVBBD0
 /Sprites/Monitors/Bubble/TVBBE0
 /Sprites/Monitors/Bubble/TVBBF0
-/Sprites/Itemboxes/TVEGA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVEGB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Eggman/TVEGC0
 /Sprites/Monitors/Eggman/TVEGD0
 /Sprites/Monitors/Eggman/TVEGE0
 /Sprites/Monitors/Eggman/TVEGF0
-/Sprites/Itemboxes/TVELA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVELB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Elemental/TVELC0
 /Sprites/Monitors/Elemental/TVELD0
 /Sprites/Monitors/Elemental/TVELE0
 /Sprites/Monitors/Elemental/TVELF0
-/Sprites/Itemboxes/TVFLA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVFLB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Flame/TVFLC0
 /Sprites/Monitors/Flame/TVFLD0
 /Sprites/Monitors/Flame/TVFLE0
 /Sprites/Monitors/Flame/TVFLF0
-/Sprites/Itemboxes/TVFOA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVFOB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Force/TVFOC0
 /Sprites/Monitors/Force/TVFOD0
 /Sprites/Monitors/Force/TVFOE0
 /Sprites/Monitors/Force/TVFOF0
-/Sprites/Itemboxes/TVGVA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVGVB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Gravity Boots/TVGVC0
 /Sprites/Monitors/Gravity Boots/TVGVD0
 /Sprites/Monitors/Gravity Boots/TVGVE0
 /Sprites/Monitors/Gravity Boots/TVGVF0
-/Sprites/Itemboxes/TVIVA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVIVB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Invincibility/TVIVC0
 /Sprites/Monitors/Invincibility/TVIVD0
 /Sprites/Monitors/Invincibility/TVIVE0
 /Sprites/Monitors/Invincibility/TVIVF0
-/Sprites/Itemboxes/TVA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVB0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVMYA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVMYB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Mystery/TVMYC0
 /Sprites/Monitors/Mystery/TVMYD0
 /Sprites/Monitors/Mystery/TVMYE0
 /Sprites/Monitors/Mystery/TVMYF0
-/Sprites/Itemboxes/TV1PA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TV1PB0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Signs/TV1PC0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Signs/TV1PD0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Signs/TV1PE0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Signs/TV1PF0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TV1UA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TV1UB0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Signs/TV1UC0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Signs/TV1UD0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Signs/TV1UE0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Signs/TV1UF0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVPIA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVPIB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Pity/TVPIC0
 /Sprites/Monitors/Pity/TVPID0
 /Sprites/Monitors/Pity/TVPIE0
 /Sprites/Monitors/Pity/TVPIF0
-/Sprites/Itemboxes/TVRCA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVRCB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Recycler/TVRCC0
 /Sprites/Monitors/Recycler/TVRCD0
 /Sprites/Monitors/Recycler/TVRCE0
 /Sprites/Monitors/Recycler/TVRCF0
-/Sprites/Itemboxes/TV1KA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TV1KB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Score/TV1KC0
 /Sprites/Monitors/Score/TV1KD0
 /Sprites/Monitors/Score/TV1KE0
 /Sprites/Monitors/Score/TV1KF0
-/Sprites/Itemboxes/TVTKA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVTKB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Score/TVTKC0
 /Sprites/Monitors/Score/TVTKD0
 /Sprites/Monitors/Score/TVTKE0
 /Sprites/Monitors/Score/TVTKF0
-/Sprites/Itemboxes/TVRIA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVRIB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Super Ring/TVRIC0
 /Sprites/Monitors/Super Ring/TVRID0
 /Sprites/Monitors/Super Ring/TVRIE0
 /Sprites/Monitors/Super Ring/TVRIF0
-/Sprites/Itemboxes/TVSSA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVSSB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Super Sneakers/TVSSC0
 /Sprites/Monitors/Super Sneakers/TVSSD0
 /Sprites/Monitors/Super Sneakers/TVSSE0
@@ -7257,32 +8324,22 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Team/TRRIA0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Team/TRRIB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Team/TRRIC0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Teleport/TVMXA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Teleport/TVMXB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Teleport/TVMXC0
 /Sprites/Monitors/Teleport/TVMXD0
 /Sprites/Monitors/Teleport/TVMXE0
 /Sprites/Monitors/Teleport/TVMXF0
-/Sprites/Itemboxes/Thunder/TVZPA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Thunder/TVZPB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Thunder/TVZPC0
 /Sprites/Monitors/Thunder/TVZPD0
 /Sprites/Monitors/Thunder/TVZPE0
 /Sprites/Monitors/Thunder/TVZPF0
-/Sprites/Itemboxes/Tutorial/TVTUA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/Tutorial/TVTUB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Tutorial/TVTUC0
 /Sprites/Monitors/Tutorial/TVTUD0
 /Sprites/Monitors/Tutorial/TVTUE0
 /Sprites/Monitors/Tutorial/TVTUF0
-/Sprites/Itemboxes/TVWWA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/TVWWB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/Whirlwind/TVWWC0
 /Sprites/Monitors/Whirlwind/TVWWD0
 /Sprites/Monitors/Whirlwind/TVWWE0
 /Sprites/Monitors/Whirlwind/TVWWF0
-/Sprites/Itemboxes/XLTVA0	"Zibon 'PixL' Badi"
-/Sprites/Itemboxes/XLTVB0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/XLTVC0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/XLTVD0	"Zibon 'PixL' Badi"
 /Sprites/Monitors/XLTVE0	"Zibon 'PixL' Badi"
@@ -7481,6 +8538,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/NiGHTs/Score/NSCRR0
 /Sprites/NiGHTs/Score/NSCRS0
 /Sprites/NiGHTs/Score/NSCRT0
+/Sprites/OFLGA0
 /Sprites/PLAYA0
 /Sprites/Particles/ADSTA0
 /Sprites/Particles/ADSTB0
@@ -7491,6 +8549,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Particles/ADSTG0
 /Sprites/Particles/ADSTH0
 /Sprites/Particles/ADSTI0
+/Sprites/Particles/BOM1A0	"Zibon 'PixL' Badi"
+/Sprites/Particles/BOM1B0	"Zibon 'PixL' Badi"
+/Sprites/Particles/BOM1C0	"Zibon 'PixL' Badi"
+/Sprites/Particles/BOM1D0	"Zibon 'PixL' Badi"
+/Sprites/Particles/BOM1E0	"Zibon 'PixL' Badi"
+/Sprites/Particles/BOM1F0	"Zibon 'PixL' Badi"
 /Sprites/Particles/DUSTA0
 /Sprites/Particles/DUSTB0
 /Sprites/Particles/DUSTC0
@@ -7620,22 +8684,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Rings/Automatic/TAUTG3G7
 /Sprites/Rings/Automatic/TAUTG4G6
 /Sprites/Rings/Automatic/TAUTG5
-/Sprites/Gems/Spells/Explosion/PIKEA0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEB0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEC0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKED0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEE0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEF0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEG0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEH0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEI0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEJ0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEK0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEL0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEM0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEN0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEO0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Explosion/PIKEP0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Bomb/RNGE00
 /Sprites/Rings/Bomb/RNGE10
 /Sprites/Rings/Bomb/RNGE20
@@ -7671,22 +8719,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Rings/Bomb/RNGEX0
 /Sprites/Rings/Bomb/RNGEY0
 /Sprites/Rings/Bomb/RNGEZ0
-/Sprites/Gems/Spells/Bounce/PIKBA0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBB0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBC0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBD0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBE0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBF0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBG0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBH0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBI0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBJ0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBK0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBL0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBM0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBN0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBO0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Bounce/PIKBP0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Bounce/RNGB00
 /Sprites/Rings/Bounce/RNGB10
 /Sprites/Rings/Bounce/RNGB20
@@ -7722,22 +8754,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Rings/Bounce/RNGBX0
 /Sprites/Rings/Bounce/RNGBY0
 /Sprites/Rings/Bounce/RNGBZ0
-/Sprites/Gems/Spells/Grenade/PIKGA0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGB0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGC0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGD0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGE0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGF0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGG0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGH0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGI0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGJ0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGK0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGL0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGM0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGN0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGO0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Grenade/PIKGP0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Grenade/RNGG00
 /Sprites/Rings/Grenade/RNGG10
 /Sprites/Rings/Grenade/RNGG20
@@ -7791,22 +8807,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Rings/Grenade/TGREP0
 /Sprites/Rings/Grenade/TGREQ0
 /Sprites/Rings/Grenade/TGRER0
-/Sprites/Gems/Spells/Infinite/PIKIA0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIB0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIC0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKID0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIE0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIF0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIG0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIH0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKII0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIJ0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIK0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIL0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIM0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIN0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIO0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Infinite/PIKIP0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Infinity/RNGI00
 /Sprites/Rings/Infinity/RNGI10
 /Sprites/Rings/Infinity/RNGI20
@@ -7842,35 +8842,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Rings/Infinity/RNGIX0
 /Sprites/Rings/Infinity/RNGIY0
 /Sprites/Rings/Infinity/RNGIZ0
-/Sprites/Gems/RINGA0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGB0X0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGC0W0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGD0V0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGE0U0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGF0T0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGG0S0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGH0R0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGI0Q0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGJ0P0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGK0O0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGL0N0	"Zibon 'PixL' Badi"
-/Sprites/Gems/RINGM0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRA0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRB0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRC0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRD0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRE0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRF0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRG0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRH0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRI0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRJ0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRK0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRL0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRM0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRN0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRO0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Spells/Rail/PIKRP0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Rail/RNGR00
 /Sprites/Rings/Rail/RNGR10
 /Sprites/Rings/Rail/RNGR20
@@ -7906,15 +8877,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Rings/Rail/RNGRX0
 /Sprites/Rings/Rail/RNGRY0
 /Sprites/Rings/Rail/RNGRZ0
-/Sprites/Gems/SPRKA0J0	"Zibon 'PixL' Badi"	(offset 16x30)
-/Sprites/Gems/SPRKB0K0	"Zibon 'PixL' Badi"	(offset 16x30)
-/Sprites/Gems/SPRKC0L0	"Zibon 'PixL' Badi"	(offset 16x30)
-/Sprites/Gems/SPRKD0M0	"Zibon 'PixL' Badi"	(offset 16x30)
-/Sprites/Gems/SPRKE0N0	"Zibon 'PixL' Badi"	(offset 16x30)
-/Sprites/Gems/SPRKF0O0	"Zibon 'PixL' Badi"	(offset 16x30)
-/Sprites/Gems/SPRKG0P0	"Zibon 'PixL' Badi"	(offset 16x30)
-/Sprites/Gems/SPRKH0Q0	"Zibon 'PixL' Badi"	(offset 16x30)
-/Sprites/Gems/SPRKI0R0	"Zibon 'PixL' Badi"	(offset 16x30)
 /Sprites/Rings/Scatter/PIKSA0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Scatter/PIKSB0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Scatter/PIKSC0	"Zibon 'PixL' Badi"
@@ -7974,88 +8936,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Rings/Scatter/TSCRF0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Scatter/TSCRG0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Scatter/TSCRH0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/RRNGA0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/RRNGB0H0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/RRNGC0G0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/RRNGD0F0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/RRNGE0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGA0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGB0X0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGC0W0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGD0V0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGE0U0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGF0T0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGG0S0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGH0R0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGI0Q0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGJ0P0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGK0O0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGL0N0	"Zibon 'PixL' Badi"
-/Sprites/Gems/Team Gem/TRNGM0	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIA1A5	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIA2A8	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIA3A7	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIA4A6	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIA9AG	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIAAAF	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIABAE	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIACAD	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIB1H5	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIB2B8	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIB3B7	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIB4B6	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIB9BG	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIBABF	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIBBBE	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIBCBD	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIC1G5	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIC2C8	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIC3C7	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIC4C6	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIC9CG	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMICACF	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMICBCE	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMICCCD	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMID1F5	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMID2D8	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMID3D7	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMID4D6	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMID9DG	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIDADF	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIDBDE	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIDCDD	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIE1E5	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIE2E8	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIE3E7	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIE4E6	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIE9EG	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIEAEF	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIEBEE	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIECED	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIF1D5	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIF2F8	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIF3F7	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIF4F6	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIF9FG	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIFAFF	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIFBFE	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIFCFD	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIG1C5	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIG2G8	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIG3G7	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIG4G6	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIG9GG	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIGAGF	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIGBGE	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIGCGD	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIH1B5	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIH2H8	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIH3H7	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIH4H6	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIH9HG	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIHAHF	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIHBHE	"Zibon 'PixL' Badi"
-Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
 /Sprites/Rosy/ROSYA1
 /Sprites/Rosy/ROSYA2A8
 /Sprites/Rosy/ROSYA3A7
@@ -8335,6 +9215,7 @@ Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Castle Eggman/ESTAA8
 /Sprites/Scenery/Castle Eggman/FLMHA0
 /Sprites/Scenery/Castle Eggman/PINEA0
+/Sprites/Scenery/Crystalline Heights/GINEA0
 /Sprites/Scenery/Deep Sea/Animated Algae/ALGAA0
 /Sprites/Scenery/Deep Sea/Animated Algae/ALGAB0
 /Sprites/Scenery/Deep Sea/Animated Algae/ALGAC0
@@ -8527,6 +9408,8 @@ Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Halloween/SHRMF0
 /Sprites/Scenery/Halloween/SHRMG0
 /Sprites/Scenery/Halloween/SHRMH0
+/Sprites/Scenery/Pristine Shores/PPALA0
+/Sprites/Scenery/Pristine Shores/PPALB0
 /Sprites/Scenery/Red Volcano/JPLAALAR
 /Sprites/Scenery/Red Volcano/JPLAB0
 /Sprites/Scenery/Red Volcano/JPLAC0
@@ -8547,6 +9430,10 @@ Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
 /Sprites/Scenery/STLGH0
 /Sprites/Scenery/STLGI0
 /Sprites/Scenery/STLGJ0
+/Sprites/Scenery/Silver Shiver/SNTTA0
+/Sprites/Scenery/Silver Shiver/SNTTBLBR
+/Sprites/Scenery/Silver Shiver/SSTTA0
+/Sprites/Scenery/Silver Shiver/SSTTBLBR
 /Sprites/Scenery/Techno Hill/ALRMA0
 /Sprites/Scenery/Techno Hill/FWR4A0
 /Sprites/Scenery/Techno Hill/Spin Flowers/FWR5A0
@@ -8611,16 +9498,9 @@ Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Techno Hill/THZTLLLR
 /Sprites/Scenery/Techno Hill/THZTMLMR
 /Sprites/Scenery/Techno Hill/THZTNLNR
-/Sprites/Trees/TRE1A0	"Gog 'Idk' Wagoo"
-/Sprites/Trees/TRE1B0	"Gog 'Idk' Wagoo"
-/Sprites/Trees/TRE1C0	"Gog 'Idk' Wagoo"
 /Sprites/Scenery/Trees/TRE2A0
 /Sprites/Scenery/Trees/TRE2B0
-/Sprites/Trees/TRE3A0	"Zibon 'PixL' Badi"
-/Sprites/Trees/TRE3B0	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Trees/TRE4A0
-/Sprites/Trees/TRE5A0	"Zibon 'PixL' Badi"
-/Sprites/Trees/TRE5B0	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Trees/TRE6A0
 /Sprites/Scenery/Tutorial/TUPFA0
 /Sprites/Scenery/Tutorial/TUPFB0
@@ -8857,6 +9737,12 @@ Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
 /Sprites/Spheres/SPHRD0
 /Sprites/Spheres/SPHRE0
 /Sprites/Spheres/SPHRF0
+/Sprites/Spikes/USPKA0	"Zibon 'PixL' Badi"
+/Sprites/Spikes/USPKB0	"Zibon 'PixL' Badi"
+/Sprites/Spikes/USPKC0	"Zibon 'PixL' Badi"
+/Sprites/Spikes/USPKD0	"Zibon 'PixL' Badi"
+/Sprites/Spikes/USPKELER	"Zibon 'PixL' Badi"
+/Sprites/Spikes/USPKFLFR	"Zibon 'PixL' Badi"
 /Sprites/Springs/BLONA0
 /Sprites/Springs/BLONB0
 /Sprites/Springs/BLONC0
@@ -8867,6 +9753,11 @@ Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
 /Sprites/Springs/BUMPC0
 /Sprites/Springs/BUMPE0
 /Sprites/Springs/BUMPF0
+/Sprites/Springs/Ball/BSPBA0
+/Sprites/Springs/Ball/BSPBB0
+/Sprites/Springs/Ball/BSPBC0
+/Sprites/Springs/Ball/BSPBD0
+/Sprites/Springs/Ball/BSPBE0
 /Sprites/Springs/Ball/RSPBA0
 /Sprites/Springs/Ball/RSPBB0
 /Sprites/Springs/Ball/RSPBC0
@@ -9125,29 +10016,6 @@ Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYC0	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYD0	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYE0	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTA0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTB0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTC0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTD0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTE0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTF0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTG0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTH0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTI0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTJ0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTK0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTL0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTM0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTN0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTO0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTP0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTQ0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTR0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTS0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTT0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTU0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTV0.png	"Zibon 'PixL' Badi"
-Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Sprites/THOKA0
 /Sprites/Targets/GFLGA0	"Zibon 'PixL' Badi"
 /Sprites/Targets/GFLGB0	"Zibon 'PixL' Badi"
@@ -9157,6 +10025,13 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Sprites/Targets/LCKNC0	"Zibon 'PixL' Badi"
 /Sprites/Targets/LCKND0	"Zibon 'PixL' Badi"
 /Sprites/Targets/TTAGA0	"Zibon 'PixL' Badi"
+/Sprites/Trees/TRE1A0	"Gog 'Idk' Wagoo"
+/Sprites/Trees/TRE1B0	"Gog 'Idk' Wagoo"
+/Sprites/Trees/TRE1C0	"Gog 'Idk' Wagoo"
+/Sprites/Trees/TRE3A0	"Zibon 'PixL' Badi"
+/Sprites/Trees/TRE3B0	"Zibon 'PixL' Badi"
+/Sprites/Trees/TRE5A0	"Zibon 'PixL' Badi"
+/Sprites/Trees/TRE5B0	"Zibon 'PixL' Badi"
 /Sprites/UNKNA0	"Zibon 'PixL' Badi"
 /Sprites/UNKNB0	"Zibon 'PixL' Badi"
 /Sprites/Weather/RAINA0
@@ -9174,7 +10049,6 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Sprites/Xmas/XMS4B0
 /Sprites/Xmas/XMS5A0
 /Sprites/Xmas/XMS6A0
-/TEXTURES
 /TRANS10
 /TRANS20
 /TRANS30
@@ -9235,6 +10109,10 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Aerial Garden/AGZMRL4
 /Textures/Aerial Garden/AGZMRL5
 /Textures/Aerial Garden/AGZTMPLL
+/Textures/Aerial Garden/SNDWALLE
+/Textures/Aerial Garden/SNDWALLF
+/Textures/Aerial Garden/SNDWALLG
+/Textures/Aerial Garden/SNDWALLH
 /Textures/Alpine Paradise/BBFLRWAL
 /Textures/Alpine Paradise/BCFLRWAL
 /Textures/Alpine Paradise/BLUERAY
@@ -9632,6 +10510,16 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Cave/CAVEWL9
 /Textures/Cave/CAVEWLA
 /Textures/Cave/CAVEWLB
+/Textures/Cityscape/TH2_NS1	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NS2	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NS3	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NS4	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NS5	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NS6	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NS7	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NSA	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NSB	"Zibon 'PixL' Badi"
+/Textures/Cityscape/TH2_NSC	"Zibon 'PixL' Badi"
 /Textures/Cliffs/CLIFFW1	"Zibon 'PixL' Badi"
 /Textures/Cliffs/CLIFFW1S	"Zibon 'PixL' Badi"
 /Textures/Cliffs/CLIFFW2	"Zibon 'PixL' Badi"
@@ -9666,23 +10554,14 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Cliffs/CLIFFWGS	"Zibon 'PixL' Badi"
 /Textures/Cliffs/CLIFFWH	"Zibon 'PixL' Badi"
 /Textures/Cliffs/CLIFFWHS	"Zibon 'PixL' Badi"
+/Textures/Computers/INFOWAL1	"Zibon 'PixL' Badi"
+/Textures/Computers/INFOWAL2	"Zibon 'PixL' Badi"
+/Textures/Computers/REDEGG1	"Zibon 'PixL' Badi"
+/Textures/Computers/REDEGG2	"Zibon 'PixL' Badi"
+/Textures/Computers/REDEGG3	"Zibon 'PixL' Badi"
+/Textures/Computers/REDEGG4	"Zibon 'PixL' Badi"
+/Textures/Computers/SPECWLL1	"Zibon 'PixL' Badi"
 /Textures/D2LAVA
-/Textures/Misc/DANCE1	"Zibon 'PixL' Badi"
-/Textures/Misc/DANCE2	"Zibon 'PixL' Badi"
-/Textures/Misc/DANCE3	"Zibon 'PixL' Badi"
-/Textures/Misc/DANCE4	"Zibon 'PixL' Badi"
-/Textures/Misc/TWB064	"Zibon 'PixL' Badi"
-/Textures/Misc/TWB128	"Zibon 'PixL' Badi"
-/Textures/Misc/TWB256	"Zibon 'PixL' Badi"
-/Textures/Misc/TWB512	"Zibon 'PixL' Badi"
-/Textures/Misc/TWG064	"Zibon 'PixL' Badi"
-/Textures/Misc/TWG128	"Zibon 'PixL' Badi"
-/Textures/Misc/TWG256	"Zibon 'PixL' Badi"
-/Textures/Misc/TWG512	"Zibon 'PixL' Badi"
-/Textures/Misc/TWO064	"Zibon 'PixL' Badi"
-/Textures/Misc/TWO128	"Zibon 'PixL' Badi"
-/Textures/Misc/TWO256	"Zibon 'PixL' Badi"
-/Textures/Misc/TWO512	"Zibon 'PixL' Badi"
 /Textures/DEM1W5
 /Textures/DEZBLOCK
 /Textures/DEZBLOK1
@@ -9908,8 +10787,34 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Deep Sea/DSZWALL1
 /Textures/Deep Sea/DSZWALL2
 /Textures/Deep Sea/DSZWALL3
+/Textures/Dev Textures/DEV064
+/Textures/Dev Textures/DEV064B
+/Textures/Dev Textures/DEV064G
+/Textures/Dev Textures/DEV128
+/Textures/Dev Textures/DEV128B
+/Textures/Dev Textures/DEV128G
+/Textures/Dev Textures/DEV256
+/Textures/Dev Textures/DEV256B
+/Textures/Dev Textures/DEV256G
+/Textures/Dev Textures/DEVEDGE
+/Textures/Dev Textures/DEVEDGEB
+/Textures/Dev Textures/DEVEDGEG
+/Textures/Dev Textures/DEVG064
+/Textures/Dev Textures/DEVG064B
+/Textures/Dev Textures/DEVG064G
+/Textures/Dev Textures/DEVG128
+/Textures/Dev Textures/DEVG128B
+/Textures/Dev Textures/DEVG128G
+/Textures/Dev Textures/DEVG256
+/Textures/Dev Textures/DEVG256B
+/Textures/Dev Textures/DEVG256G
+/Textures/Dev Textures/DEVGRS
+/Textures/Dev Textures/DEVGRSB
+/Textures/Dev Textures/DEVGRSG
 /Textures/ECVINESW
 /Textures/ECVINETW
+/Textures/Egg Rock/ERZBLUE6
+/Textures/Egg Rock/ERZGREY6
 /Textures/Eggrock/DOWN1A
 /Textures/Eggrock/DOWN1B
 /Textures/Eggrock/DOWN1C
@@ -10117,6 +11022,8 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Eggrock/UP5B
 /Textures/Eggrock/UP5C
 /Textures/FOSSILW
+/Textures/Fences/GFZRAIL	"Zibon 'PixL' Badi"
+/Textures/Fences/GFZRAIL2	"Zibon 'PixL' Badi"
 /Textures/Flags/BANNERB1
 /Textures/Flags/BANNERB2
 /Textures/Flags/BANNERB3
@@ -10262,6 +11169,14 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/GRSWALL2
 /Textures/GRSWALL3
 /Textures/GRSWALL4
+/Textures/Generic/Ice & Snow/ICEWABT
+/Textures/Generic/Ice & Snow/ICEWALBU
+/Textures/Generic/Ice & Snow/ICEWALLR
+/Textures/Generic/Ice & Snow/ICEWALLV
+/Textures/Generic/Ice & Snow/ICEWALP
+/Textures/Generic/Ice & Snow/ICEWART
+/Textures/Generic/Skies/SKY230
+/Textures/Generic/Skies/SKY65
 /Textures/Grand Eggship/DSHIPW1
 /Textures/Grand Eggship/DSHIPW2
 /Textures/Grand Eggship/DSHIPW3
@@ -10276,6 +11191,31 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Grand Eggship/DSHIPWC
 /Textures/Grand Eggship/DSHIPWD
 /Textures/Grand Eggship/DSHIPWE
+/Textures/Grasslands/GFVINES	"Gog 'Idk' Wagoo"
+/Textures/Grasslands/GFVINESO	"Gog 'Idk' Wagoo"
+/Textures/Grasslands/GFZBLOCK	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZBLOKS	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZFENCW	"Gog 'Idk' Wagoo"	(+minor adjustments by "Zibon 'PixL' Badi")
+/Textures/Grasslands/GFZGRASS	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZINSID	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZPLTF	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILA1	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILA2	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILB1	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILB2	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILC1	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILC2	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILD1	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILD2	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILE1	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILE2	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILF1	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILF2	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILG1	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZTILG2	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GFZWAVE	"Zibon 'PixL' Badi"
+/Textures/Grasslands/GHZWALLC	"Zibon 'PixL' Badi"
+/Textures/Grasslands/OLDGFZW1	"Zibon 'PixL' Badi"
 /Textures/Green Hill/GHZWAL01
 /Textures/Green Hill/GHZWAL02
 /Textures/Green Hill/GHZWAL03
@@ -10298,25 +11238,14 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Green Hill/GHZWALL9
 /Textures/Green Hill/GHZWALLA
 /Textures/Green Hill/GHZWALLB
-/Textures/Grasslands/GHZWALLC	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFVINES	"Gog 'Idk' Wagoo"
-/Textures/Grasslands/GFVINESO	"Gog 'Idk' Wagoo"
-/Textures/Grasslands/GFZBLOCK	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZBLOKS	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZBRID2
 /Textures/Greenflower/GFZBRIDG	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZFENC2
-/Textures/Grasslands/GFZFENCW	"Gog 'Idk' Wagoo"	(+minor adjustments by "Zibon 'PixL' Badi")
 /Textures/Greenflower/GFZFNCB
 /Textures/Greenflower/GFZFNCC
 /Textures/Greenflower/GFZFNCCG
 /Textures/Greenflower/GFZFNCD
-/Textures/Grasslands/GFZGRASS	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZGRSW
-/Textures/Grasslands/GFZINSID	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZPLTF	"Zibon 'PixL' Badi"
-/Textures/Fences/GFZRAIL	"Zibon 'PixL' Badi"
-/Textures/Fences/GFZRAIL2	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZROOF
 /Textures/Greenflower/GFZTIL01
 /Textures/Greenflower/GFZTIL02
@@ -10329,24 +11258,8 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZTIL09
 /Textures/Greenflower/GFZTIL10
 /Textures/Greenflower/GFZTIL11
-/Textures/Grasslands/GFZTILA1	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILA2	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILB1	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILB2	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILC1	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILC2	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILD1	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILD2	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILE1	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILE2	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILF1	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILF2	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILG1	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZTILG2	"Zibon 'PixL' Badi"
-/Textures/Grasslands/GFZWAVE	"Zibon 'PixL' Badi"
-/Textures/Greenflower/Old/OLDGFZG1	"Zibon 'PixL' Badi"	(virtual `TEXTURES.smz`)
-/Textures/Greenflower/Old/OLDGFZG2	"Zibon 'PixL' Badi"	(virtual `TEXTURES.smz`)
-/Textures/Grasslands/OLDGFZW1	"Zibon 'PixL' Badi"
+/Textures/Greenflower/GFZTIL12
+/Textures/Greenflower/GFZTIL13
 /Textures/Greenflower/Old/OLDGFZW2
 /Textures/Greenflower/Old/OLDROCK2
 /Textures/Greenflower/Old/OLDROCKW
@@ -10480,6 +11393,73 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Ice & Snow/SNOW02
 /Textures/Ice & Snow/SNOW03
 /Textures/Ice & Snow/SNOWALL
+/Textures/Industrial/STLBLOK1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLBLOK2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLBLUE1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLBLUE2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLBLUE3	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLBLUE4	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLBLUE5	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLBLUE6	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLCORNL	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLCORNR	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLLITE1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLLITE2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLLITE3	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLLITE4	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLLITE5	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLLITE6	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDD1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDD2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDD3	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDD4	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDD5	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDD6	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDL1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDL2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDL3	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDL4	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDL5	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDL6	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDR1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDR2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDR3	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDR4	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDR5	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDR6	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDU1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDU2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDU3	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDU4	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDU5	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLREDU6	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLSUPP1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLSUPP2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLSUPP3	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLSUPP4	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLSUPP5	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLSUPPA
+/Textures/Industrial/STLSUPPB
+/Textures/Industrial/STLSUPPC
+/Textures/Industrial/STLSUPPD
+/Textures/Industrial/STLSUPPE
+/Textures/Industrial/STLSUPPF
+/Textures/Industrial/STLSUPPG
+/Textures/Industrial/STLSUPPH
+/Textures/Industrial/STLWAL01	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLWAL02	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLYELW1	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLYELW2	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLYELW3	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLYELW4	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLYELW5	"Zibon 'PixL' Badi"
+/Textures/Industrial/STLYELW6	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZPIPE1	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZPIPE2	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZPIPE3	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZPIPE4	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZPIPE5	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZPIPE6	"Zibon 'PixL' Badi"
 /Textures/Jungle/JNGGRW1
 /Textures/Jungle/JNGGRW2
 /Textures/Jungle/JNGGRW3
@@ -10585,6 +11565,21 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Lake/LAKEWALD
 /Textures/Lake/LAKEWLD
 /Textures/Lake/LAKEWLE
+/Textures/Legacy/LEGFLR01
+/Textures/Legacy/LEGFLR08
+/Textures/Legacy/LEGFLR18
+/Textures/Legacy/LEGFLR30
+/Textures/Legacy/LEGWAL01
+/Textures/Legacy/LEGWAL09
+/Textures/Legacy/LEGWALLF
+/Textures/Legacy/OLDCEZF2
+/Textures/Legacy/OLDCEZF3
+/Textures/Legacy/OLDCEZG
+/Textures/Legacy/OLDCEZGU
+/Textures/Legacy/OLDCEZGW
+/Textures/Legacy/OLDLIFT
+/Textures/Legacy/OLDTHZRC
+/Textures/Legacy/PISTOLD
 /Textures/MEKPIPE1
 /Textures/MEKPIPE2
 /Textures/MEKPIPE3
@@ -10628,14 +11623,6 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/MRNR3T2
 /Textures/MRNR4T1
 /Textures/MRNR4T2
-/Textures/NCEZW1
-/Textures/NCEZW2
-/Textures/NEONWL2A
-/Textures/NEONWL2B
-/Textures/NITESWAL
-/Textures/OWOODW
-/Textures/PISTON
-/Textures/PISTON2
 /Textures/Misc/Colors/~000	"Zibon 'PixL' Badi"
 /Textures/Misc/Colors/~001	"Zibon 'PixL' Badi"
 /Textures/Misc/Colors/~002	"Zibon 'PixL' Badi"
@@ -10892,6 +11879,709 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Misc/Colors/~253	"Zibon 'PixL' Badi"
 /Textures/Misc/Colors/~254	"Zibon 'PixL' Badi"
 /Textures/Misc/Colors/~255	"Zibon 'PixL' Badi"
+/Textures/Misc/DANCE1	"Zibon 'PixL' Badi"
+/Textures/Misc/DANCE2	"Zibon 'PixL' Badi"
+/Textures/Misc/DANCE3	"Zibon 'PixL' Badi"
+/Textures/Misc/DANCE4	"Zibon 'PixL' Badi"
+/Textures/Misc/TWB064	"Zibon 'PixL' Badi"
+/Textures/Misc/TWB128	"Zibon 'PixL' Badi"
+/Textures/Misc/TWB256	"Zibon 'PixL' Badi"
+/Textures/Misc/TWB512	"Zibon 'PixL' Badi"
+/Textures/Misc/TWG064	"Zibon 'PixL' Badi"
+/Textures/Misc/TWG128	"Zibon 'PixL' Badi"
+/Textures/Misc/TWG256	"Zibon 'PixL' Badi"
+/Textures/Misc/TWG512	"Zibon 'PixL' Badi"
+/Textures/Misc/TWO064	"Zibon 'PixL' Badi"
+/Textures/Misc/TWO128	"Zibon 'PixL' Badi"
+/Textures/Misc/TWO256	"Zibon 'PixL' Badi"
+/Textures/Misc/TWO512	"Zibon 'PixL' Badi"
+/Textures/Multiplayer/Celestial Sanctuary/PCM10
+/Textures/Multiplayer/Celestial Sanctuary/PCM11
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL01
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL02
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL03
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL04
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL05
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL06
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL07
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL08
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL09
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL22
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL23
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL26
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL27
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL28
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL29
+/Textures/Multiplayer/Celestial Sanctuary/PRZTIL30
+/Textures/Multiplayer/Celestial Sanctuary/PRZWALB1
+/Textures/Multiplayer/Celestial Sanctuary/PRZWALB2
+/Textures/Multiplayer/Celestial Sanctuary/PRZWALB3
+/Textures/Multiplayer/Crystalline Heights/CLAUDS
+/Textures/Multiplayer/Crystalline Heights/CLEDS
+/Textures/Multiplayer/Crystalline Heights/DGG1
+/Textures/Multiplayer/Crystalline Heights/DGG2
+/Textures/Multiplayer/Crystalline Heights/DGRS1
+/Textures/Multiplayer/Crystalline Heights/DGRS2
+/Textures/Multiplayer/Crystalline Heights/DGWATER1
+/Textures/Multiplayer/Crystalline Heights/DIMFLRA
+/Textures/Multiplayer/Crystalline Heights/DIMWALLA
+/Textures/Multiplayer/Crystalline Heights/DMGF1
+/Textures/Multiplayer/Crystalline Heights/DMGF2
+/Textures/Multiplayer/Crystalline Heights/DMNFL1
+/Textures/Multiplayer/Crystalline Heights/GFRAD
+/Textures/Multiplayer/Crystalline Heights/SAINY1
+/Textures/Multiplayer/Crystalline Heights/SAINYF1
+/Textures/Multiplayer/Crystalline Heights/UH
+/Textures/Multiplayer/Desolate Twilight/SHALE3
+/Textures/Multiplayer/Desolate Twilight/SHALE3ED
+/Textures/Multiplayer/Desolate Twilight/SHALE3F
+/Textures/Multiplayer/Desolate Twilight/SHALE4
+/Textures/Multiplayer/Desolate Twilight/SHALE4ED
+/Textures/Multiplayer/Desolate Twilight/SHALE4F
+/Textures/Multiplayer/Desolate Twilight/SKY101
+/Textures/Multiplayer/Diamond Blizzard/DBPLR
+/Textures/Multiplayer/Diamond Blizzard/DBPLR01
+/Textures/Multiplayer/Diamond Blizzard/DBPLR02
+/Textures/Multiplayer/Diamond Blizzard/DBSHINEL
+/Textures/Multiplayer/Diamond Blizzard/DBSHINES
+/Textures/Multiplayer/Diamond Blizzard/DBTILB
+/Textures/Multiplayer/Diamond Blizzard/DBTILBS
+/Textures/Multiplayer/Diamond Blizzard/DBTILL1
+/Textures/Multiplayer/Diamond Blizzard/DBTILL2
+/Textures/Multiplayer/Diamond Blizzard/DBTILLA
+/Textures/Multiplayer/Diamond Blizzard/DBTILLB
+/Textures/Multiplayer/Diamond Blizzard/DBTILS1
+/Textures/Multiplayer/Diamond Blizzard/DBTRIMD1
+/Textures/Multiplayer/Diamond Blizzard/DBTRIML1
+/Textures/Multiplayer/Diamond Blizzard/MMBR
+/Textures/Multiplayer/Diamond Blizzard/MMCRYSTP
+/Textures/Multiplayer/Granite Lake/GLWAT01
+/Textures/Multiplayer/Granite Lake/GLWAT02
+/Textures/Multiplayer/Green Hill/DSWATER3
+/Textures/Multiplayer/Green Hill/DSWATER4
+/Textures/Multiplayer/Green Hill/GFSCLD10
+/Textures/Multiplayer/Green Hill/GFSCLD11
+/Textures/Multiplayer/Green Hill/GFSCLD12
+/Textures/Multiplayer/Green Hill/GFS_CLD5
+/Textures/Multiplayer/Green Hill/GFS_CLD6
+/Textures/Multiplayer/Green Hill/GFS_CLD7
+/Textures/Multiplayer/Green Hill/GFS_CLD8
+/Textures/Multiplayer/Green Hill/GFS_CLD9
+/Textures/Multiplayer/Green Hill/GHTILE2
+/Textures/Multiplayer/Green Hill/GHTILE3
+/Textures/Multiplayer/Green Hill/GHTILE4
+/Textures/Multiplayer/Green Hill/GHWATER1
+/Textures/Multiplayer/Green Hill/GHWATER2
+/Textures/Multiplayer/Green Hill/GHZGRASS
+/Textures/Multiplayer/Green Hill/GHZPTC01
+/Textures/Multiplayer/Green Hill/GHZPTC02
+/Textures/Multiplayer/Green Hill/GHZTILA1
+/Textures/Multiplayer/Green Hill/GHZTILA2
+/Textures/Multiplayer/Green Hill/GHZTILB1
+/Textures/Multiplayer/Green Hill/GHZTILB2
+/Textures/Multiplayer/Green Hill/GHZTILC1
+/Textures/Multiplayer/Green Hill/GHZTILC2
+/Textures/Multiplayer/Green Hill/GHZTILD1
+/Textures/Multiplayer/Green Hill/GHZTILD2
+/Textures/Multiplayer/Green Hill/GHZTILE
+/Textures/Multiplayer/Green Hill/GHZTILE1
+/Textures/Multiplayer/Green Hill/GHZTILE2
+/Textures/Multiplayer/Green Hill/GHZTILF1
+/Textures/Multiplayer/Green Hill/GHZTILF2
+/Textures/Multiplayer/Green Hill/SKY502
+/Textures/Multiplayer/Jade Valley/JVZFW01
+/Textures/Multiplayer/Jade Valley/JVZFW02
+/Textures/Multiplayer/Jade Valley/JVZFW03
+/Textures/Multiplayer/Jade Valley/JVZFW04
+/Textures/Multiplayer/Jade Valley/JVZFW05
+/Textures/Multiplayer/Jade Valley/JVZWAT01
+/Textures/Multiplayer/Jade Valley/JVZWAT02
+/Textures/Multiplayer/Lime Forest/WODBLU
+/Textures/Multiplayer/Lime Forest/WODRED
+/Textures/Multiplayer/Pristine Shores/CWLAD1
+/Textures/Multiplayer/Pristine Shores/CWLAD2
+/Textures/Multiplayer/Pristine Shores/CWLAD3
+/Textures/Multiplayer/Pristine Shores/CWLAD4
+/Textures/Multiplayer/Pristine Shores/PLHD1
+/Textures/Multiplayer/Pristine Shores/PLHD10
+/Textures/Multiplayer/Pristine Shores/PLHD11
+/Textures/Multiplayer/Pristine Shores/PLHD12
+/Textures/Multiplayer/Pristine Shores/PLHD13
+/Textures/Multiplayer/Pristine Shores/PLHD14
+/Textures/Multiplayer/Pristine Shores/PLHD15
+/Textures/Multiplayer/Pristine Shores/PLHD16
+/Textures/Multiplayer/Pristine Shores/PLHD17
+/Textures/Multiplayer/Pristine Shores/PLHD18
+/Textures/Multiplayer/Pristine Shores/PLHD19
+/Textures/Multiplayer/Pristine Shores/PLHD1F
+/Textures/Multiplayer/Pristine Shores/PLHD2
+/Textures/Multiplayer/Pristine Shores/PLHD20
+/Textures/Multiplayer/Pristine Shores/PLHD21
+/Textures/Multiplayer/Pristine Shores/PLHD22
+/Textures/Multiplayer/Pristine Shores/PLHD23
+/Textures/Multiplayer/Pristine Shores/PLHD24
+/Textures/Multiplayer/Pristine Shores/PLHD25
+/Textures/Multiplayer/Pristine Shores/PLHD26
+/Textures/Multiplayer/Pristine Shores/PLHD27
+/Textures/Multiplayer/Pristine Shores/PLHD28
+/Textures/Multiplayer/Pristine Shores/PLHD29
+/Textures/Multiplayer/Pristine Shores/PLHD2F
+/Textures/Multiplayer/Pristine Shores/PLHD3
+/Textures/Multiplayer/Pristine Shores/PLHD30
+/Textures/Multiplayer/Pristine Shores/PLHD31
+/Textures/Multiplayer/Pristine Shores/PLHD32
+/Textures/Multiplayer/Pristine Shores/PLHD33
+/Textures/Multiplayer/Pristine Shores/PLHD34
+/Textures/Multiplayer/Pristine Shores/PLHD35
+/Textures/Multiplayer/Pristine Shores/PLHD3F
+/Textures/Multiplayer/Pristine Shores/PLHD4
+/Textures/Multiplayer/Pristine Shores/PLHD4F
+/Textures/Multiplayer/Pristine Shores/PLHD5
+/Textures/Multiplayer/Pristine Shores/PLHD5F
+/Textures/Multiplayer/Pristine Shores/PLHD6F
+/Textures/Multiplayer/Pristine Shores/PLHD7
+/Textures/Multiplayer/Pristine Shores/PLHD8
+/Textures/Multiplayer/Pristine Shores/PLHD9
+/Textures/Multiplayer/Pristine Shores/PLNTS1
+/Textures/Multiplayer/Pristine Shores/PLNTS2
+/Textures/Multiplayer/Pristine Shores/PSCLF
+/Textures/Multiplayer/Pristine Shores/PSCLF2
+/Textures/Multiplayer/Pristine Shores/PSCLF3
+/Textures/Multiplayer/Pristine Shores/PSCLUD
+/Textures/Multiplayer/Pristine Shores/PSCLUD2
+/Textures/Multiplayer/Pristine Shores/PSF1
+/Textures/Multiplayer/Pristine Shores/PSF2
+/Textures/Multiplayer/Pristine Shores/PSTARS
+/Textures/Multiplayer/Pristine Shores/PSTARS2
+/Textures/Multiplayer/Pristine Shores/PSZKY2
+/Textures/Multiplayer/Silver Cascade/PRPSKY
+/Textures/Multiplayer/Silver Cascade/SCZCLOU2
+/Textures/Multiplayer/Silver Cascade/SCZCLOUD
+/Textures/Multiplayer/Silver Cascade/SCZGRADI
+/Textures/Multiplayer/Silver Cascade/SCZSUN
+/Textures/Multiplayer/Silver Cascade/SCZWTR
+/Textures/Multiplayer/Silver Cascade/SUBMARI1
+/Textures/Multiplayer/Silver Cascade/SUBMARIN
+/Textures/Multiplayer/Silver Shiver/ICEVINE
+/Textures/Multiplayer/Silver Shiver/SNOWLEAF
+/Textures/Multiplayer/Silver Shiver/SSKYBOX
+/Textures/Multiplayer/Silver Shiver/SSKYBOX0
+/Textures/Multiplayer/Silver Shiver/SSKYBOX1
+/Textures/Multiplayer/Silver Shiver/SSKYBOX2
+/Textures/Multiplayer/Silver Shiver/SSKYBOX3
+/Textures/Multiplayer/Silver Shiver/SSKYBOX4
+/Textures/Multiplayer/Silver Shiver/SSNOW2
+/Textures/Multiplayer/Silver Shiver/SSZFENCE
+/Textures/Multiplayer/Silver Shiver/XMASRAIL
+/Textures/Multiplayer/Silver Shiver/XMASVINE
+/Textures/Multiplayer/Silver Shiver/XOVRHANG
+/Textures/Multiplayer/Silver Shiver/XWALL1
+/Textures/Multiplayer/Silver Shiver/XWALL2
+/Textures/Multiplayer/Summit Showdown/APZGOLD4
+/Textures/Multiplayer/Summit Showdown/BSZICE3
+/Textures/Multiplayer/Summit Showdown/CEZBIG4
+/Textures/Multiplayer/Summit Showdown/CEZBIG5
+/Textures/Multiplayer/Summit Showdown/HPZMU2
+/Textures/Multiplayer/Summit Showdown/HPZMU3
+/Textures/Multiplayer/Summit Showdown/HPZMU4
+/Textures/Multiplayer/Summit Showdown/SCZRINGP
+/Textures/Multiplayer/Thunder Citadel/TCSWCA00
+/Textures/Multiplayer/Thunder Citadel/TCSWCA01
+/Textures/Multiplayer/Thunder Citadel/TCSWCA02
+/Textures/Multiplayer/Thunder Citadel/TCSWCA03
+/Textures/Multiplayer/Thunder Citadel/TCSWCA05
+/Textures/Multiplayer/Thunder Citadel/TCSWCA06
+/Textures/Multiplayer/Thunder Citadel/TCSWCA07
+/Textures/Multiplayer/Thunder Citadel/TCSWCA08
+/Textures/Multiplayer/Thunder Citadel/TCSWCA09
+/Textures/NCEZW1
+/Textures/NCEZW2
+/Textures/NEONWL2A
+/Textures/NEONWL2B
+/Textures/NITESWAL
+/Textures/OWOODW
+/Textures/PISTON
+/Textures/PISTON2
+/Textures/Pipe Towers/Castle/MARAC17
+/Textures/Pipe Towers/Castle/MARAC17A
+/Textures/Pipe Towers/Castle/MARAC17B
+/Textures/Pipe Towers/Castle/MARAC26
+/Textures/Pipe Towers/Castle/MARAC26A
+/Textures/Pipe Towers/Castle/MARAC26B
+/Textures/Pipe Towers/Castle/MARAC26C
+/Textures/Pipe Towers/Castle/MARAC26L
+/Textures/Pipe Towers/Castle/MARAC26X
+/Textures/Pipe Towers/Castle/MARBRI5
+/Textures/Pipe Towers/Castle/MARICBB
+/Textures/Pipe Towers/Castle/MARIOC3
+/Textures/Pipe Towers/Castle/MARIOC3A
+/Textures/Pipe Towers/Castle/MARIOC3B
+/Textures/Pipe Towers/Castle/MARIOC3C
+/Textures/Pipe Towers/Castle/MARIOC3D
+/Textures/Pipe Towers/Castle/MARIOC3E
+/Textures/Pipe Towers/Castle/MARIOC3F
+/Textures/Pipe Towers/Castle/MARIOC3G
+/Textures/Pipe Towers/Castle/MARIOC4
+/Textures/Pipe Towers/Castle/MARIOC4A
+/Textures/Pipe Towers/Castle/MARIOC4B
+/Textures/Pipe Towers/Castle/MARIOC5
+/Textures/Pipe Towers/Castle/MARIOW7A
+/Textures/Pipe Towers/Castle/MARIOW7B
+/Textures/Pipe Towers/Castle/MARIOW7C
+/Textures/Pipe Towers/Castle/PTZCAB3
+/Textures/Pipe Towers/Castle/PTZCAB4
+/Textures/Pipe Towers/Castle/PTZCAB5
+/Textures/Pipe Towers/Castle/PTZCAB6
+/Textures/Pipe Towers/Castle/PTZCAD5
+/Textures/Pipe Towers/Castle/PTZCAD6
+/Textures/Pipe Towers/Castle/PTZCAE5
+/Textures/Pipe Towers/Castle/PTZCAE6
+/Textures/Pipe Towers/Castle/PTZCAN1
+/Textures/Pipe Towers/Castle/PTZCAN2
+/Textures/Pipe Towers/Castle/PTZCAN3
+/Textures/Pipe Towers/Castle/PTZCAN4
+/Textures/Pipe Towers/Castle/PTZCAN5
+/Textures/Pipe Towers/Castle/PTZCAN6
+/Textures/Pipe Towers/Castle/PTZCAN7
+/Textures/Pipe Towers/Castle/PTZCAN8
+/Textures/Pipe Towers/Castle/PTZCAN9
+/Textures/Pipe Towers/Castle/PTZCANA
+/Textures/Pipe Towers/Castle/PTZCANB
+/Textures/Pipe Towers/Castle/PTZCANC
+/Textures/Pipe Towers/Castle/PTZCAND
+/Textures/Pipe Towers/Castle/PTZCANE
+/Textures/Pipe Towers/Castle/PTZCANF
+/Textures/Pipe Towers/Castle/PTZCANG
+/Textures/Pipe Towers/Castle/PTZCANH
+/Textures/Pipe Towers/Castle/PTZCAS1
+/Textures/Pipe Towers/Castle/PTZCAS10
+/Textures/Pipe Towers/Castle/PTZCAS11
+/Textures/Pipe Towers/Castle/PTZCAS12
+/Textures/Pipe Towers/Castle/PTZCAS13
+/Textures/Pipe Towers/Castle/PTZCAS14
+/Textures/Pipe Towers/Castle/PTZCAS15
+/Textures/Pipe Towers/Castle/PTZCAS16
+/Textures/Pipe Towers/Castle/PTZCAS17
+/Textures/Pipe Towers/Castle/PTZCAS18
+/Textures/Pipe Towers/Castle/PTZCAS19
+/Textures/Pipe Towers/Castle/PTZCAS2
+/Textures/Pipe Towers/Castle/PTZCAS20
+/Textures/Pipe Towers/Castle/PTZCAS2A
+/Textures/Pipe Towers/Castle/PTZCAS2B
+/Textures/Pipe Towers/Castle/PTZCAS38
+/Textures/Pipe Towers/Castle/PTZCAS39
+/Textures/Pipe Towers/Fluids/MARWAT1
+/Textures/Pipe Towers/Fluids/MWFBL1
+/Textures/Pipe Towers/Fluids/MWFBL2
+/Textures/Pipe Towers/Fluids/MWFBL3
+/Textures/Pipe Towers/Fluids/MWFBL4
+/Textures/Pipe Towers/Fluids/MWFLL1
+/Textures/Pipe Towers/Fluids/MWFLL2
+/Textures/Pipe Towers/Fluids/MWFLL3
+/Textures/Pipe Towers/Fluids/MWFLL4
+/Textures/Pipe Towers/Fluids/MWFN1
+/Textures/Pipe Towers/Gameplay/Flags/MAFFLAG1
+/Textures/Pipe Towers/Gameplay/Flags/MAFFLAG2
+/Textures/Pipe Towers/Gameplay/Flags/MAFFLAG3
+/Textures/Pipe Towers/Gameplay/Flags/MAFFLAG4
+/Textures/Pipe Towers/Gameplay/Flags/MAFFLAG5
+/Textures/Pipe Towers/Gameplay/Flags/MALFLAG1
+/Textures/Pipe Towers/Gameplay/Flags/MALFLAG2
+/Textures/Pipe Towers/Gameplay/Flags/MALFLAG3
+/Textures/Pipe Towers/Gameplay/Flags/MALFLAG4
+/Textures/Pipe Towers/Gameplay/Flags/MALFLAG5
+/Textures/Pipe Towers/Gameplay/Flags/MAOFLAG1
+/Textures/Pipe Towers/Gameplay/Flags/MAOFLAG2
+/Textures/Pipe Towers/Gameplay/Flags/MAOFLAG3
+/Textures/Pipe Towers/Gameplay/Flags/MAOFLAG4
+/Textures/Pipe Towers/Gameplay/Flags/MAOFLAG5
+/Textures/Pipe Towers/Gameplay/Flags/MARFLAG4
+/Textures/Pipe Towers/Gameplay/Flags/MARFLAG5
+/Textures/Pipe Towers/Gameplay/MABLBB1
+/Textures/Pipe Towers/Gameplay/MABLBB2
+/Textures/Pipe Towers/Gameplay/MARBRI1
+/Textures/Pipe Towers/Gameplay/MARBRI2
+/Textures/Pipe Towers/Gameplay/MARBRI3
+/Textures/Pipe Towers/Gameplay/MARBRIO
+/Textures/Pipe Towers/Gameplay/MAREC1
+/Textures/Pipe Towers/Gameplay/MAREC2
+/Textures/Pipe Towers/Gameplay/MAREC3
+/Textures/Pipe Towers/Gameplay/MAREC4
+/Textures/Pipe Towers/Gameplay/MAREE1
+/Textures/Pipe Towers/Gameplay/MAREE2
+/Textures/Pipe Towers/Gameplay/MAREE3
+/Textures/Pipe Towers/Gameplay/MAREE4
+/Textures/Pipe Towers/Gameplay/MAREGC1
+/Textures/Pipe Towers/Gameplay/MAREGC2
+/Textures/Pipe Towers/Gameplay/MAREGC3
+/Textures/Pipe Towers/Gameplay/MAREGE1
+/Textures/Pipe Towers/Gameplay/MAREGE2
+/Textures/Pipe Towers/Gameplay/MAREGE3
+/Textures/Pipe Towers/Gameplay/MAREGO1
+/Textures/Pipe Towers/Gameplay/MAREGO2
+/Textures/Pipe Towers/Gameplay/MAREGO3
+/Textures/Pipe Towers/Gameplay/MAREGU1
+/Textures/Pipe Towers/Gameplay/MAREGU2
+/Textures/Pipe Towers/Gameplay/MAREGU3
+/Textures/Pipe Towers/Gameplay/MAREGW1
+/Textures/Pipe Towers/Gameplay/MAREGW2
+/Textures/Pipe Towers/Gameplay/MAREGW3
+/Textures/Pipe Towers/Gameplay/MAREO1
+/Textures/Pipe Towers/Gameplay/MAREO3
+/Textures/Pipe Towers/Gameplay/MAREO4
+/Textures/Pipe Towers/Gameplay/MAREO5
+/Textures/Pipe Towers/Gameplay/MAREO6
+/Textures/Pipe Towers/Gameplay/MAREU1
+/Textures/Pipe Towers/Gameplay/MAREU3
+/Textures/Pipe Towers/Gameplay/MAREU4
+/Textures/Pipe Towers/Gameplay/MAREW1
+/Textures/Pipe Towers/Gameplay/MAREW2
+/Textures/Pipe Towers/Gameplay/MAREW3
+/Textures/Pipe Towers/Gameplay/MAREW4
+/Textures/Pipe Towers/Gameplay/MARFP1
+/Textures/Pipe Towers/Gameplay/MARFP10
+/Textures/Pipe Towers/Gameplay/MARFP11
+/Textures/Pipe Towers/Gameplay/MARFP12
+/Textures/Pipe Towers/Gameplay/MARFP13
+/Textures/Pipe Towers/Gameplay/MARFP2
+/Textures/Pipe Towers/Gameplay/MARFP3
+/Textures/Pipe Towers/Gameplay/MARFP4
+/Textures/Pipe Towers/Gameplay/MARFP5
+/Textures/Pipe Towers/Gameplay/MARFP6
+/Textures/Pipe Towers/Gameplay/MARFP7
+/Textures/Pipe Towers/Gameplay/MARFP8
+/Textures/Pipe Towers/Gameplay/MARFP9
+/Textures/Pipe Towers/Gameplay/MARIEBQ1
+/Textures/Pipe Towers/Gameplay/MARIEBQ2
+/Textures/Pipe Towers/Gameplay/MARIEBQ3
+/Textures/Pipe Towers/Gameplay/MARIEBQ4
+/Textures/Pipe Towers/Gameplay/MARIEBQ5
+/Textures/Pipe Towers/Gameplay/MARIME1
+/Textures/Pipe Towers/Gameplay/MARIME2
+/Textures/Pipe Towers/Gameplay/MARIOBQ0
+/Textures/Pipe Towers/Gameplay/MARIOBQ1
+/Textures/Pipe Towers/Gameplay/MARIOBQ2
+/Textures/Pipe Towers/Gameplay/MARIOBQ3
+/Textures/Pipe Towers/Gameplay/MARIOBQ4
+/Textures/Pipe Towers/Gameplay/MARIOBQ5
+/Textures/Pipe Towers/Gameplay/MARIOBQ6
+/Textures/Pipe Towers/Gameplay/MARIOBQA
+/Textures/Pipe Towers/Gameplay/MARIOBQB
+/Textures/Pipe Towers/Gameplay/MARIOBQC
+/Textures/Pipe Towers/Gameplay/MARIOBQD
+/Textures/Pipe Towers/Gameplay/MARIOBQE
+/Textures/Pipe Towers/Gameplay/MARIOCL1
+/Textures/Pipe Towers/Gameplay/MARIOCL2
+/Textures/Pipe Towers/Gameplay/MARIOCL3
+/Textures/Pipe Towers/Gameplay/MARIOCL4
+/Textures/Pipe Towers/Gameplay/MARIOGB
+/Textures/Pipe Towers/Gameplay/MARIORB
+/Textures/Pipe Towers/Gameplay/MARIOYB
+/Textures/Pipe Towers/Gameplay/MARPOW1
+/Textures/Pipe Towers/Gameplay/MARPOW2
+/Textures/Pipe Towers/Gameplay/MARQGC1
+/Textures/Pipe Towers/Gameplay/MARQGE1
+/Textures/Pipe Towers/Gameplay/MARQGO1
+/Textures/Pipe Towers/Gameplay/MARQGU1
+/Textures/Pipe Towers/Gameplay/MARQGW1
+/Textures/Pipe Towers/Gameplay/MARRAG1
+/Textures/Pipe Towers/Gameplay/MARRAGE
+/Textures/Pipe Towers/Gameplay/MARRANE
+/Textures/Pipe Towers/Gameplay/MARSL0
+/Textures/Pipe Towers/Gameplay/MARSL2
+/Textures/Pipe Towers/Gameplay/MARSL3
+/Textures/Pipe Towers/Gameplay/MARSL4
+/Textures/Pipe Towers/Gameplay/MARSL5
+/Textures/Pipe Towers/Gameplay/MARSL6
+/Textures/Pipe Towers/Gameplay/MARSL7
+/Textures/Pipe Towers/Gameplay/MARSL8
+/Textures/Pipe Towers/Gameplay/MARSL9
+/Textures/Pipe Towers/Gameplay/MARSOFF
+/Textures/Pipe Towers/Gameplay/MARSON
+/Textures/Pipe Towers/Gameplay/Pipes/MAPISUS
+/Textures/Pipe Towers/Gameplay/Pipes/MARHOCP
+/Textures/Pipe Towers/Gameplay/Pipes/MARHOR1
+/Textures/Pipe Towers/Gameplay/Pipes/MARHOR2
+/Textures/Pipe Towers/Gameplay/Pipes/MARHOR3
+/Textures/Pipe Towers/Gameplay/Pipes/MARHOR4
+/Textures/Pipe Towers/Gameplay/Pipes/MARHORP
+/Textures/Pipe Towers/Gameplay/Pipes/MARMIGP1
+/Textures/Pipe Towers/Gameplay/Pipes/MARMIGP2
+/Textures/Pipe Towers/Gameplay/Pipes/MARMIGP3
+/Textures/Pipe Towers/Gameplay/Pipes/MARMIGP4
+/Textures/Pipe Towers/Gameplay/Pipes/MARMIGP5
+/Textures/Pipe Towers/Gameplay/Pipes/MARMIGP6
+/Textures/Pipe Towers/Gameplay/Pipes/MARMIGP7
+/Textures/Pipe Towers/Gameplay/Pipes/MARMIGP8
+/Textures/Pipe Towers/Gameplay/Pipes/MARPBPE1
+/Textures/Pipe Towers/Gameplay/Pipes/MARPBPE2
+/Textures/Pipe Towers/Gameplay/Pipes/MARPIPE1
+/Textures/Pipe Towers/Gameplay/Pipes/MARPIPE2
+/Textures/Pipe Towers/Gameplay/Pipes/MARPIPE3
+/Textures/Pipe Towers/Gameplay/Pipes/MARPIPE4
+/Textures/Pipe Towers/Gameplay/Pipes/MARPIPE5
+/Textures/Pipe Towers/Gameplay/Pipes/MARPIPE6
+/Textures/Pipe Towers/Gameplay/Pipes/MARPRPE1
+/Textures/Pipe Towers/Gameplay/Pipes/MARPRPE2
+/Textures/Pipe Towers/Gameplay/Pipes/MARPYPE1
+/Textures/Pipe Towers/Gameplay/Pipes/MARPYPE2
+/Textures/Pipe Towers/Gameplay/Pipes/MAUNWPE1
+/Textures/Pipe Towers/Gameplay/Pipes/MAUNWPE2
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC01
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC02
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC03
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC04
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC05
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC06
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC07
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC08
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC09
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC10
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC11
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC12
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC13
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC14
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC15
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC16
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC17
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC18
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC19
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC20
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC21
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC22
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC23
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC24
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC25
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQC26
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO01
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO02
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO03
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO04
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO05
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO06
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO07
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO08
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO09
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO10
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO11
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO12
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO13
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO14
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO15
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO16
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO17
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO18
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO19
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO20
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO21
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO22
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO23
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO24
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO25
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQO26
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU01
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU02
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU03
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU04
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU05
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU06
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU07
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU08
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU09
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU10
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU11
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU12
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU13
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU14
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU15
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU16
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU17
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU18
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU19
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU20
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU21
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU22
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU23
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU24
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU25
+/Textures/Pipe Towers/Gameplay/Q-Blocks/MARQU26
+/Textures/Pipe Towers/Gameplay/THWOMC1
+/Textures/Pipe Towers/Gameplay/THWOMC2
+/Textures/Pipe Towers/Gameplay/THWOMC3
+/Textures/Pipe Towers/Gameplay/THWOMC4
+/Textures/Pipe Towers/Gameplay/THWOMC5
+/Textures/Pipe Towers/Gameplay/THWOMCF6
+/Textures/Pipe Towers/Gameplay/THWOMP4
+/Textures/Pipe Towers/Gameplay/THWOMP5
+/Textures/Pipe Towers/Gameplay/THWOMPF6
+/Textures/Pipe Towers/Mushrooms/MARSHB1
+/Textures/Pipe Towers/Mushrooms/MARSHB2
+/Textures/Pipe Towers/Mushrooms/MARSHB3
+/Textures/Pipe Towers/Mushrooms/MARSHB4
+/Textures/Pipe Towers/Mushrooms/MARSHB5
+/Textures/Pipe Towers/Mushrooms/MARSHBB
+/Textures/Pipe Towers/Mushrooms/MARSHBC
+/Textures/Pipe Towers/Mushrooms/MARSHG1
+/Textures/Pipe Towers/Mushrooms/MARSHG2
+/Textures/Pipe Towers/Mushrooms/MARSHG3
+/Textures/Pipe Towers/Mushrooms/MARSHR0
+/Textures/Pipe Towers/Mushrooms/MARSHR1
+/Textures/Pipe Towers/Mushrooms/MARSHR2
+/Textures/Pipe Towers/Mushrooms/MARSHR3
+/Textures/Pipe Towers/Mushrooms/MARSHR4
+/Textures/Pipe Towers/Mushrooms/MARSHR5
+/Textures/Pipe Towers/Mushrooms/MARSHR6
+/Textures/Pipe Towers/Mushrooms/MARSHR7
+/Textures/Pipe Towers/Mushrooms/MARSHR8
+/Textures/Pipe Towers/Mushrooms/MARSHR9
+/Textures/Pipe Towers/Mushrooms/MARSHS1
+/Textures/Pipe Towers/Mushrooms/MARSHS2
+/Textures/Pipe Towers/Mushrooms/MARSHS3
+/Textures/Pipe Towers/Mushrooms/MARSTE1
+/Textures/Pipe Towers/Mushrooms/MARSTE2
+/Textures/Pipe Towers/Mushrooms/MARSTE3
+/Textures/Pipe Towers/Mushrooms/MARSTE4
+/Textures/Pipe Towers/Mushrooms/MARSTE5
+/Textures/Pipe Towers/Mushrooms/MARSTE6
+/Textures/Pipe Towers/Overworld/MAOWBR1
+/Textures/Pipe Towers/Overworld/MAOWBR2
+/Textures/Pipe Towers/Overworld/MARGR2F
+/Textures/Pipe Towers/Overworld/MARGR3F
+/Textures/Pipe Towers/Overworld/MARGR4F
+/Textures/Pipe Towers/Overworld/MARGRA1
+/Textures/Pipe Towers/Overworld/MARGRA2
+/Textures/Pipe Towers/Overworld/MARGRAF
+/Textures/Pipe Towers/Overworld/MARGRAS
+/Textures/Pipe Towers/Overworld/MARGRN1
+/Textures/Pipe Towers/Overworld/MARGRN1A
+/Textures/Pipe Towers/Overworld/MARGRN1B
+/Textures/Pipe Towers/Overworld/MARGRN3
+/Textures/Pipe Towers/Overworld/MARGRN3A
+/Textures/Pipe Towers/Overworld/MARGRN3B
+/Textures/Pipe Towers/Overworld/MARGRN3C
+/Textures/Pipe Towers/Overworld/MARGRN4
+/Textures/Pipe Towers/Overworld/MARGRN5
+/Textures/Pipe Towers/Overworld/MARGRN6
+/Textures/Pipe Towers/Overworld/MARGRN7
+/Textures/Pipe Towers/Overworld/MARGRN8
+/Textures/Pipe Towers/Overworld/MARIFEA
+/Textures/Pipe Towers/Overworld/MARIFEB
+/Textures/Pipe Towers/Overworld/MARIFEC
+/Textures/Pipe Towers/Overworld/MARIFED
+/Textures/Pipe Towers/Overworld/MARIFEE
+/Textures/Pipe Towers/Overworld/MARILW1
+/Textures/Pipe Towers/Overworld/MARILW4
+/Textures/Pipe Towers/Overworld/MARILWZ
+/Textures/Pipe Towers/Overworld/MARIOBB
+/Textures/Pipe Towers/Overworld/MARIOCE2
+/Textures/Pipe Towers/Overworld/MARIOCE4
+/Textures/Pipe Towers/Overworld/MARIOCE5
+/Textures/Pipe Towers/Overworld/MARIOCE6
+/Textures/Pipe Towers/Overworld/MARIOW11
+/Textures/Pipe Towers/Overworld/MARIOW12
+/Textures/Pipe Towers/Overworld/MARIOW13
+/Textures/Pipe Towers/Overworld/MARIOW20
+/Textures/Pipe Towers/Overworld/MARIOW21
+/Textures/Pipe Towers/Overworld/MARIOW22
+/Textures/Pipe Towers/Overworld/MARIOW23
+/Textures/Pipe Towers/Overworld/MARIOW24
+/Textures/Pipe Towers/Overworld/MARIOW25
+/Textures/Pipe Towers/Overworld/MARIWA
+/Textures/Pipe Towers/Overworld/MARIWB
+/Textures/Pipe Towers/Overworld/MARWRO1
+/Textures/Pipe Towers/Overworld/MARWRO1L
+/Textures/Pipe Towers/Overworld/MARWRO2
+/Textures/Pipe Towers/Overworld/MARWRO2L
+/Textures/Pipe Towers/Overworld/MARWRO3
+/Textures/Pipe Towers/Overworld/MARWRO3L
+/Textures/Pipe Towers/Overworld/MARWRO4
+/Textures/Pipe Towers/Overworld/MARWRO4L
+/Textures/Pipe Towers/Overworld/MARWRO5
+/Textures/Pipe Towers/Overworld/MARWRO5L
+/Textures/Pipe Towers/Overworld/MARWRO6
+/Textures/Pipe Towers/Overworld/MARWRO6L
+/Textures/Pipe Towers/Overworld/PTZWAL21
+/Textures/Pipe Towers/Overworld/PTZWAL22
+/Textures/Pipe Towers/Overworld/PTZWAL23
+/Textures/Pipe Towers/Overworld/PTZWAL24
+/Textures/Pipe Towers/Overworld/PTZWAL25
+/Textures/Pipe Towers/Overworld/PTZWAL26
+/Textures/Pipe Towers/Overworld/PTZWAL27
+/Textures/Pipe Towers/Overworld/PTZWAL28
+/Textures/Pipe Towers/Overworld/PTZWAL29
+/Textures/Pipe Towers/Overworld/PTZWAL30
+/Textures/Pipe Towers/Overworld/PTZWAL31
+/Textures/Pipe Towers/Overworld/PTZWAL32
+/Textures/Pipe Towers/Overworld/PTZWAL33
+/Textures/Pipe Towers/Overworld/PTZWAL34
+/Textures/Pipe Towers/Overworld/PTZWAL35
+/Textures/Pipe Towers/Overworld/PTZWAL36
+/Textures/Pipe Towers/Overworld/PTZWAL37
+/Textures/Pipe Towers/Overworld/PTZWAL38
+/Textures/Pipe Towers/Overworld/PTZWAL39
+/Textures/Pipe Towers/Overworld/PTZWAL40
+/Textures/Pipe Towers/Overworld/PTZWAL41
+/Textures/Pipe Towers/Overworld/PTZWAL42
+/Textures/Pipe Towers/Overworld/PTZWAL43
+/Textures/Pipe Towers/Overworld/PTZWAXL1
+/Textures/Pipe Towers/Overworld/PTZWAXL2
+/Textures/Pipe Towers/Overworld/PTZWAXL3
+/Textures/Pipe Towers/Overworld/PTZWAXL4
+/Textures/Pipe Towers/Overworld/PTZWAXL5
+/Textures/Pipe Towers/Skies/SKY80
+/Textures/Pipe Towers/Underground/MARBNGN
+/Textures/Pipe Towers/Underground/MARBRI4
+/Textures/Pipe Towers/Underground/MAREB2
+/Textures/Pipe Towers/Underground/MARILU1
+/Textures/Pipe Towers/Underground/MARILU4
+/Textures/Pipe Towers/Underground/MARIOU8
+/Textures/Pipe Towers/Underground/MARIOU9
+/Textures/Pipe Towers/Underground/MARIOUA
+/Textures/Pipe Towers/Underground/MARIOUB
+/Textures/Pipe Towers/Underground/MARIOUC
+/Textures/Pipe Towers/Underground/MARIOUD
+/Textures/Pipe Towers/Underground/MARIOUE
+/Textures/Pipe Towers/Underground/MARIOUF
+/Textures/Pipe Towers/Underground/MARIUBB
+/Textures/Pipe Towers/Underground/MARUND1
+/Textures/Pipe Towers/Underground/MARUND2
+/Textures/Pipe Towers/Underground/MARUND2A
+/Textures/Pipe Towers/Underground/MARUND2B
+/Textures/Pipe Towers/Underground/MARUND3
+/Textures/Pipe Towers/Underground/MARUND4
+/Textures/Pipe Towers/Underground/MARUND5
+/Textures/Pipe Towers/Underground/MAUNBR1
+/Textures/Pipe Towers/Underground/PTUGRA
+/Textures/Pipe Towers/Underground/PTUGRA1
+/Textures/Pipe Towers/Underground/PTUGRM
+/Textures/Pipe Towers/Underground/PTUGRM1
+/Textures/Pipe Towers/Underground/PTUGRM2
+/Textures/Pipe Towers/Underground/PTUGRM3
+/Textures/Pipe Towers/Underground/PTUGRM4
+/Textures/Pipe Towers/Underground/PTUWAXL1
+/Textures/Pipe Towers/Underground/PTZNOM2
+/Textures/Pipe Towers/Underground/PTZWAL0A
+/Textures/Pipe Towers/Underground/PTZWAL0B
+/Textures/Pipe Towers/Underground/PTZWAL0C
+/Textures/Pipe Towers/Underground/PTZWAL0D
+/Textures/Pipe Towers/Underground/PTZWAL0E
+/Textures/Pipe Towers/Underground/PTZWAL0F
+/Textures/Pipe Towers/Underground/PTZWAL0G
+/Textures/Pipe Towers/Underground/PTZWAL0H
+/Textures/Pipe Towers/Underground/PTZWAL0I
+/Textures/Pipe Towers/Underground/PTZWAL0J
+/Textures/Pipe Towers/Underground/PTZWAL0K
+/Textures/Pipe Towers/Underground/PTZWAL0L
+/Textures/Pipe Towers/Underground/PTZWAL0M
+/Textures/Pipe Towers/Underground/PTZWAL0N
+/Textures/Pipe Towers/Underground/PTZWAL0O
+/Textures/Pipe Towers/Underground/PTZWAL0P
+/Textures/Pipe Towers/Underground/PTZWAL0Q
+/Textures/Pipe Towers/Underground/PTZWAL0R
+/Textures/Pipe Towers/Underground/PTZWAL0S
+/Textures/Pipe Towers/Underground/PTZWAL0T
+/Textures/Pipe Towers/Underground/PTZWAL0U
+/Textures/Pipe Towers/Underground/PTZWAL0V
 /Textures/RAINBOW1	"Zibon 'PixL' Badi"
 /Textures/RAINBOW2	"Zibon 'PixL' Badi"
 /Textures/RAINBOW3	"Zibon 'PixL' Badi"
@@ -11150,6 +12840,10 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Sands/QFALL2
 /Textures/Sands/QFALL3
 /Textures/Sands/QFALL4
+/Textures/Signs/TH2_NS8	"Zibon 'PixL' Badi"
+/Textures/Signs/TH2_NS9	"Zibon 'PixL' Badi"
+/Textures/Signs/TH2_NSS1	"Zibon 'PixL' Badi"
+/Textures/Signs/TH2_NSS2	"Zibon 'PixL' Badi"
 /Textures/Skies/NiGHTS/SKY127
 /Textures/Skies/NiGHTS/SKY128
 /Textures/Skies/NiGHTS/SKY129
@@ -11296,67 +12990,6 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Special Stages/YSPECW2
 /Textures/Special Stages/YSPECW3
 /Textures/Special Stages/YSPECW4
-/Textures/Industrial/STLBLOK1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLBLOK2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLBLUE1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLBLUE2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLBLUE3	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLBLUE4	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLBLUE5	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLBLUE6	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLCORNL	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLCORNR	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLLITE1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLLITE2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLLITE3	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLLITE4	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLLITE5	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLLITE6	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDL1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDL2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDL3	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDL4	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDL5	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDL6	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDR1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDR2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDR3	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDR4	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDR5	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDR6	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDU1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDU2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDU3	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDU4	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDU5	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDU6	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDD1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDD2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDD3	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDD4	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDD5	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLREDD6	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLSUPP1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLSUPP2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLSUPP3	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLSUPP4	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLSUPP5	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLSUPPA
-/Textures/Industrial/STLSUPPB
-/Textures/Industrial/STLSUPPC
-/Textures/Industrial/STLSUPPD
-/Textures/Industrial/STLSUPPE
-/Textures/Industrial/STLSUPPF
-/Textures/Industrial/STLSUPPG
-/Textures/Industrial/STLSUPPH
-/Textures/Industrial/STLWAL01	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLWAL02	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLYELW1	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLYELW2	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLYELW3	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLYELW4	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLYELW5	"Zibon 'PixL' Badi"
-/Textures/Industrial/STLYELW6	"Zibon 'PixL' Badi"
 /Textures/THWOMP1
 /Textures/THWOMP2
 /Textures/THWOMP3
@@ -11377,15 +13010,8 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/COMP8
 /Textures/Techno Hill/FMETAL1W
 /Textures/Techno Hill/FMETAL2W
-/Textures/Computers/INFOWAL1	"Zibon 'PixL' Badi"
-/Textures/Computers/INFOWAL2	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/PIPE2
 /Textures/Techno Hill/PIPE3
-/Textures/Computers/REDEGG1	"Zibon 'PixL' Badi"
-/Textures/Computers/REDEGG2	"Zibon 'PixL' Badi"
-/Textures/Computers/REDEGG3	"Zibon 'PixL' Badi"
-/Textures/Computers/REDEGG4	"Zibon 'PixL' Badi"
-/Textures/Computers/SPECWLL1	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/STEEL2W
 /Textures/Techno Hill/STEEL3W
 /Textures/Techno Hill/STEEL4W
@@ -11403,20 +13029,6 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/STKBOXT2
 /Textures/Techno Hill/STKBOXT3
 /Textures/Techno Hill/STKBOXT4
-/Textures/Cityscape/TH2_NS1	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NS2	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NS3	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NS4	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NS5	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NS6	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NS7	"Zibon 'PixL' Badi"
-/Textures/Signs/TH2_NS8	"Zibon 'PixL' Badi"
-/Textures/Signs/TH2_NS9	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NSA	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NSB	"Zibon 'PixL' Badi"
-/Textures/Cityscape/TH2_NSC	"Zibon 'PixL' Badi"
-/Textures/Signs/TH2_NSS1	"Zibon 'PixL' Badi"
-/Textures/Signs/TH2_NSS2	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/TH2_SB1
 /Textures/Techno Hill/TH2_SB2
 /Textures/Techno Hill/TH2_SB3
@@ -11589,12 +13201,6 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THZMETL3
 /Textures/Techno Hill/THZMETL4
 /Textures/Techno Hill/THZPIPE
-/Textures/Industrial/THZPIPE1	"Zibon 'PixL' Badi"
-/Textures/Industrial/THZPIPE2	"Zibon 'PixL' Badi"
-/Textures/Industrial/THZPIPE3	"Zibon 'PixL' Badi"
-/Textures/Industrial/THZPIPE4	"Zibon 'PixL' Badi"
-/Textures/Industrial/THZPIPE5	"Zibon 'PixL' Badi"
-/Textures/Industrial/THZPIPE6	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THZRAIL
 /Textures/Techno Hill/THZREACT
 /Textures/Techno Hill/THZROCK
@@ -11721,7 +13327,6 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/WEBB2
 /Textures/WEBBIG
 /Textures/WEEDWALL
-/Textures/WHITEWAL
 /Textures/WHZFLR16
 /Textures/WHZFLR17
 /Textures/WIND1
@@ -11789,103 +13394,93 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Textures/ZIMWALL8
 /Textures/ZIMWALL9
 /WATERMAP
-/Music/MUSICDEF.dat	Everyone	(partial)
-/Music/D_BCZ1.mid	"Zibon 'PixL' Badi"
-/Music/D_RVZ2.mid	"Zibon 'PixL' Badi"
-/Music/D_GFZ1.mid	"Zibon 'PixL' Badi"
-/Music/D_MARIO1.mid	"Zibon 'PixL' Badi"
-/Music/O__1UP.ogg	"Zibon 'PixL' Badi"
-/Music/O_ACZ1.ogg	"Zibon 'PixL' Badi"
-/Music/O_ACZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O_AGZALT.ogg
-/Music/O_AGZ.ogg
-/Music/O_APZ1.ogg
-/Music/O_APZ2.ogg
-/Music/O_ATZ.ogg
-/Music/O_BCZ1.ogg	"Zibon 'PixL' Badi"
-/Music/O_BCZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O_BHZ.ogg
-/Music/O_CCW.ogg	"Zibon 'PixL' Badi"
-/Music/O_CCZ.ogg
-/Music/O_CEZ1.ogg	"Zibon 'PixL' Badi"
-/Music/O_CEZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O_CEZR.ogg
-/Music/O__CHSEL.ogg	astral
-/Music/O__CLEAR.ogg	"Zibon 'PixL' Badi"
-/Music/O__CONTI.ogg	"Zibon 'PixL' Badi"
-/Music/O__CREDS.ogg
-/Music/O_DCZ.ogg
-/Music/O_DHZ.ogg
-/Music/O_DISCO.ogg	"Zibon 'PixL' Badi"
-/Music/O__DROWN.ogg	"Zibon 'PixL' Badi"
-/Music/O_DSZ1.ogg	"Zibon 'PixL' Badi"
-/Music/O_DSZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O__ENDB.ogg
-/Music/O__ENDG.ogg
-/Music/O_ERZ1.ogg	"Zibon 'PixL' Badi"
-/Music/O_ERZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O_FHZ.ogg
-/Music/O_GFZ1.ogg	"Zibon 'PixL' Badi"
-/Music/O_GFZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O_GFZALT.ogg
-/Music/O__GOVER.ogg	"Zibon 'PixL' Badi"
-/Music/O_HAUNTD.ogg
-/Music/O__INTER.ogg
-/Music/O__INTRO.ogg
-/Music/O__INV.ogg	"Zibon 'PixL' Badi"
-/Music/O_MARIO1.ogg	"Zibon 'PixL' Badi"
-/Music/O_MARIO2.ogg
-/Music/O__MINV.ogg
-/Music/O_MP_0RI.ogg
-/Music/O_MP_AIR.ogg
-/Music/O_MP_COA.ogg
-/Music/O_MP_DES.ogg	"Zibon 'PixL' Badi"
-/Music/O_MP_DOM.ogg
-/Music/O_MP_FIR.ogg
-/Music/O_MP_FOR.ogg
-/Music/O_MP_FR2.ogg
-/Music/O_MP_GHZ.ogg
-/Music/O_MP_GL2.ogg
-/Music/O_MP_GLZ.ogg
-/Music/O_MP_ICE.ogg
-/Music/O_MP_MED.ogg
-/Music/O_MP_MIN.ogg
-/Music/O_MP_MRZ.ogg
-/Music/O_MP_RAI.ogg
-/Music/O_MP_SUN.ogg
-/Music/O_MP_WT2.ogg
-/Music/O_MP_WTR.ogg
-/Music/O__NITAT.ogg
-/Music/O__NTIME.ogg	"Zibon 'PixL' Badi"
-/Music/O_OINTRO.ogg
-/Music/O_OSPEC2.ogg
-/Music/O_OSPEC.ogg
-/Music/O__RECAT.ogg	"Zibon 'PixL' Badi"
-/Music/O_RVZ1.ogg	"Zibon 'PixL' Badi"
-/Music/O_RVZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O_RVZALT.ogg
-/Music/O__SHOES.ogg
-/Music/O_SPEC1.ogg
-/Music/O_SPEC2.ogg
-/Music/O_SPEC3.ogg
-/Music/O_SPEC4.ogg
-/Music/O_SPEC5.ogg
-/Music/O_SPEC6.ogg
-/Music/O_SPEC7.ogg
-/Music/O_SPEC8.ogg
-/Music/O__STJR.ogg	"Zibon 'PixL' Badi"
-/Music/O__SUPER.ogg	"Zibon 'PixL' Badi"
-/Music/O_THZ1.ogg
-/Music/O_THZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O_THZALT.ogg
-/Music/O__TITLE.ogg	"Zibon 'PixL' Badi"
-/Music/O_TUTORL.ogg
-/Music/O_VSAGZ.ogg
-/Music/O_VSALT.ogg
-/Music/O_VSBOSS.ogg	"Zibon 'PixL' Badi"
-/Music/O_VSBRAK.ogg	"Zibon 'PixL' Badi"
-/Music/O_VSFANG.ogg	"Zibon 'PixL' Badi"
-/Music/O_VSMETL.ogg	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIA1A5	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIA2A8	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIA3A7	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIA4A6	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIA9AG	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIAAAF	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIABAE	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIACAD	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIB1H5	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIB2B8	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIB3B7	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIB4B6	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIB9BG	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIBABF	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIBBBE	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIBCBD	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIC1G5	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIC2C8	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIC3C7	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIC4C6	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIC9CG	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMICACF	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMICBCE	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMICCCD	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMID1F5	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMID2D8	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMID3D7	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMID4D6	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMID9DG	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIDADF	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIDBDE	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIDCDD	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIE1E5	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIE2E8	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIE3E7	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIE4E6	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIE9EG	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIEAEF	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIEBEE	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIECED	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIF1D5	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIF2F8	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIF3F7	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIF4F6	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIF9FG	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIFAFF	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIFBFE	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIFCFD	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIG1C5	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIG2G8	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIG3G7	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIG4G6	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIG9GG	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIGAGF	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIGBGE	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIGCGD	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIH1B5	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIH2H8	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIH3H7	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIH4H6	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIH9HG	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIHAHF	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIHBHE	"Zibon 'PixL' Badi"
+/Sprites/8ball/PUMIHCHD	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTA0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTB0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTC0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTD0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTE0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTF0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTG0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTH0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTI0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTJ0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTK0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTL0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTM0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTN0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTO0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTP0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTQ0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTR0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTS0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTT0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTU0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTV0	"Zibon 'PixL' Badi"
+/Sprites/Checkpoint/STPTW0	"Zibon 'PixL' Badi"
 
 
 ### Characters
@@ -13852,4 +15447,3 @@ Sprites/Checkpoint/STPTW0.png	"Zibon 'PixL' Badi"
 /Maps/MAPMA.wad
 /Maps/MAPMB.wad
 /Maps/MAPZ0.wad
-
