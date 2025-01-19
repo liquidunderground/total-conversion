@@ -10787,15 +10787,18 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Deep Sea/DSZWALL1
 /Textures/Deep Sea/DSZWALL2
 /Textures/Deep Sea/DSZWALL3
-/Textures/Dev Textures/DEV064
-/Textures/Dev Textures/DEV064B
-/Textures/Dev Textures/DEV064G
-/Textures/Dev Textures/DEV128
-/Textures/Dev Textures/DEV128B
-/Textures/Dev Textures/DEV128G
-/Textures/Dev Textures/DEV256
-/Textures/Dev Textures/DEV256B
-/Textures/Dev Textures/DEV256G
+/Textures/Development/DEV064	"Zibon 'PixL' Badi"
+/Textures/Development/DEV064B	"Zibon 'PixL' Badi"
+/Textures/Development/DEV064G	"Zibon 'PixL' Badi"
+/Textures/Development/DEV128	"Zibon 'PixL' Badi"
+/Textures/Development/DEV128B	"Zibon 'PixL' Badi"
+/Textures/Development/DEV128G	"Zibon 'PixL' Badi"
+/Textures/Development/DEV256	"Zibon 'PixL' Badi"
+/Textures/Development/DEV256B	"Zibon 'PixL' Badi"
+/Textures/Development/DEV256G	"Zibon 'PixL' Badi"
+/Textures/Development/DEV512	"Zibon 'PixL' Badi"
+/Textures/Development/DEV512B	"Zibon 'PixL' Badi"
+/Textures/Development/DEV512G	"Zibon 'PixL' Badi"
 /Textures/Dev Textures/DEVEDGE
 /Textures/Dev Textures/DEVEDGEB
 /Textures/Dev Textures/DEVEDGEG
@@ -11883,18 +11886,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Misc/DANCE2	"Zibon 'PixL' Badi"
 /Textures/Misc/DANCE3	"Zibon 'PixL' Badi"
 /Textures/Misc/DANCE4	"Zibon 'PixL' Badi"
-/Textures/Misc/TWB064	"Zibon 'PixL' Badi"
-/Textures/Misc/TWB128	"Zibon 'PixL' Badi"
-/Textures/Misc/TWB256	"Zibon 'PixL' Badi"
-/Textures/Misc/TWB512	"Zibon 'PixL' Badi"
-/Textures/Misc/TWG064	"Zibon 'PixL' Badi"
-/Textures/Misc/TWG128	"Zibon 'PixL' Badi"
-/Textures/Misc/TWG256	"Zibon 'PixL' Badi"
-/Textures/Misc/TWG512	"Zibon 'PixL' Badi"
-/Textures/Misc/TWO064	"Zibon 'PixL' Badi"
-/Textures/Misc/TWO128	"Zibon 'PixL' Badi"
-/Textures/Misc/TWO256	"Zibon 'PixL' Badi"
-/Textures/Misc/TWO512	"Zibon 'PixL' Badi"
 /Textures/Multiplayer/Celestial Sanctuary/PCM10
 /Textures/Multiplayer/Celestial Sanctuary/PCM11
 /Textures/Multiplayer/Celestial Sanctuary/PRZTIL01
