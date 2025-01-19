@@ -10799,21 +10799,24 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Development/DEV512	"Zibon 'PixL' Badi"
 /Textures/Development/DEV512B	"Zibon 'PixL' Badi"
 /Textures/Development/DEV512G	"Zibon 'PixL' Badi"
-/Textures/Dev Textures/DEVEDGE
-/Textures/Dev Textures/DEVEDGEB
-/Textures/Dev Textures/DEVEDGEG
-/Textures/Dev Textures/DEVG064
-/Textures/Dev Textures/DEVG064B
-/Textures/Dev Textures/DEVG064G
-/Textures/Dev Textures/DEVG128
-/Textures/Dev Textures/DEVG128B
-/Textures/Dev Textures/DEVG128G
-/Textures/Dev Textures/DEVG256
-/Textures/Dev Textures/DEVG256B
-/Textures/Dev Textures/DEVG256G
-/Textures/Dev Textures/DEVGRS
-/Textures/Dev Textures/DEVGRSB
-/Textures/Dev Textures/DEVGRSG
+/Textures/Development/DEVEDGE	"Zibon 'PixL' Badi"
+/Textures/Development/DEVEDGEB	"Zibon 'PixL' Badi"
+/Textures/Development/DEVEDGEG	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG064	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG064B	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG064G	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG128	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG128B	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG128G	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG256	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG256B	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG256G	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG512	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG512B	"Zibon 'PixL' Badi"
+/Textures/Development/DEVG512G	"Zibon 'PixL' Badi"
+/Textures/Development/DEVGRS	"Zibon 'PixL' Badi"
+/Textures/Development/DEVGRSB	"Zibon 'PixL' Badi"
+/Textures/Development/DEVGRSG	"Zibon 'PixL' Badi"
 /Textures/ECVINESW
 /Textures/ECVINETW
 /Textures/Egg Rock/ERZBLUE6
