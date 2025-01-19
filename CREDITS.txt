@@ -119,7 +119,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /TEXTURES
 /TEXTURES.smz/OLDGFZG1	"Zibon 'PixL' Badi"
 /TEXTURES.smz/OLDGFZG2	"Zibon 'PixL' Badi"
-/TEXTURES/-
+/TEXTURES.misc/-	"Zibon 'PixL' Badi"
 /TEXTURES/ACFENC1
 /TEXTURES/ACFENC2
 /TEXTURES/ACMINE1
@@ -553,7 +553,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /TEXTURES/XMSCRACX
 /TEXTURES/XMSROCKB
 /TEXTURES/YELWALL
-/TEXTURES/~PIT
+/TEXTURES.misc/~PIT	"Zibon 'PixL' Badi"
 /Fades/FADE0000	"Zibon 'PixL' Badi"
 /Fades/FADE0001	"Zibon 'PixL' Badi"
 /Fades/FADE0002	"Zibon 'PixL' Badi"
