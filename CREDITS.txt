@@ -3220,6 +3220,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/O_BHZ.ogg
 /Music/O_CCW.ogg	"Zibon 'PixL' Badi"
 /Music/O_CCZ.ogg
+/Music/O_CHPASS.ogg	"Zibon 'PixL' Badi"
+/Music/O_CHFAIL.ogg	"Zibon 'PixL' Badi"
 /Music/O_CEZ1.ogg	"Zibon 'PixL' Badi"
 /Music/O_CEZ2.ogg	"Zibon 'PixL' Badi"
 /Music/O_CEZR.ogg
