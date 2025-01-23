@@ -1,0 +1,3 @@
+[submodule "pk3make"]
+	path = pk3make
+	url = git@github.com:liquidunderground/pk3make.git
