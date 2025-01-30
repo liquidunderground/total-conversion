@@ -1,0 +1,399 @@
+# === Weissblatt PK3Makefile ===
+#
+# Neatly ordered into sections:
+# - Basics
+# - Music
+# - SFX
+# - SOC
+# - Lua
+# - Fades
+# - Flats
+# - Graphics
+# - Patches
+# - Sprites
+# - Textures
+
+?srcdir: src 
+?workdir: build 
+?palette: PLAYPAL 
+?destfile: bin/whatever.pk3
+
+
+# ===== LUMPDEFs =====
+# --- Basics ---
+PLAYPAL palette
+PAL* palette
+CLM0031 colormap PAL0031
+COLORMAP colormap PLAYPAL
+TEXTURES* raw
+ANIMDEFS* raw
+
+# --- Music ---
+MUSICDEF raw
+D_*.mid raw
+O_*.ogg raw
+
+# --- SFX ---
+DS*.ogg raw
+
+# --- SOC ---
+SOC_* raw
+*.soc raw
+
+# --- Lua (unused) ---
+*.lua raw
+
+# --- Fades ---
+FA_START marker
+FADE00* fade
+FA_END marker
+FA_START marker
+FADE69* fade
+FA_END marker
+FA_START marker
+FADE88* fade
+FA_END marker
+FA_START marker
+FADE99* fade
+FA_END marker
+
+# --- Flats ---
+Flats/* flat
+
+# --- Graphics ---
+# HUD Graphics
+TTWING graphic 30 10
+### Titlecard
+LTACTBLU graphic 25 15
+LTACTRED graphic 20 24
+LTZIGZAG0 graphic -5 0
+### Game Over
+SLIDGAME graphic 85 15
+SLIDOVER graphic 100 15
+SLIDTIME graphic 85 15
+# Moon altars (Token slots)
+EMBOX graphic 16 20
+# LTFNT (Title font)
+LTFNT033 graphic 0 -4
+LTFNT034 graphic 0 -4
+LTFNT038 graphic 0 -4
+LTFNT039 graphic 0 -4
+LTFNT044 graphic 0 -4
+LTFNT045 graphic 0 -4
+LTFNT046 graphic 0 -4
+LTFNT048 graphic 0 -4
+LTFNT049 graphic 0 -4
+LTFNT050 graphic 0 -4
+LTFNT051 graphic 0 -4
+LTFNT052 graphic 0 -4
+LTFNT053 graphic 0 -4
+LTFNT054 graphic 0 -4
+LTFNT055 graphic 0 -4
+LTFNT056 graphic 0 -4
+LTFNT057 graphic 0 -4
+LTFNT063 graphic 0 -4
+LTFNT097 graphic 0 -4
+LTFNT098 graphic 0 -4
+LTFNT099 graphic 0 -4
+LTFNT100 graphic 0 -4
+LTFNT101 graphic 0 -4
+LTFNT102 graphic 0 -4
+LTFNT103 graphic 0 -4
+LTFNT104 graphic 0 -4
+LTFNT105 graphic 0 -4
+LTFNT106 graphic 0 -4
+LTFNT107 graphic 0 -4
+LTFNT108 graphic 0 -4
+LTFNT109 graphic 0 -4
+LTFNT110 graphic 0 -4
+LTFNT111 graphic 0 -4
+LTFNT112 graphic 0 -4
+LTFNT113 graphic 0 -4
+LTFNT114 graphic 0 -4
+LTFNT115 graphic 0 -4
+LTFNT116 graphic 0 -4
+LTFNT117 graphic 0 -4
+LTFNT118 graphic 0 -4
+LTFNT119 graphic 0 -4
+LTFNT120 graphic 0 -4
+LTFNT121 graphic 0 -4
+LTFNT122 graphic 0 -4
+### HUD
+TAGICO graphic 16 0
+YB_TOTAL graphic 43 0
+YB_TIME graphic 84 4
+YB_SCORE graphic 45 4
+YB_RING graphic 84 4
+YB_PERFE graphic 109 4
+YB_NIGHT graphic 100 4
+YB_LINK graphic 84 4
+YB_LAP graphic 77 4
+YB_GUARD graphic 92 4
+YB_CONTI graphic 80 4
+### Chakra Shards
+CHAOS1 graphic 2 5
+CHAOS2 graphic 2 5
+CHAOS3 graphic 2 5
+CHAOS4 graphic 2 5
+CHAOS5 graphic 2 5
+CHAOS6 graphic 2 5
+CHAOS7 graphic 2 5
+CHAOS8 graphic 2 5
+### Continue Screeen
+CONTSTAR graphic 12 0
+CONTSPOT graphic 32 8
+CONTNUM0 graphic 8 0
+CONTNUM1 graphic 8 0
+CONTNUM2 graphic 8 0
+CONTNUM3 graphic 8 0
+CONTNUM4 graphic 8 0
+CONTNUM5 graphic 8 0
+CONTNUM6 graphic 8 0
+CONTNUM7 graphic 8 0
+CONTNUM8 graphic 8 0
+CONTNUM9 graphic 8 0
+### Character Select font - Back
+NTFNO031 graphic 0 1
+NTFNO033 graphic 0 0
+NTFNO035 graphic 0 0
+NTFNO037 graphic 0 -1
+NTFNO038 graphic 0 0
+NTFNO039 graphic 0 0
+NTFNO040 graphic 0 -1
+NTFNO041 graphic 0 -1
+NTFNO042 graphic 0 -3
+NTFNO043 graphic 0 -4
+NTFNO044 graphic 0 -13
+NTFNO045 graphic 0 -7
+NTFNO046 graphic 0 -13
+NTFNO047 graphic 0 -1
+NTFNO048 graphic 0 0
+NTFNO049 graphic 0 0
+NTFNO050 graphic 0 0
+NTFNO051 graphic 0 0
+NTFNO052 graphic 0 0
+NTFNO053 graphic 0 0
+NTFNO054 graphic 0 0
+NTFNO055 graphic 0 -1
+NTFNO056 graphic 0 0
+NTFNO057 graphic 0 0
+NTFNO058 graphic -1 -4
+NTFNO059 graphic 0 -4
+NTFNO061 graphic 0 -1
+NTFNO062 graphic 0 -5
+NTFNO063 graphic 0 -1
+NTFNO065 graphic 0 0
+NTFNO066 graphic 0 0
+NTFNO067 graphic 0 0
+NTFNO068 graphic 0 0
+NTFNO069 graphic 0 0
+NTFNO070 graphic 0 0
+NTFNO071 graphic 0 0
+NTFNO072 graphic 0 0
+NTFNO073 graphic 0 0
+NTFNO074 graphic 0 0
+NTFNO075 graphic 0 0
+NTFNO076 graphic 0 0
+NTFNO077 graphic 0 0
+NTFNO078 graphic 0 0
+NTFNO079 graphic 0 0
+NTFNO080 graphic 0 0
+NTFNO081 graphic 0 0
+NTFNO082 graphic 0 0
+NTFNO083 graphic 0 0
+NTFNO084 graphic 0 0
+NTFNO085 graphic 0 0
+NTFNO086 graphic 0 0
+NTFNO087 graphic 0 0
+NTFNO088 graphic 0 0
+NTFNO089 graphic 0 0
+NTFNO090 graphic 0 -1
+NTFNO092 graphic 0 -1
+NTFNO095 graphic 0 -7
+NTFNO126 graphic 0 -6
+### Character Select font - Front
+NTFNT031 graphic -2 -2
+NTFNT033 graphic -2 -2
+NTFNT035 graphic -2 -2
+NTFNT037 graphic -2 -3
+NTFNT038 graphic -2 -2
+NTFNT039 graphic -2 -2
+NTFNT040 graphic -2 -2
+NTFNT041 graphic -2 -2
+NTFNT042 graphic -2 -5
+NTFNT043 graphic -2 -6
+NTFNT044 graphic -2 -15
+NTFNT045 graphic -2 -9
+NTFNT046 graphic -2 -15
+NTFNT047 graphic -2 -3
+NTFNT048 graphic -2 -2
+NTFNT049 graphic -2 -2
+NTFNT050 graphic -2 -2
+NTFNT051 graphic -2 -2
+NTFNT052 graphic -2 -2
+NTFNT053 graphic -2 -2
+NTFNT054 graphic -2 -2
+NTFNT055 graphic -2 -3
+NTFNT056 graphic -2 -2
+NTFNT057 graphic -2 -2
+NTFNT058 graphic -3 -6
+NTFNT059 graphic -2 -6
+NTFNT061 graphic -2 -3
+NTFNT062 graphic -2 -7
+NTFNT063 graphic -2 -3
+NTFNT065 graphic -2 -2
+NTFNT066 graphic -2 -2
+NTFNT067 graphic -2 -2
+NTFNT068 graphic -2 -2
+NTFNT069 graphic -2 -2
+NTFNT070 graphic -2 -2
+NTFNT071 graphic -2 -2
+NTFNT072 graphic -2 -2
+NTFNT073 graphic -2 -2
+NTFNT074 graphic -2 -2
+NTFNT075 graphic -2 -2
+NTFNT076 graphic -2 -2
+NTFNT077 graphic -2 -2
+NTFNT078 graphic -2 -2
+NTFNT079 graphic -2 -2
+NTFNT080 graphic -2 -2
+NTFNT081 graphic -2 -2
+NTFNT082 graphic -2 -2
+NTFNT083 graphic -2 -2
+NTFNT084 graphic -2 -2
+NTFNT085 graphic -2 -2
+NTFNT086 graphic -2 -2
+NTFNT087 graphic -2 -2
+NTFNT088 graphic -2 -2
+NTFNT089 graphic -2 -2
+NTFNT090 graphic -2 -2
+NTFNT092 graphic -2 -3
+NTFNT095 graphic -2 -9
+NTFNT126 graphic -2 -8
+### Menu
+M_SLIDEL graphic -2 0
+#### Menu Headers
+M_ADDONS graphic 0 3
+M_ATTACK graphic 0 3
+M_CONTRO graphic 0 3
+M_DATA graphic 0 3
+M_MULTI graphic 0 3
+M_NIGHTS graphic 0 3
+M_OPTTTL graphic 0 3
+M_PANDRA graphic 0 3
+M_PICKG graphic 0 3
+M_PICKP graphic 0 3
+M_RATHON graphic 0 3
+M_SCREEN graphic 0 3
+M_SECRET graphic 0 3
+M_SERVER graphic 0 3
+M_SOUND graphic 0 3
+M_SPLAYR graphic 0 3
+M_STATS graphic 0 3
+M_VIDEO graphic 0 3
+
+# --- Patches ---
+Patches/* graphic 0 0
+
+# --- Sprites ---
+### KOTU targetting
+TARG* graphic 32 64
+### Checkpoints
+STPT* graphic sprite
+### Emblems
+EMBM* graphic sprite
+### Chakra Shards and hunting gems
+CEMG graphic 11 25
+SHRD graphic 8 38
+### Chakra Shards and hunting gems
+FWR1 graphic 16 46
+FWR2 graphic 16 126
+FWR3 graphic 7 30
+### Springs
+SPRR* graphic 22 102 # Vertical
+SPRY* graphic 22 102
+SPRB* graphic 22 102
+RSPR* graphic 22 102 # Diagonal
+YSPR* graphic 22 102
+BSPR* graphic 22 102
+SSWR* graphic 86 40 # Horizontal
+SSWB* graphic 86 40
+SSWY* graphic 86 40
+### Gems & Spells
+RING graphic 16 30
+SPRK graphic 16 30
+PIKA* graphic 24 44
+PIKB* graphic 24 44
+PIKE* graphic 24 44
+PIKG* graphic 24 44
+PIKI* graphic 24 44
+PIKR* graphic 24 44
+PIKS* graphic 24 44
+TAUT* graphic 16 28
+TBNC* graphic 16 28
+TGRE* graphic 16 28
+TINF* graphic 16 28
+TSCR* graphic 16 28
+TXPL* graphic 16 28
+### Level end portal
+SIGNA0 graphic 40 48
+SIGNB0 graphic 22 48
+SIGN graphic 40 94
+### Item boxes
+TRRI graphic 19 42
+TRBI graphic 19 42
+MSTVB0 graphic 19 42
+XLTV graphic 21 46
+### Item box signs
+TV1U* graphic 12 20
+TV1P* graphic 12 20
+XLTV graphic 21 46
+### Particle FX
+BOM1 graphic 32 60
+LSTR graphic 16 16
+LHRT graphic 16 16
+### Special stage Token
+TOKE graphic 18 36
+### Spikes/Thorns
+USPKA0 graphic 8 38
+USPKB0 graphic 8 38
+USPKC0 graphic 8 38
+USPKD0 graphic 8 38
+USPKELER graphic 0 14
+USPKFLFR graphic 0 14
+WSPKALAR graphic 21 14
+WSPKBLBR graphic 13 14
+WSPKCLCR graphic 9 14
+WSPKDLDR graphic 5 14
+WSPKELER graphic 11 14
+WSPKFLFR graphic 11 14
+WSPB graphic 8 16
+### FPS Sprites: Tag icon/Team gems/Flags
+Targets/TTAGA0 graphic 16 32
+Targets/GFLGA0 graphic 36 13
+Targets/GFLGB0 graphic 24 48
+Targets/GFLGC0 graphic 24 48
+Targets/LCKNA0 graphic 16 32
+Targets/LCKNB0 graphic 16 32
+Targets/LCKNC0 graphic 16 32
+Targets/LCKND0 graphic 16 32
+TRNG* graphic 16 30
+RRNG* graphic 16 30
+BFLG* graphic 14 69
+RFLG* graphic 14 69
+# Bushes
+BUS1 graphic 25 66
+BUS2 graphic 25 66
+BUS3 graphic 37 70
+### Trees
+TRE1 graphic 90 245
+TRE3 graphic 28 252
+TRE5 graphic 28 252
+TRE6 graphic 70 162
+### Misc.: Missing sprite/etc.
+PUMI* graphic 40 72 # 8-Ball
+UNKN* graphic 16 36
+
+# --- Textures ---
+Textures/* graphic 0 0
+
