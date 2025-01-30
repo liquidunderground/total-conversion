@@ -14519,8 +14519,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/MARA/XTRAD0
 /Characters/MARA/XTRAE0
 /Characters/MARA/XTRAF0
-/Characters/Elise/CNT1A0
-/Characters/Elise/CNT1B0
+/Characters/Elise/CNT1A0	"Zibon 'PixL' Badi"
+/Characters/Elise/CNT1B0	"Zibon 'PixL' Badi"
+/Characters/Elise/CNT1C0	"Zibon 'PixL' Badi"
+/Characters/Elise/CNT1D0	"Zibon 'PixL' Badi"
 /Characters/Elise/DEADA0	"Zibon 'PixL' Badi"
 /Characters/Elise/DEADB0	"Zibon 'PixL' Badi"
 /Characters/Elise/DEADC0	"Zibon 'PixL' Badi"
