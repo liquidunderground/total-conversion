@@ -1,3 +1,9 @@
 bin/
 **/local/
+**/.local/
 build/
+.venv/
+venv/
+
+# No work files in the source tree
+src/**/*.ase

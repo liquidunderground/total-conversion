@@ -3,12 +3,27 @@
 A Creative Commons-licensed, non-copyright-infringing total conversion for
 Sonic Robo Blast 2 in the spirit of Freedoom and LibreQuake.
 
-# Getting Started
+# BUILDING
+
+1. Clone the repository: `git clone git@github.com:liquidunderground/total-conversion.git`
+2. Pull in [PK3Make] `git submodule init --recursive`
+3. Set up Python3
+    a. Install Python
+    b. Install PK3Make's dependencies using `pip install -r requirements.txt`
+    c. Set up a [virtual environment]
+4. Build the project using `python3 pk3make/pk3make.py all`
+
+[PK3Make]: https://github.com/liquidunderground/pk3make
+[virtual environment]: https://docs.python.org/3/library/venv.html
+
+# CONTRIBUTING
 
 `CREDITS.TXT` serves as our record for what needs to be done as
 well as who did what regarding the project.
 Missing contributors next to a file name means that this file is yet to be
 added to the game.
+Our `PK3Makefile` also implicitly tracks the project's process due to us
+using it in our build process.
 
 You can also check a rough estimate of our current coverage using `make coverage`.
 
