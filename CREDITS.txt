@@ -2631,9 +2631,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/HELPN01
 /Graphics/HELPN02
 /Graphics/HELPN03
-/Graphics/HUD/CROSHAI1
-/Graphics/HUD/CROSHAI2
-/Graphics/HUD/CROSHAI3
+/Graphics/HUD/CROSHAI1	"Zibon 'PixL' Badi"
+/Graphics/HUD/CROSHAI2	"Zibon 'PixL' Badi"
+/Graphics/HUD/CROSHAI3	"Zibon 'PixL' Badi"
 /Graphics/HUD/EMBLICON
 /Graphics/HUD/EXITICON
 /Graphics/HUD/Hunt/HOMING1
