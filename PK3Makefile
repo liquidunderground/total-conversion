@@ -70,6 +70,7 @@ Fades/FA_END marker
 Flats/**/*.png flat
 
 # --- Graphics ---
+MISSING graphic 0 0
 # HUD Graphics
 TTWING graphic 30 10
 CROSHAI graphic center

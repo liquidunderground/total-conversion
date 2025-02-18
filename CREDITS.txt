@@ -2723,7 +2723,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Intermission/YB_SCORE	"Zibon 'PixL' Badi"
 /Graphics/Intermission/YB_TIME	"Zibon 'PixL' Badi"
 /Graphics/Intermission/YB_TOTAL	"Zibon 'PixL' Badi"
-/Graphics/MISSING
+/Graphics/MISSING	"Zibon 'PixL' Badi"
 /Graphics/Menu/Add-Ons/M_FBACK	"Zibon 'PixL' Badi"
 /Graphics/Menu/Add-Ons/M_FCFG	"Zibon 'PixL' Badi"
 /Graphics/Menu/Add-Ons/M_FFLDR	"Zibon 'PixL' Badi"
