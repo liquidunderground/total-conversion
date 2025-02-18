@@ -73,10 +73,15 @@ Flats/**/*.png flat
 # HUD Graphics
 TTWING graphic 30 10
 CROSHAI graphic center
+*IND graphic 0 0
+CURWEAP graphic 0 0
 ### Titlecard
 LTACTBLU graphic 25 15
 LTACTRED graphic 20 24
 LTZIGZAG0 graphic -5 0
+LTZIGRED graphic 0 0
+LTZZTEXT graphic 0 0
+LTZZWARN graphic 0 0
 ### Game Over
 SLIDGAME graphic 85 15
 SLIDOVER graphic 100 15
