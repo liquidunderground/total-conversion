@@ -459,6 +459,8 @@ M_SOUND graphic 0 3
 M_SPLAYR graphic 0 3
 M_STATS graphic 0 3
 M_VIDEO graphic 0 3
+### Misc
+TOKNICON graphic 0 0
 
 # --- Patches ---
 Patches/*.png graphic 0 0

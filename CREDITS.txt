@@ -2689,7 +2689,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/HUD/Score-Time-Rings/STTSCORE	"Zibon 'PixL' Badi"
 /Graphics/HUD/Score-Time-Rings/STTTIME	"Zibon 'PixL' Badi"
 /Graphics/HUD/TAGICO	"Zibon 'PixL' Badi"
-/Graphics/HUD/TOKNICON
+/Graphics/HUD/TOKNICON	"Zibon 'PixL' Badi"
 /Graphics/HUD/Teams/BFLAGICO	"Zibon 'PixL' Badi"
 /Graphics/HUD/Teams/BMATCICO	"Zibon 'PixL' Badi"
 /Graphics/HUD/Teams/NONICON	"Zibon 'PixL' Badi"
