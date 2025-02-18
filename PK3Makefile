@@ -540,8 +540,8 @@ Targets/LCKNC0 graphic 16 32
 Targets/LCKND0 graphic 16 32
 TRNG* graphic 16 30
 RRNG* graphic 16 30
-BFLG* graphic 14 69
-RFLG* graphic 14 69
+BFLG* graphic sprite
+RFLG* graphic sprite
 # Bushes
 BUS1 graphic 25 66
 BUS2 graphic 25 66
