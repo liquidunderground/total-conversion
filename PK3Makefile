@@ -70,6 +70,7 @@ TTWING graphic 30 10
 CROSHAI graphic center
 *IND graphic 0 0
 CURWEAP graphic 0 0
+Graphics/Menu/Savefiles/ graphic 0 0
 ### Titlecard
 LTACTBLU graphic 25 15
 LTACTRED graphic 20 24

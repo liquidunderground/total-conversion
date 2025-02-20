@@ -2817,14 +2817,14 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Menu/Record Attack/RECATKBG
 /Graphics/Menu/Record Attack/RECATKFG
 /Graphics/Menu/Record Attack/RECCLOCK
-/Graphics/Menu/Save Select/BLACXLVL
+/Graphics/Menu/Savefiles/BLACXLVL	"Zibon 'PixL' Badi"
 /Graphics/Menu/Save Select/CONTNONE
 /Graphics/Menu/Save Select/CONTSAVE
-/Graphics/Menu/Save Select/GAMEDONE
-/Graphics/Menu/Save Select/SAVEBACK
-/Graphics/Menu/Save Select/SAVENONE
+/Graphics/Menu/Savefiles/GAMEDONE	"Zibon 'PixL' Badi"
+/Graphics/Menu/Savefiles/SAVEBACK	"Zibon 'PixL' Badi"
+/Graphics/Menu/Savefiles/SAVENONE	"Zibon 'PixL' Badi"
 /Graphics/Menu/Save Select/STNONEX
-/Graphics/Menu/Save Select/ULTIMATE
+/Graphics/Menu/Savefiles/ULTIMATE	"Zibon 'PixL' Badi"
 /Graphics/NGRTIMER
 /Graphics/NiGHTS/BLUESTAT
 /Graphics/NiGHTS/BYELSTAT
