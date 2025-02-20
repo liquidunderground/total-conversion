@@ -65,6 +65,7 @@ Flats/**/*.png flat
 # --- Graphics ---
 MISSING graphic 0 0
 # HUD Graphics
+STT* graphic 0 0
 TTWING graphic 30 10
 CROSHAI graphic center
 *IND graphic 0 0
