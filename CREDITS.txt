@@ -10584,10 +10584,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/DIRT3
 /Textures/DIRT4
 /Textures/DIRT5
-/Textures/DISCOD1
-/Textures/DISCOD2
-/Textures/DISCOD3
-/Textures/DISCOD4
+/Textures/Disco/DISCOD1	"Zibon 'PixL' Badi"
+/Textures/Disco/DISCOD2	"Zibon 'PixL' Badi"
+/Textures/Disco/DISCOD3	"Zibon 'PixL' Badi"
+/Textures/Disco/DISCOD4	"Zibon 'PixL' Badi"
 /Textures/DISCOW1
 /Textures/DKLEAWLA
 /Textures/DKLEAWLB
