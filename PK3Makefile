@@ -303,6 +303,7 @@ NEEDIT graphic 0 0
 GOTIT* graphic 0 0
 ### Continue Screeen
 CONTSTAR graphic 12 0
+CONTINS graphic 0 0
 CONTSPOT graphic 32 8
 CONTNUM0 graphic 8 0
 CONTNUM1 graphic 8 0
