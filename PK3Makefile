@@ -462,6 +462,7 @@ M_SOUND graphic 0 3
 M_SPLAYR graphic 0 3
 M_STATS graphic 0 3
 M_VIDEO graphic 0 3
+RESULT graphic 0 0
 #### Add-On menu icons
 M_FBACK graphic 0 0
 M_FCFG graphic 0 0
