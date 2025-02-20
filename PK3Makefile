@@ -54,18 +54,10 @@ SOC_ raw preserve_filename
 *.lua raw preserve_filename
 
 # --- Fades ---
-Fades/FA_START marker
 FADE00* fade
-Fades/FA_END marker
-Fades/FA_START marker
 FADE69* fade
-Fades/FA_END marker
-Fades/FA_START marker
 FADE88* fade
-Fades/FA_END marker
-Fades/FA_START marker
 FADE99* fade
-Fades/FA_END marker
 
 # --- Flats ---
 Flats/**/*.png flat
