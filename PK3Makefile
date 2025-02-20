@@ -483,7 +483,7 @@ SSWR* graphic 86 40 # Horizontal
 SSWB* graphic 86 40
 SSWY* graphic 86 40
 ### Gems & Spells
-RING graphic 16 30
+Sprites/**/RING graphic 16 30
 SPRK graphic 16 30
 PIKA* graphic 24 44
 PIKB* graphic 24 44
