@@ -3709,7 +3709,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Patches/Skybox/SKYSMON4	"Zibon 'PixL' Badi"
 /Patches/Skybox/SKYSMON5	"Zibon 'PixL' Badi"
 /Patches/Skybox/SKYSMON6	"Zibon 'PixL' Badi"
-/Patches/Skybox/SKYSUN	"Zibon 'PixL' Badi"
+/Patches/Skybox/SKYSUN1	"Zibon 'PixL' Badi"
 /Patches/SpecialStages/NITESWA1
 /Patches/SpecialStages/NITESWA2
 /Patches/SpecialStages/NITESWA3
