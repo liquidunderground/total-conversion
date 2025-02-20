@@ -23,6 +23,7 @@
 # --- Basics ---
 PLAYPAL palette
 COLORMAP colormap PLAYPAL
+WATERMAP colormap PLAYPAL # Placeholder; The engine expects but doesn't use it
 TRANS10 tinttab PLAYPAL 0.1
 TRANS20 tinttab PLAYPAL 0.2
 TRANS30 tinttab PLAYPAL 0.3
