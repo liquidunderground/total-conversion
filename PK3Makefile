@@ -64,6 +64,13 @@ Flats/**/*.png flat
 
 # --- Graphics ---
 MISSING graphic 0 0
+# Backgrounds
+SRB2BACK graphic 0 0
+CHARBG graphic 0 0
+CHARFG graphic 0 0
+# Splash Screens
+GAMEQUIT graphic 0 0
+WBTITL* graphic 0 0
 # HUD Graphics
 STT* graphic 0 0
 TTWING graphic 30 10
