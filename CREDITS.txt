@@ -2971,7 +2971,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/STJr Intro/STJRI027
 /Graphics/STJr Intro/STJRI028
 /Graphics/STJr Intro/STJRI029
-/Graphics/SUPERICO
+/Graphics/SUPERICO	"Zibon 'PixL' Badi"
 /Graphics/Snake/DL_APPLE
 /Graphics/Snake/DL_SCISSORS
 /Graphics/Snake/DL_SLOW

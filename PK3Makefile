@@ -64,6 +64,7 @@ Flats/**/*.png flat
 
 # --- Graphics ---
 MISSING graphic 0 0
+SUPERICO graphic 0 0
 # Backgrounds
 SRB2BACK graphic 0 0
 CHARBG graphic 0 0
