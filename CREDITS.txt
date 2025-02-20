@@ -2770,13 +2770,13 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_SPLAYR	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_STATS	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_VIDEO	"Zibon 'PixL' Badi"
-/Graphics/Menu/Level Select/BLANKLVL
-/Graphics/Menu/Level Select/BLANKLVW
-/Graphics/Menu/Level Select/LSSTATIC
-/Graphics/Menu/Level Select/SLCT1LVL
-/Graphics/Menu/Level Select/SLCT1LVW
-/Graphics/Menu/Level Select/SLCT2LVL
-/Graphics/Menu/Level Select/SLCT2LVW
+/Graphics/Menu/Level Select/BLANKLVL	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/BLANKLVW	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/LSSTATIC	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/SLCT1LVL	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/SLCT1LVW	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/SLCT2LVL	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/SLCT2LVW	"Zibon 'PixL' Badi"
 /Graphics/Menu/M_BRDRL
 /Graphics/Menu/M_BRDRLS
 /Graphics/Menu/M_BRDRR
