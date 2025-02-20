@@ -466,6 +466,7 @@ TOKNICON graphic 0 0
 Patches/*.png graphic 0 0
 
 # --- Sprites ---
+DSHADOW graphic 0 0
 ### KOTU targetting
 TARG* graphic 32 64
 ### Checkpoints
