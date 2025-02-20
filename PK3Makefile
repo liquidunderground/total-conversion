@@ -461,6 +461,22 @@ M_SOUND graphic 0 3
 M_SPLAYR graphic 0 3
 M_STATS graphic 0 3
 M_VIDEO graphic 0 3
+#### Add-On menu icons
+M_FBACK graphic 0 0
+M_FCFG graphic 0 0
+M_FFLDR graphic 0 0
+M_FLOAD graphic 0 0
+M_FLUA graphic 0 0
+M_FNOPE graphic 0 0
+M_FPK3 graphic 0 0
+M_FSAVE graphic 0 0
+M_FSEL graphic 0 0
+M_FSOC graphic 0 0
+M_FSRCH graphic 0 0
+M_FTXT graphic 0 0
+M_FUNKN graphic 0 0
+M_FWAD graphic 0 0
+M_FWAD8 graphic 0 0
 ### Misc
 TOKNICON graphic 0 0
 
