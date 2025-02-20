@@ -466,7 +466,7 @@ M_VIDEO graphic 0 3
 TOKNICON graphic 0 0
 
 # --- Patches ---
-Patches/*.png graphic 0 0
+Patches/**/*.png graphic 0 0
 
 # --- Sprites ---
 DSHADOW graphic 0 0
