@@ -294,14 +294,11 @@ YB_LAP graphic 77 4
 YB_GUARD graphic 92 4
 YB_CONTI graphic 80 4
 ### Chakra Shards
-CHAOS1 graphic 2 5
-CHAOS2 graphic 2 5
-CHAOS3 graphic 2 5
-CHAOS4 graphic 2 5
-CHAOS5 graphic 2 5
-CHAOS6 graphic 2 5
-CHAOS7 graphic 2 5
-CHAOS8 graphic 2 5
+TEMER* graphic 0 0
+CHAOS* graphic 2 5
+### Emblems
+NEEDIT graphic 0 0
+GOTIT* graphic 0 0
 ### Continue Screeen
 CONTSTAR graphic 12 0
 CONTSPOT graphic 32 8
