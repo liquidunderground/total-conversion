@@ -503,13 +503,11 @@ SIGNA0 graphic 40 48
 SIGNB0 graphic 22 48
 SIGN graphic 40 94
 ### Item boxes
-TRRI graphic 19 42
-TRBI graphic 19 42
-MSTVB0 graphic 19 42
-XLTV graphic 21 46
-### Item box signs
-TV1U* graphic 12 20
-TV1P* graphic 12 20
+Sprites/**/TV* graphic sprite
+TRRI graphic sprite
+TBRI graphic sprite
+MSTV graphic sprite
+XLTV graphic sprite
 ### Particle FX
 BOM1 graphic 32 60
 LSTR graphic 16 16
