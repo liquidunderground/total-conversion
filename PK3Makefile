@@ -513,7 +513,7 @@ BOM1 graphic 32 60
 LSTR graphic 16 16
 LHRT graphic 16 16
 ### Special stage Token
-TOKE graphic 18 36
+TOKE* graphic 18 36
 ### Spikes/Thorns
 USPKA0 graphic 8 38
 USPKB0 graphic 8 38
