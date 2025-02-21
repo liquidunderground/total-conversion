@@ -13523,7 +13523,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/GASPA3A7
 /Characters/Alex/GASPA4A6
 /Characters/Alex/GASPA5
-/Characters/Alex/LIFEA0
+/Characters/Alex/LIFEA0	"Zibon 'PixL' Badi"
 /Characters/Alex/MLEEA1
 /Characters/Alex/MLEEA2A8
 /Characters/Alex/MLEEA3A7
