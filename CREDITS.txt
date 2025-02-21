@@ -14613,7 +14613,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Elise/GASPA7
 /Characters/Elise/GASPA8.
 /Characters/Elise/GASPA8
-/Characters/Elise/LIFEA0
+/Characters/Elise/LIFEA0	"Zibon 'PixL' Badi"
 /Characters/Elise/NDRLALAR
 /Characters/Elise/NDRLBLBR
 /Characters/Elise/NDRLCLCR
