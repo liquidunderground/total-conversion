@@ -71,6 +71,7 @@ CHARBG graphic 0 0
 CHARFG graphic 0 0
 # Splash Screens
 GAMEQUIT graphic 0 0
+STARTUP graphic 0 0
 WBTITL* graphic 0 0
 # HUD Graphics
 STT* graphic 0 0

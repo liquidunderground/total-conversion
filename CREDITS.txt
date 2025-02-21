@@ -2940,7 +2940,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Rings/RAILIND	"Zibon 'PixL' Badi"
 /Graphics/Rings/RINGIND	"Zibon 'PixL' Badi"
 /Graphics/Rings/SCATIND	"Zibon 'PixL' Badi"
-/Graphics/STARTUP
+/Graphics/Titlescreen/STARTUP	"Zibon 'PixL' Badi"
 /Graphics/STJr Intro/STJRI000
 /Graphics/STJr Intro/STJRI001
 /Graphics/STJr Intro/STJRI002
