@@ -14411,7 +14411,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/MARA/FALLA6
 /Characters/MARA/FALLA7
 /Characters/MARA/FALLA8
-/Characters/MARA/LIFEA0
+/Characters/MARA/LIFEA0	"Zibon 'PixL' Badi"
 /Characters/MARA/NDRLALAR
 /Characters/MARA/NDRLBLBR
 /Characters/MARA/NDRLCLCR
