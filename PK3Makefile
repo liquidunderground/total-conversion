@@ -80,7 +80,14 @@ CROSHAI graphic center
 *IND graphic 0 0
 CURWEAP graphic 0 0
 Graphics/Menu/Savefiles/ graphic 0 0
-Graphics/Menu/Levelselect/ graphic 0 0
+### Level Select
+BLANKLVL graphic 0 0
+BLANKLVW graphic 0 0
+LSSTATIC graphic 0 0
+SLCT1LVL graphic 0 0
+SLCT1LVW graphic 0 0
+SLCT2LVL graphic 0 0
+SLCT2LVW graphic 0 0
 ### Titlecard
 LTACTBLU graphic 25 15
 LTACTRED graphic 20 24
