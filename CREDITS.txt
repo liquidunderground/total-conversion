@@ -14263,7 +14263,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/SPNGA3A7
 /Characters/Babel/SPNGA4A6
 /Characters/Babel/SPNGA5
-/Characters/Babel/STNDA1
+/Characters/Babel/STNDA1	"Zibon 'PixL' Badi"
 /Characters/Babel/STNDA2A8
 /Characters/Babel/STNDA3A7
 /Characters/Babel/STNDA4A6
@@ -14708,7 +14708,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Elise/RUN_D2B8
 /Characters/Elise/RUN_D3B7
 /Characters/Elise/RUN_D4B6
-/Characters/Elise/SIGNA0
+/Characters/Elise/SIGNA0	"Zibon 'PixL' Badi"
+/Characters/Elise/SIGNB0	"Zibon 'PixL' Badi"
+/Characters/Elise/SIGNB0	"Zibon 'PixL' Badi"
 /Characters/Elise/SPINA1	"Zibon 'PixL' Badi"
 /Characters/Elise/SPINA2A8	"Zibon 'PixL' Badi"
 /Characters/Elise/SPINA3A7	"Zibon 'PixL' Badi"
