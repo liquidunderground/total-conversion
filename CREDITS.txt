@@ -4514,8 +4514,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SonicCD/DSCDPCM7
 /Sounds/SonicCD/DSCDPCM8
 /Sounds/SonicCD/DSCDPCM9
-/Sounds/retro/DSS3K86 "Zibon 'PixL' Badi"	(based on Man Screaming.wav by Gamufreaku -- https://freesound.org/s/655277/ -- License: Attribution 4.0)
-/Sounds/retro/DSS3K9D "Zibon 'PixL' Badi"
+/Sounds/retro/DSS3K86	"Zibon 'PixL' Badi"	(based on Man Screaming.wav by Gamufreaku -- https://freesound.org/s/655277/ -- License: Attribution 4.0)
+/Sounds/retro/DSS3K9D	"Zibon 'PixL' Badi"
 /Sounds/retro/DSS3KB8	"Zibon 'PixL' Badi"
 /Sprites/BFLGA0
 /Sprites/BFLGA0	"Zibon 'PixL' Badi"
