@@ -113,7 +113,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /ANIMDEFS
 /ANIMDEFS.industrial	"Zibon 'PixL' Badi"
 /ANIMDEFS.disco	"Zibon 'PixL' Badi"
-/COLORMAP
+/COLORMAP	PK3Make	(based on PLAYPAL)
+/CLM0031	PK3Make	(based on PAL0031)
 /DEMO_001
 /DEMO_002
 /DEMO_003
@@ -3308,6 +3309,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/O__SUPER.ogg	"Zibon 'PixL' Badi"
 /Music/O__TITLE.ogg	"Zibon 'PixL' Badi"
 /PLAYPAL	"Zibon 'PixL' Badi"
+/PAL0031	"Zibon 'PixL' Badi"
 /Patches/Alpine Paradise/BSZASK2B
 /Patches/Alpine Paradise/BSZASKY1
 /Patches/Alpine Paradise/BSZASKY2
@@ -10056,15 +10058,15 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Xmas/XMS4B0
 /Sprites/Xmas/XMS5A0
 /Sprites/Xmas/XMS6A0
-/TRANS10
-/TRANS20
-/TRANS30
-/TRANS40
-/TRANS50
-/TRANS60
-/TRANS70
-/TRANS80
-/TRANS90
+/TRANS10	PK3Make	(based on PLAYPAL)
+/TRANS20	PK3Make	(based on PLAYPAL)
+/TRANS30	PK3Make	(based on PLAYPAL)
+/TRANS40	PK3Make	(based on PLAYPAL)
+/TRANS50	PK3Make	(based on PLAYPAL)
+/TRANS60	PK3Make	(based on PLAYPAL)
+/TRANS70	PK3Make	(based on PLAYPAL)
+/TRANS80	PK3Make	(based on PLAYPAL)
+/TRANS90	PK3Make	(based on PLAYPAL)
 /Textures/2Fort/2FORTWL1
 /Textures/2Fort/2FORTWL2
 /Textures/2Fort/2FORTWL3
@@ -13394,7 +13396,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/ZIMWALL5
 /Textures/ZIMWALL8
 /Textures/ZIMWALL9
-/WATERMAP
+/WATERMAP 	PK3Make
 /Sprites/8ball/PUMIA1A5	"Zibon 'PixL' Badi"
 /Sprites/8ball/PUMIA2A8	"Zibon 'PixL' Badi"
 /Sprites/8ball/PUMIA3A7	"Zibon 'PixL' Badi"
