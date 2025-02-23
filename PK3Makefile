@@ -642,5 +642,5 @@ Characters/Babel/LIFEA0 graphic sprite
 Characters/Babel/XTRA* graphic 0 0
 
 # --- Textures ---
+Textures/**/STLRED graphic 0 0
 Textures/**/*.png graphic 0 0
-
