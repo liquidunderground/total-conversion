@@ -5,7 +5,7 @@ Sonic Robo Blast 2 in the spirit of Freedoom and LibreQuake.
 
 # BUILDING
 
-1. Clone the repository: `git clone git@github.com:liquidunderground/total-conversion.git`
+1. Clone the repository: `git clone https://github.com/liquidunderground/total-conversion.git`
 2. Pull in [PK3Make] `git submodule init --recursive`
 3. Set up Python3
     a. Install Python
