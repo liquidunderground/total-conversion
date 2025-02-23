@@ -112,6 +112,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 
 /ANIMDEFS
 /ANIMDEFS.industrial	"Zibon 'PixL' Badi"
+/ANIMDEFS.disco	"Zibon 'PixL' Badi"
 /COLORMAP
 /DEMO_001
 /DEMO_002
