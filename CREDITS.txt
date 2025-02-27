@@ -10025,7 +10025,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYC0	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYD0	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYE0	"Zibon 'PixL' Badi"
-/Sprites/THOKA0
+/Sprites/THOKA0	"Zibon 'PixL' Badi"
 /Sprites/Targets/GFLGA0	"Zibon 'PixL' Badi"
 /Sprites/Targets/GFLGB0	"Zibon 'PixL' Badi"
 /Sprites/Targets/GFLGC0	"Zibon 'PixL' Badi"
