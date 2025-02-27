@@ -88,6 +88,13 @@ SLCT1LVL graphic 0 0
 SLCT1LVW graphic 0 0
 SLCT2LVL graphic 0 0
 SLCT2LVW graphic 0 0
+### Save File Select
+BLANKLVL graphic 0 0
+BLACXLVL graphic 0 0
+GAMEDONE graphic 0 0
+SAVEBACK graphic 0 0
+SAVENONE graphic 0 0
+ULTIMATE graphic 0 0
 ### Titlecard
 LTACTBLU graphic 25 15
 LTACTRED graphic 20 24
