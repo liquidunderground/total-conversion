@@ -14180,7 +14180,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/LANDA3A7
 /Characters/Babel/LANDA4A6
 /Characters/Babel/LANDA5
-/Characters/Babel/LIFEA0
+/Characters/Babel/LIFEA0	"Zibon 'PixL' Badi"
 /Characters/Babel/NDRLALAR
 /Characters/Babel/NDRLBLBR
 /Characters/Babel/NDRLCLCR
