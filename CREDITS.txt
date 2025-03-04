@@ -14891,14 +14891,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Kleene/NDRLBLBR
 /Characters/Kleene/NDRLCLCR
 /Characters/Kleene/NDRLDLDR
-/Characters/Kleene/NFLYALAR
-/Characters/Kleene/NFLYBLBR
-/Characters/Kleene/NFLYCLCR
-/Characters/Kleene/NFLYDLDR
-/Characters/Kleene/NFLYELER
-/Characters/Kleene/NFLYFLFR
-/Characters/Kleene/NFLYGLGR
-/Characters/Kleene/NFLYHLHR
+/Characters/Kleene/NFLYALAR	"Zibon 'PixL' Badi"
+/Characters/Kleene/NFLYBLBR	"Zibon 'PixL' Badi"
+/Characters/Kleene/NFLYCLCR	"Zibon 'PixL' Badi"
+/Characters/Kleene/NFLYDLDR	"Zibon 'PixL' Badi"
 /Characters/Kleene/NPULALAR
 /Characters/Kleene/NPULBLBR
 /Characters/Kleene/NPULCLCR
@@ -14971,22 +14967,22 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Kleene/STNDA5
 /Characters/Kleene/SWIMA1
 /Characters/Kleene/SWIMA2C8
-/Characters/Kleene/SWIMA3C7
+/Characters/Kleene/SWIMA3C7	"Zibon 'PixL' Badi"
 /Characters/Kleene/SWIMA4C6
 /Characters/Kleene/SWIMA5
 /Characters/Kleene/SWIMB1
 /Characters/Kleene/SWIMB2D8
-/Characters/Kleene/SWIMB3D7
+/Characters/Kleene/SWIMB3D7	"Zibon 'PixL' Badi"
 /Characters/Kleene/SWIMB4D6
 /Characters/Kleene/SWIMB5
 /Characters/Kleene/SWIMC1
 /Characters/Kleene/SWIMC2A8
-/Characters/Kleene/SWIMC3A7
+/Characters/Kleene/SWIMC3A7	"Zibon 'PixL' Badi"
 /Characters/Kleene/SWIMC4A6
 /Characters/Kleene/SWIMC5
 /Characters/Kleene/SWIMD1
 /Characters/Kleene/SWIMD2B8
-/Characters/Kleene/SWIMD3B7
+/Characters/Kleene/SWIMD3B7	"Zibon 'PixL' Badi"
 /Characters/Kleene/SWIMD4B6
 /Characters/Kleene/SWIMD5
 /Characters/Kleene/S_SKIN

@@ -643,6 +643,8 @@ Characters/Kleene/ROLL*5 graphic sprite
 Characters/Kleene/ROLL*2*8 graphic 41 52
 Characters/Kleene/ROLL*3*7 graphic 45 52
 Characters/Kleene/ROLL*4*6 graphic 41 52
+Characters/Kleene/SWIM*3*7 graphic 40 53
+Characters/Kleene/NFLY*L*R graphic 40 53
 # - Babel -
 Characters/Babel/STND* graphic sprite
 Characters/Babel/LIFEA0 graphic sprite
