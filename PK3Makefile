@@ -578,6 +578,8 @@ Characters/MARA/TAL0*1* graphic 13 37
 Characters/MARA/TAL0*5* graphic 13 37
 Characters/MARA/TAL0*4*6 graphic 0 37
 Characters/MARA/TAL0*8*2 graphic 20 37
+# - Babel -
+Characters/Babel/SWIM*3*7 graphic 35 55
 
 # --- Textures ---
 Textures/**/*.png graphic 0 0

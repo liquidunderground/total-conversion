@@ -14266,36 +14266,24 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/STNDA5
 /Characters/Babel/SWIMA1
 /Characters/Babel/SWIMA2
-/Characters/Babel/SWIMA3
+/Characters/Babel/SWIMA3A7	"Zibon 'PixL' Badi"
 /Characters/Babel/SWIMA4
 /Characters/Babel/SWIMA5
-/Characters/Babel/SWIMA6
-/Characters/Babel/SWIMA7
-/Characters/Babel/SWIMA8
 /Characters/Babel/SWIMB1
 /Characters/Babel/SWIMB2
-/Characters/Babel/SWIMB3
+/Characters/Babel/SWIMB3B7	"Zibon 'PixL' Badi"
 /Characters/Babel/SWIMB4
 /Characters/Babel/SWIMB5
-/Characters/Babel/SWIMB6
-/Characters/Babel/SWIMB7
-/Characters/Babel/SWIMB8
 /Characters/Babel/SWIMC1
 /Characters/Babel/SWIMC2
-/Characters/Babel/SWIMC3
+/Characters/Babel/SWIMC3C7	"Zibon 'PixL' Badi"
 /Characters/Babel/SWIMC4
 /Characters/Babel/SWIMC5
-/Characters/Babel/SWIMC6
-/Characters/Babel/SWIMC7
-/Characters/Babel/SWIMC8
 /Characters/Babel/SWIMD1
 /Characters/Babel/SWIMD2
-/Characters/Babel/SWIMD3
+/Characters/Babel/SWIMD3D7	"Zibon 'PixL' Badi"
 /Characters/Babel/SWIMD4
 /Characters/Babel/SWIMD5
-/Characters/Babel/SWIMD6
-/Characters/Babel/SWIMD7
-/Characters/Babel/SWIMD8
 /Characters/Babel/S_SKIN
 /Characters/Babel/TRNSA0
 /Characters/Babel/TRNSB0
