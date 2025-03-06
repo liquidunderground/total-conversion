@@ -11256,7 +11256,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZBRID2
 /Textures/Greenflower/GFZBRIDG	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZFENC2
-/Textures/Greenflower/GFZFNCB
+/Textures/Grasslands/GFZFNCB	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZFNCC
 /Textures/Greenflower/GFZFNCCG
 /Textures/Greenflower/GFZFNCD
