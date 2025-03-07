@@ -580,6 +580,16 @@ Characters/MARA/TAL0*4*6 graphic 0 37
 Characters/MARA/TAL0*8*2 graphic 20 37
 # - Babel -
 Characters/Babel/SWIM*3*7 graphic 35 55
+Characters/Babel/SPIN*1 graphic 32 52
+Characters/Babel/SPIN*2*8 graphic 41 52
+Characters/Babel/SPIN*3*7 graphic 45 52
+Characters/Babel/SPIN*4*6 graphic 41 52
+Characters/Babel/SPIN*5 graphic 32 52
+Characters/Babel/ROLL*1 graphic 32 52
+Characters/Babel/ROLL*2*8 graphic 41 52
+Characters/Babel/ROLL*3*7 graphic 45 52
+Characters/Babel/ROLL*4*6 graphic 41 52
+Characters/Babel/ROLL*5 graphic 32 52
 
 # --- Textures ---
 Textures/**/*.png graphic 0 0
