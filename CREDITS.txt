@@ -2941,36 +2941,36 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Rings/RINGIND	"Zibon 'PixL' Badi"
 /Graphics/Rings/SCATIND	"Zibon 'PixL' Badi"
 /Graphics/STARTUP
-/Graphics/STJr Intro/STJRI000
-/Graphics/STJr Intro/STJRI001
-/Graphics/STJr Intro/STJRI002
-/Graphics/STJr Intro/STJRI003
-/Graphics/STJr Intro/STJRI004
-/Graphics/STJr Intro/STJRI005
-/Graphics/STJr Intro/STJRI006
-/Graphics/STJr Intro/STJRI007
-/Graphics/STJr Intro/STJRI008
-/Graphics/STJr Intro/STJRI009
-/Graphics/STJr Intro/STJRI010
-/Graphics/STJr Intro/STJRI011
-/Graphics/STJr Intro/STJRI012
-/Graphics/STJr Intro/STJRI013
-/Graphics/STJr Intro/STJRI014
-/Graphics/STJr Intro/STJRI015
-/Graphics/STJr Intro/STJRI016
-/Graphics/STJr Intro/STJRI017
-/Graphics/STJr Intro/STJRI018
-/Graphics/STJr Intro/STJRI019
-/Graphics/STJr Intro/STJRI020
-/Graphics/STJr Intro/STJRI021
-/Graphics/STJr Intro/STJRI022
-/Graphics/STJr Intro/STJRI023
-/Graphics/STJr Intro/STJRI024
-/Graphics/STJr Intro/STJRI025
-/Graphics/STJr Intro/STJRI026
-/Graphics/STJr Intro/STJRI027
-/Graphics/STJr Intro/STJRI028
-/Graphics/STJr Intro/STJRI029
+/Graphics/Intro/ILOGO000	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO001	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO002	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO003	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO004	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO005	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO006	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO007	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO008	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO009	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO010	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO011	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO012	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO013	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO014	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO015	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO016	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO017	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO018	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO019	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO020	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO021	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO022	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO023	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO024	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO025	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO026	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO027	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO028	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO029	"Zibon 'PixL' Badi"
 /Graphics/SUPERICO
 /Graphics/Snake/DL_APPLE
 /Graphics/Snake/DL_SCISSORS
