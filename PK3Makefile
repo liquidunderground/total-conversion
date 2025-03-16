@@ -559,6 +559,8 @@ TRE1 graphic 90 245
 TRE3 graphic 28 252
 TRE5 graphic 28 252
 TRE6 graphic 70 162
+### Statues
+ESTAB* graphic 55 124
 ### Misc.: Missing sprite/etc.
 Sprites/**/PUMI* graphic 40 72 # 8-Ball
 UNKN* graphic 16 36

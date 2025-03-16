@@ -9293,14 +9293,14 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Disco/DBALD0
 /Sprites/Scenery/Disco/DBALE0
 /Sprites/Scenery/Disco/DBALF0
-/Sprites/Scenery/Disco/ESTAB1
-/Sprites/Scenery/Disco/ESTAB2
-/Sprites/Scenery/Disco/ESTAB3
-/Sprites/Scenery/Disco/ESTAB4
-/Sprites/Scenery/Disco/ESTAB5
-/Sprites/Scenery/Disco/ESTAB6
-/Sprites/Scenery/Disco/ESTAB7
-/Sprites/Scenery/Disco/ESTAB8
+/Sprites/Statues/ESTAB1	"Zibon 'PixL' Badi"
+/Sprites/Statues/ESTAB2	"Zibon 'PixL' Badi"
+/Sprites/Statues/ESTAB3	"Zibon 'PixL' Badi"
+/Sprites/Statues/ESTAB4	"Zibon 'PixL' Badi"
+/Sprites/Statues/ESTAB5	"Zibon 'PixL' Badi"
+/Sprites/Statues/ESTAB6	"Zibon 'PixL' Badi"
+/Sprites/Statues/ESTAB7	"Zibon 'PixL' Badi"
+/Sprites/Statues/ESTAB8	"Zibon 'PixL' Badi"
 /Sprites/Scenery/FHZIA0
 /Sprites/Scenery/FHZIB0
 /Sprites/Scenery/Gargoyles/BGARA1
