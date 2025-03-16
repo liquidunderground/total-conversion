@@ -613,7 +613,7 @@ ESTAB* graphic 55 124
 ### Bath Bomber
 SKIM* graphic 32 32
 MINEA0 graphic 10 21 # Dropped bomb
-## Misc.: Missing sprite/etc.
+### Misc.: Missing sprite/etc.
 Sprites/**/PUMI* graphic 40 72 # 8-Ball
 UNKN* graphic 16 36
 
