@@ -513,6 +513,15 @@ EMBM* graphic sprite
 ### Chakra Shards and hunting gems
 CEMG graphic 11 25
 SHRD graphic 8 38
+### Flames
+CFLM* graphic 12 54
+CTRC* graphic 12 70
+FLAMI graphic 16 46
+FLAMJ graphic 6 8
+FLAMK graphic 6 8
+FLAML graphic 6 8
+FLAM* graphic 12 54
+FLMH graphic 24 82
 ### Flowers
 FWR1 graphic 16 46
 FWR2 graphic 16 126
