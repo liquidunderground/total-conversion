@@ -7606,10 +7606,14 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Dust Devil/TAZDDL
 /Sprites/Hazards/Dust Devil/TAZDDR
 /Sprites/Hazards/Fire/CFIRA0
-/Sprites/Hazards/Fire/CFLMA0E0
-/Sprites/Hazards/Fire/CFLMB0F0
-/Sprites/Hazards/Fire/CFLMC0G0
-/Sprites/Hazards/Fire/CFLMD0H0
+/Sprites/Flames/CFLMA0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CFLMB0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CFLMC0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CFLMD0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CFLME0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CFLMF0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CFLMG0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CFLMH0	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Fire/DFLMA0
 /Sprites/Hazards/Fire/DFLMB0
 /Sprites/Hazards/Fire/DFLMC0
@@ -7618,12 +7622,18 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Fire/DFLMF0
 /Sprites/Hazards/Fire/DFLMG0
 /Sprites/Hazards/Fire/DFLMH0
-/Sprites/Hazards/Fire/FLAMA0E0
-/Sprites/Hazards/Fire/FLAMB0F0
-/Sprites/Hazards/Fire/FLAMC0G0
-/Sprites/Hazards/Fire/FLAMD0H0
-/Sprites/Hazards/Fire/FLAMI0K0
-/Sprites/Hazards/Fire/FLAMJ0L0
+/Sprites/Flames/FLAMA0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMB0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMC0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMD0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAME0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMF0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMG0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMH0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMI0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMJ0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAMK0	"Zibon 'PixL' Badi"
+/Sprites/Flames/FLAML0	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Fire/FLAMM0
 /Sprites/Hazards/Fire/FLMEA0
 /Sprites/Hazards/Fire/FLMEB0
@@ -9206,10 +9216,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Castle Eggman/CSTAA3A7
 /Sprites/Scenery/Castle Eggman/CSTAA4A6
 /Sprites/Scenery/Castle Eggman/CSTAA5
-/Sprites/Scenery/Castle Eggman/CTRCA0
-/Sprites/Scenery/Castle Eggman/CTRCB0
-/Sprites/Scenery/Castle Eggman/CTRCC0
-/Sprites/Scenery/Castle Eggman/CTRCD0
+/Sprites/Flames/CTRCA0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CTRCB0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CTRCC0	"Zibon 'PixL' Badi"
+/Sprites/Flames/CTRCD0	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Castle Eggman/ESTAA1
 /Sprites/Scenery/Castle Eggman/ESTAA2
 /Sprites/Scenery/Castle Eggman/ESTAA3
@@ -9218,7 +9228,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Castle Eggman/ESTAA6
 /Sprites/Scenery/Castle Eggman/ESTAA7
 /Sprites/Scenery/Castle Eggman/ESTAA8
-/Sprites/Scenery/Castle Eggman/FLMHA0
+/Sprites/Flames/FLMHA0	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Castle Eggman/PINEA0
 /Sprites/Scenery/Crystalline Heights/GINEA0
 /Sprites/Scenery/Deep Sea/Animated Algae/ALGAA0
