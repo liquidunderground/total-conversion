@@ -7609,7 +7609,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Dust Devil/TAZDCR
 /Sprites/Hazards/Dust Devil/TAZDDL
 /Sprites/Hazards/Dust Devil/TAZDDR
-/Sprites/Hazards/Fire/CFIRA0
+/Sprites/Flames/CFIRA0	"Zibon 'PixL' Badi"
 /Sprites/Flames/CFLMA0	"Zibon 'PixL' Badi"
 /Sprites/Flames/CFLMB0	"Zibon 'PixL' Badi"
 /Sprites/Flames/CFLMC0	"Zibon 'PixL' Badi"
@@ -7648,18 +7648,18 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Fire/FLMEG0
 /Sprites/Hazards/Fire/FLMEH0
 /Sprites/Hazards/Fire/FLMEI0
-/Sprites/Hazards/Fire/SFLMA0
-/Sprites/Hazards/Fire/SFLMB0
-/Sprites/Hazards/Fire/SFLMC0
-/Sprites/Hazards/Fire/SFLMD0
-/Sprites/Hazards/Fire/SFLME0
-/Sprites/Hazards/Fire/SFLMF0
-/Sprites/Hazards/Fire/TFLMA0
-/Sprites/Hazards/Fire/TFLMB0
-/Sprites/Hazards/Fire/TFLMC0
-/Sprites/Hazards/Fire/TFLMD0
-/Sprites/Hazards/Fire/TFLME0
-/Sprites/Hazards/Fire/TFLMF0
+/Sprites/Flames/SFLMA0	"Zibon 'PixL' Badi"
+/Sprites/Flames/SFLMB0	"Zibon 'PixL' Badi"
+/Sprites/Flames/SFLMC0	"Zibon 'PixL' Badi"
+/Sprites/Flames/SFLMD0	"Zibon 'PixL' Badi"
+/Sprites/Flames/SFLME0	"Zibon 'PixL' Badi"
+/Sprites/Flames/SFLMF0	"Zibon 'PixL' Badi"
+/Sprites/Flames/TFLMA0	"Zibon 'PixL' Badi"
+/Sprites/Flames/TFLMB0	"Zibon 'PixL' Badi"
+/Sprites/Flames/TFLMC0	"Zibon 'PixL' Badi"
+/Sprites/Flames/TFLMD0	"Zibon 'PixL' Badi"
+/Sprites/Flames/TFLME0	"Zibon 'PixL' Badi"
+/Sprites/Flames/TFLMF0	"Zibon 'PixL' Badi"
 /Sprites/Hazards/Firebars/BFBRA0
 /Sprites/Hazards/Firebars/BFBRB0
 /Sprites/Hazards/Firebars/BFBRC0
