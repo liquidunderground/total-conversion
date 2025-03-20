@@ -484,6 +484,9 @@ FLAMK graphic 6 8
 FLAML graphic 6 8
 FLAM* graphic 12 54
 FLMH graphic 24 82
+SFLM* graphic 12 16
+TFLM* graphic 12 16
+CFIRA0 graphic 12 16
 ### Flowers
 FWR1 graphic 16 46
 FWR2 graphic 16 126
