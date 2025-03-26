@@ -10457,12 +10457,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Castle Eggman/flags/CEBANN4
 /Textures/Castle Eggman/flags/CEFLAG4
 /Textures/Castle Eggman/flags/CELBAN4
-/Textures/Castle Eggman/flags/CEZBAN1
-/Textures/Castle Eggman/flags/CEZBAN2
-/Textures/Castle Eggman/flags/CEZBAN3
-/Textures/Castle Eggman/flags/CEZBAN4
-/Textures/Castle Eggman/flags/CEZBAN5
-/Textures/Castle Eggman/flags/CEZBAN6
+/Textures/Flags/CEZBAN1	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN2	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN3	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN4	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN5	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN6	"Zibon 'PixL' Badi"
 /Textures/Castle Eggman/flags/CEZBAN7
 /Textures/Castle Eggman/flags/OLDBAN2
 /Textures/Castle Eggman/flags/OLDBAN3
@@ -11039,20 +11039,20 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/FOSSILW
 /Textures/Fences/GFZRAIL	"Zibon 'PixL' Badi"
 /Textures/Fences/GFZRAIL2	"Zibon 'PixL' Badi"
-/Textures/Flags/BANNERB1
-/Textures/Flags/BANNERB2
-/Textures/Flags/BANNERB3
-/Textures/Flags/BANNERB4
-/Textures/Flags/BANNERB5
-/Textures/Flags/BANNERB6
-/Textures/Flags/BANNERB7
-/Textures/Flags/BANNERB8
-/Textures/Flags/BANNERB9
-/Textures/Flags/BANNERBA
-/Textures/Flags/BANNERBB
-/Textures/Flags/BANNERBC
-/Textures/Flags/BANNERBD
-/Textures/Flags/BANNERBE
+/Textures/Flags/BANNERB1	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB2	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB3	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB4	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB5	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB6	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB7	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB8	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB9	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBA	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBB	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBC	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBD	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBE	"Zibon 'PixL' Badi"
 /Textures/Flags/CEBANN1
 /Textures/Flags/CEBANN2
 /Textures/Flags/CEBANN3
@@ -11062,34 +11062,34 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Flags/CELBAN1
 /Textures/Flags/CELBAN2
 /Textures/Flags/CELBAN3
-/Textures/Flags/FLAGBL1
-/Textures/Flags/FLAGBL2
-/Textures/Flags/FLAGBL3
-/Textures/Flags/FLAGBL4
-/Textures/Flags/FLAGBL5
-/Textures/Flags/FLAGBL6
-/Textures/Flags/FLAGBL7
-/Textures/Flags/FLAGBL8
-/Textures/Flags/FLAGBL9
-/Textures/Flags/FLAGBLA
-/Textures/Flags/FLAGBLB
-/Textures/Flags/FLAGBLC
-/Textures/Flags/FLAGBLD
-/Textures/Flags/FLAGBLE
-/Textures/Flags/LBANNRB1
-/Textures/Flags/LBANNRB2
-/Textures/Flags/LBANNRB3
-/Textures/Flags/LBANNRB4
-/Textures/Flags/LBANNRB5
-/Textures/Flags/LBANNRB6
-/Textures/Flags/LBANNRB7
-/Textures/Flags/LBANNRB8
-/Textures/Flags/LBANNRB9
-/Textures/Flags/LBANNRBA
-/Textures/Flags/LBANNRBB
-/Textures/Flags/LBANNRBC
-/Textures/Flags/LBANNRBD
-/Textures/Flags/LBANNRBE
+/Textures/Flags/FLAGBL1	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL2	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL3	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL4	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL5	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL6	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL7	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL8	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL9	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLA	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLB	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLC	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLD	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLE	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB1	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB2	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB3	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB4	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB5	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB6	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB7	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB8	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB9	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBA	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBB	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBC	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBD	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBE	"Zibon 'PixL' Badi"
 /Textures/Fluids/2FALL1
 /Textures/Fluids/2FALL2
 /Textures/Fluids/2FALL3
