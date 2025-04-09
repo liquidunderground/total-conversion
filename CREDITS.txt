@@ -6426,66 +6426,66 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Crawla Commander/CCOMD3D7
 /Sprites/Enemies/Crawla Commander/CCOMD4D6
 /Sprites/Enemies/Crawla Commander/CCOMD5
-/Sprites/Enemies/Crawla/POSSA1
-/Sprites/Enemies/Crawla/POSSA2A8
-/Sprites/Enemies/Crawla/POSSA3A7
-/Sprites/Enemies/Crawla/POSSA4A6
-/Sprites/Enemies/Crawla/POSSA5
-/Sprites/Enemies/Crawla/POSSB1
-/Sprites/Enemies/Crawla/POSSB2B8
-/Sprites/Enemies/Crawla/POSSB3B7
-/Sprites/Enemies/Crawla/POSSB4B6
-/Sprites/Enemies/Crawla/POSSB5
-/Sprites/Enemies/Crawla/POSSC1
-/Sprites/Enemies/Crawla/POSSC2C8
-/Sprites/Enemies/Crawla/POSSC3C7
-/Sprites/Enemies/Crawla/POSSC4C6
-/Sprites/Enemies/Crawla/POSSC5
-/Sprites/Enemies/Crawla/POSSD1
-/Sprites/Enemies/Crawla/POSSD2D8
-/Sprites/Enemies/Crawla/POSSD3D7
-/Sprites/Enemies/Crawla/POSSD4D6
-/Sprites/Enemies/Crawla/POSSD5
-/Sprites/Enemies/Crawla/POSSE1
-/Sprites/Enemies/Crawla/POSSE2E8
-/Sprites/Enemies/Crawla/POSSE3E7
-/Sprites/Enemies/Crawla/POSSE4E6
-/Sprites/Enemies/Crawla/POSSE5
-/Sprites/Enemies/Crawla/POSSF1
-/Sprites/Enemies/Crawla/POSSF2F8
-/Sprites/Enemies/Crawla/POSSF3F7
-/Sprites/Enemies/Crawla/POSSF4F6
-/Sprites/Enemies/Crawla/POSSF5
-/Sprites/Enemies/Crawla/SPOSA1
-/Sprites/Enemies/Crawla/SPOSA2A8
-/Sprites/Enemies/Crawla/SPOSA3A7
-/Sprites/Enemies/Crawla/SPOSA4A6
-/Sprites/Enemies/Crawla/SPOSA5
-/Sprites/Enemies/Crawla/SPOSB1
-/Sprites/Enemies/Crawla/SPOSB2B8
-/Sprites/Enemies/Crawla/SPOSB3B7
-/Sprites/Enemies/Crawla/SPOSB4B6
-/Sprites/Enemies/Crawla/SPOSB5
-/Sprites/Enemies/Crawla/SPOSC1
-/Sprites/Enemies/Crawla/SPOSC2C8
-/Sprites/Enemies/Crawla/SPOSC3C7
-/Sprites/Enemies/Crawla/SPOSC4C6
-/Sprites/Enemies/Crawla/SPOSC5
-/Sprites/Enemies/Crawla/SPOSD1
-/Sprites/Enemies/Crawla/SPOSD2D8
-/Sprites/Enemies/Crawla/SPOSD3D7
-/Sprites/Enemies/Crawla/SPOSD4D6
-/Sprites/Enemies/Crawla/SPOSD5
-/Sprites/Enemies/Crawla/SPOSE1
-/Sprites/Enemies/Crawla/SPOSE2E8
-/Sprites/Enemies/Crawla/SPOSE3E7
-/Sprites/Enemies/Crawla/SPOSE4E6
-/Sprites/Enemies/Crawla/SPOSE5
-/Sprites/Enemies/Crawla/SPOSF1
-/Sprites/Enemies/Crawla/SPOSF2F8
-/Sprites/Enemies/Crawla/SPOSF3F7
-/Sprites/Enemies/Crawla/SPOSF4F6
-/Sprites/Enemies/Crawla/SPOSF5
+/Sprites/Enemies/PiggyTank/POSSA1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSA2A8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSA3A7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSA4A6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSA5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB2B8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB3B7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB4B6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC2C8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC3C7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC4C6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD2D8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD3D7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD4D6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE2E8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE3E7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE4E6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF2F8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF3F7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF4F6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA2A8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA3A7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA4A6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB2B8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB3B7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB4B6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC2C8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC3C7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC4C6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD2D8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD3D7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD4D6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE2E8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE3E7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE4E6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF2F8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF3F7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF4F6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF5	"Zibon 'PixL' Badi"
 /Sprites/Enemies/CrazyStar/DETNA0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 /Sprites/Enemies/CrazyStar/DETNB0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 /Sprites/Enemies/CrazyStar/DETNC0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
