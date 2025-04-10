@@ -630,6 +630,7 @@ CSPE&K graphic 0 0 # Elise & Kleene duo graphic
 SPRTINFO raw # Needed for space dolphin sprite rotation
 # - Alex -
 Characters/Alex/STND* graphic 24 66
+Characters/Alex/RUN_* graphic 32 66
 Characters/Alex/XTRAC0 graphic 10 24
 Characters/Alex/XTRA* graphic 0 0
 Characters/Alex/LIFEA0 graphic sprite
