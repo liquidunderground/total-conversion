@@ -612,6 +612,8 @@ ESTAB* graphic 55 124
 ## -- Enemies --
 ### Piggy Tank
 POSS* graphic sprite
+### Fish
+FISH* graphic 29 56
 ### Hog Rod
 SPOS* graphic sprite
 ### Crazy Star

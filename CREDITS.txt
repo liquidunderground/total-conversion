@@ -6612,8 +6612,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Egg Guard/SPSHL3L7
 /Sprites/Enemies/Egg Guard/SPSHL4L6
 /Sprites/Enemies/Egg Guard/SPSHL5
-/Sprites/Enemies/FISHA0
-/Sprites/Enemies/FISHB0
+/Sprites/Enemies/Fish/FISHALBR "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/Fish/FISHBLBR "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 /Sprites/Enemies/Hangster/HBATA1
 /Sprites/Enemies/Hangster/HBATA2A8
 /Sprites/Enemies/Hangster/HBATA3A7
