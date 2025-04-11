@@ -13591,26 +13591,21 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/RIDEA3A7
 /Characters/Alex/RIDEA4A6
 /Characters/Alex/RIDEA5
-/Characters/Alex/ROLLA1
-/Characters/Alex/ROLLA2A8
-/Characters/Alex/ROLLA3A7
-/Characters/Alex/ROLLA4A6
-/Characters/Alex/ROLLA5
-/Characters/Alex/ROLLB1
-/Characters/Alex/ROLLB2B8
-/Characters/Alex/ROLLB3B7
-/Characters/Alex/ROLLB4B6
-/Characters/Alex/ROLLB5
-/Characters/Alex/ROLLC1
-/Characters/Alex/ROLLC2C8
-/Characters/Alex/ROLLC3C7
-/Characters/Alex/ROLLC4C6
-/Characters/Alex/ROLLC5
-/Characters/Alex/ROLLD1
-/Characters/Alex/ROLLD2D8
-/Characters/Alex/ROLLD3D7
-/Characters/Alex/ROLLD4D6
-/Characters/Alex/ROLLD5
+/Characters/Alex/ROLLA1	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLA2A8	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLA3A7	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLA4A6	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLA5	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB1	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB2B8	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB3B7	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB4B6	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB5	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC1	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC2C8	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC3C7	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC4C6	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC5	"Zibon 'PixL' Badi"
 /Characters/Alex/RUN_A1
 /Characters/Alex/RUN_A2E8
 /Characters/Alex/RUN_A3E7	"Zibon 'PixL' Badi"
