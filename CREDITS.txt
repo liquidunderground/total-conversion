@@ -15408,7 +15408,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Maps/MAP23.wad
 /Maps/MAP25.wad
 /Maps/MAP25MS.LMP
-/Maps/MAP26.wad
+/Maps/MAP26.wad	"Zibon 'PixL' Badi"
 /Maps/MAP27.wad
 /Maps/MAP30.wad
 /Maps/MAP31.wad
@@ -15436,7 +15436,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Maps/MAP71.wad
 /Maps/MAP72.wad
 /Maps/MAP73.wad
-/Maps/MAP99.wad
+/Maps/MAP99.wad	"Zibon 'PixL' Badi"
 /Maps/MAPF0.wad
 /Maps/MAPF1.wad
 /Maps/MAPF2.wad
@@ -15459,3 +15459,4 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Maps/MAPMA.wad
 /Maps/MAPMB.wad
 /Maps/MAPZ0.wad
+/Maps/MAPZ1.wad	"Zibon 'PixL' Badi"

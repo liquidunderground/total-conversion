@@ -9,6 +9,7 @@
 # Neatly ordered into sections:
 # - Basics
 # - Music
+# - Maps
 # - SFX
 # - SOC
 # - Lua
@@ -41,6 +42,9 @@ ANIMDEFS* raw preserve_filename
 MUSICDEF raw
 D_*.mid raw
 O_*.ogg raw
+
+# --- Maps ---
+Maps/MAP*.wad raw
 
 # --- SFX ---
 DS*.ogg raw
