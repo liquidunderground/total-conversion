@@ -962,7 +962,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/DEM1_1
 /Flats/DEM1_2
 /Flats/DEM1_3
-/Flats/DEM1_5
+/Flats/DEM1_5	"Zibon 'PixL' Badi"
 /Flats/DEM1_6
 /Flats/DEZBLKF1
 /Flats/DEZBLKF2
@@ -1655,13 +1655,13 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/PAZFLR04	"Zibon 'PixL' Badi"
 /Flats/PAZFLR05
 /Flats/PIT
-/Flats/QUIK2
-/Flats/QUIK3
-/Flats/QUIK4
-/Flats/QUIK5
-/Flats/QUIK6
-/Flats/QUIK7
-/Flats/QUIKNOAN
+/Flats/QUIK2	"Zibon 'PixL' Badi"
+/Flats/QUIK3	"Zibon 'PixL' Badi"
+/Flats/QUIK4	"Zibon 'PixL' Badi"
+/Flats/QUIK5	"Zibon 'PixL' Badi"
+/Flats/QUIK6	"Zibon 'PixL' Badi"
+/Flats/QUIK7	"Zibon 'PixL' Badi"
+/Flats/QUIKNOAN	"Zibon 'PixL' Badi"
 /Flats/RCZCRSF1
 /Flats/RCZCRSF2
 /Flats/RCZCRSF3
