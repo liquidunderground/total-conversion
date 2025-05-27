@@ -1087,7 +1087,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Eggrock/ERFANFL1
 /Flats/Eggrock/ERFANFL2
 /Flats/Eggrock/ERFANFL3
-/Flats/Eggrock/ERLAVA1
+/Flats/Eggrock/ERLAVA1	"Zibon 'PixL' Badi"
 /Flats/Eggrock/ERZBGF1
 /Flats/Eggrock/ERZBGF2
 /Flats/Eggrock/ERZBGF3
