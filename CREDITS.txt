@@ -13646,7 +13646,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/RUN_H3D7	"Zibon 'PixL' Badi"
 /Characters/Alex/RUN_H4D6	"Zibon 'PixL' Badi"
 /Characters/Alex/RUN_H5	"Zibon 'PixL' Badi"
-/Characters/Alex/SIGNA0
+/Characters/Alex/SIGNA0	"Zibon 'PixL' Badi"
 /Characters/Alex/SPNGA1
 /Characters/Alex/SPNGA2
 /Characters/Alex/SPNGA3
@@ -13770,7 +13770,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/WALKH5
 /Characters/Alex/XTRAA0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAB0	"Zibon 'PixL' Badi"
-/Characters/Alex/XTRAC0
+/Characters/Alex/XTRAC0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAD0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAE0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAF0	"Zibon 'PixL' Badi"
