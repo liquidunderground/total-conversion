@@ -10320,20 +10320,20 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/BRICK3W
 /Textures/BRICK4W
 /Textures/BUSTROCK
-/Textures/CARPET01
-/Textures/CARPET02
-/Textures/CARPET03
-/Textures/CARPET04
-/Textures/CARPET05
-/Textures/CARPET06
-/Textures/CARPET07
-/Textures/CARPET08
-/Textures/CARPET09
-/Textures/CARPET10
-/Textures/CARPET11
-/Textures/CARPET12
-/Textures/CARPET13
-/Textures/CARPET14
+/Textures/Carpets/CARPET01	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET02	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET03	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET04	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET05	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET06	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET07	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET08	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET09	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET10	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET11	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET12	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET13	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET14	"Zibon 'PixL' Badi"
 /Textures/CASINOW1
 /Textures/CASINOW2
 /Textures/CASINOW3
