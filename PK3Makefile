@@ -80,6 +80,7 @@ CROSHAI graphic center
 Graphics/**/*IND graphic 0 0
 CURWEAP graphic 0 0
 Graphics/Menu/Savefiles/ graphic 0 0
+Graphics/HUD/Hunt/HOM* graphic 0 0
 ### Level Select
 BLANKLVL graphic 0 0
 BLANKLVW graphic 0 0
