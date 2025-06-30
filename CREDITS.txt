@@ -111,7 +111,10 @@ Models/OBJE/RING.md3	"Zibon 'PixL' Badi"
 Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 
 /ANIMDEFS
-/COLORMAP
+/ANIMDEFS.industrial	"Zibon 'PixL' Badi"
+/ANIMDEFS.disco	"Zibon 'PixL' Badi"
+/COLORMAP	PK3Make	(based on PLAYPAL)
+/CLM0031	PK3Make	(based on PAL0031)
 /DEMO_001
 /DEMO_002
 /DEMO_003
@@ -463,7 +466,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /TEXTURES/SKY14
 /TEXTURES/SKY15
 /TEXTURES/SKY16
-/TEXTURES/SKY21
+/Textures/Skies/SKY21	"Zibon 'PixL' Badi"
 /TEXTURES/SKY22
 /TEXTURES/SKY23
 /TEXTURES/SKY4
@@ -959,7 +962,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/DEM1_1
 /Flats/DEM1_2
 /Flats/DEM1_3
-/Flats/DEM1_5
+/Flats/DEM1_5	"Zibon 'PixL' Badi"
 /Flats/DEM1_6
 /Flats/DEZBLKF1
 /Flats/DEZBLKF2
@@ -1084,7 +1087,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Eggrock/ERFANFL1
 /Flats/Eggrock/ERFANFL2
 /Flats/Eggrock/ERFANFL3
-/Flats/Eggrock/ERLAVA1
+/Flats/Eggrock/ERLAVA1	"Zibon 'PixL' Badi"
 /Flats/Eggrock/ERZBGF1
 /Flats/Eggrock/ERZBGF2
 /Flats/Eggrock/ERZBGF3
@@ -1652,13 +1655,13 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/PAZFLR04	"Zibon 'PixL' Badi"
 /Flats/PAZFLR05
 /Flats/PIT
-/Flats/QUIK2
-/Flats/QUIK3
-/Flats/QUIK4
-/Flats/QUIK5
-/Flats/QUIK6
-/Flats/QUIK7
-/Flats/QUIKNOAN
+/Flats/QUIK2	"Zibon 'PixL' Badi"
+/Flats/QUIK3	"Zibon 'PixL' Badi"
+/Flats/QUIK4	"Zibon 'PixL' Badi"
+/Flats/QUIK5	"Zibon 'PixL' Badi"
+/Flats/QUIK6	"Zibon 'PixL' Badi"
+/Flats/QUIK7	"Zibon 'PixL' Badi"
+/Flats/QUIKNOAN	"Zibon 'PixL' Badi"
 /Flats/RCZCRSF1
 /Flats/RCZCRSF2
 /Flats/RCZCRSF3
@@ -1738,7 +1741,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Red Volcano/TLITE6_5
 /Flats/Red Volcano/TLITE6_6
 /Flats/SAND
-/Flats/SANDFLR
+/Flats/SANDFLR	"Zibon 'PixL' Badi"
 /Flats/SANDFLRA
 /Flats/SANDFLRB
 /Flats/SANDFLRC
@@ -2636,18 +2639,18 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/HUD/CROSHAI3	"Zibon 'PixL' Badi"
 /Graphics/HUD/EMBLICON
 /Graphics/HUD/EXITICON
-/Graphics/HUD/Hunt/HOMING1
-/Graphics/HUD/Hunt/HOMING2
-/Graphics/HUD/Hunt/HOMING3
-/Graphics/HUD/Hunt/HOMING4
-/Graphics/HUD/Hunt/HOMING5
-/Graphics/HUD/Hunt/HOMING6
-/Graphics/HUD/Hunt/HOMITM1
-/Graphics/HUD/Hunt/HOMITM2
-/Graphics/HUD/Hunt/HOMITM3
-/Graphics/HUD/Hunt/HOMITM4
-/Graphics/HUD/Hunt/HOMITM5
-/Graphics/HUD/Hunt/HOMITM6
+/Graphics/HUD/Hunt/HOMING1	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMING2	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMING3	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMING4	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMING5	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMING6	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMITM1	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMITM2	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMITM3	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMITM4	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMITM5	"Zibon 'PixL' Badi"
+/Graphics/HUD/Hunt/HOMITM6	"Zibon 'PixL' Badi"
 /Graphics/HUD/NOPINGICON
 /Graphics/HUD/Power-ups/GOTBFLAG
 /Graphics/HUD/Power-ups/GOTFFLOW
@@ -2770,13 +2773,13 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_SPLAYR	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_STATS	"Zibon 'PixL' Badi"
 /Graphics/Menu/Headers/M_VIDEO	"Zibon 'PixL' Badi"
-/Graphics/Menu/Level Select/BLANKLVL
-/Graphics/Menu/Level Select/BLANKLVW
-/Graphics/Menu/Level Select/LSSTATIC
-/Graphics/Menu/Level Select/SLCT1LVL
-/Graphics/Menu/Level Select/SLCT1LVW
-/Graphics/Menu/Level Select/SLCT2LVL
-/Graphics/Menu/Level Select/SLCT2LVW
+/Graphics/Menu/Level Select/BLANKLVL	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/BLANKLVW	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/LSSTATIC	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/SLCT1LVL	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/SLCT1LVW	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/SLCT2LVL	"Zibon 'PixL' Badi"
+/Graphics/Menu/Level Select/SLCT2LVW	"Zibon 'PixL' Badi"
 /Graphics/Menu/M_BRDRL
 /Graphics/Menu/M_BRDRLS
 /Graphics/Menu/M_BRDRR
@@ -2817,14 +2820,14 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Menu/Record Attack/RECATKBG
 /Graphics/Menu/Record Attack/RECATKFG
 /Graphics/Menu/Record Attack/RECCLOCK
-/Graphics/Menu/Save Select/BLACXLVL
+/Graphics/Menu/Savefiles/BLACXLVL	"Zibon 'PixL' Badi"
 /Graphics/Menu/Save Select/CONTNONE
 /Graphics/Menu/Save Select/CONTSAVE
-/Graphics/Menu/Save Select/GAMEDONE
-/Graphics/Menu/Save Select/SAVEBACK
-/Graphics/Menu/Save Select/SAVENONE
+/Graphics/Menu/Savefiles/GAMEDONE	"Zibon 'PixL' Badi"
+/Graphics/Menu/Savefiles/SAVEBACK	"Zibon 'PixL' Badi"
+/Graphics/Menu/Savefiles/SAVENONE	"Zibon 'PixL' Badi"
 /Graphics/Menu/Save Select/STNONEX
-/Graphics/Menu/Save Select/ULTIMATE
+/Graphics/Menu/Savefiles/ULTIMATE	"Zibon 'PixL' Badi"
 /Graphics/NGRTIMER
 /Graphics/NiGHTS/BLUESTAT
 /Graphics/NiGHTS/BYELSTAT
@@ -2929,7 +2932,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/RACE2
 /Graphics/RACE3
 /Graphics/RACEGO
-/Graphics/RESULT
+/Graphics/RESULT	"Zibon 'PixL' Badi"
 /Graphics/Rings/*	"Zibon 'PixL' Badi"
 /Graphics/Rings/AUTOIND	"Zibon 'PixL' Badi"
 /Graphics/Rings/BNCEIND	"Zibon 'PixL' Badi"
@@ -2940,7 +2943,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Rings/RAILIND	"Zibon 'PixL' Badi"
 /Graphics/Rings/RINGIND	"Zibon 'PixL' Badi"
 /Graphics/Rings/SCATIND	"Zibon 'PixL' Badi"
-/Graphics/STARTUP
+/Graphics/Titlescreen/STARTUP	"Zibon 'PixL' Badi"
 /Graphics/STJr Intro/STJRI000
 /Graphics/STJr Intro/STJRI001
 /Graphics/STJr Intro/STJRI002
@@ -2971,7 +2974,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/STJr Intro/STJRI027
 /Graphics/STJr Intro/STJRI028
 /Graphics/STJr Intro/STJRI029
-/Graphics/SUPERICO
+/Graphics/HUD/SUPERICO	"Zibon 'PixL' Badi"
 /Graphics/Snake/DL_APPLE
 /Graphics/Snake/DL_SCISSORS
 /Graphics/Snake/DL_SLOW
@@ -3275,12 +3278,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/O_SPEC6.ogg
 /Music/O_SPEC7.ogg
 /Music/O_SPEC8.ogg
-/Music/O_THZ1.ogg
+/Music/O_THZ1.ogg	"Zibon 'PixL' Badi"
 /Music/O_THZ2.ogg	"Zibon 'PixL' Badi"
 /Music/O_THZALT.ogg
 /Music/O_TUTORL.ogg
 /Music/O_VSAGZ.ogg
-/Music/O_VSALT.ogg
+/Music/O_VSALT.ogg	"Zibon 'PixL' Badi"
 /Music/O_VSBOSS.ogg	"Zibon 'PixL' Badi"
 /Music/O_VSBRAK.ogg	"Zibon 'PixL' Badi"
 /Music/O_VSFANG.ogg	"Zibon 'PixL' Badi"
@@ -3306,6 +3309,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/O__SUPER.ogg	"Zibon 'PixL' Badi"
 /Music/O__TITLE.ogg	"Zibon 'PixL' Badi"
 /PLAYPAL	"Zibon 'PixL' Badi"
+/PAL0031	"Zibon 'PixL' Badi"
 /Patches/Alpine Paradise/BSZASK2B
 /Patches/Alpine Paradise/BSZASKY1
 /Patches/Alpine Paradise/BSZASKY2
@@ -4029,9 +4033,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSPUDPUD
 /Sounds/SRB2/DSPUMPKN
 /Sounds/SRB2/DSPUTPUT
-/Sounds/SRB2/DSRADIO
+/Sounds/SRB2/DSRADIO	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSRAIL2
-/Sounds/SRB2/DSRAININ
+/Sounds/DSRAININ	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSRLAUNC
 /Sounds/SRB2/DSROCKS1
 /Sounds/SRB2/DSROCKS2
@@ -4510,8 +4514,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SonicCD/DSCDPCM7
 /Sounds/SonicCD/DSCDPCM8
 /Sounds/SonicCD/DSCDPCM9
-/Sounds/retro/DSS3K86 "Zibon 'PixL' Badi"	(based on Man Screaming.wav by Gamufreaku -- https://freesound.org/s/655277/ -- License: Attribution 4.0)
-/Sounds/retro/DSS3K9D "Zibon 'PixL' Badi"
+/Sounds/retro/DSS3K86	"Zibon 'PixL' Badi"	(based on Man Screaming.wav by Gamufreaku -- https://freesound.org/s/655277/ -- License: Attribution 4.0)
+/Sounds/retro/DSS3K9D	"Zibon 'PixL' Badi"
 /Sounds/retro/DSS3KB8	"Zibon 'PixL' Badi"
 /Sprites/BFLGA0
 /Sprites/BFLGA0	"Zibon 'PixL' Badi"
@@ -6422,66 +6426,78 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Crawla Commander/CCOMD3D7
 /Sprites/Enemies/Crawla Commander/CCOMD4D6
 /Sprites/Enemies/Crawla Commander/CCOMD5
-/Sprites/Enemies/Crawla/POSSA1
-/Sprites/Enemies/Crawla/POSSA2A8
-/Sprites/Enemies/Crawla/POSSA3A7
-/Sprites/Enemies/Crawla/POSSA4A6
-/Sprites/Enemies/Crawla/POSSA5
-/Sprites/Enemies/Crawla/POSSB1
-/Sprites/Enemies/Crawla/POSSB2B8
-/Sprites/Enemies/Crawla/POSSB3B7
-/Sprites/Enemies/Crawla/POSSB4B6
-/Sprites/Enemies/Crawla/POSSB5
-/Sprites/Enemies/Crawla/POSSC1
-/Sprites/Enemies/Crawla/POSSC2C8
-/Sprites/Enemies/Crawla/POSSC3C7
-/Sprites/Enemies/Crawla/POSSC4C6
-/Sprites/Enemies/Crawla/POSSC5
-/Sprites/Enemies/Crawla/POSSD1
-/Sprites/Enemies/Crawla/POSSD2D8
-/Sprites/Enemies/Crawla/POSSD3D7
-/Sprites/Enemies/Crawla/POSSD4D6
-/Sprites/Enemies/Crawla/POSSD5
-/Sprites/Enemies/Crawla/POSSE1
-/Sprites/Enemies/Crawla/POSSE2E8
-/Sprites/Enemies/Crawla/POSSE3E7
-/Sprites/Enemies/Crawla/POSSE4E6
-/Sprites/Enemies/Crawla/POSSE5
-/Sprites/Enemies/Crawla/POSSF1
-/Sprites/Enemies/Crawla/POSSF2F8
-/Sprites/Enemies/Crawla/POSSF3F7
-/Sprites/Enemies/Crawla/POSSF4F6
-/Sprites/Enemies/Crawla/POSSF5
-/Sprites/Enemies/Crawla/SPOSA1
-/Sprites/Enemies/Crawla/SPOSA2A8
-/Sprites/Enemies/Crawla/SPOSA3A7
-/Sprites/Enemies/Crawla/SPOSA4A6
-/Sprites/Enemies/Crawla/SPOSA5
-/Sprites/Enemies/Crawla/SPOSB1
-/Sprites/Enemies/Crawla/SPOSB2B8
-/Sprites/Enemies/Crawla/SPOSB3B7
-/Sprites/Enemies/Crawla/SPOSB4B6
-/Sprites/Enemies/Crawla/SPOSB5
-/Sprites/Enemies/Crawla/SPOSC1
-/Sprites/Enemies/Crawla/SPOSC2C8
-/Sprites/Enemies/Crawla/SPOSC3C7
-/Sprites/Enemies/Crawla/SPOSC4C6
-/Sprites/Enemies/Crawla/SPOSC5
-/Sprites/Enemies/Crawla/SPOSD1
-/Sprites/Enemies/Crawla/SPOSD2D8
-/Sprites/Enemies/Crawla/SPOSD3D7
-/Sprites/Enemies/Crawla/SPOSD4D6
-/Sprites/Enemies/Crawla/SPOSD5
-/Sprites/Enemies/Crawla/SPOSE1
-/Sprites/Enemies/Crawla/SPOSE2E8
-/Sprites/Enemies/Crawla/SPOSE3E7
-/Sprites/Enemies/Crawla/SPOSE4E6
-/Sprites/Enemies/Crawla/SPOSE5
-/Sprites/Enemies/Crawla/SPOSF1
-/Sprites/Enemies/Crawla/SPOSF2F8
-/Sprites/Enemies/Crawla/SPOSF3F7
-/Sprites/Enemies/Crawla/SPOSF4F6
-/Sprites/Enemies/Crawla/SPOSF5
+/Sprites/Enemies/PiggyTank/POSSA1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSA2A8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSA3A7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSA4A6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSA5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB2B8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB3B7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB4B6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSB5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC2C8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC3C7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC4C6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSC5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD2D8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD3D7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD4D6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSD5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE2E8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE3E7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE4E6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSE5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF2F8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF3F7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF4F6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/PiggyTank/POSSF5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA2	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA3A7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA4	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSA8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB2	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB3B7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB4	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSB8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC2	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC3C7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC4	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSC8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD2	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD3D7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD4	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSD8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE2	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE3E7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE4	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSE8	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF1	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF2	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF3F7	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF4	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF5	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF6	"Zibon 'PixL' Badi"
+/Sprites/Enemies/HogRod/SPOSF8	"Zibon 'PixL' Badi"
 /Sprites/Enemies/CrazyStar/DETNA0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 /Sprites/Enemies/CrazyStar/DETNB0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 /Sprites/Enemies/CrazyStar/DETNC0 "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
@@ -6596,8 +6612,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Enemies/Egg Guard/SPSHL3L7
 /Sprites/Enemies/Egg Guard/SPSHL4L6
 /Sprites/Enemies/Egg Guard/SPSHL5
-/Sprites/Enemies/FISHA0
-/Sprites/Enemies/FISHB0
+/Sprites/Enemies/Fish/FISHALBR "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
+/Sprites/Enemies/Fish/FISHBLBR "Zibon 'PixL' Badi","Gog 'Idk' Wagoo"
 /Sprites/Enemies/Hangster/HBATA1
 /Sprites/Enemies/Hangster/HBATA2A8
 /Sprites/Enemies/Hangster/HBATA3A7
@@ -10031,7 +10047,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYC0	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYD0	"Zibon 'PixL' Badi"
 /Sprites/Springs/Vertical/SPRYE0	"Zibon 'PixL' Badi"
-/Sprites/THOKA0
+/Sprites/THOKA0	"Zibon 'PixL' Badi"
 /Sprites/Targets/GFLGA0	"Zibon 'PixL' Badi"
 /Sprites/Targets/GFLGB0	"Zibon 'PixL' Badi"
 /Sprites/Targets/GFLGC0	"Zibon 'PixL' Badi"
@@ -10064,15 +10080,15 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Xmas/XMS4B0
 /Sprites/Xmas/XMS5A0
 /Sprites/Xmas/XMS6A0
-/TRANS10
-/TRANS20
-/TRANS30
-/TRANS40
-/TRANS50
-/TRANS60
-/TRANS70
-/TRANS80
-/TRANS90
+/TRANS10	PK3Make	(based on PLAYPAL)
+/TRANS20	PK3Make	(based on PLAYPAL)
+/TRANS30	PK3Make	(based on PLAYPAL)
+/TRANS40	PK3Make	(based on PLAYPAL)
+/TRANS50	PK3Make	(based on PLAYPAL)
+/TRANS60	PK3Make	(based on PLAYPAL)
+/TRANS70	PK3Make	(based on PLAYPAL)
+/TRANS80	PK3Make	(based on PLAYPAL)
+/TRANS90	PK3Make	(based on PLAYPAL)
 /Textures/2Fort/2FORTWL1
 /Textures/2Fort/2FORTWL2
 /Textures/2Fort/2FORTWL3
@@ -10304,20 +10320,20 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/BRICK3W
 /Textures/BRICK4W
 /Textures/BUSTROCK
-/Textures/CARPET01
-/Textures/CARPET02
-/Textures/CARPET03
-/Textures/CARPET04
-/Textures/CARPET05
-/Textures/CARPET06
-/Textures/CARPET07
-/Textures/CARPET08
-/Textures/CARPET09
-/Textures/CARPET10
-/Textures/CARPET11
-/Textures/CARPET12
-/Textures/CARPET13
-/Textures/CARPET14
+/Textures/Carpets/CARPET01	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET02	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET03	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET04	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET05	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET06	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET07	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET08	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET09	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET10	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET11	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET12	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET13	"Zibon 'PixL' Badi"
+/Textures/Carpets/CARPET14	"Zibon 'PixL' Badi"
 /Textures/CASINOW1
 /Textures/CASINOW2
 /Textures/CASINOW3
@@ -10463,12 +10479,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Castle Eggman/flags/CEBANN4
 /Textures/Castle Eggman/flags/CEFLAG4
 /Textures/Castle Eggman/flags/CELBAN4
-/Textures/Castle Eggman/flags/CEZBAN1
-/Textures/Castle Eggman/flags/CEZBAN2
-/Textures/Castle Eggman/flags/CEZBAN3
-/Textures/Castle Eggman/flags/CEZBAN4
-/Textures/Castle Eggman/flags/CEZBAN5
-/Textures/Castle Eggman/flags/CEZBAN6
+/Textures/Flags/CEZBAN1	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN2	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN3	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN4	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN5	"Zibon 'PixL' Badi"
+/Textures/Flags/CEZBAN6	"Zibon 'PixL' Badi"
 /Textures/Castle Eggman/flags/CEZBAN7
 /Textures/Castle Eggman/flags/OLDBAN2
 /Textures/Castle Eggman/flags/OLDBAN3
@@ -10594,10 +10610,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/DIRT3
 /Textures/DIRT4
 /Textures/DIRT5
-/Textures/DISCOD1
-/Textures/DISCOD2
-/Textures/DISCOD3
-/Textures/DISCOD4
+/Textures/Disco/DISCOD1	"Zibon 'PixL' Badi"
+/Textures/Disco/DISCOD2	"Zibon 'PixL' Badi"
+/Textures/Disco/DISCOD3	"Zibon 'PixL' Badi"
+/Textures/Disco/DISCOD4	"Zibon 'PixL' Badi"
 /Textures/DISCOW1
 /Textures/DKLEAWLA
 /Textures/DKLEAWLB
@@ -11045,20 +11061,20 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/FOSSILW
 /Textures/Fences/GFZRAIL	"Zibon 'PixL' Badi"
 /Textures/Fences/GFZRAIL2	"Zibon 'PixL' Badi"
-/Textures/Flags/BANNERB1
-/Textures/Flags/BANNERB2
-/Textures/Flags/BANNERB3
-/Textures/Flags/BANNERB4
-/Textures/Flags/BANNERB5
-/Textures/Flags/BANNERB6
-/Textures/Flags/BANNERB7
-/Textures/Flags/BANNERB8
-/Textures/Flags/BANNERB9
-/Textures/Flags/BANNERBA
-/Textures/Flags/BANNERBB
-/Textures/Flags/BANNERBC
-/Textures/Flags/BANNERBD
-/Textures/Flags/BANNERBE
+/Textures/Flags/BANNERB1	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB2	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB3	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB4	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB5	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB6	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB7	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB8	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERB9	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBA	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBB	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBC	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBD	"Zibon 'PixL' Badi"
+/Textures/Flags/BANNERBE	"Zibon 'PixL' Badi"
 /Textures/Flags/CEBANN1
 /Textures/Flags/CEBANN2
 /Textures/Flags/CEBANN3
@@ -11068,34 +11084,34 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Flags/CELBAN1
 /Textures/Flags/CELBAN2
 /Textures/Flags/CELBAN3
-/Textures/Flags/FLAGBL1
-/Textures/Flags/FLAGBL2
-/Textures/Flags/FLAGBL3
-/Textures/Flags/FLAGBL4
-/Textures/Flags/FLAGBL5
-/Textures/Flags/FLAGBL6
-/Textures/Flags/FLAGBL7
-/Textures/Flags/FLAGBL8
-/Textures/Flags/FLAGBL9
-/Textures/Flags/FLAGBLA
-/Textures/Flags/FLAGBLB
-/Textures/Flags/FLAGBLC
-/Textures/Flags/FLAGBLD
-/Textures/Flags/FLAGBLE
-/Textures/Flags/LBANNRB1
-/Textures/Flags/LBANNRB2
-/Textures/Flags/LBANNRB3
-/Textures/Flags/LBANNRB4
-/Textures/Flags/LBANNRB5
-/Textures/Flags/LBANNRB6
-/Textures/Flags/LBANNRB7
-/Textures/Flags/LBANNRB8
-/Textures/Flags/LBANNRB9
-/Textures/Flags/LBANNRBA
-/Textures/Flags/LBANNRBB
-/Textures/Flags/LBANNRBC
-/Textures/Flags/LBANNRBD
-/Textures/Flags/LBANNRBE
+/Textures/Flags/FLAGBL1	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL2	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL3	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL4	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL5	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL6	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL7	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL8	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBL9	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLA	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLB	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLC	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLD	"Zibon 'PixL' Badi"
+/Textures/Flags/FLAGBLE	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB1	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB2	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB3	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB4	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB5	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB6	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB7	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB8	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRB9	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBA	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBB	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBC	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBD	"Zibon 'PixL' Badi"
+/Textures/Flags/LBANNRBE	"Zibon 'PixL' Badi"
 /Textures/Fluids/2FALL1
 /Textures/Fluids/2FALL2
 /Textures/Fluids/2FALL3
@@ -11262,7 +11278,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZBRID2
 /Textures/Greenflower/GFZBRIDG	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZFENC2
-/Textures/Greenflower/GFZFNCB
+/Textures/Grasslands/GFZFNCB	"Zibon 'PixL' Badi"
 /Textures/Greenflower/GFZFNCC
 /Textures/Greenflower/GFZFNCCG
 /Textures/Greenflower/GFZFNCD
@@ -13402,7 +13418,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/ZIMWALL5
 /Textures/ZIMWALL8
 /Textures/ZIMWALL9
-/WATERMAP
+/WATERMAP 	PK3Make
 /Sprites/8ball/PUMIA1A5	"Zibon 'PixL' Badi"
 /Sprites/8ball/PUMIA2A8	"Zibon 'PixL' Badi"
 /Sprites/8ball/PUMIA3A7	"Zibon 'PixL' Badi"
@@ -13533,7 +13549,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/GASPA3A7
 /Characters/Alex/GASPA4A6
 /Characters/Alex/GASPA5
-/Characters/Alex/LIFEA0
+/Characters/Alex/LIFEA0	"Zibon 'PixL' Badi"
 /Characters/Alex/MLEEA1
 /Characters/Alex/MLEEA2A8
 /Characters/Alex/MLEEA3A7
@@ -13575,67 +13591,62 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/RIDEA3A7
 /Characters/Alex/RIDEA4A6
 /Characters/Alex/RIDEA5
-/Characters/Alex/ROLLA1
-/Characters/Alex/ROLLA2A8
-/Characters/Alex/ROLLA3A7
-/Characters/Alex/ROLLA4A6
-/Characters/Alex/ROLLA5
-/Characters/Alex/ROLLB1
-/Characters/Alex/ROLLB2B8
-/Characters/Alex/ROLLB3B7
-/Characters/Alex/ROLLB4B6
-/Characters/Alex/ROLLB5
-/Characters/Alex/ROLLC1
-/Characters/Alex/ROLLC2C8
-/Characters/Alex/ROLLC3C7
-/Characters/Alex/ROLLC4C6
-/Characters/Alex/ROLLC5
-/Characters/Alex/ROLLD1
-/Characters/Alex/ROLLD2D8
-/Characters/Alex/ROLLD3D7
-/Characters/Alex/ROLLD4D6
-/Characters/Alex/ROLLD5
-/Characters/Alex/RUN_A1
-/Characters/Alex/RUN_A2E8
-/Characters/Alex/RUN_A3E7
-/Characters/Alex/RUN_A4E6
-/Characters/Alex/RUN_A5
-/Characters/Alex/RUN_B1
-/Characters/Alex/RUN_B2F8
-/Characters/Alex/RUN_B3F7
-/Characters/Alex/RUN_B4F6
-/Characters/Alex/RUN_B5
-/Characters/Alex/RUN_C1
-/Characters/Alex/RUN_C2G8
-/Characters/Alex/RUN_C3G7
-/Characters/Alex/RUN_C4G6
-/Characters/Alex/RUN_C5
-/Characters/Alex/RUN_D1
-/Characters/Alex/RUN_D2H8
-/Characters/Alex/RUN_D3H7
-/Characters/Alex/RUN_D4H6
-/Characters/Alex/RUN_D5
-/Characters/Alex/RUN_E1
-/Characters/Alex/RUN_E2A8
-/Characters/Alex/RUN_E3A7
-/Characters/Alex/RUN_E4A6
-/Characters/Alex/RUN_E5
-/Characters/Alex/RUN_F1
-/Characters/Alex/RUN_F2B8
-/Characters/Alex/RUN_F3B7
-/Characters/Alex/RUN_F4B6
-/Characters/Alex/RUN_F5
-/Characters/Alex/RUN_G1
-/Characters/Alex/RUN_G2C8
-/Characters/Alex/RUN_G3C7
-/Characters/Alex/RUN_G4C6
-/Characters/Alex/RUN_G5
-/Characters/Alex/RUN_H1
-/Characters/Alex/RUN_H2D8
-/Characters/Alex/RUN_H3D7
-/Characters/Alex/RUN_H4D6
-/Characters/Alex/RUN_H5
-/Characters/Alex/SIGNA0
+/Characters/Alex/ROLLA1	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLA2A8	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLA3A7	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLA4A6	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLA5	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB1	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB2B8	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB3B7	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB4B6	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLB5	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC1	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC2C8	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC3C7	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC4C6	"Zibon 'PixL' Badi"
+/Characters/Alex/ROLLC5	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_A1	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_A2E8	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_A3E7	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_A4E6	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_A5	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_B1	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_B2F8	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_B3F7	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_B4F6	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_B5	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_C1	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_C2G8	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_C3G7	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_C4G6	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_C5	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_D1	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_D2H8	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_D3H7	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_D4H6	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_D5	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_E1	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_E2A8	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_E3A7	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_E4A6	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_E5	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_F1	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_F2B8	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_F3B7	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_F4B6	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_F5	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_G1	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_G2C8	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_G3C7	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_G4C6	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_G5	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_H1	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_H2D8	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_H3D7	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_H4D6	"Zibon 'PixL' Badi"
+/Characters/Alex/RUN_H5	"Zibon 'PixL' Badi"
+/Characters/Alex/SIGNA0	"Zibon 'PixL' Badi"
 /Characters/Alex/SPNGA1
 /Characters/Alex/SPNGA2
 /Characters/Alex/SPNGA3
@@ -13759,7 +13770,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/WALKH5
 /Characters/Alex/XTRAA0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAB0	"Zibon 'PixL' Badi"
-/Characters/Alex/XTRAC0
+/Characters/Alex/XTRAC0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAD0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAE0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAF0	"Zibon 'PixL' Badi"
@@ -14186,7 +14197,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/LANDA3A7
 /Characters/Babel/LANDA4A6
 /Characters/Babel/LANDA5
-/Characters/Babel/LIFEA0
+/Characters/Babel/LIFEA0	"Zibon 'PixL' Badi"
 /Characters/Babel/NDRLALAR
 /Characters/Babel/NDRLBLBR
 /Characters/Babel/NDRLCLCR
@@ -14269,7 +14280,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/SPNGA3A7
 /Characters/Babel/SPNGA4A6
 /Characters/Babel/SPNGA5
-/Characters/Babel/STNDA1
+/Characters/Babel/STNDA1	"Zibon 'PixL' Badi"
 /Characters/Babel/STNDA2A8
 /Characters/Babel/STNDA3A7
 /Characters/Babel/STNDA4A6
@@ -14421,7 +14432,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/MARA/FALLA6
 /Characters/MARA/FALLA7
 /Characters/MARA/FALLA8
-/Characters/MARA/LIFEA0
+/Characters/MARA/LIFEA0	"Zibon 'PixL' Badi"
 /Characters/MARA/NDRLALAR
 /Characters/MARA/NDRLBLBR
 /Characters/MARA/NDRLCLCR
@@ -14623,7 +14634,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Elise/GASPA7
 /Characters/Elise/GASPA8.
 /Characters/Elise/GASPA8
-/Characters/Elise/LIFEA0
+/Characters/Elise/LIFEA0	"Zibon 'PixL' Badi"
 /Characters/Elise/NDRLALAR
 /Characters/Elise/NDRLBLBR
 /Characters/Elise/NDRLCLCR
@@ -14714,7 +14725,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Elise/RUN_D2B8
 /Characters/Elise/RUN_D3B7
 /Characters/Elise/RUN_D4B6
-/Characters/Elise/SIGNA0
+/Characters/Elise/SIGNA0	"Zibon 'PixL' Badi"
+/Characters/Elise/SIGNB0	"Zibon 'PixL' Badi"
+/Characters/Elise/SIGNB0	"Zibon 'PixL' Badi"
 /Characters/Elise/SPINA1	"Zibon 'PixL' Badi"
 /Characters/Elise/SPINA2A8	"Zibon 'PixL' Badi"
 /Characters/Elise/SPINA3A7	"Zibon 'PixL' Badi"
@@ -14947,7 +14960,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Kleene/RUN_B3B7
 /Characters/Kleene/RUN_B4B6
 /Characters/Kleene/RUN_B5
-/Characters/Kleene/SIGNA0
+/Characters/Kleene/SIGNA0	"Zibon 'PixL' Badi"
 /Characters/Kleene/SPINA1	"Zibon 'PixL' Badi"
 /Characters/Kleene/SPINA2A8	"Zibon 'PixL' Badi"
 /Characters/Kleene/SPINA3A7	"Zibon 'PixL' Badi"

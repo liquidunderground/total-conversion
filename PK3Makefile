@@ -23,6 +23,7 @@
 # --- Basics ---
 PLAYPAL palette
 COLORMAP colormap PLAYPAL
+WATERMAP colormap PLAYPAL # Placeholder; The engine expects but doesn't use it
 TRANS10 tinttab PLAYPAL 0.1
 TRANS20 tinttab PLAYPAL 0.2
 TRANS30 tinttab PLAYPAL 0.3
@@ -43,7 +44,7 @@ D_*.mid raw
 O_*.ogg raw
 
 # --- SFX ---
-DS*.ogg raw
+Sounds/**/DS*.ogg raw
 
 # --- SOC ---
 SOC_ raw preserve_filename
@@ -53,29 +54,48 @@ SOC_ raw preserve_filename
 *.lua raw preserve_filename
 
 # --- Fades ---
-Fades/FA_START marker
 FADE00* fade
-Fades/FA_END marker
-Fades/FA_START marker
 FADE69* fade
-Fades/FA_END marker
-Fades/FA_START marker
 FADE88* fade
-Fades/FA_END marker
-Fades/FA_START marker
 FADE99* fade
-Fades/FA_END marker
 
 # --- Flats ---
 Flats/**/*.png flat
 
 # --- Graphics ---
 MISSING graphic 0 0
+SUPERICO graphic 0 0
+# Backgrounds
+SRB2BACK graphic 0 0
+CHARBG graphic 0 0
+CHARFG graphic 0 0
+# Splash Screens
+GAMEQUIT graphic 0 0
+STARTUP graphic 0 0
+WBTITL* graphic 0 0
 # HUD Graphics
+STT* graphic 0 0
 TTWING graphic 30 10
 CROSHAI graphic center
-*IND graphic 0 0
+Graphics/**/*IND graphic 0 0
 CURWEAP graphic 0 0
+Graphics/Menu/Savefiles/ graphic 0 0
+Graphics/HUD/Hunt/HOM* graphic 0 0
+### Level Select
+BLANKLVL graphic 0 0
+BLANKLVW graphic 0 0
+LSSTATIC graphic 0 0
+SLCT1LVL graphic 0 0
+SLCT1LVW graphic 0 0
+SLCT2LVL graphic 0 0
+SLCT2LVW graphic 0 0
+### Save File Select
+BLANKLVL graphic 0 0
+BLACXLVL graphic 0 0
+GAMEDONE graphic 0 0
+SAVEBACK graphic 0 0
+SAVENONE graphic 0 0
+ULTIMATE graphic 0 0
 ### Titlecard
 LTACTBLU graphic 25 15
 LTACTRED graphic 20 24
@@ -239,6 +259,8 @@ LTFNT063 graphic 0 -4
 LTFNT065 graphic 0 0
 LTFNT066 graphic 0 0
 LTFNT067 graphic 0 0
+LTFNT068 graphic 0 0
+LTFNT069 graphic 0 0
 LTFNT070 graphic 0 0
 LTFNT071 graphic 0 0
 LTFNT072 graphic 0 0
@@ -299,16 +321,14 @@ YB_LAP graphic 77 4
 YB_GUARD graphic 92 4
 YB_CONTI graphic 80 4
 ### Chakra Shards
-CHAOS1 graphic 2 5
-CHAOS2 graphic 2 5
-CHAOS3 graphic 2 5
-CHAOS4 graphic 2 5
-CHAOS5 graphic 2 5
-CHAOS6 graphic 2 5
-CHAOS7 graphic 2 5
-CHAOS8 graphic 2 5
+TEMER* graphic 0 0
+CHAOS* graphic 2 5
+### Emblems
+NEEDIT graphic 0 0
+GOTIT* graphic 0 0
 ### Continue Screeen
 CONTSTAR graphic 12 0
+CONTINS graphic 0 0
 CONTSPOT graphic 32 8
 CONTNUM0 graphic 8 0
 CONTNUM1 graphic 8 0
@@ -459,13 +479,32 @@ M_SOUND graphic 0 3
 M_SPLAYR graphic 0 3
 M_STATS graphic 0 3
 M_VIDEO graphic 0 3
+RESULT graphic 0 0
+#### Add-On menu icons
+M_FBACK graphic 0 0
+M_FCFG graphic 0 0
+M_FFLDR graphic 0 0
+M_FLOAD graphic 0 0
+M_FLUA graphic 0 0
+M_FNOPE graphic 0 0
+M_FPK3 graphic 0 0
+M_FSAVE graphic 0 0
+M_FSEL graphic 0 0
+M_FSOC graphic 0 0
+M_FSRCH graphic 0 0
+M_FTXT graphic 0 0
+M_FUNKN graphic 0 0
+M_FWAD graphic 0 0
+M_FWAD8 graphic 0 0
 ### Misc
 TOKNICON graphic 0 0
 
 # --- Patches ---
-Patches/*.png graphic 0 0
+Patches/**/*.png graphic 0 0
 
 # --- Sprites ---
+Sprites/**/DSHADOW graphic 0 0
+Sprites/**/THOK* graphic 23 43
 ### KOTU targetting
 TARG* graphic 32 64
 ### Checkpoints
@@ -502,7 +541,7 @@ SSWR* graphic 86 40 # Horizontal
 SSWB* graphic 86 40
 SSWY* graphic 86 40
 ### Gems & Spells
-RING graphic 16 30
+Sprites/**/RING graphic 16 30
 SPRK graphic 16 30
 PIKA* graphic 24 44
 PIKB* graphic 24 44
@@ -518,23 +557,21 @@ TINF* graphic 16 28
 TSCR* graphic 16 28
 TXPL* graphic 16 28
 ### Level end portal
-SIGNA0 graphic 40 48
-SIGNB0 graphic 22 48
-SIGN graphic 40 94
+Sprites/**/SIGNA0 graphic 40 48
+Sprites/**/SIGNB0 graphic 22 48
+Sprites/**/SIGN graphic 40 94
 ### Item boxes
-TRRI graphic 19 42
-TRBI graphic 19 42
-MSTVB0 graphic 19 42
-XLTV graphic 21 46
-### Item box signs
-TV1U* graphic 12 20
-TV1P* graphic 12 20
+Sprites/**/TV* graphic sprite
+TRRI graphic sprite
+TBRI graphic sprite
+MSTV graphic sprite
+XLTV graphic sprite
 ### Particle FX
 BOM1 graphic 32 60
 LSTR graphic 16 16
 LHRT graphic 16 16
 ### Special stage Token
-TOKE graphic 18 36
+TOKE* graphic 18 36
 ### Spikes/Thorns
 USPKA0 graphic 8 38
 USPKB0 graphic 8 38
@@ -573,6 +610,18 @@ TRE5 graphic 28 252
 TRE6 graphic 70 162
 ### Statues
 ESTAB* graphic 55 124
+## -- Enemies --
+### Piggy Tank
+POSS* graphic sprite
+### Fish
+FISH* graphic 29 56
+### Hog Rod
+SPOS* graphic sprite
+### Crazy Star
+DETN* graphic sprite
+### Bath Bomber
+SKIM* graphic 32 32
+MINEA0 graphic 10 21 # Dropped bomb
 ### Misc.: Missing sprite/etc.
 Sprites/**/PUMI* graphic 40 72 # 8-Ball
 UNKN* graphic 16 36
@@ -584,15 +633,64 @@ CSPE&K graphic 0 0 # Elise & Kleene duo graphic
 SPRTINFO raw # Needed for space dolphin sprite rotation
 # - Alex -
 Characters/Alex/STND* graphic 24 66
+Characters/Alex/RUN_*1 graphic 32 66
+Characters/Alex/RUN_*2*8 graphic 34 66
+Characters/Alex/RUN_*3*7 graphic 35 66
+Characters/Alex/RUN_*4*6 graphic 29 66
+Characters/Alex/RUN_*5 graphic 32 66
+Characters/Alex/ROLL*1 graphic sprite
+Characters/Alex/ROLL*5 graphic sprite
+Characters/Alex/ROLL*2*8 graphic 41 52
+Characters/Alex/ROLL*3*7 graphic 45 52
+Characters/Alex/ROLL*4*6 graphic 41 52
 Characters/Alex/XTRAC0 graphic 10 24
 Characters/Alex/XTRA* graphic 0 0
+Characters/Alex/LIFEA0 graphic sprite
+Characters/Alex/SIGN* graphic 25 49
 # - MARA -
-Characters/MARA/TAL0*3*7 graphic 0 37
 Characters/MARA/TAL0*1* graphic 13 37
-Characters/MARA/TAL0*5* graphic 13 37
+Characters/MARA/TAL0*2*8 graphic 20 37
+Characters/MARA/TAL0*3*7 graphic 0 37
 Characters/MARA/TAL0*4*6 graphic 0 37
+Characters/MARA/TAL0*5* graphic 13 37
+Characters/MARA/TAL0*6*4 graphic 0 37
+Characters/MARA/TAL0*7*3 graphic 0 37
 Characters/MARA/TAL0*8*2 graphic 20 37
+Characters/MARA/LIFEA0 graphic sprite
+# - Elise -
+Characters/Elise/CNT1* graphic 24 42
+Characters/Elise/DEAD* graphic 24 62
+Characters/Elise/SIGN* graphic 30 49
+Characters/Elise/LIFEA0 graphic sprite
+Characters/Elise/SPIN*1 graphic sprite
+Characters/Elise/SPIN*5 graphic sprite
+Characters/Elise/SPIN*2*8 graphic 41 52
+Characters/Elise/SPIN*3*7 graphic 45 52
+Characters/Elise/SPIN*4*6 graphic 41 52
+Characters/Elise/ROLL*1 graphic sprite
+Characters/Elise/ROLL*5 graphic sprite
+Characters/Elise/ROLL*2*8 graphic 41 52
+Characters/Elise/ROLL*3*7 graphic 45 52
+Characters/Elise/ROLL*4*6 graphic 41 52
+# - Kleene -
+Characters/Kleene/XTRA* graphic 0 0
+Characters/Kleene/SPIN*1 graphic sprite
+Characters/Kleene/SPIN*5 graphic sprite
+Characters/Kleene/SPIN*2*8 graphic 41 52
+Characters/Kleene/SPIN*3*7 graphic 45 52
+Characters/Kleene/SPIN*4*6 graphic 41 52
+Characters/Kleene/ROLL*1 graphic sprite
+Characters/Kleene/ROLL*5 graphic sprite
+Characters/Kleene/ROLL*2*8 graphic 41 52
+Characters/Kleene/ROLL*3*7 graphic 45 52
+Characters/Kleene/ROLL*4*6 graphic 41 52
+Characters/Kleene/SIGN* graphic 39 49
+# - Babel -
+Characters/Babel/STND* graphic sprite
+Characters/Babel/LIFEA0 graphic sprite
+# - Patsy -
+Characters/Babel/XTRA* graphic 0 0
 
 # --- Textures ---
+Textures/**/STLRED graphic 0 0
 Textures/**/*.png graphic 0 0
-
