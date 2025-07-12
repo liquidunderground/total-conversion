@@ -59,6 +59,7 @@ Characters by Zibon "PixL" Badi
 
 Textures by:
 - Zibon "PixL" Badi
+- "Mikhael Blur"
 - Gog "Idk" Wagoo
 
 ### Sound ###
@@ -1413,7 +1414,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Greenflower/Old/OLDGFZF3
 /Flats/Greenflower/Old/OLDGFZF4
 /Flats/Greenflower/Skybox/GFZSF
-/Flats/HNYLEAFF
+/Flats/HNYLEAFF	"Mikhael Blur"
 /Flats/HONEYF
 /Flats/Halloween/BSFLR1
 /Flats/Halloween/BSFLR1B
@@ -1506,9 +1507,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Jungle/JNGFLR06
 /Flats/Jungle/JNGFLR07
 /Flats/Jungle/JNGFLR08
-/Flats/Jungle/JNGFLR09
-/Flats/Jungle/JNGFLR10
-/Flats/Jungle/JNGFLR11
+/Flats/Jungle/JNGFLR09	"Mikhael Blur"
+/Flats/Jungle/JNGFLR10	"Mikhael Blur"
+/Flats/Jungle/JNGFLR11	"Mikhael Blur"
 /Flats/Jungle/JNGFLR12
 /Flats/Jungle/JNGFLR13
 /Flats/Jungle/JNGFLR14
@@ -11405,7 +11406,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Honeyhive/HNYFALL3
 /Textures/Honeyhive/HNYFALL4
 /Textures/Honeyhive/HNYGRASS
-/Textures/Honeyhive/HNYLEAF1
+/Textures/Honeyhive/HNYLEAF1	"Mikhael Blur"
 /Textures/Honeyhive/HNYPLNT1
 /Textures/Honeyhive/HNYPLNT2
 /Textures/Honeyhive/HNYSIDE1
@@ -11541,9 +11542,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Jungle/JNGWL06
 /Textures/Jungle/JNGWL07
 /Textures/Jungle/JNGWL08
-/Textures/Jungle/JNGWL09
-/Textures/Jungle/JNGWL10
-/Textures/Jungle/JNGWL11
+/Textures/Jungle/JNGWL09	"Mikhael Blur"
+/Textures/Jungle/JNGWL10	"Mikhael Blur"
+/Textures/Jungle/JNGWL11	"Mikhael Blur"
 /Textures/Jungle/JNGWL12
 /Textures/Jungle/JNGWL13
 /Textures/Jungle/JNGWL13S
