@@ -529,7 +529,8 @@ CFIRA0 graphic 12 16
 ### Flowers
 FWR1 graphic 16 46
 FWR2 graphic 16 126
-FWR3 graphic 7 30
+FWR3 graphic sprite
+BST* graphic 7 30
 ### Springs
 SPRR* graphic 22 102 # Vertical
 SPRY* graphic 22 102
