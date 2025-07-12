@@ -1536,18 +1536,18 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Jungle/JNGRCKF2
 /Flats/Jungle/JNGRCKF3
 /Flats/Jungle/JNGRCKF4
-/Flats/Jungle/JNGWDF1
-/Flats/Jungle/JNGWDF1B
-/Flats/Jungle/JNGWDF1S
-/Flats/Jungle/JNGWDF2
-/Flats/Jungle/JNGWDF2B
-/Flats/Jungle/JNGWDF2S
-/Flats/Jungle/JNGWDF3
-/Flats/Jungle/JNGWDF3B
-/Flats/Jungle/JNGWDF3S
-/Flats/Jungle/JNGWDF4
-/Flats/Jungle/JNGWDF4B
-/Flats/Jungle/JNGWDF4S
+/Flats/Jungle/JNGWDF1	"Mikhael Blur"
+/Flats/Jungle/JNGWDF1B	"Mikhael Blur"
+/Flats/Jungle/JNGWDF1S	"Mikhael Blur"
+/Flats/Jungle/JNGWDF2	"Mikhael Blur"
+/Flats/Jungle/JNGWDF2B	"Mikhael Blur"
+/Flats/Jungle/JNGWDF2S	"Mikhael Blur"
+/Flats/Jungle/JNGWDF3	"Mikhael Blur"
+/Flats/Jungle/JNGWDF3B	"Mikhael Blur"
+/Flats/Jungle/JNGWDF3S	"Mikhael Blur"
+/Flats/Jungle/JNGWDF4	"Mikhael Blur"
+/Flats/Jungle/JNGWDF4B	"Mikhael Blur"
+/Flats/Jungle/JNGWDF4S	"Mikhael Blur"
 /Flats/Jungle/JNGWDF5
 /Flats/Jungle/JNGWDF6
 /Flats/Jungle/JNGWDF7
