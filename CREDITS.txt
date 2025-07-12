@@ -9143,78 +9143,78 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Botanic Serenity/BSZ8D0
 /Sprites/Scenery/Botanic Serenity/BSZ8E0
 /Sprites/Scenery/Botanic Serenity/BSZ8F0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1A0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1B0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1C0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1D0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1E0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1F0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1G0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1H0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1I0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1J0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1K0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST1L0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2A0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2B0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2C0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2D0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2E0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2F0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2G0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2H0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2I0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2J0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2K0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST2L0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3A0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3B0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3C0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3D0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3E0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3F0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3G0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3H0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3I0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3J0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3K0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST3L0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4A0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4B0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4C0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4D0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4E0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4F0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4G0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4H0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4I0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4J0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4K0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST4L0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5A0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5B0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5C0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5D0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5E0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5F0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5G0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5H0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5I0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5J0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5K0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST5L0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6A0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6B0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6C0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6D0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6E0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6F0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6G0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6H0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6I0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6J0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6K0
-/Sprites/Scenery/Botanic Serenity/Tulips/BST6L0
+/Sprites/Flowers/BST1A0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1B0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1C0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1D0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1E0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1F0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1G0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1H0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1I0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1J0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1K0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST1L0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2A0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2B0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2C0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2D0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2E0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2F0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2G0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2H0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2I0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2J0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2K0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST2L0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3A0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3B0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3C0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3D0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3E0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3F0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3G0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3H0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3I0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3J0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3K0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST3L0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4A0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4B0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4C0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4D0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4E0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4F0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4G0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4H0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4I0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4J0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4K0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST4L0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5A0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5B0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5C0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5D0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5E0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5F0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5G0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5H0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5I0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5J0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5K0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST5L0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6A0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6B0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6C0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6D0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6E0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6F0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6G0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6H0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6I0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6J0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6K0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/BST6L0	"Zibon 'PixL' Badi"
 /Sprites/Scenery/CBLLA0
 /Sprites/Scenery/Castle Eggman/BANRA0
 /Sprites/Scenery/Castle Eggman/BANRBRBL
@@ -9399,18 +9399,18 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Greenflower/FWR2R0
 /Sprites/Scenery/Greenflower/FWR2S0
 /Sprites/Scenery/Greenflower/FWR2T0
-/Sprites/Scenery/Greenflower/FWR3A0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3B0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3C0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3D0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3E0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3F0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3G0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3H0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3I0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3J0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3K0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/FWR3L0	"Zibon 'PixL' Badi"
+/Sprites/Flowers/FWR3A0	"Mikhael Blur"
+/Sprites/Flowers/FWR3B0	"Mikhael Blur"
+/Sprites/Flowers/FWR3C0	"Mikhael Blur"
+/Sprites/Flowers/FWR3D0	"Mikhael Blur"
+/Sprites/Flowers/FWR3E0	"Mikhael Blur"
+/Sprites/Flowers/FWR3F0	"Mikhael Blur"
+/Sprites/Flowers/FWR3G0	"Mikhael Blur"
+/Sprites/Flowers/FWR3H0	"Mikhael Blur"
+/Sprites/Flowers/FWR3I0	"Mikhael Blur"
+/Sprites/Flowers/FWR3J0	"Mikhael Blur"
+/Sprites/Flowers/FWR3K0	"Mikhael Blur"
+/Sprites/Flowers/FWR3L0	"Mikhael Blur"
 /Sprites/Scenery/Halloween/HHPLALAR
 /Sprites/Scenery/Halloween/HHPLB0
 /Sprites/Scenery/Halloween/HHPLC0
