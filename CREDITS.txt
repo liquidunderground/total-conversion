@@ -9365,12 +9365,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Gargoyles/GARGB3B7
 /Sprites/Scenery/Gargoyles/GARGB4B6
 /Sprites/Scenery/Gargoyles/GARGB5
-/Sprites/Scenery/Greenflower/BUS1A0	"Gog 'Idk' Wagoo"
-/Sprites/Scenery/Greenflower/BUS1B0
-/Sprites/Scenery/Greenflower/BUS2A0	"Gog 'Idk' Wagoo"
-/Sprites/Scenery/Greenflower/BUS2B0
-/Sprites/Scenery/Greenflower/BUS3A0	"Zibon 'PixL' Badi"
-/Sprites/Scenery/Greenflower/BUS3B0
+/Sprites/Scenery/Greenflower/BUS1A0	"Mikhael Blur"
+/Sprites/Scenery/Greenflower/BUS1B0	"Zibon 'PixL' Badi"	(based on another GFVINES by "Mikhael Blur")
+/Sprites/Scenery/Greenflower/BUS2A0	"Zibon 'PixL' Badi"
+/Sprites/Scenery/Greenflower/BUS2B0	"Zibon 'PixL' Badi"
+/Sprites/Scenery/Greenflower/BUS3A0	"Mikhael Blur"
+/Sprites/Scenery/Greenflower/BUS3B0	"Zibon 'PixL' Badi"	(based on another GFVINES by "Mikhael Blur")
 /Sprites/Scenery/Greenflower/FWR1A0	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Greenflower/FWR1B0	"Zibon 'PixL' Badi"
 /Sprites/Scenery/Greenflower/FWR1C0	"Zibon 'PixL' Badi"
