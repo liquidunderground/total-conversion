@@ -557,8 +557,8 @@ TINF* graphic 16 28
 TSCR* graphic 16 28
 TXPL* graphic 16 28
 ### Level end portal
-Sprites/**/SIGNA0 graphic 40 48
-Sprites/**/SIGNB0 graphic 22 48
+Sprites/**/SIGNA0 graphic 20 48
+Sprites/**/SIGNB0 graphic 40 48
 Sprites/**/SIGN graphic 40 94
 ### Item boxes
 Sprites/**/TV* graphic sprite

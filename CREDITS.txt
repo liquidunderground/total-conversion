@@ -6019,25 +6019,25 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Emeralds/SHRDA0	"Zibon 'PixL' Badi"
 /Sprites/Emeralds/SHRDB0	"Zibon 'PixL' Badi"
 /Sprites/Emeralds/SHRDC0	"Zibon 'PixL' Badi"
-/Sprites/End Sign/SIGNA0
-/Sprites/End Sign/SIGNB0
-/Sprites/End Sign/SIGNC0
-/Sprites/End Sign/SIGND0
-/Sprites/End Sign/SIGNE0
-/Sprites/End Sign/SIGNF0
-/Sprites/End Sign/SIGNG0
-/Sprites/End Sign/SIGNH0
-/Sprites/End Sign/SIGNI0
-/Sprites/End Sign/SIGNJ0
-/Sprites/End Sign/SIGNK0
-/Sprites/End Sign/SIGNL0
-/Sprites/End Sign/SIGNM0
-/Sprites/End Sign/SIGNN0
-/Sprites/End Sign/SIGNO0
-/Sprites/End Sign/SIGNP0
-/Sprites/End Sign/SIGNQ0
-/Sprites/End Sign/SIGNR0
-/Sprites/End Sign/SIGNS0
+/Sprites/Goal Portal/SIGNA0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNB0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNC0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGND0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNE0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNF0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNG0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNH0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNI0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNJ0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNK0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNL0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNM0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNN0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNO0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNP0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNQ0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNR0	"Zibon 'PixL' Badi"
+/Sprites/Goal Portal/SIGNS0	"Zibon 'PixL' Badi"
 /Sprites/Enemies/BASH/VLTRA1
 /Sprites/Enemies/BASH/VLTRA2A8
 /Sprites/Enemies/BASH/VLTRA3A7
