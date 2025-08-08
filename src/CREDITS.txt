@@ -57,9 +57,16 @@ Characters by Zibon "PixL" Badi
 
 ### Art ###
 
+Sprites by:
+- Zibon "PixL" Badi
+- Gog "Idk" Wagoo
+
 Textures by:
 - Zibon "PixL" Badi
 - Gog "Idk" Wagoo
+
+UI graphics by:
+- Zibon "PixL" Badi
 
 ### Sound ###
 
