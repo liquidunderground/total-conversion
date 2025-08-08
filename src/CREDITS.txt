@@ -11,8 +11,8 @@ CREDITS AND LICENSING
             /_/   [discord.gg/HVTzVfAWG6]
 
 © 2023-2025 Liquid Underground
-All assets within this project are licensed under
-Creative Commons Attribution Share-Alike 4.0 (CC-BY-SA 4.0)
+All assets within this project are licensed under Creative Commons
+Attribution Share-Alike 4.0 (CC-BY-SA 4.0) unless otherwise noted.
 
 <https://creativecommons.org/licenses/by-sa/4.0/>
 
