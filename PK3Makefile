@@ -629,10 +629,10 @@ UNKN* graphic 16 36
 
 # --- Characters ---
 # General
-Characters/**/S_SKIN raw
 CSPE&K graphic 0 0 # Elise & Kleene duo graphic
 SPRTINFO raw # Needed for space dolphin sprite rotation
 # - Alex -
+Characters/Alex/S_SKIN raw
 Characters/Alex/STND* graphic 24 66
 Characters/Alex/RUN_*1 graphic 32 66
 Characters/Alex/RUN_*2*8 graphic 34 66
@@ -649,6 +649,7 @@ Characters/Alex/XTRA* graphic 0 0
 Characters/Alex/LIFEA0 graphic sprite
 Characters/Alex/SIGN* graphic 25 49
 # - MARA -
+Characters/MARA/S_SKIN raw
 Characters/MARA/TAL0*1* graphic 13 37
 Characters/MARA/TAL0*2*8 graphic 20 37
 Characters/MARA/TAL0*3*7 graphic 0 37
@@ -659,6 +660,7 @@ Characters/MARA/TAL0*7*3 graphic 0 37
 Characters/MARA/TAL0*8*2 graphic 20 37
 Characters/MARA/LIFEA0 graphic sprite
 # - Elise -
+Characters/Alex/S_SKIN raw
 Characters/Elise/CNT1* graphic 24 42
 Characters/Elise/DEAD* graphic 24 62
 Characters/Elise/SIGN* graphic 30 49
@@ -674,6 +676,7 @@ Characters/Elise/ROLL*2*8 graphic 41 52
 Characters/Elise/ROLL*3*7 graphic 45 52
 Characters/Elise/ROLL*4*6 graphic 41 52
 # - Kleene -
+Characters/Kleene/S_SKIN raw
 Characters/Kleene/XTRA* graphic 0 0
 Characters/Kleene/SPIN*1 graphic sprite
 Characters/Kleene/SPIN*5 graphic sprite
@@ -687,9 +690,11 @@ Characters/Kleene/ROLL*3*7 graphic 45 52
 Characters/Kleene/ROLL*4*6 graphic 41 52
 Characters/Kleene/SIGN* graphic 39 49
 # - Babel -
+Characters/Babel/S_SKIN raw
 Characters/Babel/STND* graphic sprite
 Characters/Babel/LIFEA0 graphic sprite
 # - Patsy -
+Characters/Patsy/S_SKIN raw
 Characters/Babel/XTRA* graphic 0 0
 
 # --- Textures ---
