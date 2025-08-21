@@ -10486,7 +10486,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Flags/CEZBAN4	"Zibon 'PixL' Badi"
 /Textures/Flags/CEZBAN5	"Zibon 'PixL' Badi"
 /Textures/Flags/CEZBAN6	"Zibon 'PixL' Badi"
-/Textures/Castle Eggman/flags/CEZBAN7
+/Textures/Flags/CEZBAN7	"Zibon 'PixL' Badi"
 /Textures/Castle Eggman/flags/OLDBAN2
 /Textures/Castle Eggman/flags/OLDBAN3
 /Textures/Castle Eggman/flags/old/CEBANN2B
