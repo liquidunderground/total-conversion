@@ -13650,7 +13650,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/SIGNA0	"Zibon 'PixL' Badi"
 /Characters/Alex/JUMPA1
 /Characters/Alex/JUMPA2
-/Characters/Alex/JUMPA3
+/Characters/Alex/JUMPA3A7	"Zibon 'PixL' Badi" (as JUMPALAR)
 /Characters/Alex/JUMPA4
 /Characters/Alex/JUMPA5	"Zibon 'PixL' Badi" (as JUMPA0)
 /Characters/Alex/JUMPB1
@@ -13665,7 +13665,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/JUMPC5	"Zibon 'PixL' Badi" (as JUMPC0)
 /Characters/Alex/SPNGA1
 /Characters/Alex/SPNGA2
-/Characters/Alex/SPNGA3
+/Characters/Alex/SPNGA3A7	"Zibon 'PixL' Badi" (as SPNGALAR)
 /Characters/Alex/SPNGA4
 /Characters/Alex/SPNGA5	"Zibon 'PixL' Badi" (as SPNGA0)
 /Characters/Alex/SPNGB1
