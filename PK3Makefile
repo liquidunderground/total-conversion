@@ -75,6 +75,7 @@ STARTUP graphic 0 0
 WBTITL* graphic 0 0
 # HUD Graphics
 STT* graphic 0 0
+STLIVEBK graphic 8 8
 TTWING graphic 30 10
 CROSHAI graphic center
 Graphics/**/*IND graphic 0 0
