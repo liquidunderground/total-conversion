@@ -320,18 +320,31 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /TEXTURES/CEZGRSBU
 /TEXTURES/CLPWALL1
 /TEXTURES/CLPWALL2
-/TEXTURES/CTFFLG01
-/TEXTURES/CTFFLG02
-/TEXTURES/CTFFLG03
-/TEXTURES/CTFFLG04
-/TEXTURES/CTFFLG05
-/TEXTURES/CTFFLG06
-/TEXTURES/CTFFLG07
-/TEXTURES/CTFFLG08
-/TEXTURES/CTFFLG09
-/TEXTURES/CTFFLGA
-/TEXTURES/CTFFLGB
-/TEXTURES/CTFFLGC
+/TEXTURES.flags/CEFLAG1	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CEFLAG2	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CEFLAG3	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CEFLAG4	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CEBANN1	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CEBANN2	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CEBANN3	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CEBANN4	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CELBAN1	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CELBAN2	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CELBAN3	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CELBAN4	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG01	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG02	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG03	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG04	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG05	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG06	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG07	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG08	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLG09	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLGA	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLGB	"Zibon 'PixL' Badi"
+/TEXTURES.flags/CTFFLGC	"Zibon 'PixL' Badi"
+/TEXTURES.flags/OLDBAN2	"Zibon 'PixL' Badi"
 /TEXTURES/CYANWALL
 /TEXTURES/DGTREEB2
 /TEXTURES/DGTREEBG
@@ -10477,9 +10490,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Castle Eggman/LIBRARYI
 /Textures/Castle Eggman/LIBRARYJ
 /Textures/Castle Eggman/OLDCEZW
-/Textures/Castle Eggman/flags/CEBANN4
-/Textures/Castle Eggman/flags/CEFLAG4
-/Textures/Castle Eggman/flags/CELBAN4
 /Textures/Flags/CEZBAN1	"Zibon 'PixL' Badi"
 /Textures/Flags/CEZBAN2	"Zibon 'PixL' Badi"
 /Textures/Flags/CEZBAN3	"Zibon 'PixL' Badi"
@@ -10487,7 +10497,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Flags/CEZBAN5	"Zibon 'PixL' Badi"
 /Textures/Flags/CEZBAN6	"Zibon 'PixL' Badi"
 /Textures/Flags/CEZBAN7	"Zibon 'PixL' Badi"
-/Textures/Castle Eggman/flags/OLDBAN2
 /Textures/Castle Eggman/flags/OLDBAN3
 /Textures/Castle Eggman/flags/old/CEBANN2B
 /Textures/Castle Eggman/flags/old/CEFLAG2B
@@ -11076,15 +11085,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Flags/BANNERBC	"Zibon 'PixL' Badi"
 /Textures/Flags/BANNERBD	"Zibon 'PixL' Badi"
 /Textures/Flags/BANNERBE	"Zibon 'PixL' Badi"
-/Textures/Flags/CEBANN1
-/Textures/Flags/CEBANN2
-/Textures/Flags/CEBANN3
-/Textures/Flags/CEFLAG1
-/Textures/Flags/CEFLAG2
-/Textures/Flags/CEFLAG3
-/Textures/Flags/CELBAN1
-/Textures/Flags/CELBAN2
-/Textures/Flags/CELBAN3
 /Textures/Flags/FLAGBL1	"Zibon 'PixL' Badi"
 /Textures/Flags/FLAGBL2	"Zibon 'PixL' Badi"
 /Textures/Flags/FLAGBL3	"Zibon 'PixL' Badi"
