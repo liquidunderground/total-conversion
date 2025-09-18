@@ -13648,14 +13648,36 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/RUN_H4D6	"Zibon 'PixL' Badi"
 /Characters/Alex/RUN_H5	"Zibon 'PixL' Badi"
 /Characters/Alex/SIGNA0	"Zibon 'PixL' Badi"
+/Characters/Alex/JUMPA1
+/Characters/Alex/JUMPA2
+/Characters/Alex/JUMPA3
+/Characters/Alex/JUMPA4
+/Characters/Alex/JUMPA5	"Zibon 'PixL' Badi" (as JUMPA0)
+/Characters/Alex/JUMPB1
+/Characters/Alex/JUMPB2
+/Characters/Alex/JUMPB3
+/Characters/Alex/JUMPB4
+/Characters/Alex/JUMPB5	"Zibon 'PixL' Badi" (as JUMPB0)
+/Characters/Alex/JUMPC1
+/Characters/Alex/JUMPC2
+/Characters/Alex/JUMPC3
+/Characters/Alex/JUMPC4
+/Characters/Alex/JUMPC5	"Zibon 'PixL' Badi" (as JUMPC0)
 /Characters/Alex/SPNGA1
 /Characters/Alex/SPNGA2
 /Characters/Alex/SPNGA3
 /Characters/Alex/SPNGA4
-/Characters/Alex/SPNGA5
-/Characters/Alex/SPNGA6
-/Characters/Alex/SPNGA7
-/Characters/Alex/SPNGA8
+/Characters/Alex/SPNGA5	"Zibon 'PixL' Badi" (as SPNGA0)
+/Characters/Alex/SPNGB1
+/Characters/Alex/SPNGB2
+/Characters/Alex/SPNGB3
+/Characters/Alex/SPNGB4
+/Characters/Alex/SPNGB5	"Zibon 'PixL' Badi" (as SPNGB0)
+/Characters/Alex/SPNGC1
+/Characters/Alex/SPNGC2
+/Characters/Alex/SPNGC3
+/Characters/Alex/SPNGC4
+/Characters/Alex/SPNGC5	"Zibon 'PixL' Badi" (as SPNGC0)
 /Characters/Alex/STNDA1	"Zibon 'PixL' Badi"
 /Characters/Alex/STNDA2A8
 /Characters/Alex/STNDA3A7
