@@ -64,6 +64,7 @@ Flats/**/*.png flat
 
 # --- Graphics ---
 MISSING graphic 0 0
+<<<<<<< HEAD
 SUPERICO graphic 0 0
 # Backgrounds
 SRB2BACK graphic 0 0
@@ -73,7 +74,8 @@ CHARFG graphic 0 0
 GAMEQUIT graphic 0 0
 STARTUP graphic 0 0
 WBTITL* graphic 0 0
-# HUD Graphics
+ILOGO* graphic 0 0
+uu# HUD Graphics
 STT* graphic 0 0
 STLIVEBK graphic 8 8
 TTWING graphic 30 10
@@ -694,6 +696,17 @@ Characters/Kleene/SIGN* graphic 39 49
 # - Babel -
 Characters/Babel/STND* graphic sprite
 Characters/Babel/LIFEA0 graphic sprite
+Characters/Babel/SWIM*3*7 graphic 35 55
+Characters/Babel/SPIN*1 graphic 32 52
+Characters/Babel/SPIN*2*8 graphic 41 52
+Characters/Babel/SPIN*3*7 graphic 45 52
+Characters/Babel/SPIN*4*6 graphic 41 52
+Characters/Babel/SPIN*5 graphic 32 52
+Characters/Babel/ROLL*1 graphic 32 52
+Characters/Babel/ROLL*2*8 graphic 41 52
+Characters/Babel/ROLL*3*7 graphic 45 52
+Characters/Babel/ROLL*4*6 graphic 41 52
+Characters/Babel/ROLL*5 graphic 32 52
 Characters/Babel/XTRA* graphic 0 0
 # - Patsy -
 Characters/Patsy/XTRA* graphic 0 0

@@ -2956,38 +2956,37 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Rings/RAILIND	"Zibon 'PixL' Badi"
 /Graphics/Rings/RINGIND	"Zibon 'PixL' Badi"
 /Graphics/Rings/SCATIND	"Zibon 'PixL' Badi"
-/Graphics/Titlescreen/STARTUP	"Zibon 'PixL' Badi"
-/Graphics/STJr Intro/STJRI000
-/Graphics/STJr Intro/STJRI001
-/Graphics/STJr Intro/STJRI002
-/Graphics/STJr Intro/STJRI003
-/Graphics/STJr Intro/STJRI004
-/Graphics/STJr Intro/STJRI005
-/Graphics/STJr Intro/STJRI006
-/Graphics/STJr Intro/STJRI007
-/Graphics/STJr Intro/STJRI008
-/Graphics/STJr Intro/STJRI009
-/Graphics/STJr Intro/STJRI010
-/Graphics/STJr Intro/STJRI011
-/Graphics/STJr Intro/STJRI012
-/Graphics/STJr Intro/STJRI013
-/Graphics/STJr Intro/STJRI014
-/Graphics/STJr Intro/STJRI015
-/Graphics/STJr Intro/STJRI016
-/Graphics/STJr Intro/STJRI017
-/Graphics/STJr Intro/STJRI018
-/Graphics/STJr Intro/STJRI019
-/Graphics/STJr Intro/STJRI020
-/Graphics/STJr Intro/STJRI021
-/Graphics/STJr Intro/STJRI022
-/Graphics/STJr Intro/STJRI023
-/Graphics/STJr Intro/STJRI024
-/Graphics/STJr Intro/STJRI025
-/Graphics/STJr Intro/STJRI026
-/Graphics/STJr Intro/STJRI027
-/Graphics/STJr Intro/STJRI028
-/Graphics/STJr Intro/STJRI029
-/Graphics/HUD/SUPERICO	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO000	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO001	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO002	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO003	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO004	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO005	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO006	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO007	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO008	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO009	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO010	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO011	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO012	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO013	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO014	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO015	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO016	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO017	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO018	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO019	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO020	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO021	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO022	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO023	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO024	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO025	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO026	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO027	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO028	"Zibon 'PixL' Badi"
+/Graphics/Intro/ILOGO029	"Zibon 'PixL' Badi"
+/Graphics/SUPERICO
 /Graphics/Snake/DL_APPLE
 /Graphics/Snake/DL_SCISSORS
 /Graphics/Snake/DL_SLOW
@@ -3084,6 +3083,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Story/TAILSSAD
 /Graphics/Story/WATCHING
 /Graphics/Story/ZOOMING
+/Graphics/Titlescreen/STARTUP	"Zibon 'PixL' Badi"
 /Graphics/Titlescreen/GAMEQUIT	"Zibon 'PixL' Badi"
 /Graphics/Titlescreen/Old/TITLESKY
 /Graphics/Titlescreen/Old/TTBANNER
@@ -14237,28 +14237,21 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/RIDEA3A7
 /Characters/Babel/RIDEA4A6
 /Characters/Babel/RIDEA5
-/Characters/Babel/ROLLA1
-/Characters/Babel/ROLLA2A8
-/Characters/Babel/ROLLA3A7
-/Characters/Babel/ROLLA4A6
-/Characters/Babel/ROLLA5
-/Characters/Babel/ROLLB1
-/Characters/Babel/ROLLB2B8
-/Characters/Babel/ROLLB3B7
-/Characters/Babel/ROLLB4B6
-/Characters/Babel/ROLLB5
-/Characters/Babel/ROLLC0
-/Characters/Babel/ROLLD1
-/Characters/Babel/ROLLD2D8
-/Characters/Babel/ROLLD3D7
-/Characters/Babel/ROLLD4D6
-/Characters/Babel/ROLLD5
-/Characters/Babel/ROLLE1
-/Characters/Babel/ROLLE2E8
-/Characters/Babel/ROLLE3E7
-/Characters/Babel/ROLLE4E6
-/Characters/Babel/ROLLE5
-/Characters/Babel/ROLLF0
+/Characters/Babel/ROLLA1	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLA2A8	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLA3A7	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLA4A6	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLA5	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLB1	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLB2B8	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLB3B7	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLB4B6	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLB5	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLC1	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLC2B8	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLC3B7	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLC4B6	"Zibon 'PixL' Badi"
+/Characters/Babel/ROLLC5	"Zibon 'PixL' Badi"
 /Characters/Babel/RUN_A1
 /Characters/Babel/RUN_A2C8
 /Characters/Babel/RUN_A3C7
@@ -14278,26 +14271,21 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/RUN_D3B7
 /Characters/Babel/RUN_D4B6
 /Characters/Babel/SIGNA0
-/Characters/Babel/SPINA1
-/Characters/Babel/SPINA2A8
-/Characters/Babel/SPINA3A7
-/Characters/Babel/SPINA4A6
-/Characters/Babel/SPINA5
-/Characters/Babel/SPINB1
-/Characters/Babel/SPINB2B8
-/Characters/Babel/SPINB3B7
-/Characters/Babel/SPINB4B6
-/Characters/Babel/SPINB5
-/Characters/Babel/SPINC1
-/Characters/Babel/SPINC2C8
-/Characters/Babel/SPINC3C7
-/Characters/Babel/SPINC4C6
-/Characters/Babel/SPINC5
-/Characters/Babel/SPIND1
-/Characters/Babel/SPIND2D8
-/Characters/Babel/SPIND3D7
-/Characters/Babel/SPIND4D6
-/Characters/Babel/SPIND5
+/Characters/Babel/SPINA1	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINA2A8	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINA3A7	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINA4A6	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINA5	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINB1	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINB2B8	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINB3B7	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINB4B6	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINB5	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINC1	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINC2B8	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINC3B7	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINC4B6	"Zibon 'PixL' Badi"
+/Characters/Babel/SPINC5	"Zibon 'PixL' Badi"
 /Characters/Babel/SPNGA1
 /Characters/Babel/SPNGA2A8
 /Characters/Babel/SPNGA3A7
@@ -14310,36 +14298,24 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/STNDA5
 /Characters/Babel/SWIMA1
 /Characters/Babel/SWIMA2
-/Characters/Babel/SWIMA3
+/Characters/Babel/SWIMA3A7	"Zibon 'PixL' Badi"
 /Characters/Babel/SWIMA4
 /Characters/Babel/SWIMA5
-/Characters/Babel/SWIMA6
-/Characters/Babel/SWIMA7
-/Characters/Babel/SWIMA8
 /Characters/Babel/SWIMB1
 /Characters/Babel/SWIMB2
-/Characters/Babel/SWIMB3
+/Characters/Babel/SWIMB3B7	"Zibon 'PixL' Badi"
 /Characters/Babel/SWIMB4
 /Characters/Babel/SWIMB5
-/Characters/Babel/SWIMB6
-/Characters/Babel/SWIMB7
-/Characters/Babel/SWIMB8
 /Characters/Babel/SWIMC1
 /Characters/Babel/SWIMC2
-/Characters/Babel/SWIMC3
+/Characters/Babel/SWIMC3C7	"Zibon 'PixL' Badi"
 /Characters/Babel/SWIMC4
 /Characters/Babel/SWIMC5
-/Characters/Babel/SWIMC6
-/Characters/Babel/SWIMC7
-/Characters/Babel/SWIMC8
 /Characters/Babel/SWIMD1
 /Characters/Babel/SWIMD2
-/Characters/Babel/SWIMD3
+/Characters/Babel/SWIMD3D7	"Zibon 'PixL' Badi"
 /Characters/Babel/SWIMD4
 /Characters/Babel/SWIMD5
-/Characters/Babel/SWIMD6
-/Characters/Babel/SWIMD7
-/Characters/Babel/SWIMD8
 /Characters/Babel/S_SKIN
 /Characters/Babel/TRNSA0
 /Characters/Babel/TRNSB0
