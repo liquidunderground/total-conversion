@@ -74,8 +74,10 @@ CHARFG graphic 0 0
 GAMEQUIT graphic 0 0
 STARTUP graphic 0 0
 WBTITL* graphic 0 0
-# HUD Graphics
+ILOGO* graphic 0 0
+uu# HUD Graphics
 STT* graphic 0 0
+STLIVEBK graphic 8 8
 TTWING graphic 30 10
 CROSHAI graphic center
 Graphics/**/*IND graphic 0 0
@@ -558,8 +560,8 @@ TINF* graphic 16 28
 TSCR* graphic 16 28
 TXPL* graphic 16 28
 ### Level end portal
-Sprites/**/SIGNA0 graphic 40 48
-Sprites/**/SIGNB0 graphic 22 48
+Sprites/**/SIGNA0 graphic 20 48
+Sprites/**/SIGNB0 graphic 40 48
 Sprites/**/SIGN graphic 40 94
 ### Item boxes
 Sprites/**/TV* graphic sprite
@@ -644,6 +646,11 @@ Characters/Alex/ROLL*5 graphic sprite
 Characters/Alex/ROLL*2*8 graphic 41 52
 Characters/Alex/ROLL*3*7 graphic 45 52
 Characters/Alex/ROLL*4*6 graphic 41 52
+# TODO: Change to *5 and add angles 1-4
+Characters/Alex/JUMP*0 graphic 32 66
+Characters/Alex/SPNG*0 graphic 32 66
+Characters/Alex/JUMPALAR graphic 35 66
+Characters/Alex/SPNGALAR graphic 35 66
 Characters/Alex/XTRAC0 graphic 10 24
 Characters/Alex/XTRA* graphic 0 0
 Characters/Alex/LIFEA0 graphic sprite
@@ -693,9 +700,21 @@ Characters/Kleene/SIGN* graphic 39 49
 Characters/Babel/S_SKIN raw
 Characters/Babel/STND* graphic sprite
 Characters/Babel/LIFEA0 graphic sprite
+Characters/Babel/SWIM*3*7 graphic 35 55
+Characters/Babel/SPIN*1 graphic 32 52
+Characters/Babel/SPIN*2*8 graphic 41 52
+Characters/Babel/SPIN*3*7 graphic 45 52
+Characters/Babel/SPIN*4*6 graphic 41 52
+Characters/Babel/SPIN*5 graphic 32 52
+Characters/Babel/ROLL*1 graphic 32 52
+Characters/Babel/ROLL*2*8 graphic 41 52
+Characters/Babel/ROLL*3*7 graphic 45 52
+Characters/Babel/ROLL*4*6 graphic 41 52
+Characters/Babel/ROLL*5 graphic 32 52
+Characters/Babel/XTRA* graphic 0 0
 # - Patsy -
 Characters/Patsy/S_SKIN raw
-Characters/Babel/XTRA* graphic 0 0
+Characters/Patsy/XTRA* graphic 0 0
 
 # --- Textures ---
 Textures/**/STLRED graphic 0 0

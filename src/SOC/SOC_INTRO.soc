@@ -1,5 +1,78 @@
 Cutscene 1
 NumScenes 20
+
+### LOGO
+
+Scene 1
+NumberOfPics = 30
+Pic1Name = ILOGO000
+Pic1Duration = 160
+Pic2Name = ILOGO001
+Pic2Duration = 2
+Pic3Name = ILOGO002
+Pic3Duration = 2
+Pic4Name = LOGO03
+Pic4Duration = 2
+Pic5Name = ILOGO004
+Pic5Duration = 2
+Pic6Name = ILOGO005
+Pic6Duration = 2
+Pic7Name = ILOGO006
+Pic7Duration = 2
+Pic8Name = ILOGO007
+Pic8Duration = 2
+Pic9Name = ILOGO008
+Pic9Duration = 2
+Pic10Name = ILOGO009
+Pic10Duration = 2
+Pic11Name = ILOGO010
+Pic11Duration = 2
+Pic12Name = ILOGO011
+Pic12Duration = 2
+Pic13Name = ILOGO012
+Pic13Duration = 2
+Pic14Name = ILOGO013
+Pic14Duration = 2
+Pic15Name = ILOGO014
+Pic15Duration = 2
+Pic16Name = ILOGO015
+Pic16Duration = 2
+Pic17Name = ILOGO016
+Pic17Duration = 2
+Pic18Name = ILOGO017
+Pic18Duration = 2
+Pic19Name = ILOGO018
+Pic19Duration = 2
+Pic20Name = ILOGO019
+Pic20Duration = 2
+Pic21Name = ILOGO020
+Pic21Duration = 2
+Pic22Name = ILOGO021
+Pic22Duration = 2
+Pic23Name = ILOGO022
+Pic23Duration = 2
+Pic24Name = ILOGO023
+Pic24Duration = 2
+Pic25Name = ILOGO024
+Pic25Duration = 2
+Pic26Name = ILOGO025
+Pic26Duration = 2
+Pic27Name = ILOGO026
+Pic27Duration = 2
+Pic28Name = ILOGO027
+Pic28Duration = 2
+Pic29Name = ILOGO028
+Pic29Duration = 2
+Pic30Name = ILOGO029
+Pic30Duration = 140
+TextXPos = 320
+TextYPos = 240
+Music = _STJR
+
+### END LOGO
+
+
+
 Scene 1
 NumberOfPics = 1
 Pic1Name = INTRO1
