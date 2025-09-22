@@ -14398,8 +14398,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Babel/WALKH3D7
 /Characters/Babel/WALKH4D6
 /Characters/Babel/WALKH5
-/Characters/Babel/XTRAA0
-/Characters/Babel/XTRAB0
+/Characters/Babel/XTRAA0	"Zibon 'PixL' Badi"
+/Characters/Babel/XTRAB0	"Zibon 'PixL' Badi"
 /Characters/Babel/XTRAC0
 /Characters/Babel/XTRAD0
 /Characters/Babel/XTRAE0

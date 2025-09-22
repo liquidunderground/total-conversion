@@ -694,8 +694,9 @@ Characters/Kleene/SIGN* graphic 39 49
 # - Babel -
 Characters/Babel/STND* graphic sprite
 Characters/Babel/LIFEA0 graphic sprite
-# - Patsy -
 Characters/Babel/XTRA* graphic 0 0
+# - Patsy -
+Characters/Patsy/XTRA* graphic 0 0
 
 # --- Textures ---
 Textures/**/STLRED graphic 0 0
