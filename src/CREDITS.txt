@@ -14839,7 +14839,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Elise/WALKH2D8
 /Characters/Elise/WALKH3D7
 /Characters/Elise/WALKH4D6
-/Characters/Elise/XTRAA0
+/Characters/Elise/XTRAA0	"Zibon 'PixL' Badi"
 /Characters/Elise/XTRAB0
 /Characters/Elise/XTRAC0
 /Characters/Elise/XTRAD0
@@ -15333,7 +15333,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Kleene/WALKH3D7
 /Characters/Kleene/WALKH4D6
 /Characters/Kleene/WALKH5
-/Characters/Kleene/XTRAA0
+/Characters/Kleene/XTRAA0	"Zibon 'PixL' Badi"
 /Characters/Kleene/XTRAB0	"Zibon 'PixL' Badi"
 /Characters/Kleene/XTRAC0
 /Characters/Kleene/XTRAD0

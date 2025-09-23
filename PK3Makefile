@@ -682,6 +682,7 @@ Characters/Elise/ROLL*5 graphic sprite
 Characters/Elise/ROLL*2*8 graphic 41 52
 Characters/Elise/ROLL*3*7 graphic 45 52
 Characters/Elise/ROLL*4*6 graphic 41 52
+Characters/Elise/XTRA* graphic 0 0
 # - Kleene -
 Characters/Kleene/S_SKIN raw
 Characters/Kleene/SPIN*1 graphic sprite
