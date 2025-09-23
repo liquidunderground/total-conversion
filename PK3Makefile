@@ -684,7 +684,6 @@ Characters/Elise/ROLL*3*7 graphic 45 52
 Characters/Elise/ROLL*4*6 graphic 41 52
 # - Kleene -
 Characters/Kleene/S_SKIN raw
-Characters/Kleene/XTRA* graphic 0 0
 Characters/Kleene/SPIN*1 graphic sprite
 Characters/Kleene/SPIN*5 graphic sprite
 Characters/Kleene/SPIN*2*8 graphic 41 52
@@ -696,6 +695,7 @@ Characters/Kleene/ROLL*2*8 graphic 41 52
 Characters/Kleene/ROLL*3*7 graphic 45 52
 Characters/Kleene/ROLL*4*6 graphic 41 52
 Characters/Kleene/SIGN* graphic 39 49
+Characters/Kleene/XTRA* graphic 0 0
 # - Babel -
 Characters/Babel/S_SKIN raw
 Characters/Babel/STND* graphic sprite
