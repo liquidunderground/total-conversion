@@ -666,6 +666,7 @@ Characters/MARA/TAL0*6*4 graphic 0 37
 Characters/MARA/TAL0*7*3 graphic 0 37
 Characters/MARA/TAL0*8*2 graphic 20 37
 Characters/MARA/LIFEA0 graphic sprite
+Characters/MARA/XTRA* graphic 0 0
 # - Elise -
 Characters/Alex/S_SKIN raw
 Characters/Elise/CNT1* graphic 24 42
