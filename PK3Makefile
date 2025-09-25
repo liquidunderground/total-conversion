@@ -21,7 +21,7 @@
 # - Textures
 
 # --- Basics ---
-CREDITS raw
+CREDITS raw preserve_filename
 PLAYPAL palette
 COLORMAP colormap PLAYPAL
 WATERMAP colormap PLAYPAL # Placeholder; The engine expects but doesn't use it
