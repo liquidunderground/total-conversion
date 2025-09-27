@@ -1914,43 +1914,43 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THSKYF1
 /Flats/Techno Hill/THSKYF2
 /Flats/Techno Hill/THTILEF1
-/Flats/Techno Hill/THZ2CN1
-/Flats/Techno Hill/THZ2CN1B
-/Flats/Techno Hill/THZ2CN2
-/Flats/Techno Hill/THZ2CN2B
-/Flats/Techno Hill/THZ2CN3
-/Flats/Techno Hill/THZ2CN3B
-/Flats/Techno Hill/THZ2CN4
-/Flats/Techno Hill/THZ2CN4B
-/Flats/Techno Hill/THZ2CN5
-/Flats/Techno Hill/THZ2CN5B
-/Flats/Techno Hill/THZ2CN6
-/Flats/Techno Hill/THZ2CN6B
-/Flats/Techno Hill/THZ2CN7
-/Flats/Techno Hill/THZ2CN7B
-/Flats/Techno Hill/THZ2CN8
-/Flats/Techno Hill/THZ2CN8B
+/Flats/Industrial/THZ2CN1	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN1B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN2	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN2B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN3	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN3B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN4	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN4B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN5	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN5B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN6	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN6B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN7	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN7B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN8	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2CN8B	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZ2FN1
 /Flats/Techno Hill/THZ2FN2
-/Flats/Techno Hill/THZ2FN4
-/Flats/Techno Hill/THZ2FN4B
-/Flats/Techno Hill/THZ2FN5
-/Flats/Techno Hill/THZ2FN5B
-/Flats/Techno Hill/THZ2FN6
-/Flats/Techno Hill/THZ2FN6B
-/Flats/Techno Hill/THZ2FN7
-/Flats/Techno Hill/THZ2FN7B
+/Flats/Industrial/THZ2FN4	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2FN4B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2FN5	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2FN5B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2FN6	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2FN6B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2FN7	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2FN7B	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZ2FN8
 /Flats/Techno Hill/THZ2FN9
 /Flats/Techno Hill/THZ2NF3
-/Flats/Techno Hill/THZ2WN5
-/Flats/Techno Hill/THZ2WN5B
-/Flats/Techno Hill/THZ2WN6
-/Flats/Techno Hill/THZ2WN6B
-/Flats/Techno Hill/THZ2WN7
-/Flats/Techno Hill/THZ2WN7B
-/Flats/Techno Hill/THZ2WN8
-/Flats/Techno Hill/THZ2WN8B
+/Flats/Industrial/THZ2WN5	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2WN5B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2WN6	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2WN6B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2WN7	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2WN7B	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2WN8	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZ2WN8B	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZ3DPF1
 /Flats/Techno Hill/THZ3DPF2
 /Flats/Techno Hill/THZ3DPF3
@@ -13105,16 +13105,16 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THNEV3
 /Textures/Techno Hill/THNEV4
 /Textures/Techno Hill/THNEV5
-/Textures/Techno Hill/THPIPE1	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPE2	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPEC1	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPEC2	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPEC3	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPEC4	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPMC1	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPMC2	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPMC3	"Zibon 'PixL' Badi"
-/Textures/Techno Hill/THPIPMC4	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPE1	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPE2	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPEC1	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPEC2	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPEC3	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPEC4	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPMC1	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPMC2	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPMC3	"Zibon 'PixL' Badi"
+/Textures/Industrial/THPIPMC4	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THPIPSC1
 /Textures/Techno Hill/THPIPSC2
 /Textures/Techno Hill/THPIPSC3
@@ -13135,54 +13135,54 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THSKYH1
 /Textures/Techno Hill/THSKYH2
 /Textures/Techno Hill/THSKYW1
-/Textures/Techno Hill/THZ2C1
-/Textures/Techno Hill/THZ2C1B
-/Textures/Techno Hill/THZ2C1H
-/Textures/Techno Hill/THZ2C1HB
-/Textures/Techno Hill/THZ2C2
-/Textures/Techno Hill/THZ2C2B
-/Textures/Techno Hill/THZ2C2H
-/Textures/Techno Hill/THZ2C2HB
-/Textures/Techno Hill/THZ2C3
-/Textures/Techno Hill/THZ2C3B
-/Textures/Techno Hill/THZ2C3H
-/Textures/Techno Hill/THZ2C3HB
-/Textures/Techno Hill/THZ2C4
-/Textures/Techno Hill/THZ2C4B
-/Textures/Techno Hill/THZ2C4H
-/Textures/Techno Hill/THZ2C4HB
+/Textures/Industrial/THZ2C1	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C1B	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C1H	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C1HB	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C2	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C2B	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C2H	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C2HB	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C3	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C3B	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C3H	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C3HB	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C4	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C4B	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C4H	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2C4HB	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THZ2N1
 /Textures/Techno Hill/THZ2N10
 /Textures/Techno Hill/THZ2N11
 /Textures/Techno Hill/THZ2N12
 /Textures/Techno Hill/THZ2N13
-/Textures/Techno Hill/THZ2N14
-/Textures/Techno Hill/THZ2N14B
-/Textures/Techno Hill/THZ2N14H
-/Textures/Techno Hill/THZ2N14L
+/Textures/Industrial/THZ2N14	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2N14B	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2N14H	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2N14L	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THZ2N15
 /Textures/Techno Hill/THZ2N16
 /Textures/Techno Hill/THZ2N17
 /Textures/Techno Hill/THZ2N18
 /Textures/Techno Hill/THZ2N2
-/Textures/Techno Hill/THZ2N3
-/Textures/Techno Hill/THZ2N3B
-/Textures/Techno Hill/THZ2N3H
-/Textures/Techno Hill/THZ2N3HB
+/Textures/Industrial/THZ2N3	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2N3B	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2N3H	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2N3HB	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THZ2N4
 /Textures/Techno Hill/THZ2N5
 /Textures/Techno Hill/THZ2N6
 /Textures/Techno Hill/THZ2N7
 /Textures/Techno Hill/THZ2N8
 /Textures/Techno Hill/THZ2N9
-/Textures/Techno Hill/THZ2W3
-/Textures/Techno Hill/THZ2W3B
-/Textures/Techno Hill/THZ2W3H
-/Textures/Techno Hill/THZ2W3HB
-/Textures/Techno Hill/THZ2W4
-/Textures/Techno Hill/THZ2W4B
-/Textures/Techno Hill/THZ2W4H
-/Textures/Techno Hill/THZ2W4HB
+/Textures/Industrial/THZ2W3	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2W3B	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2W3H	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2W3HB	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2W4	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2W4B	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2W4H	"Zibon 'PixL' Badi"
+/Textures/Industrial/THZ2W4HB	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THZ2WINA
 /Textures/Techno Hill/THZ2WINB
 /Textures/Techno Hill/THZ2WINC
