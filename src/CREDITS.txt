@@ -13087,9 +13087,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THCOMPW6
 /Textures/Techno Hill/THCOMPW7
 /Textures/Techno Hill/THCOMPW8
-/Textures/Techno Hill/THDOOR1A
+/Textures/Industrial/THDOOR1A	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THDOOR1B
-/Textures/Techno Hill/THDOOR2A
+/Textures/Industrial/THDOOR2A	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THDOOR2B
 /Textures/Techno Hill/THDOR1_A
 /Textures/Techno Hill/THDOR1_B
