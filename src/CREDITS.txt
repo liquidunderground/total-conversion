@@ -827,7 +827,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/BUSTFLR
 /Flats/CASINOF3
 /Flats/CASINOF4
-/Flats/CEIL3_1
+/Flats/Industrial/CEIL3_1	"Zibon 'PixL' Badi"
 /Flats/CEMENT2
 /Flats/CHKGRASF	"Zibon 'PixL' Badi"
 /Flats/Casino/CASINOF1	"Zibon 'PixL' Badi"
@@ -968,7 +968,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Colors/YELFLR	"Zibon 'PixL' Badi"
 /Flats/DEM1_1
 /Flats/DEM1_2
-/Flats/DEM1_3
+/Flats/Industrial/DEM1_3	"Zibon 'PixL' Badi"
 /Flats/DEM1_5	"Zibon 'PixL' Badi"
 /Flats/DEM1_6
 /Flats/DEZBLKF1
@@ -1086,8 +1086,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Disco/RECORD	"Zibon 'PixL' Badi"
 /Flats/EC_VINES
 /Flats/EC_VINET
-/Flats/ERZRDCAU
-/Flats/ERZYLCAU
+/Flats/Industrial/ERZRDCAU	"Zibon 'PixL' Badi"
+/Flats/Industrial/ERZYLCAU	"Zibon 'PixL' Badi"
 /Flats/Eggrock/EGRIDF1
 /Flats/Eggrock/EGRIDF2
 /Flats/Eggrock/EGRIDF3
@@ -1175,7 +1175,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Eggrock/ERZREDF3
 /Flats/Eggrock/ERZREDF4
 /Flats/Eggrock/ERZREDF5
-/Flats/Eggrock/ERZWRNF1
+/Flats/Industrial/ERZWRNF1	"Zibon 'PixL' Badi"
 /Flats/FLAT1_2
 /Flats/FLOOR0_2
 /Flats/FLOOR0_4
@@ -10944,7 +10944,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Eggrock/ERZBG4
 /Textures/Eggrock/ERZBG5
 /Textures/Eggrock/ERZBG6
-/Textures/Eggrock/ERZBLCAU
+/Textures/Industrial/ERZBLCAU	"Zibon 'PixL' Badi"
 /Textures/Eggrock/ERZBLUE1
 /Textures/Eggrock/ERZBLUE2
 /Textures/Eggrock/ERZBLUE3
