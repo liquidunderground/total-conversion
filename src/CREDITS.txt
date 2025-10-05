@@ -13119,12 +13119,12 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THPIPSC2
 /Textures/Techno Hill/THPIPSC3
 /Textures/Techno Hill/THPIPSC4
-/Textures/Techno Hill/THRAIL1L
-/Textures/Techno Hill/THRAIL1M
-/Textures/Techno Hill/THRAIL1R
-/Textures/Techno Hill/THRAIL2L
-/Textures/Techno Hill/THRAIL2M
-/Textures/Techno Hill/THRAIL2R
+/Textures/Fences/THRAIL1L	"Zibon 'PixL' Badi"
+/Textures/Fences/THRAIL1M	"Zibon 'PixL' Badi"
+/Textures/Fences/THRAIL1R	"Zibon 'PixL' Badi"
+/Textures/Fences/THRAIL2L	"Zibon 'PixL' Badi"
+/Textures/Fences/THRAIL2M	"Zibon 'PixL' Badi"
+/Textures/Fences/THRAIL2R	"Zibon 'PixL' Badi"
 /Textures/Techno Hill/THROCKC
 /Textures/Techno Hill/THROCKG
 /Textures/Techno Hill/THROCKL
