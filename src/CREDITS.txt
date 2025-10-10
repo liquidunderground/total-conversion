@@ -10387,7 +10387,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Castle Eggman/CASTLEU2
 /Textures/Castle Eggman/CASTLEUP
 /Textures/Castle Eggman/CEBAN_A0
-/Textures/Castle Eggman/CEBRAMBL
+/Textures/Underworld/CEBRAMBL	"Zibon 'PixL' Badi"
 /Textures/Castle Eggman/CECRPTBB
 /Textures/Castle Eggman/CECRPTGB
 /Textures/Castle Eggman/CECRPTPB
