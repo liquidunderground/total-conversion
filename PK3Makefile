@@ -696,6 +696,11 @@ Characters/Kleene/ROLL*5 graphic sprite
 Characters/Kleene/ROLL*2*8 graphic 41 52
 Characters/Kleene/ROLL*3*7 graphic 45 52
 Characters/Kleene/ROLL*4*6 graphic 41 52
+Characters/Kleene/TAL0*1 graphic 12 55
+Characters/Kleene/TAL0*2*8 graphic 2 55
+Characters/Kleene/TAL0*3*7 graphic 1 55
+Characters/Kleene/TAL0*4*6 graphic 3 55
+Characters/Kleene/TAL0*5 graphic 12 55
 Characters/Kleene/SIGN* graphic 39 49
 Characters/Kleene/XTRA* graphic 0 0
 # - Babel -

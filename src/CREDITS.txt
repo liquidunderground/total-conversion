@@ -15016,11 +15016,11 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Kleene/SWIMD4B6
 /Characters/Kleene/SWIMD5
 /Characters/Kleene/S_SKIN
-/Characters/Kleene/TAL0A1D1
-/Characters/Kleene/TAL0A2D8
-/Characters/Kleene/TAL0A3D7
-/Characters/Kleene/TAL0A4D6
-/Characters/Kleene/TAL0A5D5
+/Characters/Kleene/TAL0A1	"Zibon 'PixL' Badi"
+/Characters/Kleene/TAL0A2A8	"Zibon 'PixL' Badi"
+/Characters/Kleene/TAL0A3A7	"Zibon 'PixL' Badi"
+/Characters/Kleene/TAL0A4A6	"Zibon 'PixL' Badi"
+/Characters/Kleene/TAL0A5	"Zibon 'PixL' Badi"
 /Characters/Kleene/TAL0B1E1
 /Characters/Kleene/TAL0B2E8
 /Characters/Kleene/TAL0B3E7
