@@ -4,6 +4,8 @@
 ?palette: PLAYPAL 
 ?destfile: bin/weissblatt.pk3
 
+?compression: none
+?compression_level: 0
 
 # ===== LUMPDEFs =====
 # Neatly ordered into sections:
