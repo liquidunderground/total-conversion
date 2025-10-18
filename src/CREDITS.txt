@@ -4232,7 +4232,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/Sonic3K/DSS3K3C
 /Sounds/Sonic3K/DSS3K3D
 /Sounds/Sonic3K/DSS3K3E
-/Sounds/Sonic3K/DSS3K3F
+/Sounds/retro/DSS3K3F	"Zibon 'PixL' Badi"
 /Sounds/Sonic3K/DSS3K40
 /Sounds/Sonic3K/DSS3K41
 /Sounds/Sonic3K/DSS3K42
