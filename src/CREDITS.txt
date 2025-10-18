@@ -3851,7 +3851,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/Chaotix/DSKC67
 /Sounds/Chaotix/DSKC68
 /Sounds/Chaotix/DSKC69
-/Sounds/Chaotix/DSKC6B
+/Sounds/retro/DSKC6B	"Zibon 'PixL' Badi"
 /Sounds/Chaotix/DSKC6C
 /Sounds/Chaotix/DSKC6D
 /Sounds/Chaotix/DSKC6E
