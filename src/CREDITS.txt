@@ -13783,6 +13783,11 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAD0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAE0	"Zibon 'PixL' Badi"
 /Characters/Alex/XTRAF0	"Zibon 'PixL' Badi"
+/Characters/Alex/TAL3A1	"Zibon 'PixL' Badi"
+/Characters/Alex/TAL3A2A8	"Zibon 'PixL' Badi"
+/Characters/Alex/TAL3A3A7	"Zibon 'PixL' Badi"
+/Characters/Alex/TAL3A4A6	"Zibon 'PixL' Badi"
+/Characters/Alex/TAL3A5	"Zibon 'PixL' Badi"
 /Characters/Patsy/BNCEA1
 /Characters/Patsy/BNCEA2
 /Characters/Patsy/BNCEA3
