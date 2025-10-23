@@ -1,0 +1,20 @@
+State S_STARPOST_IDLE
+SpriteName = STPT
+SpriteFrame = A
+Var1 = 1
+Var2 = 2
+Next = S_NULL
+
+State S_STARPOST_SPIN
+SpriteName = STPT
+SpriteFrame = FF_ANIMATE|B
+Var1 = 16
+Var2 = 2
+Next = S_STARPOST_FLASH
+
+State S_STARPOST_FLASH
+SpriteName = STPT
+SpriteFrame = FF_ANIMATE|R
+Var1 = 5
+Var2 = 3
+Next = S_NULL
