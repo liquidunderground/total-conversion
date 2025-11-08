@@ -21,6 +21,7 @@
 # - Sprites
 # - Characters
 # - Textures
+# - Maps
 
 # --- Basics ---
 CREDITS raw preserve_filename
@@ -764,3 +765,6 @@ Characters/Patsy/XTRA* graphic 0 0
 # --- Textures ---
 Textures/**/STLRED graphic 0 0
 Textures/**/*.png graphic 0 0
+
+# --- Maps ---
+Maps/**/*.wad raw preserve_filename
