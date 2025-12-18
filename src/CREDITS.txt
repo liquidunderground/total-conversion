@@ -12040,44 +12040,44 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Textures/Multiplayer/Pristine Shores/CWLAD3
 /Textures/Multiplayer/Pristine Shores/CWLAD4
 /Textures/Multiplayer/Pristine Shores/PLHD1
-/Textures/Multiplayer/Pristine Shores/PLHD10
-/Textures/Multiplayer/Pristine Shores/PLHD11
-/Textures/Multiplayer/Pristine Shores/PLHD12
-/Textures/Multiplayer/Pristine Shores/PLHD13
-/Textures/Multiplayer/Pristine Shores/PLHD14
-/Textures/Multiplayer/Pristine Shores/PLHD15
-/Textures/Multiplayer/Pristine Shores/PLHD16
-/Textures/Multiplayer/Pristine Shores/PLHD17
-/Textures/Multiplayer/Pristine Shores/PLHD18
-/Textures/Multiplayer/Pristine Shores/PLHD19
+/Textures/Grasslands/PLHD10	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD11	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD12	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD13	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD14	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD15	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD16	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD17	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD18	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD19	"Zibon 'PixL' Badi"
 /Textures/Multiplayer/Pristine Shores/PLHD1F
 /Textures/Multiplayer/Pristine Shores/PLHD2
-/Textures/Multiplayer/Pristine Shores/PLHD20
-/Textures/Multiplayer/Pristine Shores/PLHD21
-/Textures/Multiplayer/Pristine Shores/PLHD22
-/Textures/Multiplayer/Pristine Shores/PLHD23
-/Textures/Multiplayer/Pristine Shores/PLHD24
-/Textures/Multiplayer/Pristine Shores/PLHD25
-/Textures/Multiplayer/Pristine Shores/PLHD26
+/Textures/Grasslands/PLHD20	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD21	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD22	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD23	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD24	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD25	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD26	"Zibon 'PixL' Badi"
 /Textures/Multiplayer/Pristine Shores/PLHD27
 /Textures/Multiplayer/Pristine Shores/PLHD28
 /Textures/Multiplayer/Pristine Shores/PLHD29
 /Textures/Multiplayer/Pristine Shores/PLHD2F
 /Textures/Multiplayer/Pristine Shores/PLHD3
-/Textures/Multiplayer/Pristine Shores/PLHD30
-/Textures/Multiplayer/Pristine Shores/PLHD31
+/Textures/Grasslands/PLHD30	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD31	"Zibon 'PixL' Badi"
 /Textures/Multiplayer/Pristine Shores/PLHD32
 /Textures/Multiplayer/Pristine Shores/PLHD33
-/Textures/Multiplayer/Pristine Shores/PLHD34
-/Textures/Multiplayer/Pristine Shores/PLHD35
+/Textures/Grasslands/PLHD34	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD35	"Zibon 'PixL' Badi"
 /Textures/Multiplayer/Pristine Shores/PLHD3F
 /Textures/Multiplayer/Pristine Shores/PLHD4
 /Textures/Multiplayer/Pristine Shores/PLHD4F
 /Textures/Multiplayer/Pristine Shores/PLHD5
 /Textures/Multiplayer/Pristine Shores/PLHD5F
 /Textures/Multiplayer/Pristine Shores/PLHD6F
-/Textures/Multiplayer/Pristine Shores/PLHD7
-/Textures/Multiplayer/Pristine Shores/PLHD8
+/Textures/Grasslands/PLHD7	"Zibon 'PixL' Badi"
+/Textures/Grasslands/PLHD8	"Zibon 'PixL' Badi"
 /Textures/Multiplayer/Pristine Shores/PLHD9
 /Textures/Multiplayer/Pristine Shores/PLNTS1
 /Textures/Multiplayer/Pristine Shores/PLNTS2
