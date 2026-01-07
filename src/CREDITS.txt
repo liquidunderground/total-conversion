@@ -13522,7 +13522,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 
 ### Characters
 
-/Characters/CSPE&K
+/Characters/CSPE&K	"Zibon 'PixL' Badi"
 /SOC/SOC_PLAY
 /Characters/SPRTINFO
 
