@@ -1,4 +1,4 @@
-# SRB2 Total Conversion
+# Weissblatt - The Asura Incident
 
 A Creative Commons-licensed, non-copyright-infringing total conversion for
 Sonic Robo Blast 2 in the spirit of Freedoom and LibreQuake.
