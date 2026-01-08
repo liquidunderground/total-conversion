@@ -549,6 +549,7 @@ SSWY* graphic 86 40
 ### Gems & Spells
 Sprites/**/RING graphic 16 30
 Sprites/**/COIN graphic 16 30
+Sprites/**/CPRK graphic 34 48
 SPRK graphic 16 30
 PIKA* graphic 24 44
 PIKB* graphic 24 44
