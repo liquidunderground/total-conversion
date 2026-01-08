@@ -5,13 +5,26 @@ Sonic Robo Blast 2 in the spirit of Freedoom and LibreQuake.
 
 # BUILDING
 
+## USING PIP
+
 1. Clone the repository: `git clone https://github.com/liquidunderground/total-conversion.git`
-2. Pull in [PK3Make] `git submodule init --recursive`
+2. Set up Python3
+    1. Install Python
+    2. Set up a [virtual environment] using `python3 -m venv .venv`
+    3. Activate the virtual environment using `. .venv/bin/activate`
+    4. Install PK3Make using `pip install pk3make`
+3. Build the project using `pk3make all`
+
+## USING SUBMODULES
+
+1. Clone the repository: `git clone https://github.com/liquidunderground/total-conversion.git`
+2. Pull in [PK3Make] `git submodule update --init --recursive`
 3. Set up Python3
-    a. Install Python
-    b. Install PK3Make's dependencies using `pip install -r requirements.txt`
-    c. Set up a [virtual environment]
-4. Build the project using `python3 pk3make/pk3make.py all`
+    1. Install Python
+    2. Set up a [virtual environment] using `python3 -m venv .venv`
+    3. Activate the virtual environment using `. .venv/bin/activate`
+    4. Install PK3Make using `pip install -e pk3make`
+4. Build the project using `pk3make all`
 
 [PK3Make]: https://github.com/liquidunderground/pk3make
 [virtual environment]: https://docs.python.org/3/library/venv.html
