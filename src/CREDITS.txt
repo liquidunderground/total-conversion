@@ -7856,26 +7856,19 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/MKB/BFLMA0
 /Sprites/MKB/BFLMB0
 /Sprites/MKB/BFLMC0
-/Sprites/MKB/COINA0
-/Sprites/MKB/COINB0
-/Sprites/MKB/COINC0
+/Sprites/Coins/COINA0	"Zibon 'PixL' Badi"
+/Sprites/Coins/COINB0P0	"Zibon 'PixL' Badi"
+/Sprites/Coins/COINC0O0	"Zibon 'PixL' Badi"
+/Sprites/Coins/COIND0N0	"Zibon 'PixL' Badi"
+/Sprites/Coins/COINE0M0	"Zibon 'PixL' Badi"
+/Sprites/Coins/COINF0L0	"Zibon 'PixL' Badi"
+/Sprites/Coins/COING0K0	"Zibon 'PixL' Badi"
+/Sprites/Coins/COINH0J0	"Zibon 'PixL' Badi"
+/Sprites/Coins/COINI0	"Zibon 'PixL' Badi"
 /Sprites/MKB/CPRKA0
 /Sprites/MKB/CPRKB0
 /Sprites/MKB/CPRKC0
 /Sprites/MKB/CPRKD0
-/Sprites/MKB/Coins/COIND0
-/Sprites/MKB/Coins/COINE0
-/Sprites/MKB/Coins/COINF0
-/Sprites/MKB/Coins/COING0
-/Sprites/MKB/Coins/COINH0
-/Sprites/MKB/Coins/COINI0
-/Sprites/MKB/Coins/COINJ0
-/Sprites/MKB/Coins/COINK0
-/Sprites/MKB/Coins/COINL0
-/Sprites/MKB/Coins/COINM0
-/Sprites/MKB/Coins/COINN0
-/Sprites/MKB/Coins/COINO0
-/Sprites/MKB/Coins/COINP0
 /Sprites/MKB/Coins/CPRKE0
 /Sprites/MKB/Coins/CPRKF0
 /Sprites/MKB/Coins/CPRKG0
