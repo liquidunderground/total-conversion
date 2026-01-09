@@ -1,0 +1,269 @@
+Freeslot
+S_COIN4
+S_COIN5
+S_COIN6
+S_COIN7
+S_COIN8
+S_COIN9
+S_COIN10
+S_COIN11
+S_COIN12
+S_COIN13
+S_COIN14
+S_COIN15
+S_COIN16
+S_COINSPARKLE4
+S_COINSPARKLE5
+S_COINSPARKLE6
+S_COINSPARKLE7
+S_COINSPARKLE8
+S_COINSPARKLE9
+S_COINSPARKLE10
+S_COINSPARKLE11
+S_COINSPARKLE12
+S_COINSPARKLE13
+S_COINSPARKLE14
+
+# Coin Animation - Frames 9 - 16 are mirrored
+
+State S_COIN1
+SpriteName = COIN
+SpriteFrame = A
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN2
+
+State S_COIN16
+SpriteName = COIN
+SpriteFrame = P
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN1
+
+State S_COIN15
+SpriteName = COIN
+SpriteFrame = O
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN16
+
+State S_COIN14
+SpriteName = COIN
+SpriteFrame = N
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN15
+
+State S_COIN13
+SpriteName = COIN
+SpriteFrame = M
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN14
+
+State S_COIN12
+SpriteName = COIN
+SpriteFrame = L
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN13
+
+State S_COIN11
+SpriteName = COIN
+SpriteFrame = K
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN12
+
+State S_COIN10
+SpriteName = COIN
+SpriteFrame = J
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN11
+
+State S_COIN9
+SpriteName = COIN
+SpriteFrame = I
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN10
+
+State S_COIN8
+SpriteName = COIN
+SpriteFrame = H
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN9
+
+State S_COIN7
+SpriteName = COIN
+SpriteFrame = F
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN8
+
+State S_COIN6
+SpriteName = COIN
+SpriteFrame = G
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN7
+
+State S_COIN5
+SpriteName = COIN
+SpriteFrame = E
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN6
+
+State S_COIN4
+SpriteName = COIN
+SpriteFrame = D
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN5
+
+State S_COIN3
+SpriteName = COIN
+SpriteFrame = C
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN4
+
+State S_COIN2
+SpriteName = COIN
+SpriteFrame = B
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COIN3
+
+# Pickup VFX
+
+State S_COINSPARKLE1
+SpriteName = CPRK
+SpriteFrame = A
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE2
+
+State S_COINSPARKLE14
+SpriteName = CPRK
+SpriteFrame = M
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_NULL
+
+State S_COINSPARKLE13
+SpriteName = CPRK
+SpriteFrame = L
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE14
+
+State S_COINSPARKLE12
+SpriteName = CPRK
+SpriteFrame = K
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE13
+
+State S_COINSPARKLE11
+SpriteName = CPRK
+SpriteFrame = J
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE12
+
+State S_COINSPARKLE10
+SpriteName = CPRK
+SpriteFrame = I
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE11
+
+State S_COINSPARKLE9
+SpriteName = CPRK
+SpriteFrame = H
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE10
+
+State S_COINSPARKLE8
+SpriteName = CPRK
+SpriteFrame = H
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE9
+
+State S_COINSPARKLE7
+SpriteName = CPRK
+SpriteFrame = G
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE8
+
+State S_COINSPARKLE6
+SpriteName = CPRK
+SpriteFrame = F
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE7
+
+State S_COINSPARKLE5
+SpriteName = CPRK
+SpriteFrame = E
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE6
+
+State S_COINSPARKLE4
+SpriteName = CPRK
+SpriteFrame = D
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE5
+
+State S_COINSPARKLE3
+SpriteName = CPRK
+SpriteFrame = C
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE4
+
+State S_COINSPARKLE2
+SpriteName = CPRK
+SpriteFrame = B
+Duration = 2
+Var1 = 0
+Var2 = 0
+Next = S_COINSPARKLE3
