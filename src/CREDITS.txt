@@ -990,11 +990,11 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/DIRT3F
 /Flats/DIRT4F
 /Flats/DIRT5F
-/Flats/DISCO1	"Zibon 'PixL' Badi"
-/Flats/DISCO2	"Zibon 'PixL' Badi"
-/Flats/DISCO3	"Zibon 'PixL' Badi"
-/Flats/DISCO4	"Zibon 'PixL' Badi"
-/Flats/DISCOF1
+/Flats/Disco/DISCO1	"Zibon 'PixL' Badi"
+/Flats/Disco/DISCO2	"Zibon 'PixL' Badi"
+/Flats/Disco/DISCO3	"Zibon 'PixL' Badi"
+/Flats/Disco/DISCO4	"Zibon 'PixL' Badi"
+/Flats/Disco/DISCOF1
 /Flats/DKLEAFLR
 /Flats/DMAPIPE
 /Flats/DMAPIPE2
