@@ -1969,7 +1969,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZFLR05
 /Flats/Techno Hill/THZFLR06
 /Flats/Techno Hill/THZFLR07
-/Flats/Techno Hill/THZFLR08
+/Flats/Industrial/THZFLR08	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZFLR09
 /Flats/Techno Hill/THZFLR10
 /Flats/Techno Hill/THZFLR11
