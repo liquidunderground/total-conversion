@@ -1983,8 +1983,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZFLR19
 /Flats/Techno Hill/THZFLR20
 /Flats/Techno Hill/THZFLR21
-/Flats/Techno Hill/THZFLR22
-/Flats/Techno Hill/THZFLR23
+/Flats/Industrial/THZFLR22	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZFLR23	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZFLR24
 /Flats/Techno Hill/THZFLR25
 /Flats/Techno Hill/THZFLR26
@@ -2001,13 +2001,13 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZFLR37
 /Flats/Techno Hill/THZGRS1
 /Flats/Techno Hill/THZGRS2
-/Flats/Techno Hill/THZGRYP1
-/Flats/Techno Hill/THZGRYP2
+/Flats/Industrial/THZGRYP1	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZGRYP2	"Zibon 'PixL' Badi"
 /Flats/Techno Hill/THZLIG1
 /Flats/Techno Hill/THZLIG2
 /Flats/Techno Hill/THZLITS
-/Flats/Techno Hill/THZREDP1
-/Flats/Techno Hill/THZREDP2
+/Flats/Industrial/THZREDP1	"Zibon 'PixL' Badi"
+/Flats/Industrial/THZREDP2	"Zibon 'PixL' Badi"
 /Flats/Toy/THZELA1	"Zibon 'PixL' Badi"
 /Flats/Toy/THZELA2	"Zibon 'PixL' Badi"
 /Flats/Toy/THZELB1	"Zibon 'PixL' Badi"
