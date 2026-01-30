@@ -3213,7 +3213,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Tutorial/Unused/SPN5CUS
 /Graphics/Tutorial/Unused/SSNTAILS
 /Graphics/Tutorial/Unused/STJRBABY
-/Music/D__CHSEL.mid	"Zibon 'PixL' Badi"
+/Music/D__CHSEL.mid	"Zibon 'PixL' Badi","astral"
 /Music/D_ACZ1.mid	"Zibon 'PixL' Badi"
 /Music/D_ACZ2.mid	"Zibon 'PixL' Badi"
 /Music/D_BCZ1.mid	"Zibon 'PixL' Badi"
@@ -3301,7 +3301,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/O_VSFANG.ogg	"Zibon 'PixL' Badi"
 /Music/O_VSMETL.ogg	"Zibon 'PixL' Badi"
 /Music/O__1UP.ogg	"Zibon 'PixL' Badi"
-/Music/O__CHSEL.ogg	astral
+/Music/O__CHSEL.ogg	"astral"
 /Music/O__CLEAR.ogg	"Zibon 'PixL' Badi"
 /Music/O__CONTI.ogg	"Zibon 'PixL' Badi"
 /Music/O__CREDS.ogg
