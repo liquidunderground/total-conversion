@@ -560,7 +560,7 @@ PIKR* graphic 24 44
 PIKS* graphic 24 44
 TAUT* graphic 16 28
 TBNC* graphic 16 28
-TGRE* graphic 16 28
+TGRE* graphic 12 22 # Grenade Plants
 TINF* graphic 16 28
 TSCR* graphic 16 28
 TXPL* graphic 16 28
