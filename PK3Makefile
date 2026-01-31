@@ -511,6 +511,7 @@ Patches/**/*.png graphic 0 0
 # --- Sprites ---
 Sprites/**/DSHADOW graphic 0 0
 Sprites/**/THOK* graphic 23 43
+Sprites/FNSFA0 graphic 12 12 # Multiplayer check mark
 ### KOTU targetting
 TARG* graphic 32 64
 ### Checkpoints

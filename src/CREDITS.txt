@@ -7110,7 +7110,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Explosions/BOM4D0
 /Sprites/Explosions/BOM4E0
 /Sprites/Explosions/BOM4F0
-/Sprites/FNSFA0
+/Sprites/FNSFA0	"Zibon 'PixL' Badi"
 /Sprites/Flickies/Bear/FL13A1
 /Sprites/Flickies/Bear/FL13A2A8
 /Sprites/Flickies/Bear/FL13A3A7
