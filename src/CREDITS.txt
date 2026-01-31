@@ -8826,24 +8826,24 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Rings/Grenade/RNGGX0
 /Sprites/Rings/Grenade/RNGGY0
 /Sprites/Rings/Grenade/RNGGZ0
-/Sprites/Rings/Grenade/TGREA0
-/Sprites/Rings/Grenade/TGREB0
-/Sprites/Rings/Grenade/TGREC0
-/Sprites/Rings/Grenade/TGRED0
-/Sprites/Rings/Grenade/TGREE0
-/Sprites/Rings/Grenade/TGREF0
-/Sprites/Rings/Grenade/TGREG0
-/Sprites/Rings/Grenade/TGREH0
-/Sprites/Rings/Grenade/TGREI0
-/Sprites/Rings/Grenade/TGREJ0
-/Sprites/Rings/Grenade/TGREK0
-/Sprites/Rings/Grenade/TGREL0
-/Sprites/Rings/Grenade/TGREM0
-/Sprites/Rings/Grenade/TGREN0
-/Sprites/Rings/Grenade/TGREO0
-/Sprites/Rings/Grenade/TGREP0
-/Sprites/Rings/Grenade/TGREQ0
-/Sprites/Rings/Grenade/TGRER0
+/Sprites/Gems/Spells/Grenade/TGREA0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREB0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREC0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGRED0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREE0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREF0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREG0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREH0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREI0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREJ0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREK0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREL0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREM0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREN0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREO0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREP0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGREQ0	"Zibon 'PixL' Badi"
+/Sprites/Gems/Spells/Grenade/TGRER0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Infinity/RNGI00
 /Sprites/Rings/Infinity/RNGI10
 /Sprites/Rings/Infinity/RNGI20
