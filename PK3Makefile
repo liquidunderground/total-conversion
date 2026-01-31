@@ -554,15 +554,15 @@ SPRK graphic 16 30
 PIKA* graphic 24 44
 PIKB* graphic 24 44
 PIKE* graphic 24 44
-PIKG* graphic 24 44
+PIKG* graphic 24 44 # Grenade Plants
 PIKI* graphic 24 44
 PIKR* graphic 24 44
-PIKS* graphic 24 44
+PIKS* graphic 24 44 # Scatter Coins
 TAUT* graphic 16 28
 TBNC* graphic 16 28
 TGRE* graphic 12 22 # Grenade Plants
 TINF* graphic 16 28
-TSCR* graphic 16 28
+TSCR* graphic 16 28 # Scatter Coins
 TXPL* graphic 16 28
 ### Level end portal
 Sprites/**/SIGNA0 graphic 20 48
