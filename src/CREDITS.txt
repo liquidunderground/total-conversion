@@ -8631,8 +8631,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Particles/WZAPB0
 /Sprites/Particles/WZAPC0
 /Sprites/Particles/WZAPD0
-/Sprites/RCRYA0
-/Sprites/RCRYB0
+/Sprites/Targets/RCRYA0	"Zibon 'PixL' Badi"
+/Sprites/Targets/RCRYB0	"Zibon 'PixL' Badi"
 /Sprites/RFLGA0
 /Sprites/RFLGA0	"Zibon 'PixL' Badi"
 /Sprites/Rings/Automatic/PIKAA0
