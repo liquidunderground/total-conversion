@@ -7852,8 +7852,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Itemboxes/Tutorial/TVTUB0	"Zibon 'PixL' Badi"
 /Sprites/Itemboxes/XLTVA0	"Zibon 'PixL' Badi"
 /Sprites/Itemboxes/XLTVB0	"Zibon 'PixL' Badi"
-/Sprites/LETRAL
-/Sprites/LETRAR
+/Sprites/LETRA0	"Zibon 'PixL' Badi"
 /Sprites/MKB/BFLMA0
 /Sprites/MKB/BFLMB0
 /Sprites/MKB/BFLMC0

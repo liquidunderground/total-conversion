@@ -513,6 +513,7 @@ Sprites/**/DSHADOW graphic 0 0
 Sprites/**/THOK* graphic 23 43
 Sprites/FNSFA0 graphic 12 12 # Multiplayer check mark
 Targets/RCRY* graphic 24 60 # Timed Target
+Targets/LETR* graphic 8 12
 ### KOTU targetting
 TARG* graphic 32 64
 ### Checkpoints
