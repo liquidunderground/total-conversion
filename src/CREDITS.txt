@@ -3224,6 +3224,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/D_MARIO1.mid	"Zibon 'PixL' Badi"
 /Music/D_RVZ1.mid	"Zibon 'PixL' Badi"
 /Music/D_RVZ2.mid	"Zibon 'PixL' Badi"
+/Music/D_VSBRAK.mid	"Zibon 'PixL' Badi"
 /Music/D_THZ2.ogg	"Zibon 'PixL' Badi"
 /Music/MUSICDEF.dat	Everyone	(partial)
 /Music/O_ACZ1.ogg	"Zibon 'PixL' Badi"
