@@ -3229,7 +3229,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/MUSICDEF.dat	Everyone	(partial)
 /Music/O_ACZ1.ogg	"Zibon 'PixL' Badi"
 /Music/O_ACZ2.ogg	"Zibon 'PixL' Badi"
-/Music/O_AGZ.ogg
+/Music/O_AGZ.ogg	"Zibon 'PixL' Badi"
 /Music/O_AGZALT.ogg
 /Music/O_APZ1.ogg
 /Music/O_APZ2.ogg
