@@ -636,6 +636,9 @@ MINEA0 graphic 10 21 # Dropped bomb
 ### Misc.: Missing sprite/etc.
 Sprites/**/PUMI* graphic 40 72 # 8-Ball
 UNKN* graphic 16 36
+## -- Spirits --
+### Pigeon
+Sprites/Spirits/FL14* graphic 12 24 
 
 # --- Characters ---
 # General

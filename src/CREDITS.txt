@@ -7257,26 +7257,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Flickies/Cow/FL11D3D7
 /Sprites/Flickies/Cow/FL11D4D6
 /Sprites/Flickies/Cow/FL11D5
-/Sprites/Flickies/Dove/FL14A1
-/Sprites/Flickies/Dove/FL14A2A8
-/Sprites/Flickies/Dove/FL14A3A7
-/Sprites/Flickies/Dove/FL14A4A6
-/Sprites/Flickies/Dove/FL14A5
-/Sprites/Flickies/Dove/FL14B1
-/Sprites/Flickies/Dove/FL14B2B8
-/Sprites/Flickies/Dove/FL14B3B7
-/Sprites/Flickies/Dove/FL14B4B6
-/Sprites/Flickies/Dove/FL14B5
-/Sprites/Flickies/Dove/FL14C1
-/Sprites/Flickies/Dove/FL14C2C8
-/Sprites/Flickies/Dove/FL14C3C7
-/Sprites/Flickies/Dove/FL14C4C6
-/Sprites/Flickies/Dove/FL14C5
-/Sprites/Flickies/Dove/FL14D1
-/Sprites/Flickies/Dove/FL14D2D8
-/Sprites/Flickies/Dove/FL14D3D7
-/Sprites/Flickies/Dove/FL14D4D6
-/Sprites/Flickies/Dove/FL14D5
+/Sprites/Spirits/FL14A0	"Zibon 'PixL' Badi"
+/Sprites/Spirits/FL14BLBR	"Zibon 'PixL' Badi"
+/Sprites/Spirits/FL14CLCR	"Zibon 'PixL' Badi"
+/Sprites/Spirits/FL14DLDR	"Zibon 'PixL' Badi"
 /Sprites/Flickies/FBUBA0
 /Sprites/Flickies/Fish/FL08A1
 /Sprites/Flickies/Fish/FL08A2A8
