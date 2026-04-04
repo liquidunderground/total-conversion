@@ -7262,19 +7262,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Spirits/FL14CLCR	"Zibon 'PixL' Badi"
 /Sprites/Spirits/FL14DLDR	"Zibon 'PixL' Badi"
 /Sprites/Flickies/FBUBA0
-/Sprites/Flickies/Fish/FL08A1
-/Sprites/Flickies/Fish/FL08A2A8
-/Sprites/Flickies/Fish/FL08A3A7
-/Sprites/Flickies/Fish/FL08A4A6
-/Sprites/Flickies/Fish/FL08A5
-/Sprites/Flickies/Fish/FL08B1C1
-/Sprites/Flickies/Fish/FL08B2B8
-/Sprites/Flickies/Fish/FL08B3B7
-/Sprites/Flickies/Fish/FL08B4B6
-/Sprites/Flickies/Fish/FL08B5C5
-/Sprites/Flickies/Fish/FL08C2C8
-/Sprites/Flickies/Fish/FL08C3C7
-/Sprites/Flickies/Fish/FL08C4C6
+/Sprites/Spirits/FL08A0	"Zibon 'PixL' Badi"
+/Sprites/Spirits/FL08B0	"Zibon 'PixL' Badi"
+/Sprites/Spirits/FL08C0	"Zibon 'PixL' Badi"
 /Sprites/Flickies/Flicker/FLKRA0
 /Sprites/Flickies/Flicker/FLKRB0
 /Sprites/Flickies/Flicker/FLKRC0

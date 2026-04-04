@@ -639,6 +639,8 @@ UNKN* graphic 16 36
 ## -- Spirits --
 ### Pigeon
 Sprites/Spirits/FL14* graphic 12 24 
+### Jellyfish
+Sprites/Spirits/FL08* graphic 12 24 
 
 # --- Characters ---
 # General
