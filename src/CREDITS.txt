@@ -3289,7 +3289,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/O_SPEC3.ogg
 /Music/O_SPEC4.ogg
 /Music/O_SPEC5.ogg
-/Music/O_SPEC6.ogg
+/Music/O_SPEC6.ogg	"Zibon 'PixL' Badi"
 /Music/O_SPEC7.ogg
 /Music/O_SPEC8.ogg
 /Music/O_THZ1.ogg	"Zibon 'PixL' Badi"
