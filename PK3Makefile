@@ -526,6 +526,14 @@ SHRD graphic 8 38
 ### Flames
 CFLM* graphic 12 54
 CTRC* graphic 12 70
+DFLMA graphic 32 52
+DFLMB graphic 32 52
+DFLMC graphic 32 52
+DFLMD graphic 32 52
+DFLME graphic 32 66
+DFLMF graphic 32 66
+DFLMG graphic 32 66
+DFLMH graphic 32 66
 FLAMI graphic 16 46
 FLAMJ graphic 6 8
 FLAMK graphic 6 8

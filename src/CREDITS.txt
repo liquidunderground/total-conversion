@@ -7619,14 +7619,14 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sprites/Flames/CFLMF0	"Zibon 'PixL' Badi"
 /Sprites/Flames/CFLMG0	"Zibon 'PixL' Badi"
 /Sprites/Flames/CFLMH0	"Zibon 'PixL' Badi"
-/Sprites/Hazards/Fire/DFLMA0
-/Sprites/Hazards/Fire/DFLMB0
-/Sprites/Hazards/Fire/DFLMC0
-/Sprites/Hazards/Fire/DFLMD0
-/Sprites/Hazards/Fire/DFLME0
-/Sprites/Hazards/Fire/DFLMF0
-/Sprites/Hazards/Fire/DFLMG0
-/Sprites/Hazards/Fire/DFLMH0
+/Sprites/Flames/DFLMA0	"Zibon 'PixL' Badi"
+/Sprites/Flames/DFLMB0	"Zibon 'PixL' Badi"
+/Sprites/Flames/DFLMC0	"Zibon 'PixL' Badi"
+/Sprites/Flames/DFLMD0	"Zibon 'PixL' Badi"
+/Sprites/Flames/DFLME0	"Zibon 'PixL' Badi"
+/Sprites/Flames/DFLMF0	"Zibon 'PixL' Badi"
+/Sprites/Flames/DFLMG0	"Zibon 'PixL' Badi"
+/Sprites/Flames/DFLMH0	"Zibon 'PixL' Badi"
 /Sprites/Flames/FLAMA0	"Zibon 'PixL' Badi"
 /Sprites/Flames/FLAMB0	"Zibon 'PixL' Badi"
 /Sprites/Flames/FLAMC0	"Zibon 'PixL' Badi"
