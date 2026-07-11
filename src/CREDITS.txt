@@ -13761,26 +13761,26 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL3A3A7	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL3A4A6	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL3A5	"Zibon 'PixL' Badi"
-/Characters/Alex/TAL6A1
+/Characters/Alex/TAL6A1	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6A2A8	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6A3A7	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6A4A6	"Zibon 'PixL' Badi"
-/Characters/Alex/TAL6A5
-/Characters/Alex/TAL6B1
+/Characters/Alex/TAL6A5	"Zibon 'PixL' Badi"
+/Characters/Alex/TAL6B1	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6B2A8	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6B3A7	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6B4A6	"Zibon 'PixL' Badi"
-/Characters/Alex/TAL6B5
-/Characters/Alex/TAL6C1
+/Characters/Alex/TAL6B5	"Zibon 'PixL' Badi"
+/Characters/Alex/TAL6C1	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6C2A8	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6C3A7	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6C4A6	"Zibon 'PixL' Badi"
-/Characters/Alex/TAL6C5
-/Characters/Alex/TAL6D1
+/Characters/Alex/TAL6C5	"Zibon 'PixL' Badi"
+/Characters/Alex/TAL6D1	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6D2A8	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6D3A7	"Zibon 'PixL' Badi"
 /Characters/Alex/TAL6D4A6	"Zibon 'PixL' Badi"
-/Characters/Alex/TAL6D5
+/Characters/Alex/TAL6D5	"Zibon 'PixL' Badi"
 /Characters/Patsy/BNCEA1
 /Characters/Patsy/BNCEA2
 /Characters/Patsy/BNCEA3
