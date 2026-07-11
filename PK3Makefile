@@ -115,6 +115,8 @@ SLIDOVER graphic 100 15
 SLIDTIME graphic 85 15
 # Moon altars (Token slots)
 EMBOX graphic 16 20
+# CRFNT (Credits font)
+CRFNT* graphic
 # STCFN (Standard font)
 STCFN* graphic
 # TNYFN (Tiny font)
