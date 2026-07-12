@@ -14415,12 +14415,14 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/MARA/TAL0F3F7	"Zibon 'PixL' Badi"
 /Characters/MARA/TAL0F4F6	"Zibon 'PixL' Badi"
 /Characters/MARA/TAL0F8B2	"Zibon 'PixL' Badi"
-/Characters/MARA/CNT1A0
-/Characters/MARA/CNT1B0
-/Characters/MARA/CNT1C0
-/Characters/MARA/CNT1D0
-/Characters/MARA/CNT1E0
-/Characters/MARA/CNT1F0
+/Characters/MARA/CNT1A0	"Zibon 'PixL' Badi"
+/Characters/MARA/CNT1B0	"Zibon 'PixL' Badi"
+/Characters/MARA/CNT1C0	"Zibon 'PixL' Badi"
+/Characters/MARA/CNT1D0	"Zibon 'PixL' Badi"
+/Characters/MARA/CNT1E0	"Zibon 'PixL' Badi"
+/Characters/MARA/CNT1F0	"Zibon 'PixL' Badi"
+/Characters/MARA/CNT1G0	"Zibon 'PixL' Badi"
+/Characters/MARA/CNT1H0	"Zibon 'PixL' Badi"
 /Characters/MARA/DASHA1
 /Characters/MARA/DASHA2A8
 /Characters/MARA/DASHA3A7
