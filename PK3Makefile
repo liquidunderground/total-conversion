@@ -670,20 +670,16 @@ Characters/Alex/ROLL*2*8 graphic 41 52
 Characters/Alex/ROLL*3*7 graphic 45 52
 Characters/Alex/ROLL*4*6 graphic 41 52
 # TODO: Change to *5 and add angles 1-4
-Characters/Alex/JUMP*0 graphic 32 66 ## Placeholder
-Characters/Alex/SPNG*0 graphic 32 66 ## Placeholder
-#Characters/Alex/JUMP*1 graphic x y ## TODO
-#Characters/Alex/JUMP*2*8 graphic x y ## TODO
-#Characters/Alex/JUMP*3*7 graphic x y ## TODO
-#Characters/Alex/JUMP*4*6 graphic x y ## TODO
-#Characters/Alex/JUMP*5 graphic 32 y ## TODO
-#Characters/Alex/JUMP*1 graphic x y ## TODO
-#Characters/Alex/JUMP*2*8 graphic x y ## TODO
-#Characters/Alex/JUMP*3*7 graphic x y ## TODO
-#Characters/Alex/JUMP*4*6 graphic x y ## TODO
-#Characters/Alex/JUMP*5 graphic 32 66 ## TODO
-Characters/Alex/JUMPALAR graphic 35 66
-Characters/Alex/SPNGALAR graphic 35 66
+Characters/Alex/JUMP*1 graphic 32 66
+Characters/Alex/JUMP*2*8 graphic 35 66
+Characters/Alex/JUMP*3*7 graphic 35 66
+Characters/Alex/JUMP*4*6 graphic 35 66
+Characters/Alex/JUMP*5 graphic 32 66
+Characters/Alex/JUMP*1 graphic 32 66
+Characters/Alex/JUMP*2*8 graphic 35 66
+Characters/Alex/JUMP*3*7 graphic 35 66
+Characters/Alex/JUMP*4*6 graphic 35 66
+Characters/Alex/JUMP*5 graphic 32 66
 Characters/Alex/XTRAC0 graphic 10 24
 Characters/Alex/XTRA* graphic 0 0
 Characters/Alex/LIFEA0 graphic sprite
