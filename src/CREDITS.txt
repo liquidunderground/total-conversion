@@ -14733,8 +14733,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Elise/RUN_A1
 /Characters/Elise/RUN_A2A8
 /Characters/Elise/RUN_A2C8
-/Characters/Elise/RUN_A3A7
-/Characters/Elise/RUN_A3C7
+/Characters/Elise/RUN_A3E7	"Zibon 'PixL' Badi"
 /Characters/Elise/RUN_A4A6
 /Characters/Elise/RUN_A4C6
 /Characters/Elise/RUN_A5
@@ -14743,20 +14742,23 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Characters/Elise/RUN_B1
 /Characters/Elise/RUN_B2B8
 /Characters/Elise/RUN_B2D8
-/Characters/Elise/RUN_B3B7
-/Characters/Elise/RUN_B3D7
+/Characters/Elise/RUN_B3F7	"Zibon 'PixL' Badi"
 /Characters/Elise/RUN_B4B6
 /Characters/Elise/RUN_B4D6
 /Characters/Elise/RUN_B5
 /Characters/Elise/RUN_B5D5
 /Characters/Elise/RUN_C1
 /Characters/Elise/RUN_C2A8
-/Characters/Elise/RUN_C3A7
+/Characters/Elise/RUN_C3G7	"Zibon 'PixL' Badi"
 /Characters/Elise/RUN_C4A6
 /Characters/Elise/RUN_D1
 /Characters/Elise/RUN_D2B8
-/Characters/Elise/RUN_D3B7
+/Characters/Elise/RUN_D3H7	"Zibon 'PixL' Badi"
 /Characters/Elise/RUN_D4B6
+/Characters/Elise/RUN_E3A7	"Zibon 'PixL' Badi"
+/Characters/Elise/RUN_F3B7	"Zibon 'PixL' Badi"
+/Characters/Elise/RUN_G3C7	"Zibon 'PixL' Badi"
+/Characters/Elise/RUN_H3D7	"Zibon 'PixL' Badi"
 /Characters/Elise/SIGNA0	"Zibon 'PixL' Badi"
 /Characters/Elise/SIGNB0	"Zibon 'PixL' Badi"
 /Characters/Elise/SIGNB0	"Zibon 'PixL' Badi"
