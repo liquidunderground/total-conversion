@@ -725,7 +725,7 @@ Characters/MARA/CNT* graphic 35 60
 Characters/MARA/LIFEA0 graphic sprite
 Characters/MARA/XTRA* graphic 0 0
 # - Elise -
-Characters/Alex/S_SKIN raw
+Characters/Elise/S_SKIN raw
 Characters/Elise/CNT1* graphic 24 42
 Characters/Elise/DEAD* graphic 24 62
 Characters/Elise/SIGN* graphic 30 49
