@@ -3214,6 +3214,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Graphics/Tutorial/Unused/SSNTAILS
 /Graphics/Tutorial/Unused/STJRBABY
 /Music/D__CHSEL.mid	"Zibon 'PixL' Badi","astral"
+/Music/D__GOVER.mid	"Zibon 'PixL' Badi"
 /Music/D_ACZ1.mid	"Zibon 'PixL' Badi"
 /Music/D_ACZ2.mid	"Zibon 'PixL' Badi"
 /Music/D_AGZ.ogg	"Zibon 'PixL' Badi"
