@@ -4001,7 +4001,6 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSITEMUP	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSJET
 /Sounds/SRB2/DSJSHARD
-/Sounds/SRB2/DSJUMP NepDisk
 /Sounds/SRB2/DSKOOPFR
 /Sounds/SRB2/DSLASER	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSLAVBUB
