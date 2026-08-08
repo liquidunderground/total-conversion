@@ -3890,8 +3890,8 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/DSSKID	"Zibon 'PixL' Badi"
 /Sounds/DSSPLISH	"Zibon 'PixL' Badi"
 /Sounds/DSSPRING2	"Zibon 'PixL' Badi"	(nonstandard)
-/Sounds/SRB2/DSADDERR
-/Sounds/SRB2/DSADDFIL
+/Sounds/DSADDERR	"Zibon 'PixL' Badi"
+/Sounds/DSADDFIL	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSALART
 /Sounds/SRB2/DSAMBIN2
 /Sounds/SRB2/DSAMBINT
@@ -4038,7 +4038,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSNGHURT
 /Sounds/SRB2/DSNGJUMP
 /Sounds/SRB2/DSNGSKID
-/Sounds/SRB2/DSNOTADD
+/Sounds/DSNOTADD	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSNXBUMP
 /Sounds/SRB2/DSNXDONE
 /Sounds/SRB2/DSNXITEM
