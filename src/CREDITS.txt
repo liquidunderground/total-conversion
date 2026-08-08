@@ -4004,10 +4004,10 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSKOOPFR
 /Sounds/SRB2/DSLASER	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSLAVBUB
-/Sounds/SRB2/DSLITNG1
-/Sounds/SRB2/DSLITNG2
-/Sounds/SRB2/DSLITNG3
-/Sounds/SRB2/DSLITNG4
+/Sounds/DSLITNG1	"Zibon 'PixL' Badi"
+/Sounds/DSLITNG2	"Zibon 'PixL' Badi"
+/Sounds/DSLITNG3	"Zibon 'PixL' Badi"
+/Sounds/DSLITNG4	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSLNTDIE
 /Sounds/SRB2/DSLNTSIT
 /Sounds/SRB2/DSLOSE
