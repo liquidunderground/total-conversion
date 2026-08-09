@@ -4048,9 +4048,9 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSPSTART
 /Sounds/SRB2/DSPSTOP
 /Sounds/SRB2/DSPTALLY
-/Sounds/SRB2/DSPUDPUD
+/Sounds/DSPUDPUD	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSPUMPKN
-/Sounds/SRB2/DSPUTPUT
+/Sounds/DSPUTPUT	"Zibon 'PixL' Badi"
 /Sounds/DSRADIO	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSRAIL2
 /Sounds/DSRAININ	"Zibon 'PixL' Badi"
