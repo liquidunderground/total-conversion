@@ -3939,7 +3939,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSBKPOOF
 /Sounds/SRB2/DSBNCE1
 /Sounds/SRB2/DSBNCE2
-/Sounds/SRB2/DSBOWL
+/Sounds/DSBOWL	"Zibon 'PixL' Badi"
 /Sounds/SRB2/DSBRAKRL
 /Sounds/SRB2/DSBRAKRX
 /Sounds/SRB2/DSBSNIPE
