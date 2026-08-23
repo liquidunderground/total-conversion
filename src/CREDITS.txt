@@ -3299,7 +3299,7 @@ Models/OBJE/RING.png	"Zibon 'PixL' Badi"
 /Music/O_THZ1.ogg	"Zibon 'PixL' Badi"
 /Music/O_THZ2.ogg	"Zibon 'PixL' Badi"
 /Music/O_THZALT.ogg
-/Music/O_TUTORL.ogg
+/Music/O_TUTORL.ogg	"Zibon 'PixL' Badi"
 /Music/O_VSAGZ.ogg
 /Music/O_VSALT.ogg	"Zibon 'PixL' Badi"
 /Music/O_VSBOSS.ogg	"Zibon 'PixL' Badi"
